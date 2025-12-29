@@ -16,7 +16,7 @@ from icalendar import Event
 src_path = Path(__file__).parent.parent / "src"
 sys.path.insert(0, str(src_path))
 
-from shellaquiles.ics_aggregator import EventNormalized, ICSAggregator
+from cronquiles.ics_aggregator import EventNormalized, ICSAggregator
 
 
 class TestEventNormalized(unittest.TestCase):
