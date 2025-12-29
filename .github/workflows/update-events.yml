@@ -20,6 +20,7 @@ on:
       - 'src/cronquiles/ics_aggregator.py'
       - 'src/cronquiles/main.py'
       - 'main.py'
+      - 'gh-pages/index.html'
 
 jobs:
   update:
@@ -42,40 +43,44 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Prepare gh-pages directory
+        run: |
+          mkdir -p gh-pages
+
       - name: Generate calendar
         run: |
-          python main.py --json
+          python main.py --json --output gh-pages/cronquiles.ics --json-output gh-pages/cronquiles.json
         working-directory: ${{ github.workspace }}
 
-      - name: Check for changes
-        id: verify-changed-files
+      - name: Check if deployment needed
+        id: check-deploy
         run: |
-          if [ -n "$(git status --porcelain *.ics *.json 2>/dev/null)" ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
+          if [ -n "$(git status --porcelain gh-pages/ 2>/dev/null)" ]; then
+            echo "deploy=true" >> $GITHUB_OUTPUT
           else
-            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "deploy=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and push changes
-        if: steps.verify-changed-files.outputs.changed == 'true'
+        if: steps.check-deploy.outputs.deploy == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add *.ics *.json index.html
-          git commit -m "🤖 Auto-update: Refresh events calendar [skip ci]"
-          git push
+          git add gh-pages/
+          git commit -m "🤖 Auto-update: Refresh events calendar [skip ci]" || exit 0
+          git push || exit 0
 
       - name: Setup Pages
-        if: steps.verify-changed-files.outputs.changed == 'true'
+        if: steps.check-deploy.outputs.deploy == 'true'
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        if: steps.verify-changed-files.outputs.changed == 'true'
+        if: steps.check-deploy.outputs.deploy == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: 'gh-pages'
 
       - name: Deploy to GitHub Pages
-        if: steps.verify-changed-files.outputs.changed == 'true'
+        if: steps.check-deploy.outputs.deploy == 'true'
         id: deployment
         uses: actions/deploy-pages@v4

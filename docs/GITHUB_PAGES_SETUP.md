@@ -55,11 +55,11 @@ Una vez configurado, tu sitio estará disponible en:
 
 ## Archivos que se Publican
 
-Los siguientes archivos se publican automáticamente en GitHub Pages:
+Los siguientes archivos se publican automáticamente en GitHub Pages desde la carpeta `gh-pages/`:
 
-- `index.html` - Página principal con instrucciones
-- `cronquiles.ics` - Calendario ICS
-- `cronquiles.json` - Datos JSON (si se genera)
+- `gh-pages/index.html` - Página principal con instrucciones
+- `gh-pages/cronquiles.ics` - Calendario ICS
+- `gh-pages/cronquiles.json` - Datos JSON (si se genera)
 
 ## Solución de Problemas
 
@@ -102,11 +102,11 @@ schedule:
 
 ### Personalizar el index.html
 
-Puedes editar `index.html` para personalizar la apariencia y contenido de la página.
+Puedes editar `gh-pages/index.html` para personalizar la apariencia y contenido de la página.
 
 ## Notas Importantes
 
 - GitHub Pages puede tardar unos minutos en publicar los cambios
 - El sitio se actualiza automáticamente cuando el workflow se ejecuta
-- Los archivos se publican desde la raíz del repositorio
-- Asegúrate de que `index.html` esté en la raíz del proyecto
+- Los archivos se publican desde la carpeta `gh-pages/` del repositorio
+- El workflow copia automáticamente los archivos generados (`cronquiles.ics` y `cronquiles.json`) a `gh-pages/` antes de publicar

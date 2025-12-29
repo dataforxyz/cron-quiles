@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🐢 Cron-Quiles - Eventos Tech México</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #8b5cf6;
+            --primary-dark: #7c3aed;
+            --secondary: #ec4899;
+            --accent: #06b6d4;
+            --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            --bg-gradient-alt: linear-gradient(135deg, #8b5cf6 0%, #ec4899 50%, #06b6d4 100%);
+            --glass: rgba(255, 255, 255, 0.25);
+            --glass-border: rgba(255, 255, 255, 0.18);
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            background: var(--bg-gradient);
+            background-size: 400% 400%;
+            animation: gradientShift 15s ease infinite;
+            min-height: 100vh;
+            padding: 20px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background:
+                radial-gradient(circle at 20% 50%, rgba(139, 92, 246, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(236, 72, 153, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 40% 20%, rgba(6, 182, 212, 0.2) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border-radius: 24px;
+            box-shadow:
+                0 20px 60px rgba(0, 0, 0, 0.3),
+                0 0 0 1px rgba(255, 255, 255, 0.5) inset;
+            padding: 50px 40px;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            background: var(--bg-gradient-alt);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 12px;
+            font-size: 3.5em;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            line-height: 1.1;
+        }
+
+        .subtitle {
+            color: #64748b;
+            margin-bottom: 0;
+            font-size: 1.25em;
+            font-weight: 500;
+        }
+
+        .description {
+            background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.1) 100%);
+            padding: 24px;
+            border-radius: 16px;
+            margin-bottom: 40px;
+            border: 1px solid rgba(139, 92, 246, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .description p {
+            color: #475569;
+            font-size: 1.05em;
+            line-height: 1.7;
+        }
+
+        .download-section {
+            margin: 40px 0;
+        }
+
+        .download-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
+            border: 2px solid rgba(139, 92, 246, 0.2);
+            border-radius: 20px;
+            padding: 28px;
+            margin-bottom: 20px;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            backdrop-filter: blur(10px);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .download-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            transition: left 0.5s;
+        }
+
+        .download-card:hover::before {
+            left: 100%;
+        }
+
+        .download-card:hover {
+            border-color: var(--primary);
+            box-shadow:
+                0 20px 40px rgba(139, 92, 246, 0.3),
+                0 0 0 4px rgba(139, 92, 246, 0.1);
+            transform: translateY(-4px) scale(1.02);
+        }
+
+        .download-card h3 {
+            background: var(--bg-gradient-alt);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 12px;
+            font-size: 1.5em;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .download-card p {
+            color: #64748b;
+            margin-bottom: 20px;
+            font-size: 1.05em;
+            line-height: 1.6;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 14px 28px;
+            background: var(--bg-gradient-alt);
+            color: white;
+            text-decoration: none;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 1em;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 14px rgba(139, 92, 246, 0.4);
+        }
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.3);
+            transform: translate(-50%, -50%);
+            transition: width 0.6s, height 0.6s;
+        }
+
+        .btn:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(139, 92, 246, 0.5);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn span {
+            position: relative;
+            z-index: 1;
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #64748b 0%, #475569 100%);
+            box-shadow: 0 4px 14px rgba(100, 116, 139, 0.4);
+        }
+
+        .btn-secondary:hover {
+            box-shadow: 0 8px 24px rgba(100, 116, 139, 0.5);
+        }
+
+        .info-box {
+            background: linear-gradient(135deg, rgba(6, 182, 212, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%);
+            border-left: 4px solid var(--accent);
+            padding: 20px;
+            border-radius: 16px;
+            margin: 24px 0;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(6, 182, 212, 0.2);
+            border-left-width: 4px;
+        }
+
+        .info-box strong {
+            color: var(--accent);
+            font-weight: 700;
+            font-size: 1.05em;
+        }
+
+        .info-box ul {
+            margin-top: 12px;
+            margin-left: 24px;
+            color: #475569;
+        }
+
+        .info-box li {
+            margin-bottom: 8px;
+            line-height: 1.6;
+        }
+
+        .info-box li strong {
+            color: var(--primary);
+        }
+
+        .footer {
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px solid rgba(139, 92, 246, 0.1);
+            text-align: center;
+            color: #64748b;
+        }
+
+        .footer p {
+            margin-bottom: 12px;
+        }
+
+        .footer strong {
+            color: var(--primary);
+        }
+
+        .footer a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .footer a::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--secondary);
+            transition: width 0.3s ease;
+        }
+
+        .footer a:hover::after {
+            width: 100%;
+        }
+
+        .footer a:hover {
+            color: var(--secondary);
+        }
+
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 4px 12px;
+            background: var(--bg-gradient-alt);
+            color: white;
+            border-radius: 20px;
+            font-size: 0.75em;
+            font-weight: 700;
+            margin-left: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 2px 8px rgba(139, 92, 246, 0.3);
+        }
+
+        code {
+            background: rgba(139, 92, 246, 0.1);
+            padding: 3px 8px;
+            border-radius: 6px;
+            font-family: 'Courier New', 'Monaco', monospace;
+            font-size: 0.9em;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .last-update {
+            display: inline-block;
+            padding: 6px 12px;
+            background: rgba(139, 92, 246, 0.1);
+            border-radius: 8px;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 30px 20px;
+                border-radius: 20px;
+            }
+
+            h1 {
+                font-size: 2.5em;
+            }
+
+            .subtitle {
+                font-size: 1.1em;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🐢 Cron-Quiles</h1>
+            <p class="subtitle">Calendario unificado de eventos tech en México</p>
+        </div>
+
+        <div class="description">
+            <p>
+                Este calendario agrega eventos de múltiples fuentes (Meetup, Luma, etc.)
+                en un solo lugar. Los eventos se actualizan automáticamente cada 6 horas.
+            </p>
+        </div>
+
+        <div class="download-section">
+            <div class="download-card">
+                <h3>📅 Calendario ICS <span class="badge">Recomendado</span></h3>
+                <p>
+                    Archivo ICS estándar compatible con Google Calendar, Apple Calendar,
+                    Outlook y cualquier cliente de calendario.
+                </p>
+                <div class="btn-group">
+                    <a href="cronquiles.ics" class="btn" download>
+                        <span>Descargar ICS</span>
+                    </a>
+                    <a href="webcal://shellaquiles.github.io/cron-quiles/cronquiles.ics" class="btn btn-secondary">
+                        <span>Suscribir (WebCal)</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="download-card">
+                <h3>📊 Datos JSON</h3>
+                <p>
+                    Archivo JSON con todos los eventos para uso programático o análisis.
+                </p>
+                <div class="btn-group">
+                    <a href="cronquiles.json" class="btn" download>
+                        <span>Descargar JSON</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-box">
+            <strong>💡 Tip:</strong> Para suscribirte automáticamente, usa la URL de WebCal
+            o importa el archivo ICS en tu calendario favorito. Los eventos se actualizarán
+            automáticamente.
+        </div>
+
+        <div class="info-box">
+            <strong>📱 Cómo usar:</strong>
+            <ul>
+                <li><strong>Google Calendar:</strong> Haz clic en "Suscribir (WebCal)" o importa el archivo ICS</li>
+                <li><strong>Apple Calendar:</strong> Archivo → Nueva suscripción de calendario → pega la URL WebCal</li>
+                <li><strong>Outlook:</strong> Agregar calendario → Suscribir desde web → pega la URL WebCal</li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>
+                Proyecto open source de la comunidad <strong>Shellaquiles</strong> 🐢
+            </p>
+            <p style="margin-top: 12px;">
+                <a href="https://github.com/shellaquiles/cron-quiles">Ver en GitHub</a> |
+                <a href="https://github.com/shellaquiles/cron-quiles/blob/main/README.md">Documentación</a>
+            </p>
+            <p style="margin-top: 12px; font-size: 0.95em;">
+                Última actualización: <span class="last-update" id="last-update">Cargando...</span>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Mostrar última fecha de modificación
+        fetch('cronquiles.ics')
+            .then(response => {
+                const lastModified = response.headers.get('last-modified');
+                if (lastModified) {
+                    const date = new Date(lastModified);
+                    document.getElementById('last-update').textContent =
+                        date.toLocaleString('es-MX', {
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        });
+                } else {
+                    document.getElementById('last-update').textContent = 'No disponible';
+                }
+            })
+            .catch(() => {
+                document.getElementById('last-update').textContent = 'No disponible';
+            });
+    </script>
+</body>
+</html>
