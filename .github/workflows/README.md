@@ -6,7 +6,7 @@ Este workflow actualiza automáticamente el calendario de eventos cada 6 horas.
 
 1. Descarga todos los feeds ICS configurados
 2. Normaliza y deduplica eventos
-3. Genera `shellaquiles_events.ics` y `shellaquiles_events.json`
+3. Genera `cronquiles.ics` y `cronquiles.json`
 4. Hace commit y push automático si hay cambios
 
 ## Activación
