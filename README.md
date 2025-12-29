@@ -23,6 +23,7 @@ Consumir múltiples feeds ICS (Meetup, Luma, etc.), normalizar eventos, deduplic
 - ✅ Genera ICS unificado y JSON opcional
 - ✅ CLI simple y fácil de usar
 - ✅ **Publicación directa en Google Calendar** (opcional, requiere OAuth2)
+- ✅ **Interfaz web moderna** con diseño terminal y calendario embebido
 
 ## 📋 Requisitos
 
@@ -66,7 +67,9 @@ Ejecuta el script con la configuración por defecto:
 python main.py
 ```
 
-Esto generará `cronquiles.ics` (calendario unificado) usando los feeds definidos en `config/feeds.yaml`.
+Esto generará `gh-pages/cronquiles.ics` (calendario unificado) usando los feeds definidos en `config/feeds.yaml`.
+
+**Nota:** Los archivos se generan en `gh-pages/` para publicación en GitHub Pages.
 
 ### Opciones avanzadas
 
@@ -77,8 +80,8 @@ python main.py --feeds config/mi_configuracion.yaml
 # Generar también archivo JSON
 python main.py --json
 
-# Personalizar nombres de archivos de salida
-python main.py --output eventos.ics --json-output eventos.json
+# Personalizar nombres de archivos de salida (generados en gh-pages/)
+python main.py --output gh-pages/eventos.ics --json-output gh-pages/eventos.json
 
 # Usar archivo de texto plano (una URL por línea)
 python main.py --feeds config/list_icals.txt
@@ -126,6 +129,13 @@ cron-quiles/
 │   └── PROJECT_STRUCTURE.md  # Documentación de estructura
 ├── examples/
 │   └── example_event.py       # Ejemplo de formato de eventos
+├── gh-pages/                  # Archivos para GitHub Pages
+│   ├── index.html            # Página principal con calendario embebido
+│   ├── cronquiles.ics        # Calendario ICS (generado)
+│   ├── cronquiles.json       # JSON con eventos (generado)
+│   ├── serve.py              # Servidor HTTP para desarrollo local
+│   ├── serve.sh              # Script para iniciar servidor
+│   └── README-LOCAL.md       # Guía para desarrollo local
 ├── .github/
 │   └── workflows/             # GitHub Actions
 ├── requirements.txt          # Dependencias Python
@@ -297,7 +307,9 @@ Después del primer run, deberías ver:
 El workflow también publica automáticamente los archivos en GitHub Pages, permitiendo:
 - ✅ Acceso directo a los archivos ICS y JSON desde la web
 - ✅ Suscripción WebCal para actualizaciones automáticas
-- ✅ Página web simple con instrucciones de uso
+- ✅ **Interfaz web moderna con diseño terminal** estilo shellaquiles-org
+- ✅ **Calendario mensual visual embebido** con todos los eventos del mes
+- ✅ Navegación entre meses y visualización automática de eventos
 
 **Para habilitar GitHub Pages:**
 1. Ve a **Settings** → **Pages** en tu repositorio
@@ -309,6 +321,14 @@ El workflow también publica automáticamente los archivos en GitHub Pages, perm
 - Archivo ICS: `https://shellaquiles.github.io/cron-quiles/cronquiles.ics`
 - Archivo JSON: `https://shellaquiles.github.io/cron-quiles/cronquiles.json`
 - WebCal (suscripción): `webcal://shellaquiles.github.io/cron-quiles/cronquiles.ics`
+
+**Características de la interfaz web:**
+- Diseño terminal con colores verde/negro/blanco
+- Calendario mensual interactivo con eventos marcados
+- Lista automática de todos los eventos del mes actual
+- Navegación entre meses con botones anterior/siguiente
+- Diseño responsive optimizado para móvil y escritorio
+- Información completa de cada evento (fecha, hora, ubicación, tags, enlaces)
 
 ### Personalizar la frecuencia
 

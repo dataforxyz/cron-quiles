@@ -41,9 +41,16 @@ cron-quiles/
 ├── requirements.txt                # Dependencias Python
 ├── pyproject.toml                   # Configuración del proyecto (PEP 518)
 │
-└── [Archivos generados]
-    ├── cronquiles.ics     # Calendario ICS unificado
-    └── cronquiles.json    # JSON con eventos (opcional)
+├── gh-pages/                        # Archivos para GitHub Pages
+│   ├── index.html                  # Página principal con calendario embebido
+│   ├── cronquiles.ics              # Calendario ICS unificado (generado)
+│   ├── cronquiles.json             # JSON con eventos (generado)
+│   ├── serve.py                    # Servidor HTTP para desarrollo local
+│   ├── serve.sh                    # Script para iniciar servidor local
+│   └── README-LOCAL.md             # Guía para desarrollo local
+│
+└── [Archivos generados - obsoletos en raíz]
+    # Nota: Los archivos ahora se generan en gh-pages/
 ```
 
 ## Descripción de Directorios
@@ -87,8 +94,19 @@ Configuración de GitHub:
 ## Archivos Generados
 
 Estos archivos se generan al ejecutar `main.py` y se suben al repo automáticamente por GitHub Actions:
-- **`cronquiles.ics`**: Calendario ICS unificado
-- **`cronquiles.json`**: JSON con eventos (si se usa `--json`)
+- **`gh-pages/cronquiles.ics`**: Calendario ICS unificado
+- **`gh-pages/cronquiles.json`**: JSON con eventos (si se usa `--json`)
+
+**Nota:** Los archivos se generan directamente en `gh-pages/` para publicación en GitHub Pages.
+
+## GitHub Pages
+
+La carpeta `gh-pages/` contiene todos los archivos necesarios para GitHub Pages:
+- **`index.html`**: Página principal con diseño terminal y calendario embebido
+- **`cronquiles.ics`**: Calendario ICS para descarga y suscripción WebCal
+- **`cronquiles.json`**: Datos JSON para uso programático
+- **`serve.py`** / **`serve.sh`**: Scripts para probar el sitio localmente
+- **`README-LOCAL.md`**: Instrucciones para desarrollo local
 
 ## Uso de la Estructura
 

@@ -57,9 +57,16 @@ Una vez configurado, tu sitio estará disponible en:
 
 Los siguientes archivos se publican automáticamente en GitHub Pages desde la carpeta `gh-pages/`:
 
-- `gh-pages/index.html` - Página principal con instrucciones
-- `gh-pages/cronquiles.ics` - Calendario ICS
-- `gh-pages/cronquiles.json` - Datos JSON (si se genera)
+- `gh-pages/index.html` - Página principal con diseño terminal y calendario embebido
+- `gh-pages/cronquiles.ics` - Calendario ICS para descarga y suscripción WebCal
+- `gh-pages/cronquiles.json` - Datos JSON para uso programático
+
+**Características de la interfaz:**
+- Diseño terminal estilo shellaquiles-org (verde/negro/blanco)
+- Calendario mensual visual con eventos del mes
+- Navegación entre meses
+- Visualización automática de todos los eventos del mes actual
+- Diseño responsive para móvil y escritorio
 
 ## Solución de Problemas
 
@@ -102,11 +109,31 @@ schedule:
 
 ### Personalizar el index.html
 
-Puedes editar `gh-pages/index.html` para personalizar la apariencia y contenido de la página.
+Puedes editar `gh-pages/index.html` para personalizar la apariencia y contenido de la página. El diseño actual incluye:
+- Tema terminal con colores verde/negro/blanco
+- Calendario mensual visual embebido
+- Lista automática de eventos del mes
+- Estilos responsive para móvil
+
+### Desarrollo Local
+
+Para probar el sitio localmente antes de publicar:
+
+```bash
+cd gh-pages
+python3 serve.py
+# O
+./serve.sh
+```
+
+Luego abre `http://localhost:8000/index.html` en tu navegador.
+
+Ver `gh-pages/README-LOCAL.md` para más detalles.
 
 ## Notas Importantes
 
 - GitHub Pages puede tardar unos minutos en publicar los cambios
 - El sitio se actualiza automáticamente cuando el workflow se ejecuta
-- Los archivos se publican desde la carpeta `gh-pages/` del repositorio
-- El workflow copia automáticamente los archivos generados (`cronquiles.ics` y `cronquiles.json`) a `gh-pages/` antes de publicar
+- Los archivos se generan directamente en `gh-pages/` por el workflow
+- El workflow genera `cronquiles.ics` y `cronquiles.json` en `gh-pages/` antes de publicar
+- Los archivos en `gh-pages/` se publican automáticamente en GitHub Pages
