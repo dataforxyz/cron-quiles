@@ -60,8 +60,8 @@ Código fuente principal del proyecto. Contiene:
 - **`__init__.py`**: Inicialización del paquete Python
 - **`main.py`**: CLI principal con argumentos y lógica de ejecución
 - **`ics_aggregator.py`**: Módulo con clases `EventNormalized` e `ICSAggregator`
-  - `EventNormalized`: Normaliza eventos, detecta online/presencial, extrae grupo/ubicación, formatea títulos
-  - `ICSAggregator`: Agrega múltiples feeds ICS, deduplica eventos, genera ICS/JSON
+  - `EventNormalized`: Normaliza eventos, detecta online/presencial, extrae grupo/ubicación, formatea títulos e implementa el **enriquecimiento de ubicación desde Meetup**.
+  - `ICSAggregator`: Agrega múltiples feeds ICS, coordina el enriquecimiento de datos de Meetup (vía JSON-LD/Next.js), deduplica eventos y genera ICS/JSON.
 - **`google_calendar.py`**: Publicación de eventos en Google Calendar (opcional)
 
 ### `config/`

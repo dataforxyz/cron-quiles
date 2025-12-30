@@ -21,8 +21,15 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Visualización automática de todos los eventos del mes actual
   - Indicadores visuales de días con eventos
   - Estilo responsive optimizado para móvil y escritorio
+  - **Enriquecimiento de ubicación para Meetup** (nuevo)
+    - Extracción automática de direcciones físicas desde las páginas de Meetup (JSON-LD/Next.js)
+    - Mejora la información de eventos presenciales que el feed iCal de Meetup suele omitir
+    - Sistema respetuoso con User-Agent y delays entre peticiones
   - **Visualización mejorada de títulos**: Separación visual del grupo (verde, bold), nombre del evento (blanco) y ubicación (gris, italic)
   - **Descripciones expandibles**: Descripciones largas se muestran colapsadas con opción "Ver más/Ver menos"
+  - **Limpieza de descripciones**:
+    - Omisión automática de la primera línea de la descripción (que suele repetir el grupo)
+    - Truncado de espacios e indentación innecesaria en cada línea para un diseño más compacto
   - **Fecha al final**: La fecha se muestra al final de cada evento con estilo menos prominente
 - **Estructura mejorada para GitHub Pages** (nuevo)
   - Archivos movidos a carpeta `gh-pages/` para mejor organización
@@ -62,6 +69,8 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Implementado `white-space: pre-wrap` para renderizado correcto
   - Mejorado el manejo de saltos de línea múltiples excesivos (máximo 2 seguidos)
   - Corregido el renderizado de espacios en blanco en descripciones con formato complejo
+- Corregida la repetición de nombres de grupo en descripciones de Meetup
+- Corregido el espaciado/indentación erróneo en el renderizado de descripciones web (white-space issue)
 
 ### Added (versiones anteriores)
 - Agregador de feeds ICS públicos

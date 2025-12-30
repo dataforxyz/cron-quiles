@@ -24,6 +24,8 @@ Consumir múltiples feeds ICS (Meetup, Luma, etc.), normalizar eventos, deduplic
 - ✅ CLI simple y fácil de usar
 - ✅ **Publicación directa en Google Calendar** (opcional, requiere OAuth2)
 - ✅ **Interfaz web moderna** con diseño terminal y calendario embebido
+- ✅ **Enriquecimiento de ubicación** automático para eventos de Meetup
+- ✅ **Optimización visual**: Limpieza de espacios y descripciones redundantes
 
 ## 📋 Requisitos
 
