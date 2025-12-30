@@ -8,6 +8,12 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 ## [Unreleased]
 
 ### Added
+- **Formato de títulos inteligente** (nuevo)
+  - Formato automático según tipo de evento: `Grupo|Nombre evento|Online` o `Grupo|Nombre evento|País|Estado`
+  - Detección automática de eventos online vs presenciales basada en palabras clave
+  - Extracción inteligente del nombre del grupo desde organizador, descripción o URL
+  - Extracción de país y estado para eventos presenciales (especialmente estados de México)
+  - Inferencia de ubicación por defecto (México|CDMX) cuando no se puede determinar
 - **Interfaz web mejorada con diseño terminal** (nuevo)
   - Diseño estilo terminal consistente con shellaquiles-org
   - Calendario mensual visual embebido con eventos del mes
@@ -15,6 +21,9 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Visualización automática de todos los eventos del mes actual
   - Indicadores visuales de días con eventos
   - Estilo responsive optimizado para móvil y escritorio
+  - **Visualización mejorada de títulos**: Separación visual del grupo (verde, bold), nombre del evento (blanco) y ubicación (gris, italic)
+  - **Descripciones expandibles**: Descripciones largas se muestran colapsadas con opción "Ver más/Ver menos"
+  - **Fecha al final**: La fecha se muestra al final de cada evento con estilo menos prominente
 - **Estructura mejorada para GitHub Pages** (nuevo)
   - Archivos movidos a carpeta `gh-pages/` para mejor organización
   - Scripts de desarrollo local (`serve.py`, `serve.sh`)
@@ -25,6 +34,10 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Interfaz más limpia y enfocada
 
 ### Changed
+- **Formato de eventos** (cambio)
+  - Los títulos ahora siguen formato estructurado con separadores `|`
+  - Mejora en la detección de eventos online vs presenciales
+  - Extracción mejorada de información de ubicación desde descripciones
 - **Reorganización de archivos** (cambio)
   - Archivos generados (`cronquiles.ics`, `cronquiles.json`) ahora se generan en `gh-pages/`
   - Workflow de GitHub Actions actualizado para generar archivos directamente en `gh-pages/`
@@ -33,11 +46,17 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Diseño completamente renovado con tema terminal
   - Calendario visual reemplaza lista de próximos eventos
   - Mejor experiencia de usuario con información más accesible
+  - **Espaciado optimizado**: Reducción significativa de espacios en blanco entre elementos
+  - **Renderizado de descripciones**: Cambio de `white-space: pre-line` a `pre-wrap` para preservar saltos de línea
+  - **Orden de elementos**: Fecha movida al final de cada evento, después del título y detalles
 
 ### Fixed
 - Corregido problema de codificación de caracteres (acentos) en eventos ICS
   - Los caracteres con acentos ahora se muestran correctamente (ej: "Cariño" en lugar de "CariÃ±o")
   - Implementada función `fix_encoding()` para corregir problemas de mojibake automáticamente
+- Corregido renderizado de saltos de línea en descripciones de eventos
+  - Las descripciones ahora preservan correctamente los saltos de línea originales
+  - Implementado `white-space: pre-wrap` para renderizado correcto
 
 ### Added (versiones anteriores)
 - Agregador de feeds ICS públicos

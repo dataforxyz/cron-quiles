@@ -60,6 +60,9 @@ Código fuente principal del proyecto. Contiene:
 - **`__init__.py`**: Inicialización del paquete Python
 - **`main.py`**: CLI principal con argumentos y lógica de ejecución
 - **`ics_aggregator.py`**: Módulo con clases `EventNormalized` e `ICSAggregator`
+  - `EventNormalized`: Normaliza eventos, detecta online/presencial, extrae grupo/ubicación, formatea títulos
+  - `ICSAggregator`: Agrega múltiples feeds ICS, deduplica eventos, genera ICS/JSON
+- **`google_calendar.py`**: Publicación de eventos en Google Calendar (opcional)
 
 ### `config/`
 Archivos de configuración:
@@ -94,8 +97,9 @@ Configuración de GitHub:
 ## Archivos Generados
 
 Estos archivos se generan al ejecutar `main.py` y se suben al repo automáticamente por GitHub Actions:
-- **`gh-pages/cronquiles.ics`**: Calendario ICS unificado
+- **`gh-pages/cronquiles.ics`**: Calendario ICS unificado con eventos formateados
 - **`gh-pages/cronquiles.json`**: JSON con eventos (si se usa `--json`)
+  - Los eventos incluyen títulos formateados: `Grupo|Nombre evento|Online` o `Grupo|Nombre evento|País|Estado`
 
 **Nota:** Los archivos se generan directamente en `gh-pages/` para publicación en GitHub Pages.
 

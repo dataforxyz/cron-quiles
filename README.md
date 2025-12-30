@@ -187,6 +187,23 @@ El sistema deduplica eventos similares usando la siguiente estrategia:
    - URL válida
    - Descripción más larga
 
+## 📝 Formato de Títulos
+
+Los eventos se formatean automáticamente según su tipo:
+
+- **Eventos online**: `Grupo|Nombre evento|Online`
+- **Eventos presenciales**: `Grupo|Nombre evento|País|Estado`
+
+El sistema detecta automáticamente si un evento es online o presencial basándose en:
+- Palabras clave en la ubicación y descripción (online: "zoom", "virtual", "streaming", etc.)
+- Presencia de direcciones físicas o indicadores de eventos presenciales
+- Extracción inteligente de país y estado para eventos presenciales (especialmente México)
+
+El nombre del grupo se extrae de:
+- El organizador del evento
+- La descripción del evento (patrones como "Nombre (Descripción)")
+- La URL del evento (ej: meetup.com/kong-mexico-city)
+
 ## 🏷️ Tags Automáticos
 
 El sistema detecta automáticamente tags basados en keywords en el título y descripción:
@@ -224,7 +241,7 @@ Si usas `--json`, se genera un archivo JSON con la estructura:
   "total_events": 150,
   "events": [
     {
-      "title": "Meetup Python CDMX",
+      "title": "Python CDMX|Meetup Mensual|México|CDMX",
       "description": "...",
       "url": "https://...",
       "location": "Ciudad de México",
@@ -237,6 +254,8 @@ Si usas `--json`, se genera un archivo JSON con la estructura:
   ]
 }
 ```
+
+**Nota**: El campo `title` sigue el formato `Grupo|Nombre evento|Online` o `Grupo|Nombre evento|País|Estado`.
 
 ## 🛠️ Desarrollo
 
@@ -329,6 +348,10 @@ El workflow también publica automáticamente los archivos en GitHub Pages, perm
 - Navegación entre meses con botones anterior/siguiente
 - Diseño responsive optimizado para móvil y escritorio
 - Información completa de cada evento (fecha, hora, ubicación, tags, enlaces)
+- **Visualización mejorada de títulos**: Separación visual del grupo, nombre del evento y ubicación con diferentes estilos
+- **Descripciones expandibles**: Descripciones largas se muestran colapsadas con opción de expandir
+- **Espaciado optimizado**: Diseño compacto con espacios reducidos entre elementos
+- **Renderizado correcto de saltos de línea**: Las descripciones preservan el formato original
 
 ### Personalizar la frecuencia
 
