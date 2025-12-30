@@ -49,6 +49,9 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - **Espaciado optimizado**: Reducción significativa de espacios en blanco entre elementos
   - **Renderizado de descripciones**: Cambio de `white-space: pre-line` a `pre-wrap` para preservar saltos de línea
   - **Orden de elementos**: Fecha movida al final de cada evento, después del título y detalles
+  - **Formato de fecha mejorado**: Muestra solo la fecha (sin hora) y rango de horas separado (ej: "1 de febrero • 18:00 - 20:00")
+  - **Mejoras en renderizado**: Mejor manejo de espacios en blanco y saltos de línea múltiples en descripciones
+  - **Limpieza de ubicaciones**: Eliminación automática de espacios en blanco innecesarios en ubicaciones
 
 ### Fixed
 - Corregido problema de codificación de caracteres (acentos) en eventos ICS
@@ -57,6 +60,8 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 - Corregido renderizado de saltos de línea en descripciones de eventos
   - Las descripciones ahora preservan correctamente los saltos de línea originales
   - Implementado `white-space: pre-wrap` para renderizado correcto
+  - Mejorado el manejo de saltos de línea múltiples excesivos (máximo 2 seguidos)
+  - Corregido el renderizado de espacios en blanco en descripciones con formato complejo
 
 ### Added (versiones anteriores)
 - Agregador de feeds ICS públicos
