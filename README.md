@@ -12,6 +12,8 @@ Herramienta **open source** para centralizar múltiples feeds ICS públicos de e
 
 Consumir múltiples feeds ICS (Meetup, Luma, etc.), normalizar eventos, deduplicarlos y generar un calendario unificado para la comunidad tech mexicana.
 
+Puedes ver la lista completa de comunidades integradas en [Comunidades Tech en México](docs/COMMUNITIES.md).
+
 ## ✨ Características
 
 - ✅ Consume múltiples feeds ICS públicos

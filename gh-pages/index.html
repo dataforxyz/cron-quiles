@@ -728,10 +728,59 @@
         .calendar-month-event-tag {
             background: rgba(0, 255, 0, 0.2);
             color: var(--terminal-green);
-            padding: 2px 6px;
+            padding: 1px 6px;
             border-radius: 4px;
             font-size: 0.7em;
-            border: 1px solid var(--terminal-green);
+            border: 1px solid rgba(0, 255, 0, 0.3);
+        }
+
+        /* Communities Section */
+        .communities-section {
+            margin-top: var(--spacing-xxl);
+            padding-top: var(--spacing-xxl);
+            border-top: 1px dashed rgba(0, 255, 0, 0.2);
+        }
+
+        .section-title {
+            color: var(--terminal-white);
+            font-size: 1.5em;
+            margin-bottom: var(--spacing-lg);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .communities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: var(--spacing-lg);
+        }
+
+        .community-card {
+            background: rgba(0, 255, 0, 0.05);
+            border: 1px solid rgba(0, 255, 0, 0.2);
+            padding: var(--spacing-md);
+            border-radius: var(--radius-md);
+            transition: all var(--transition-normal);
+        }
+
+        .community-card:hover {
+            border-color: var(--terminal-green);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 255, 0, 0.1);
+        }
+
+        .community-name {
+            color: var(--terminal-green);
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+
+        .community-description {
+            color: var(--terminal-gray);
+            font-size: 0.9em;
+            line-height: 1.4;
         }
 
         /* Animations */
@@ -874,12 +923,90 @@
             <span class="cursor">$</span>
             <span class="command-text">./calendario.sh</span>
         </div>
-        <div class="output">
+        <div id="calendar-output" class="output">
             <h2>📅 Calendario de Eventos</h2>
             <div id="calendar-container" class="calendar-container">
                 <div class="events-loading">Cargando calendario...</div>
             </div>
         </div>
+
+        <!-- Communities Section -->
+        <section class="communities-section">
+            <h2 class="section-title">
+                <span class="prompt-char">#</span> Comunidades Integradas
+            </h2>
+            <div class="communities-grid">
+                <div class="community-card">
+                    <div class="community-name">Notion Mexico</div>
+                    <div class="community-description">Comunidad oficial de Notion en México. Eventos sobre productividad, organización y herramientas no-code.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">AI/IA CDMX</div>
+                    <div class="community-description">Comunidad enfocada en Inteligencia Artificial. Charlas técnicas, demos y networking sobre el futuro de IA.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Pythonista</div>
+                    <div class="community-description">Una de las comunidades de Python más grandes y activas de México.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">GDG Ciudad de México</div>
+                    <div class="community-description">Google Developer Group CDMX. Tecnologías de Google y desarrollo en general.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Figma Mexico City</div>
+                    <div class="community-description">Espacio para diseñadores UX/UI y amantes de Figma en la Ciudad de México.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Vim Meetup CDMX</div>
+                    <div class="community-description">Para los amantes del editor de texto más eficiente.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Makers CDMX</div>
+                    <div class="community-description">Hardware, tecnología, diseño y fabricación digital.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Rust MX</div>
+                    <div class="community-description">Comunidad dedicada al lenguaje Rust. Seguridad, velocidad y concurrencia.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Gophers MX</div>
+                    <div class="community-description">Comunidad de desarrolladores del lenguaje Go en México.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Flutter Mexico City</div>
+                    <div class="community-description">Desarrollo multiplataforma con Flutter.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Kong Mexico City</div>
+                    <div class="community-description">APIs, Microservicios, Service Mesh e Insomnia.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Sysarmy Mexico</div>
+                    <div class="community-description">Soporte para quienes dan soporte. Comunidad de IT y SysAdmins.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">AWS Ciudad de México</div>
+                    <div class="community-description">User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Docker Friends CDMX</div>
+                    <div class="community-description">Comunidad enfocada en contenedores, Docker y el ecosistema de infra moderna.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">EventLoop</div>
+                    <div class="community-description">Comunidad enfocada en JavaScript y el ecosistema web moderno en CDMX.</div>
+                </div>
+                <div class="community-card">
+                    <div class="community-name">Linux CDMX</div>
+                    <div class="community-description">Entusiastas, usuarios y administradores del sistema operativo Linux en Ciudad de México.</div>
+                </div>
+            </div>
+            <div style="margin-top: var(--spacing-lg); color: var(--terminal-gray); font-size: 0.9em; text-align: center;">
+                <a href="https://github.com/shellaquiles/cron-quiles/blob/main/docs/COMMUNITIES.md" target="_blank" style="color: var(--terminal-green); text-decoration: underline;">Ver lista completa de comunidades integrada →</a>
+                <br><br>
+                ¿Quieres agregar tu comunidad? Abre un PR o Issue en el repositorio.
+            </div>
+        </section>
 
         <!-- Comando 3: Calendario ICS -->
         <div class="prompt">
