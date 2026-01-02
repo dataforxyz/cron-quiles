@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T01:02:01.818182+00:00",
+  "generated_at": "2026-01-02T04:15:03.580393+00:00",
   "total_events": 1,
   "city": "Tabasco",
   "communities": [
@@ -17,7 +17,12 @@
       "organizer": "gittogether-latam",
       "dtstart": "2024-09-26T18:00:00-06:00",
       "dtend": null,
-      "tags": [],
+      "tags": [
+        "security",
+        "frontend",
+        "mobile",
+        "web"
+      ],
       "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
       "country": "México",
       "country_code": "MX",
