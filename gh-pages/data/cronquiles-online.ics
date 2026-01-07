@@ -3655,6 +3655,23 @@ DESCRIPTION:Embajadoras Cloud\n📅 Fecha: 08 de enero de 2026\, 18:00hrs
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DevOps Workshop|Improving Kubernetes with Bottlerocket|Online
+DTSTART:20260113T190000
+CATEGORIES:ai,backend,cloud,devops,frontend,mobile
+DESCRIPTION:DevOps Workshop\nDevopers\, muy feliz 2026\, ya tenemos tema p
+ ara nuestro primer meetup del año.\n\nAWS creó Bottlerocket para proporc
+ ionar una mejor base para ejecutar contenedores en sus servicios\, en part
+ icular:\n\n* Amazon EKS (Elastic Kubernetes Service)\n* Amazon ECS (Elasti
+ c Container Service)\n\nBottlerocket no reemplaza a Amazon Linux. Sirven p
+ ara diferentes propósitos y coexistirán.\n\nBottlerocket y Talos Linux s
+ on probablemente los más similares en filosofía: ambos deshabilitan el a
+ cceso SSH por defecto y utilizan una configuración basada en API\, lo que
+  los hace muy adecuados para patrones de infraestructura inmutables.\n\nA 
+ la brevedad compartiremos el link\, pero la transmisión será\, como siem
+ pre\, por nuestro canal de Youtube.\n\nsaludos\,
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kong Mexico City|Leading the Agentic Transformation: A Blueprint f
  or the AI-Native Enterprise|Online
 DTSTART:20260128T110000
@@ -3701,6 +3718,29 @@ DESCRIPTION:Kong/MEXICO-CITY\n**[Register Here](https://konghq.com/events/
  \] Beyond the Gateway: Governing Secure and Observable AI Agents](https://
  konghq.com/events/workshops/workshop-201-beyond-the-gateway-governing-secu
  re-and-observable-ai-agents)
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kong Mexico City|Why AI Connectivity Matters|Online
+DTSTART:20260202T090000
+CATEGORIES:ai,backend,data,frontend
+DESCRIPTION:Kong/MEXICO-CITY\n[AI is reshaping enterprise connectivity—t
+ urning it into a strategic lever for speed\, cost control\, and competitiv
+ e advantage.](https://konghq.com/blog/news/the-age-of-ai-connectivity)\n\n
+ The problem is fragmentation. Most organizations have different tools\, po
+ licies\, and teams managing each connection point in their AI data path. T
+ he result: latency compounds\, costs spiral\, and governance becomes impos
+ sible at scale.\n\nJoin Kong CEO Augusto Marietti and CTO Marco Palladino 
+ for a candid conversation on how to unify your entire AI data path—from 
+ agents to models to tools—and move from pilot experiments to production 
+ scale. You'll also hear from SVP of Product Reza Shafii and Head of Produc
+ t Marketing Alex Drag on what's new and what's coming in 2026: the Agentic
+  Trust Layer\, Agent Gateway\, AI-native WAF\, real-time data monetization
+ \, and comprehensive AI cost governance—the infrastructure layer enterpr
+ ises need to operationalize AI. Learn how to prepare your stack for the de
+ mands of AI-native architecture.\n\nWhether you're building AI governance\
+ , controlling costs\, or planning your next generation of AI infrastructur
+ e\, this is where the decisions that define the next decade get made.
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR
