@@ -15524,5 +15524,107 @@
       "food",
       "point_of_interest"
     ]
+  },
+  "La Salle Nezahualcoyotl - Auditorio y Centro Cultural Alfredo Harp Helú, Colonia Cd. Jardín Bicentenario, Av. Bordo de Xochiaca s/n-B, Manzana polígono IV, 57205 Cdad. Nezahualcóyotl, Méx., Ciudad de México, Ciudad de México": {
+    "address_components": [
+      {
+        "long_name": "Av. Bordo de Xochiaca Lote 3 interior 2B",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "Tamaulipas",
+        "short_name": "Tamaulipas",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "001",
+        "short_name": "001",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_3"
+        ]
+      },
+      {
+        "long_name": "Ciudad Jardín",
+        "short_name": "Cdad. Jardín",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad Nezahualcóyotl",
+        "short_name": "Cdad. Nezahualcóyotl",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Estado de México",
+        "short_name": "Méx.",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "57300",
+        "short_name": "57300",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. Bordo de Xochiaca Lote 3 interior 2B, Manzana 001, Tamaulipas, Cdad. Jardín, 57300 Cdad. Nezahualcóyotl, Méx., México",
+    "geometry": {
+      "location": {
+        "lat": 19.422529,
+        "lng": -99.0164686
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 19.4237293302915,
+          "lng": -99.0151278697085
+        },
+        "southwest": {
+          "lat": 19.4210313697085,
+          "lng": -99.01782583029151
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.4222946,
+          "longitude": -99.01648159999999
+        }
+      }
+    ],
+    "partial_match": true,
+    "place_id": "ChIJvzv3kLP80YURR_bWPZd2GaM",
+    "plus_code": {
+      "compound_code": "CXFM+2C Ciudad Nezahualcóyotl, Méx., México",
+      "global_code": "76F2CXFM+2C"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
   }
 }
