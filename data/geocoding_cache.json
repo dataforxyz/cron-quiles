@@ -16179,5 +16179,102 @@
       "point_of_interest",
       "restaurant"
     ]
+  },
+  "Grid Dynamics, Av. de las Américas 1545-Piso 6, Providencia, Guadalajara, Jalisco, MX": {
+    "address_components": [
+      {
+        "long_name": "piso 6",
+        "short_name": "piso 6",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "#1545",
+        "short_name": "#1545",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenida de las Américas",
+        "short_name": "Av. de las Américas",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Guadalajara",
+        "short_name": "Guadalajara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Jalisco",
+        "short_name": "Jal.",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "44630",
+        "short_name": "44630",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. de las Américas #1545-piso 6, Providencia, 44630 Guadalajara, Jal., México",
+    "geometry": {
+      "location": {
+        "lat": 20.7027216,
+        "lng": -103.3768233
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 20.7039845802915,
+          "lng": -103.3754274697085
+        },
+        "southwest": {
+          "lat": 20.70128661970849,
+          "lng": -103.3781254302915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 20.7026057,
+          "longitude": -103.3767602
+        }
+      }
+    ],
+    "partial_match": true,
+    "place_id": "Ek9Bdi4gZGUgbGFzIEFtw6lyaWNhcyAjMTU0NS1waXNvIDYsIFByb3ZpZGVuY2lhLCA0NDYzMCBHdWFkYWxhamFyYSwgSmFsLiwgTWV4aWNvIiIaIAoWChQKEgmFT9rHNq4ohBF9eXEeRmoithIGcGlzbyA2",
+    "types": [
+      "street_address",
+      "subpremise"
+    ]
   }
 }
