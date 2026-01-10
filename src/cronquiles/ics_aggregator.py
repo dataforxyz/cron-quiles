@@ -25,6 +25,7 @@ from .aggregators.luma import LumaAggregator
 from .aggregators.meetup import MeetupAggregator
 from .aggregators.ics import GenericICSAggregator
 from .aggregators.manual import ManualAggregator
+from .aggregators.hievents import HiEventsAggregator
 from .schemas import JSONOutputSchema, CommunitySchema
 
 # Configurations
@@ -57,7 +58,8 @@ class ICSAggregator:
             'luma': LumaAggregator(self.session, timeout, max_retries),
             'meetup': MeetupAggregator(self.session, timeout, max_retries),
             'ics': GenericICSAggregator(self.session, timeout, max_retries),
-            'manual': ManualAggregator(self.session)
+            'manual': ManualAggregator(self.session),
+            'hievents': HiEventsAggregator(self.session)
         }
 
     def load_geocoding_cache(self):
@@ -153,6 +155,8 @@ class ICSAggregator:
                 agg = self.aggregators['luma']
             elif "meetup.com" in url:
                 agg = self.aggregators['meetup']
+            elif "/reuniones." in url or "hi.events" in url:
+                agg = self.aggregators['hievents']
             else:
                 agg = self.aggregators['ics']
 
