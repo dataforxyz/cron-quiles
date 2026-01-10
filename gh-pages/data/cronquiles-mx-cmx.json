@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:34:50.031613+00:00",
-  "total_events": 235,
+  "generated_at": "2026-01-29T18:46:14.296544+00:00",
+  "total_events": 242,
   "city": "Ciudad de México",
   "communities": [
     {
@@ -44,6 +44,17 @@
       "name": "Python CDMX",
       "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.",
       "links": []
+    },
+    {
+      "name": "Rust-AICollective",
+      "description": "Comunidad de Rust y AI en Ciudad de México. Eventos sobre desarrollo en Rust, inteligencia artificial y desafíos técnicos.",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/rust-ios-ai",
+          "label": "Luma"
+        }
+      ]
     },
     {
       "name": "Sudo FCiencias",
@@ -95,6 +106,11 @@
     {
       "name": "PayJoy",
       "description": "Organizador de eventos manuales (ej: Tech Talk: Building Scalable Applications in Python)",
+      "links": []
+    },
+    {
+      "name": "Rust-AICollective / The AI Collective",
+      "description": "Organizador de eventos manuales (ej: Primer Meetup: Retos de la Posada de Código 2025)",
       "links": []
     }
   ],
@@ -3880,6 +3896,34 @@
       "hash_key": "epam tech talks mexico city_2025-05-01T00:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|AI Collective México  -  Launch Party 🚀|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/cdmx-06-03\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por The AI Collective",
+      "url": "https://luma.com/cdmx-06-03",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/cdmx-06-03",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Ciudad de México",
+      "organizer": "Rust-AICollective",
+      "dtstart": "2025-06-04T01:00:00+00:00",
+      "dtend": "2025-06-04T03:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Ciudad de México, CDMX, México",
+      "hash_key": "ai collective mxico launch party_2025-06-04T00:00:00+00:00"
+    },
+    {
       "title": "Frutero Club|Coworking Frutal 3|México|Ciudad de México",
       "description": "Obtén información actualizada en: https://luma.com/7dpb781y\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por René Hernández, mel y Anthony Morales",
       "url": "https://luma.com/7dpb781y",
@@ -4226,7 +4270,7 @@
     },
     {
       "title": "AI Builders MX|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/r8rwqnn9\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Javier Rivero y Ben Kim",
+      "description": "Obtén información actualizada en: https://luma.com/r8rwqnn9\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Javier Rivero",
       "url": "https://luma.com/r8rwqnn9",
       "sources": [
         {
@@ -4787,7 +4831,7 @@
     },
     {
       "title": "Mexico Tech Week|Latin America’s B2B tech landscape in the AI era|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/q7hmwcva\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y 4 personas más",
+      "description": "Obtén información actualizada en: https://luma.com/q7hmwcva\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y 5 personas más",
       "url": "https://luma.com/q7hmwcva",
       "sources": [
         {
@@ -5219,7 +5263,7 @@
     },
     {
       "title": "Mexico Tech Week|Workshop: Building Products with AI|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/i1wws1f2\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y 3 personas más",
+      "description": "Obtén información actualizada en: https://luma.com/i1wws1f2\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week, Host Team y Javier Rivero",
       "url": "https://luma.com/i1wws1f2",
       "sources": [
         {
@@ -5928,6 +5972,64 @@
       "hash_key": "epam tech talks mexico city_2026-01-23T00:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective / The AI Collective|Primer Meetup: Retos de la Posada de Código 2025|Online",
+      "description": "En este primer meetup, la comunidad de RustMX dará la primera charla.\n\nEl tópico es relacionado sobre como se resolvieron los retos de la Posada de Código 2025 y donde Daniel Ceballos fue uno de los desarrolladores que acabo entre los 10 primeros competidores\n\nEn esta sesión, Daniel nos va a platicar sobre como resolvió cada reto y explicar el código que desarrollo",
+      "url": "https://luma.com/rust-ios-ai",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/rust-ios-ai",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Ciudad de México, Ciudad de México",
+      "organizer": "Rust-AICollective / The AI Collective",
+      "dtstart": "2026-01-27T18:00:00-06:00",
+      "dtend": "2026-01-27T21:00:00-06:00",
+      "tags": [
+        "ai",
+        "coding-challenge",
+        "meetup",
+        "programming",
+        "rust"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Ciudad de México, Ciudad de México",
+      "hash_key": "primer meetup retos de la posada de cdig_2026-01-28T00:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #4|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/us0gg0x0\n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMéxico\n\nOrganizado por Frutero",
+      "url": "https://luma.com/us0gg0x0",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/us0gg0x0",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "organizer": "Frutero Club",
+      "dtstart": "2026-01-28T16:00:00+00:00",
+      "dtend": "2026-01-28T23:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Álvaro Obregón",
+      "city_code": "alvaroobregon",
+      "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
+    },
+    {
       "title": "Java Mexico|30 Años Programando: Lecciones Aprendidas  -  Por Enrique Zamudio|México|Ciudad de México",
       "description": "Obtén información actualizada en: https://luma.com/ksvsiu3v\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Javier Benek y Eduardo Zarate Mejia",
       "url": "https://luma.com/ksvsiu3v",
@@ -6044,7 +6146,7 @@
     },
     {
       "title": "AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/fdg8riz2\n\nDirección:\nHaab Project Condesa\nCiudad de México, Ciudad de México\nMéxico\n\nOrganizado por Javier Rivero y Ben Kim",
+      "description": "Obtén información actualizada en: https://luma.com/fdg8riz2\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Javier Rivero y Ben Kim",
       "url": "https://luma.com/fdg8riz2",
       "sources": [
         {
@@ -6068,7 +6170,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Ámsterdam 255, Hipódromo Condesa, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",
+      "address": "Hipódromo, 06100 Ciudad de México, CDMX, México",
       "hash_key": "v0 prompt to production mexico city_2026-01-31T14:00:00+00:00"
     },
     {
@@ -6098,6 +6200,32 @@
       "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
     },
     {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #5|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/uh5wt1t4\n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMéxico\n\nOrganizado por Frutero",
+      "url": "https://luma.com/uh5wt1t4",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/uh5wt1t4",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-04T16:00:00+00:00",
+      "dtend": "2026-02-05T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Álvaro Obregón",
+      "city_code": "alvaroobregon",
+      "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
+    },
+    {
       "title": "OutGeekWomen - Badass Pros|Mujeres en Tech Ciudad de México - OutGeekWomen|México|Ciudad de México",
       "description": "All the badass women in tech, are you in? #outgeekwomen",
       "url": "https://www.eventbrite.com/e/mujeres-en-tech-ciudad-de-mexico-outgeekwomen-tickets-1354031136579",
@@ -6108,7 +6236,7 @@
           "label": "Ver en Eventbrite"
         }
       ],
-      "location": "Openhub, Diagonal Patriotismo 6 Colonia Condesa, Mexico City, CMX 06500, Mexico, Mexico City, CMX",
+      "location": "Co-Madre Lomas, Diagonal C. Montes Urales 455-Piso 1 y 2, Lomas - Virreyes, 6, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, Mexico City, CMX 06500, Mexico City, CMX",
       "organizer": "OutGeekWomen - Badass Pros",
       "dtstart": "2026-02-05T18:00:00-06:00",
       "dtend": "2026-02-05T20:30:00-06:00",
@@ -6120,8 +6248,34 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Diagonal Patriotismo 6, Hipódromo Condesa, Cuauhtémoc, 06170 Ciudad de México, CDMX, México",
+      "address": "C. Montes Urales 455-piso 1 y 2, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, 11000 Ciudad de México, CDMX, México",
       "hash_key": "mujeres en tech ciudad de mxico outgeekw_2026-02-06T00:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #6|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/0nllzrl7\n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMéxico\n\nOrganizado por Frutero",
+      "url": "https://luma.com/0nllzrl7",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/0nllzrl7",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-11T16:00:00+00:00",
+      "dtend": "2026-02-12T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Álvaro Obregón",
+      "city_code": "alvaroobregon",
+      "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
     },
     {
       "title": "Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambiando como desarrollar código|México|Ciudad de México",
@@ -6194,7 +6348,7 @@
     },
     {
       "title": "Frutero Club|Casa Frutero - Coworking Frutal #7|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/asxxex3y\n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMéxico\n\nOrganizado por Emmanuel Martínez",
+      "description": "Obtén información actualizada en: https://luma.com/asxxex3y\n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMéxico\n\nOrganizado por Frutero",
       "url": "https://luma.com/asxxex3y",
       "sources": [
         {
@@ -6217,6 +6371,32 @@
       "city_code": "alvaroobregon",
       "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
       "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #8|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/mh6kbutb\n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMéxico\n\nOrganizado por Frutero",
+      "url": "https://luma.com/mh6kbutb",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mh6kbutb",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-25T16:00:00+00:00",
+      "dtend": "2026-02-26T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Álvaro Obregón",
+      "city_code": "alvaroobregon",
+      "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, México",
+      "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
     },
     {
       "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",
@@ -6249,11 +6429,11 @@
     {
       "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",
       "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcgbcc/",
+      "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
       "sources": [
         {
           "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcgbcc/",
+          "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
           "label": "Ver en Meetup"
         }
       ],
@@ -6383,6 +6563,32 @@
       "city_code": "cdmx",
       "address": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
       "hash_key": "to be announced por anunciar_2026-07-22T00:00:00+00:00"
+    },
+    {
+      "title": "Global Startup Ecosystem|Mexico Tech Summit|México|Ciudad de México",
+      "description": "MexicoTech Summit is an international program featuring global speakers and partners passionate about the future of Mexico. The central",
+      "url": "https://www.eventbrite.com/e/mexico-tech-summit-tickets-96326080901",
+      "sources": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com/e/mexico-tech-summit-tickets-96326080901",
+          "label": "Ver en Eventbrite"
+        }
+      ],
+      "location": "Location TBA, TBA, Mexico City",
+      "organizer": "Global Startup Ecosystem",
+      "dtstart": "2026-07-30T10:00:00-06:00",
+      "dtend": "2026-07-30T15:00:00-06:00",
+      "tags": [],
+      "source": "Eventbrite",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Ciudad de México, CDMX, México",
+      "hash_key": "mexico tech summit_2026-07-30T16:00:00+00:00"
     },
     {
       "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",

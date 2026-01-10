@@ -18081,5 +18081,387 @@
       "establishment",
       "point_of_interest"
     ]
+  },
+  "Roma Norte, Ciudad de México": {
+    "address_components": [
+      {
+        "long_name": "Roma Norte",
+        "short_name": "Roma Nte.",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "06700",
+        "short_name": "06700",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Roma Nte., 06700 Ciudad de México, CDMX, México",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 19.4258513,
+          "lng": -99.153658
+        },
+        "southwest": {
+          "lat": 19.4104546,
+          "lng": -99.1767447
+        }
+      },
+      "location": {
+        "lat": 19.4195256,
+        "lng": -99.162549
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 19.4258513,
+          "lng": -99.153658
+        },
+        "southwest": {
+          "lat": 19.4104546,
+          "lng": -99.1767447
+        }
+      }
+    },
+    "place_id": "ChIJzeSi8jn_0YURMiXDZ-gzmi0",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  "EPAM NEORIS, Av. 2 de Octubre 333, San Pedro Garza García, NLE": {
+    "address_components": [
+      {
+        "long_name": "Lote 2",
+        "short_name": "Lote 2",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "333",
+        "short_name": "333",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenida 2 de Octubre",
+        "short_name": "Av. 2 de Octubre",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Unidad",
+        "short_name": "Unidad",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Pedro",
+        "short_name": "San Pedro",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "San Pedro Garza García",
+        "short_name": "San Pedro Garza García",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Nuevo León",
+        "short_name": "N.L.",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "66215",
+        "short_name": "66215",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. 2 de Octubre 333-Lote 2, Unidad, San Pedro, 66215 San Pedro Garza García, N.L., México",
+    "geometry": {
+      "location": {
+        "lat": 25.6761314,
+        "lng": -100.4164747
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 25.6779397802915,
+          "lng": -100.4150635697085
+        },
+        "southwest": {
+          "lat": 25.6752418197085,
+          "lng": -100.4177615302915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 25.6769879,
+          "longitude": -100.4165223
+        },
+        "restricted_travel_modes": [
+          "WALK"
+        ]
+      },
+      {
+        "location": {
+          "latitude": 25.676131,
+          "longitude": -100.4163727
+        },
+        "restricted_travel_modes": [
+          "DRIVE"
+        ]
+      }
+    ],
+    "partial_match": true,
+    "place_id": "ChIJVVVVqcKXYoYRA1DZow8lCVc",
+    "plus_code": {
+      "compound_code": "MHGM+FC San Pedro Garza García, N.L., México",
+      "global_code": "75QXMHGM+FC"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
+  },
+  "Co-Madre Lomas, Diagonal C. Montes Urales 455-Piso 1 y 2, Lomas - Virreyes, 6, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, Mexico City, CMX 06500, Mexico City, CMX": {
+    "address_components": [
+      {
+        "long_name": "piso 1 y 2",
+        "short_name": "piso 1 y 2",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "455",
+        "short_name": "455",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Calle Montes Urales",
+        "short_name": "C. Montes Urales",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Lomas - Virreyes",
+        "short_name": "Lomas - Virreyes",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lomas de Chapultepec III Sección",
+        "short_name": "Lomas de Chapultepec III Secc",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "11000",
+        "short_name": "11000",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "C. Montes Urales 455-piso 1 y 2, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, 11000 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.4282005,
+        "lng": -99.2063039
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.4297206802915,
+          "lng": -99.2048694697085
+        },
+        "southwest": {
+          "lat": 19.4270227197085,
+          "lng": -99.2075674302915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.4284893,
+          "longitude": -99.2061681
+        }
+      }
+    ],
+    "partial_match": true,
+    "place_id": "EocBQy4gTW9udGVzIFVyYWxlcyA0NTUtcGlzbyAxIHkgMiwgTG9tYXMgLSBWaXJyZXllcywgTG9tYXMgZGUgQ2hhcHVsdGVwZWMgSUlJIFNlY2MsIE1pZ3VlbCBIaWRhbGdvLCAxMTAwMCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTWV4aWNvIiYaJAoWChQKEglbCt109gHShRG1tC0Vf2FN1RIKcGlzbyAxIHkgMg",
+    "types": [
+      "street_address",
+      "subpremise"
+    ]
+  },
+  "Hipódromo, Ciudad de México": {
+    "address_components": [
+      {
+        "long_name": "Hipódromo",
+        "short_name": "Hipódromo",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "06100",
+        "short_name": "06100",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Hipódromo, 06100 Ciudad de México, CDMX, México",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 19.4167765,
+          "lng": -99.16540409999999
+        },
+        "southwest": {
+          "lat": 19.4002009,
+          "lng": -99.18068219999999
+        }
+      },
+      "location": {
+        "lat": 19.4093682,
+        "lng": -99.1719095
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 19.4167765,
+          "lng": -99.16540409999999
+        },
+        "southwest": {
+          "lat": 19.4002009,
+          "lng": -99.18068219999999
+        }
+      }
+    },
+    "place_id": "ChIJIb7VFUL_0YURABkbMjDDqqQ",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
   }
 }
