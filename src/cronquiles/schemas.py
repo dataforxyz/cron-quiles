@@ -5,11 +5,19 @@ Schemas - Definiciones de tipo para la estructura de datos.
 from typing import TypedDict, List, Optional
 
 
+class SourceSchema(TypedDict):
+    """Esquema de una fuente/plataforma de un evento."""
+    platform: str  # "meetup", "luma", "eventbrite", "website"
+    url: str
+    label: str  # "Ver en Meetup", etc.
+
+
 class EventSchema(TypedDict):
     """Esquema de un evento normalizado en el JSON de salida."""
     title: str
     description: str
-    url: str
+    url: str  # Primary URL (backward compat)
+    sources: List[SourceSchema]  # All sources with platform info
     location: str
     organizer: str
     dtstart: Optional[str]  # ISO format
