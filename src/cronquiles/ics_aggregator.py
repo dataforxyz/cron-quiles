@@ -14,6 +14,8 @@ from typing import Dict, List, Optional
 import requests
 from dateutil import tz
 from icalendar import Calendar
+from urllib.parse import urlparse, parse_qs
+import re
 
 # Import models & history
 from .models import EventNormalized
@@ -26,13 +28,111 @@ from .aggregators.meetup import MeetupAggregator
 from .aggregators.ics import GenericICSAggregator
 from .aggregators.manual import ManualAggregator
 from .aggregators.hievents import HiEventsAggregator
-from .schemas import JSONOutputSchema, CommunitySchema
+from .schemas import JSONOutputSchema, CommunitySchema, CommunityLinkSchema
 
 # Configurations
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 logger = logging.getLogger(__name__)
+
+
+def extract_community_url(feed_url: str) -> str:
+    """
+    Extrae la URL navegable de una comunidad a partir de la URL del feed ICS.
+
+    Transformaciones:
+    - meetup.com/{slug}/events/ical → https://www.meetup.com/{slug}
+    - luma.com/{slug} o lu.ma/{slug} → mantener como está
+    - api2.luma.com/ics/get?entity=calendar&id={id} → https://lu.ma/{id}
+    - eventbrite.com/o/{org-id} → mantener como está
+    - eventbrite.com/e/{event-id} → mantener como está
+    - Otros → usar como está
+
+    Args:
+        feed_url: URL del feed de la comunidad
+
+    Returns:
+        URL navegable de la comunidad
+    """
+    if not feed_url:
+        return ""
+
+    parsed = urlparse(feed_url)
+    host = parsed.netloc.lower()
+    path = parsed.path
+
+    # Meetup: extraer slug del grupo
+    if "meetup.com" in host:
+        # Patrón: /slug/events/ical o /slug/events/
+        match = re.match(r'^/([^/]+)/events/?(?:ical)?$', path)
+        if match:
+            slug = match.group(1)
+            return f"https://www.meetup.com/{slug}"
+        # Si no coincide, devolver la URL sin /events/ical
+        clean_path = re.sub(r'/events/?(?:ical)?$', '', path)
+        return f"https://www.meetup.com{clean_path}"
+
+    # Luma API: extraer ID del calendario
+    if "api2.luma.com" in host:
+        # Patrón: /ics/get?entity=calendar&id={id}
+        query_params = parse_qs(parsed.query)
+        calendar_id = query_params.get('id', [''])[0]
+        if calendar_id:
+            return f"https://lu.ma/{calendar_id}"
+        return feed_url
+
+    # lu.ma o luma.com directo: mantener como está
+    if "lu.ma" in host or "luma.com" in host:
+        return feed_url
+
+    # Eventbrite: mantener como está
+    if "eventbrite." in host:
+        return feed_url
+
+    # Otros (ICS genérico, etc.): mantener como está
+    return feed_url
+
+
+def detect_platform_from_url(url: str) -> str:
+    """
+    Detecta la plataforma a partir del patrón de URL.
+
+    Args:
+        url: URL de la comunidad
+
+    Returns:
+        Identificador de plataforma: "meetup", "luma", "eventbrite", o "website"
+    """
+    if not url:
+        return "website"
+    url_lower = url.lower()
+    if "meetup.com" in url_lower:
+        return "meetup"
+    if "lu.ma" in url_lower or "luma.com" in url_lower or "api2.luma.com" in url_lower:
+        return "luma"
+    if "eventbrite.com" in url_lower or "eventbrite.com.mx" in url_lower:
+        return "eventbrite"
+    return "website"
+
+
+def get_platform_label_for_community(platform: str) -> str:
+    """
+    Obtiene la etiqueta de visualización para la plataforma de comunidad.
+
+    Args:
+        platform: Identificador de plataforma
+
+    Returns:
+        Etiqueta legible para mostrar en la UI
+    """
+    labels = {
+        "meetup": "Meetup",
+        "luma": "Luma",
+        "eventbrite": "Eventbrite",
+        "website": "Sitio web"
+    }
+    return labels.get(platform, "Sitio web")
 
 
 class ICSAggregator:
@@ -322,22 +422,52 @@ class ICSAggregator:
         city_name: Optional[str] = None,
         feeds: Optional[List[Dict]] = None,
     ) -> str:
-        # Deduplicar comunidades por nombre (misma comunidad puede tener múltiples feeds)
-        seen_communities: Dict[str, str] = {}
+        # Agrupar comunidades por nombre y recolectar todos sus enlaces
+        # (misma comunidad puede tener múltiples feeds en diferentes plataformas)
+        community_data: Dict[str, Dict] = {}
         for f in feeds or []:
             if isinstance(f, dict) and f.get("name"):
                 name = f.get("name", "")
-                if name not in seen_communities:
-                    seen_communities[name] = f.get("description", "")
+                feed_url = f.get("url", "")
+
+                if name not in community_data:
+                    community_data[name] = {
+                        "description": f.get("description", ""),
+                        "links": []
+                    }
+
+                # Extraer URL navegable y detectar plataforma
+                if feed_url:
+                    community_url = extract_community_url(feed_url)
+                    platform = detect_platform_from_url(feed_url)
+                    label = get_platform_label_for_community(platform)
+
+                    # Agregar link solo si no existe ya (evitar duplicados)
+                    existing_urls = [link["url"] for link in community_data[name]["links"]]
+                    if community_url and community_url not in existing_urls:
+                        community_data[name]["links"].append(
+                            CommunityLinkSchema(
+                                platform=platform,
+                                url=community_url,
+                                label=label
+                            )
+                        )
+
+        # Construir lista de comunidades con sus enlaces
+        communities_list = [
+            CommunitySchema(
+                name=name,
+                description=data["description"],
+                links=data["links"]
+            )
+            for name, data in community_data.items()
+        ]
 
         events_data: JSONOutputSchema = {
             "generated_at": datetime.now(tz.UTC).isoformat(),
             "total_events": len(events),
             "city": city_name,
-            "communities": [
-                CommunitySchema(name=name, description=desc)
-                for name, desc in seen_communities.items()
-            ],
+            "communities": communities_list,
             "events": [event.to_dict() for event in events],
         }
 
