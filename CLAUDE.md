@@ -1,110 +1,149 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Este archivo proporciona orientación para Claude Code (claude.ai/code) al trabajar con código en este repositorio.
 
-## Project Overview
+## Descripción General del Proyecto
 
-Cron-Quiles is a Python tool that aggregates tech event calendars from multiple sources (Meetup, Luma, Eventbrite, ICS feeds) into unified, deduplicated calendars for Mexico. It runs automatically via GitHub Actions every 6 hours.
+Cron-Quiles es una herramienta Python que agrega calendarios de eventos tech de múltiples fuentes (Meetup, Luma, Eventbrite, feeds ICS) en calendarios unificados y deduplicados para México. Se ejecuta automáticamente a través de GitHub Actions cada 6 horas.
 
-## Common Commands
+## Comandos Comunes
 
 ```bash
-# Install dependencies
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+# Instalación
+make install-dev  # Instala prod + dev
+make install      # Solo producción
 
-# Run the main pipeline (generates ICS/JSON files in gh-pages/data/)
-python main.py --all-cities --json --output-dir gh-pages/data/
+# Ejecutar pipeline
+make run-all                                    # Todas las ciudades
+make run ARGS="--city cdmx --json"             # Ciudad específica
+make run ARGS="--all-cities --output-dir out/"  # Custom output
 
-# Run tests
-python -m pytest tests/ -v
+# Tests
+make test                                  # Todos
+make test-file FILE=test_ics_aggregator.py # Específico
+make test-filter FILTER="normalize_title"  # Filtrado
 
-# Run a single test file
-python -m pytest tests/test_ics_aggregator.py -v
+# Linting y formateo
+make lint          # Verifica
+make format        # Formatea
+make format-check  # Verifica sin cambiar
 
-# Run tests with specific test name
-python -m pytest tests/ -v -k "test_normalize_title"
+# Servidor local
+make serve  # http://localhost:8000
 
-# Lint code
-pip install flake8
-flake8 src/ --max-line-length=127
+# Herramientas
+make tools-deduplicate
+make tools-populate-cache
+make tools-scan-feeds
+make tools-scrape-meetup
 
-# Local dev server for gh-pages
-cd gh-pages && python serve.py
+# Gestión
+make clean   # Limpia archivos generados
+make update  # Actualiza dependencias
+make check   # Verifica entorno
+
+# Ver todos los comandos
+make help
 ```
 
-## Architecture
+## Gestión de Dependencias con uv
+
+### Instalación de uv
+
+```bash
+# Linux/macOS
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+### Uso Básico
+
+```bash
+# Instalar desde lockfile
+uv sync --frozen
+
+# Con extras de desarrollo
+uv sync --frozen --all-extras
+
+# Agregar dependencia
+uv add requests
+uv add --dev pytest
+
+# Actualizar
+uv lock --upgrade-package requests  # Específica
+uv lock --upgrade                   # Todas
+```
+
+## Arquitectura
 
 ### Core Pipeline (`src/cronquiles/`)
 
-- **`main.py`**: CLI entry point with argument parsing. Loads feeds from `config/feeds.yaml`, orchestrates aggregation, and generates output files.
-- **`ics_aggregator.py`**: `ICSAggregator` class - the main orchestrator. Dispatches to specific aggregators based on URL patterns, handles deduplication, geocoding, and history management.
-- **`models.py`**: `EventNormalized` class - normalizes events from different sources into a unified format. Handles title cleaning, tag extraction, timezone conversion, and hash key generation for deduplication.
-- **`history_manager.py`**: Persists events to `data/history.json` for historical data preservation and merge logic.
+- **`main.py`**: CLI entry point con argument parsing. Carga feeds desde `config/feeds.yaml`, orquesta agregación y genera archivos de salida.
+- **`ics_aggregator.py`**: Clase `ICSAggregator` - el orquestador principal. Despacha a agregadores específicos basándose en patrones de URL, maneja deduplicación, geocodificación y gestión de historial.
+- **`models.py`**: Clase `EventNormalized` - normaliza eventos de diferentes fuentes en un formato unificado. Maneja limpieza de títulos, extracción de tags, conversión de zonas horarias y generación de claves hash para deduplicación.
+- **`history_manager.py`**: Persiste eventos en `data/history.json` para preservación de datos históricos y lógica de fusión.
 
-### Aggregators (`src/cronquiles/aggregators/`)
+### Agregadores (`src/cronquiles/aggregators/`)
 
-Each aggregator extracts events from a specific source type:
-- `ics.py`: Generic ICS feed parser (base implementation)
-- `meetup.py`: Meetup-specific extraction with JSON-LD enrichment for locations
-- `luma.py`: Luma calendar integration with URL cleaning
-- `eventbrite.py`: Eventbrite organizer and single event support
-- `manual.py`: JSON-based manual event injection from `config/manual_events.json`
+Cada agregador extrae eventos de un tipo específico de fuente:
+- `ics.py`: Parser genérico de feeds ICS (implementación base)
+- `meetup.py`: Extracción específica de Meetup con enriquecimiento JSON-LD para ubicaciones
+- `luma.py`: Integración de calendario Luma con limpieza de URLs
+- `eventbrite.py`: Soporte de organizador Eventbrite y evento único
+- `manual.py`: Inyección manual de eventos basada en JSON desde `config/manual_events.json`
 
-### Source Routing Logic
+### Lógica de Enrutamiento de Fuentes
 
-The `ICSAggregator.aggregate_feeds()` method routes URLs to aggregators:
-- `eventbrite.com` URLs → EventbriteAggregator
-- `lu.ma` or `luma.com` URLs → LumaAggregator
-- `meetup.com` URLs → MeetupAggregator
-- Everything else → GenericICSAggregator
+El método `ICSAggregator.aggregate_feeds()` enruta URLs a agregadores:
+- URLs `eventbrite.com` → EventbriteAggregator
+- URLs `lu.ma` o `luma.com` → LumaAggregator
+- URLs `meetup.com` → MeetupAggregator
+- Todo lo demás → GenericICSAggregator
 
-### Deduplication
+### Deduplicación
 
-Events are deduplicated using hash keys based on normalized title + time block (2-hour tolerance in UTC). When duplicates are found, the best version is kept (preferring events with URLs and longer descriptions) and alternative URLs are merged into the description.
+Los eventos se deduplicaban usando claves hash basadas en el título normalizado + bloque de tiempo (tolerancia de 2 horas en UTC). Cuando se encuentran duplicados, se mantiene la mejor versión (prefiriendo eventos con URLs y descripciones más largas) y se fusionan URLs alternativas en la descripción.
 
-### Output Generation
+### Generación de Salida
 
-Files are generated in `gh-pages/data/`:
-- `cronquiles-mexico.ics/json` - National unified calendar
-- `cronquiles-{state-code}.ics/json` - Per-state calendars (e.g., `cronquiles-mx-cmx.ics`)
-- `cronquiles-online.ics/json` - Online-only events
-- `states_metadata.json` - Frontend manifest with state info
+Los archivos se generan en `gh-pages/data/`:
+- `cronquiles-mexico.ics/json` - Calendario unificado nacional
+- `cronquiles-{state-code}.ics/json` - Calendarios por estado (ej: `cronquiles-mx-cmx.ics`)
+- `cronquiles-online.ics/json` - Solo eventos en línea
+- `states_metadata.json` - Manifest del frontend con info de estados
 
-### Country Filtering
+### Filtrado por País
 
-Only events in Mexico (`country_code == "MX"`) or Online events are processed. Non-Mexico events are filtered out.
+Solo se procesan eventos en México (`country_code == "MX"`) o eventos En línea. Los eventos fuera de México se filtran.
 
-## Key Files
+## Archivos Clave
 
-- `config/feeds.yaml`: List of all feed sources with URLs, names, and descriptions
-- `config/manual_events.json`: Manual event entries (optional)
-- `data/history.json`: Persistent event history database
-- `data/geocoding_cache.json`: Cached geocoding results to avoid API rate limits
+- `config/feeds.yaml`: Lista de todas las fuentes de feeds con URLs, nombres y descripciones
+- `config/manual_events.json`: Entradas de eventos manuales (opcional)
+- `data/history.json`: Base de datos de historial de eventos persistente
+- `data/geocoding_cache.json`: Resultados de geocodificación en caché para evitar límites de API
 
-## Tools Directory
+## Directorio de Herramientas
 
-Maintenance scripts in `tools/`:
-- `scrape_meetup_history.py`: Extract historical Meetup events
-- `populate_cache_from_history.py`: Pre-populate geocoding cache
-- `scan_feeds_and_cache.py`: Scan feeds and ensure cache completeness
-- `update_communities_status.py`: Update community status in docs
+Scripts de mantenimiento en `tools/`:
+- `scrape_meetup_history.py`: Extraer eventos históricos de Meetup
+- `populate_cache_from_history.py`: Pre-popular caché de geocodificación
+- `scan_feeds_and_cache.py`: Escanear feeds y asegurar completitud de caché
+- `update_communities_status.py`: Actualizar estado de comunidad en docs
 
-## Documentation Requirements
+## Requisitos de Documentación
 
-When making changes:
-1. Update `CHANGELOG.md` with changes
-2. Update `docs/COMMUNITIES.md` if adding new feeds to `config/feeds.yaml`
-3. Keep docstrings and inline comments current
-4. Do not commit generated files in `gh-pages/data/` manually (GitHub Actions handles this)
+Al realizar cambios:
+1. Actualizar `CHANGELOG.md` con los cambios
+2. Actualizar `docs/COMMUNITIES.md` si se agregan nuevos feeds a `config/feeds.yaml`
+3. Mantener docstrings e comentarios en línea actuales
+4. No commitear archivos generados en `gh-pages/data/` manualmente (GitHub Actions se encarga)
 
-## Code Style
+## Estilo de Código
 
 - Python 3.10+
-- Black for formatting
-- Flake8 for linting (max line length 127)
-- Type hints encouraged
-- Docstrings for modules, classes, and public functions
-- **All comments and code documentation must be in Spanish**
-- User-facing labels and strings should be in Spanish (e.g., "Ver en Meetup" not "View on Meetup")
+- Black para formateo
+- Flake8 para linting (máximo 127 caracteres por línea)
+- Type hints recomendados
+- Docstrings para módulos, clases y funciones públicas
+- **Todos los comentarios y documentación de código deben estar en español**
+- Las cadenas visibles para el usuario deben estar en español (ej: "Ver en Meetup" no "View on Meetup")
