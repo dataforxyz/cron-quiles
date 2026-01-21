@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-01-21T12:34:32.409124+00:00",
-  "total_events": 11,
+  "generated_at": "2026-01-21T16:09:02.965665+00:00",
+  "total_events": 12,
   "city": "Puebla",
   "communities": [
     {
       "name": "PyTalavera",
       "description": "Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región."
+    },
+    {
+      "name": "Talavera Valley",
+      "description": "Comunidad que está construyendo el ecosistema de startups más ambicioso y robusto de la región de Puebla. Eventos para startups, talento emergente y capital."
     }
   ],
   "events": [
@@ -240,6 +244,25 @@
       "city_code": "heroicapuebladezaragoza",
       "address": "Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., México",
       "hash_key": "meetup enero python puebla_2026-01-16T00:00:00+00:00"
+    },
+    {
+      "title": "Talavera Valley|Kick Off Talavera Valley Hub|México|Puebla",
+      "description": "Obtén información actualizada en: https://luma.com/r706j72y\n\nDirección:\nTecnológico de Monterrey Campus Puebla\nHeroica Puebla de Zaragoza, Puebla\nMéxico\n\nOrganizado por talavera valley",
+      "url": "https://luma.com/r706j72y",
+      "location": "Tecnológico de Monterrey Campus Puebla, Atlixcáyotl 5718, Reserva Territorial Atlixcáyotl, Corredor Comercial Desarrollo Atlixcayotl, 72453 Heroica Puebla de Zaragoza, Pue., México",
+      "organizer": "Talavera Valley",
+      "dtstart": "2026-02-26T00:00:00+00:00",
+      "dtend": "2026-02-26T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-KqGqtx1zbUKDXTy",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Puebla",
+      "state_code": "MX-PUE",
+      "city": "Heroica Puebla de Zaragoza",
+      "city_code": "heroicapuebladezaragoza",
+      "address": "Atlixcáyotl 5718, Reserva Territorial Atlixcáyotl, Corredor Comercial Desarrollo Atlixcayotl, 72453 Heroica Puebla de Zaragoza, Pue., México",
+      "hash_key": "kick off talavera valley hub_2026-02-26T00:00:00+00:00"
     }
   ]
 }

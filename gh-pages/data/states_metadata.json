@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 259,
-    "future_event_count": 23,
+    "event_count": 326,
+    "future_event_count": 30,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -14,6 +14,7 @@
       "2022-01",
       "2024-03",
       "2024-05",
+      "2024-08",
       "2024-09",
       "2024-10",
       "2024-11",
@@ -48,13 +49,17 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 202,
-    "future_event_count": 17,
+    "event_count": 229,
+    "future_event_count": 20,
     "active_months": [
+      "2024-09",
       "2024-10",
       "2024-11",
       "2025-04",
+      "2025-06",
+      "2025-07",
       "2025-08",
+      "2025-09",
       "2025-10",
       "2025-11",
       "2025-12",
@@ -142,8 +147,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 27,
-    "future_event_count": 2,
+    "event_count": 65,
+    "future_event_count": 5,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -152,12 +157,20 @@
       "2021-09",
       "2022-01",
       "2024-05",
+      "2024-08",
       "2024-09",
       "2024-10",
       "2024-11",
       "2024-12",
       "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-06",
+      "2025-07",
       "2025-09",
+      "2025-10",
+      "2025-12",
       "2026-01",
       "2026-02"
     ],
@@ -167,8 +180,8 @@
     "code": "MX-PUE",
     "name": "Puebla",
     "slug": "mx-pue",
-    "event_count": 11,
-    "future_event_count": 0,
+    "event_count": 12,
+    "future_event_count": 1,
     "active_months": [
       "2025-01",
       "2025-02",
@@ -180,8 +193,20 @@
       "2025-09",
       "2025-10",
       "2025-12",
-      "2026-01"
+      "2026-01",
+      "2026-02"
     ],
     "emoji": "🌋"
+  },
+  {
+    "code": "MX-YUC",
+    "name": "Yucatán",
+    "slug": "mx-yuc",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2024-09"
+    ],
+    "emoji": "🏖️"
   }
 ]
