@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐢</text></svg>">
+    <title>🐢 Cron-Quiles - Eventos Tech México</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="terminal">
+        <!-- Terminal Header -->
+        <div class="terminal-header">
+            <div class="terminal-title">🐢 Cron-Quiles</div>
+            <div class="terminal-subtitle" data-i18n="site.subtitle">Calendario unificado de eventos tech en México</div>
+            <div class="lang-switcher">
+                <button class="lang-btn active" data-lang="es" aria-label="Español">ES</button>
+                <span class="lang-separator">|</span>
+                <button class="lang-btn" data-lang="en" aria-label="English">EN</button>
+            </div>
+        </div>
+
+        <!-- City Tabs -->
+        <div class="city-tabs">
+            <div class="events-loading">...</div>
+        </div>
+
+        <!-- Comando 1: Descripción -->
+        <div class="prompt">
+            <span class="cursor">$</span>
+            <span class="command-text" data-i18n="cmd.description">cat descripcion.txt</span>
+        </div>
+        <div class="output">
+            <p data-i18n="desc.content">
+                Este calendario agrega eventos de múltiples fuentes (Meetup, Luma, etc.)
+                en un solo lugar. Los eventos se actualizan automáticamente cada 6 horas.
+            </p>
+        </div>
+        <!-- Comando 2: Calendario Visual -->
+        <div class="prompt">
+            <span class="cursor">$</span>
+            <span class="command-text" data-i18n="cmd.calendar">./calendario.sh</span>
+        </div>
+        <div id="calendar-output" class="output">
+            <h2 data-i18n="calendar.title">📅 Calendario de Eventos</h2>
+            <div id="calendar-container" class="calendar-container">
+                <div class="events-loading" data-i18n="calendar.loading">Cargando calendario...</div>
+            </div>
+        </div>
+
+        <!-- Communities Section -->
+        <section class="communities-section">
+            <h2 class="section-title">
+                <span class="prompt-char">#</span> <span data-i18n="section.communities">Comunidades Integradas</span>
+            </h2>
+            <div id="communities-grid" class="communities-grid">
+                <!-- Las comunidades se cargan dinámicamente según la ciudad -->
+            </div>
+            <div style="margin-top: var(--spacing-lg); color: var(--terminal-gray); font-size: 0.9em; text-align: center;">
+                <a href="https://github.com/shellaquiles/cron-quiles/blob/main/docs/COMMUNITIES.md" target="_blank" style="color: var(--terminal-green); text-decoration: underline;" data-i18n="communities.viewAll">Ver lista completa de comunidades integrada →</a>
+                <br><br>
+                <span data-i18n="communities.addYours">¿Quieres agregar tu comunidad? Abre un PR o Issue en el repositorio.</span>
+            </div>
+        </section>
+
+        <!-- Comando 3: Calendario ICS -->
+        <div class="prompt">
+            <span class="cursor">$</span>
+            <span class="command-text" data-i18n="cmd.files">ls calendarios/</span>
+        </div>
+        <div class="output">
+            <h2>📅 <span data-i18n="section.ics">Calendario ICS</span> <span class="badge" data-i18n="badge.recommended">Recomendado</span></h2>
+            <p data-i18n="ics.description">
+                Archivo ICS estándar compatible con Google Calendar, Apple Calendar,
+                Outlook y cualquier cliente de calendario.
+            </p>
+            <div class="download-card">
+                <div class="btn-group">
+                    <a href="data/cronquiles-mexico.ics" class="btn" id="download-ics-btn" download data-i18n="btn.download.ics">Descargar ICS</a>
+                    <a href="webcal://shellaquiles.github.io/cron-quiles/data/cronquiles-mexico.ics" class="btn btn-secondary" id="webcal-btn" data-i18n="btn.copy.webcal">Copiar WebCal</a>
+                </div>
+            </div>
+        </div>
+        <!-- Comando 4: Datos JSON -->
+        <div class="prompt">
+            <span class="cursor">$</span>
+            <span class="command-text" data-i18n="cmd.json">cat datos.json</span>
+        </div>
+        <div class="output">
+            <h2>📊 <span data-i18n="section.json">Datos JSON</span></h2>
+            <p data-i18n="json.description">
+                Archivo JSON con todos los eventos para uso programático o análisis.
+            </p>
+            <div class="download-card">
+                <div class="btn-group">
+                    <a href="data/cronquiles-mexico.json" class="btn" id="download-json-btn" download data-i18n="btn.download.json">Descargar JSON</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Comando 5: Tips -->
+        <div class="prompt">
+            <span class="cursor">$</span>
+            <span class="command-text" data-i18n="cmd.tips">cat tips.txt</span>
+        </div>
+        <div class="output">
+            <div class="info-box">
+                <strong>💡 <span data-i18n="tip.label">Tip:</span></strong> <span data-i18n="tip.content">Para suscribirte automáticamente, usa la URL de WebCal
+                o importa el archivo ICS en tu calendario favorito. Los eventos se actualizarán
+                automáticamente.</span>
+            </div>
+        </div>
+
+        <!-- Comando 6: Cómo usar -->
+        <div class="prompt">
+            <span class="cursor">$</span>
+            <span class="command-text" data-i18n="cmd.howto">./como-usar.sh</span>
+        </div>
+        <div class="output">
+            <h2>📱 <span data-i18n="section.howto">Cómo usar</span></h2>
+            <ul>
+                <li><strong>Google Calendar:</strong> <span data-i18n="howto.google">Haz clic en "Copiar WebCal" o importa el archivo ICS</span></li>
+                <li><strong>Apple Calendar:</strong> <span data-i18n="howto.apple">Archivo → Nueva suscripción de calendario → pega la URL WebCal</span></li>
+                <li><strong>Outlook:</strong> <span data-i18n="howto.outlook">Agregar calendario → Suscribir desde web → pega la URL WebCal</span></li>
+            </ul>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>
+                <span data-i18n="footer.project">Proyecto open source de la comunidad</span> <strong><a href="https://shellaquiles.org"> Shellaquiles</a></strong> 🐢
+            </p>
+            <p style="margin-top: var(--spacing-md);">
+                <a href="https://github.com/shellaquiles/cron-quiles" data-i18n="footer.github">Ver en GitHub</a> |
+                <a href="https://github.com/shellaquiles/cron-quiles/blob/main/README.md" data-i18n="footer.docs">Documentación</a>
+            </p>
+            <p style="margin-top: var(--spacing-md); font-size: 0.9em;">
+                <span data-i18n="footer.lastUpdate">Última actualización:</span> <span class="last-update" id="last-update" data-i18n="footer.loading">Cargando...</span>
+            </p>
+        </div>
+    </div>
+
+    <!-- Módulo Principal: type="module" habilita import/export -->
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="pixelead0" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+    <title>🐢 Cron-Quiles - Eventos Tech México</title>
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

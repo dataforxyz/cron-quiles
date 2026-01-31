@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en México\, México
+X-WR-CALNAME:Eventos Tech México - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|Pivote (from the concept of pivoting)|México|Mé
+ xico
+DTSTART:20241024T220000Z
+DESCRIPTION:Obtén información actualizada en: https://luma.com/ilnes23n\
+ n\nDirección:\nNúcleo\nCiudad de México\, Ciudad de México\nMexico\n\n
+ Organizado por Mexico Tech Week y 4 personas más
+LOCATION:Núcleo\, Av Plan de San Luis 491\, Nueva Santa María\, Azcapotz
+ alco\, 02800 Ciudad de México\, CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Núcleo\, Av Plan de San Luis 491\, Nueva Santa Marí
+ a\, Azcapotzalco\, 02800 Ciudad de México\, CDMX\, Mexico
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|Despecho night!|México|Estado de México
+DTSTART:20241026T020000Z
+DESCRIPTION:Obtén información actualizada en: https://luma.com/pwl9jnw8\
+ n\nDirección:\nDespecho Satélite\nSatélite\, Estado de México\nMexico\
+ n\nOrganizado por Mexico Tech Week\, azalea y Héctor Cancela
+LOCATION:Despecho Satélite\, Cto Centro Comercial 29\, Cd. Satélite\, Na
+ ucalpan de Juárez\, Manzana 034\, Cd. Satélite\, 53100 Satélite\, Méx.
+ \, Mexico
+X-CRONQUILES-ADDRESS:Estado de México\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Estado de México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+END:VCALENDAR
