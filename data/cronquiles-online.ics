@@ -6,6 +6,27 @@ X-WR-CALDESC:Calendario unificado de eventos tech en Online\, México
 X-WR-CALNAME:Eventos Tech Online - cronquiles
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
+SUMMARY:AI/IA CDMX|Building the Right Product: Lessons from an AI Startup 
+ Founder|Online
+DTSTART:20241113T010000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Find more information on https://luma.com/ai-cdmx
+LOCATION:https://www.meetup.com/ai-cdmx/events/303644420/
+X-CRONQUILES-ADDRESS:https://www.meetup.com/ai-cdmx/events/303644420/
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI/IA CDMX|Beyond the Plateau: Rethinking AI in 2025|Online
+DTSTART:20250820T010000Z
+CATEGORIES:ai
+DESCRIPTION:Find more information on https://luma.com/ai-cdmx
+LOCATION:https://www.meetup.com/ai-cdmx/events/310087422/
+X-CRONQUILES-ADDRESS:https://www.meetup.com/ai-cdmx/events/310087422/
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective / The AI Collective|Primer Meetup: Retos de la P
  osada de Código 2025|Online
 DTSTART:20260127T180000

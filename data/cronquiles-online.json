@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-02-02T18:06:42.847758+00:00",
-  "total_events": 1,
+  "generated_at": "2026-02-02T18:13:19.451494+00:00",
+  "total_events": 3,
   "city": "Online",
   "communities": [
+    {
+      "name": "AI/IA CDMX",
+      "description": "Canal de Luma de la comunidad de IA en Ciudad de México.",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ai-cdmx",
+          "label": "Luma"
+        }
+      ]
+    },
     {
       "name": "Rust-AICollective / The AI Collective",
       "description": "Organizador de eventos manuales (ej: Primer Meetup: Retos de la Posada de Código 2025)",
@@ -10,6 +21,63 @@
     }
   ],
   "events": [
+    {
+      "title": "AI/IA CDMX|Building the Right Product: Lessons from an AI Startup Founder|Online",
+      "description": "Find more information on https://luma.com/ai-cdmx",
+      "url": "https://luma.com/ai-cdmx",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ai-cdmx",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://www.meetup.com/ai-cdmx/events/303644420/",
+      "organizer": "AI/IA CDMX",
+      "dtstart": "2024-11-13T01:00:00+00:00",
+      "dtend": "2024-11-13T03:00:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/ai-cdmx",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://www.meetup.com/ai-cdmx/events/303644420/",
+      "hash_key": "building the right product lessons from _2024-11-13T00:00:00+00:00"
+    },
+    {
+      "title": "AI/IA CDMX|Beyond the Plateau: Rethinking AI in 2025|Online",
+      "description": "Find more information on https://luma.com/ai-cdmx",
+      "url": "https://luma.com/ai-cdmx",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ai-cdmx",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://www.meetup.com/ai-cdmx/events/310087422/",
+      "organizer": "AI/IA CDMX",
+      "dtstart": "2025-08-20T01:00:00+00:00",
+      "dtend": "2025-08-20T03:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/ai-cdmx",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://www.meetup.com/ai-cdmx/events/310087422/",
+      "hash_key": "beyond the plateau rethinking ai in 2025_2025-08-20T00:00:00+00:00"
+    },
     {
       "title": "Rust-AICollective / The AI Collective|Primer Meetup: Retos de la Posada de Código 2025|Online",
       "description": "En este primer meetup, la comunidad de RustMX dará la primera charla.\n\nEl tópico es relacionado sobre como se resolvieron los retos de la Posada de Código 2025 y donde Daniel Ceballos fue uno de los desarrolladores que acabo entre los 10 primeros competidores\n\nEn esta sesión, Daniel nos va a platicar sobre como resolvió cada reto y explicar el código que desarrollo",
