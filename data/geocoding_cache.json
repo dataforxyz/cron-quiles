@@ -152,6 +152,37 @@
       "-98.9750504"
     ]
   },
+  "Co-Madre Lomas, Diagonal C. Montes Urales 455-Piso 1 y 2, Lomas - Virreyes, 6, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, Mexico City, CMX 06500, Mexico City, CMX": {},
+  "Diagonal C. Montes Urales 455-Piso 1 y 2, Lomas - Virreyes, 6, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, Mexico City, CMX 06500, Mexico City, CMX": {},
+  "Mexico City, CMX": {
+    "place_id": 402575862,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 17483459,
+    "lat": "19.4326296",
+    "lon": "-99.1331785",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.7820130584016439,
+    "addresstype": "city",
+    "name": "Ciudad de México",
+    "display_name": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
+    "address": {
+      "city": "Ciudad de México",
+      "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.2419543",
+      "19.5796926",
+      "-99.3150003",
+      "-98.9750504"
+    ]
+  },
   "EPAM NEORIS, Av. 2 de Octubre 333, San Pedro Garza García, NLE": {},
   "Av. 2 de Octubre 333, San Pedro Garza García, NLE": {},
   "San Pedro Garza García, NLE": {
@@ -317,37 +348,6 @@
       "22.0404870",
       "-102.4567195",
       "-102.1367195"
-    ]
-  },
-  "Co-Madre Lomas, Diagonal C. Montes Urales 455-Piso 1 y 2, Lomas - Virreyes, 6, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, Mexico City, CMX 06500, Mexico City, CMX": {},
-  "Diagonal C. Montes Urales 455-Piso 1 y 2, Lomas - Virreyes, 6, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, Mexico City, CMX 06500, Mexico City, CMX": {},
-  "Mexico City, CMX": {
-    "place_id": 402575862,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "relation",
-    "osm_id": 17483459,
-    "lat": "19.4326296",
-    "lon": "-99.1331785",
-    "class": "boundary",
-    "type": "administrative",
-    "place_rank": 16,
-    "importance": 0.7820130584016439,
-    "addresstype": "city",
-    "name": "Ciudad de México",
-    "display_name": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
-    "address": {
-      "city": "Ciudad de México",
-      "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.2419543",
-      "19.5796926",
-      "-99.3150003",
-      "-98.9750504"
     ]
   },
   "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL": {},
@@ -537,37 +537,6 @@
       "22.7502459",
       "-105.6954034",
       "-101.5105417"
-    ]
-  },
-  "La Salle Nezahualcoyotl - Auditorio y Centro Cultural Alfredo Harp Helú, Colonia Cd. Jardín Bicentenario, Av. Bordo de Xochiaca s/n-B, Manzana polígono IV, 57205 Cdad. Nezahualcóyotl, Méx., Ciudad de México, Ciudad de México": {},
-  "Colonia Cd. Jardín Bicentenario, Av. Bordo de Xochiaca s/n-B, Manzana polígono IV, 57205 Cdad. Nezahualcóyotl, Méx., Ciudad de México, Ciudad de México": {},
-  "Ciudad de México, Ciudad de México": {
-    "place_id": 402575862,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "relation",
-    "osm_id": 17483459,
-    "lat": "19.4326296",
-    "lon": "-99.1331785",
-    "class": "boundary",
-    "type": "administrative",
-    "place_rank": 16,
-    "importance": 0.7820130584016439,
-    "addresstype": "city",
-    "name": "Ciudad de México",
-    "display_name": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
-    "address": {
-      "city": "Ciudad de México",
-      "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.2419543",
-      "19.5796926",
-      "-99.3150003",
-      "-98.9750504"
     ]
   },
   "organizado por mexico tech week": {},
@@ -1666,6 +1635,70 @@
       "-99.2040846"
     ]
   },
+  "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
+  "Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
+  "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., México": {},
+  "Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., México": {},
+  "Jal., México": {
+    "place_id": 288800179,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2340910,
+    "lat": "20.3333331",
+    "lon": "-103.6666671",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 8,
+    "importance": 0.6833415956305943,
+    "addresstype": "state",
+    "name": "Jalisco",
+    "display_name": "Jalisco, México",
+    "address": {
+      "state": "Jalisco",
+      "ISO3166-2-lvl4": "MX-JAL",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "18.9258718",
+      "22.7502459",
+      "-105.6954034",
+      "-101.5105417"
+    ]
+  },
+  "Blend Station, Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, México": {},
+  "Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, México": {},
+  "Colonia Extremadura Insurgentes, Ciudad de México": {
+    "place_id": 286782880,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9041880518,
+    "lat": "19.3762985",
+    "lon": "-99.1806036",
+    "class": "place",
+    "type": "neighbourhood",
+    "place_rank": 20,
+    "importance": 0.13342732661936368,
+    "addresstype": "neighbourhood",
+    "name": "Colonia Extremadura Insurgentes",
+    "display_name": "Colonia Extremadura Insurgentes, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
+    "address": {
+      "neighbourhood": "Colonia Extremadura Insurgentes",
+      "city": "Ciudad de México",
+      "borough": "Benito Juárez",
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "postcode": "03740",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.3662985",
+      "19.3862985",
+      "-99.1906036",
+      "-99.1706036"
+    ]
+  },
   "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico": {},
   "Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico": {
     "place_id": 290233653,
@@ -1736,39 +1769,6 @@
       "-99.1750629"
     ]
   },
-  "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
-  "Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
-  "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., México": {},
-  "Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., México": {},
-  "Jal., México": {
-    "place_id": 288800179,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "relation",
-    "osm_id": 2340910,
-    "lat": "20.3333331",
-    "lon": "-103.6666671",
-    "class": "boundary",
-    "type": "administrative",
-    "place_rank": 8,
-    "importance": 0.6833415956305943,
-    "addresstype": "state",
-    "name": "Jalisco",
-    "display_name": "Jalisco, México",
-    "address": {
-      "state": "Jalisco",
-      "ISO3166-2-lvl4": "MX-JAL",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "18.9258718",
-      "22.7502459",
-      "-105.6954034",
-      "-101.5105417"
-    ]
-  },
-  "Blend Station, Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, México": {},
-  "Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, México": {},
   "Hipódromo, Ciudad de México": {
     "place_id": 286863445,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
@@ -1798,37 +1798,6 @@
       "19.4167532",
       "-99.1806822",
       "-99.1654017"
-    ]
-  },
-  "Colonia Extremadura Insurgentes, Ciudad de México": {
-    "place_id": 286782880,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "node",
-    "osm_id": 9041880518,
-    "lat": "19.3762985",
-    "lon": "-99.1806036",
-    "class": "place",
-    "type": "neighbourhood",
-    "place_rank": 20,
-    "importance": 0.13342732661936368,
-    "addresstype": "neighbourhood",
-    "name": "Colonia Extremadura Insurgentes",
-    "display_name": "Colonia Extremadura Insurgentes, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
-    "address": {
-      "neighbourhood": "Colonia Extremadura Insurgentes",
-      "city": "Ciudad de México",
-      "borough": "Benito Juárez",
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "postcode": "03740",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.3662985",
-      "19.3862985",
-      "-99.1906036",
-      "-99.1706036"
     ]
   },
   "Juárez, Ciudad de México": {
@@ -1864,74 +1833,39 @@
       "-99.1476339"
     ]
   },
+  "La Salle Nezahualcoyotl - Auditorio y Centro Cultural Alfredo Harp Helú, Colonia Cd. Jardín Bicentenario, Av. Bordo de Xochiaca s/n-B, Manzana polígono IV, 57205 Cdad. Nezahualcóyotl, Méx., Ciudad de México, Ciudad de México": {},
+  "Colonia Cd. Jardín Bicentenario, Av. Bordo de Xochiaca s/n-B, Manzana polígono IV, 57205 Cdad. Nezahualcóyotl, Méx., Ciudad de México, Ciudad de México": {},
+  "Ciudad de México, Ciudad de México": {
+    "place_id": 402575862,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 17483459,
+    "lat": "19.4326296",
+    "lon": "-99.1331785",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.7820130584016439,
+    "addresstype": "city",
+    "name": "Ciudad de México",
+    "display_name": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
+    "address": {
+      "city": "Ciudad de México",
+      "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.2419543",
+      "19.5796926",
+      "-99.3150003",
+      "-98.9750504"
+    ]
+  },
   "Tecnológico de Monterrey Campus Puebla, Atlixcáyotl 5718, Reserva Territorial Atlixcáyotl, Corredor Comercial Desarrollo Atlixcayotl, 72453 Heroica Puebla de Zaragoza, Pue., México": {},
   "Atlixcáyotl 5718, Reserva Territorial Atlixcáyotl, Corredor Comercial Desarrollo Atlixcayotl, 72453 Heroica Puebla de Zaragoza, Pue., México": {},
-  "Openhub Coworking Condesa, 6 Diagonal Patriotismo, Ciudad de México, CMX": {},
-  "6 Diagonal Patriotismo, Ciudad de México, CMX": {
-    "place_id": 288439560,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "way",
-    "osm_id": 1175526722,
-    "lat": "19.4097849",
-    "lon": "-99.1803331",
-    "class": "highway",
-    "type": "primary",
-    "place_rank": 26,
-    "importance": 0.05342732661936366,
-    "addresstype": "road",
-    "name": "Avenida Diagonal Patriotismo",
-    "display_name": "Avenida Diagonal Patriotismo, Hipódromo Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
-    "address": {
-      "road": "Avenida Diagonal Patriotismo",
-      "neighbourhood": "Hipódromo Condesa",
-      "city": "Ciudad de México",
-      "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "postcode": "06160",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.4094212",
-      "19.4101486",
-      "-99.1805518",
-      "-99.1801143"
-    ]
-  },
-  "Universidad La Salle, 45 Avenida Benjamín Franklin, Cuauhtémoc, CMX": {},
-  "45 Avenida Benjamín Franklin, Cuauhtémoc, CMX": {
-    "place_id": 287309043,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "way",
-    "osm_id": 25207658,
-    "lat": "19.4068753",
-    "lon": "-99.1810584",
-    "class": "highway",
-    "type": "primary",
-    "place_rank": 26,
-    "importance": 0.05342732661936366,
-    "addresstype": "road",
-    "name": "Avenida Benjamín Franklin",
-    "display_name": "Avenida Benjamín Franklin, Hipódromo Condesa, Hipódromo, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
-    "address": {
-      "road": "Avenida Benjamín Franklin",
-      "neighbourhood": "Hipódromo Condesa",
-      "city": "Ciudad de México",
-      "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "postcode": "06160",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.4059176",
-      "19.4078475",
-      "-99.1840371",
-      "-99.1780751"
-    ]
-  },
   "Merida, Yucatan, Mexico": {
     "place_id": 282370411,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
@@ -2127,6 +2061,72 @@
       "19.4159601",
       "-99.1587290",
       "-99.1584966"
+    ]
+  },
+  "Openhub Coworking Condesa, 6 Diagonal Patriotismo, Ciudad de México, CMX": {},
+  "6 Diagonal Patriotismo, Ciudad de México, CMX": {
+    "place_id": 288439560,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1175526722,
+    "lat": "19.4097849",
+    "lon": "-99.1803331",
+    "class": "highway",
+    "type": "primary",
+    "place_rank": 26,
+    "importance": 0.05342732661936366,
+    "addresstype": "road",
+    "name": "Avenida Diagonal Patriotismo",
+    "display_name": "Avenida Diagonal Patriotismo, Hipódromo Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
+    "address": {
+      "road": "Avenida Diagonal Patriotismo",
+      "neighbourhood": "Hipódromo Condesa",
+      "city": "Ciudad de México",
+      "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "postcode": "06160",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.4094212",
+      "19.4101486",
+      "-99.1805518",
+      "-99.1801143"
+    ]
+  },
+  "Universidad La Salle, 45 Avenida Benjamín Franklin, Cuauhtémoc, CMX": {},
+  "45 Avenida Benjamín Franklin, Cuauhtémoc, CMX": {
+    "place_id": 287309043,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25207658,
+    "lat": "19.4068753",
+    "lon": "-99.1810584",
+    "class": "highway",
+    "type": "primary",
+    "place_rank": 26,
+    "importance": 0.05342732661936366,
+    "addresstype": "road",
+    "name": "Avenida Benjamín Franklin",
+    "display_name": "Avenida Benjamín Franklin, Hipódromo Condesa, Hipódromo, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
+    "address": {
+      "road": "Avenida Benjamín Franklin",
+      "neighbourhood": "Hipódromo Condesa",
+      "city": "Ciudad de México",
+      "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "postcode": "06160",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.4059176",
+      "19.4078475",
+      "-99.1840371",
+      "-99.1780751"
     ]
   },
   "Online": {
