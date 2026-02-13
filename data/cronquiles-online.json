@@ -1,17 +1,12 @@
 {
-  "generated_at": "2026-02-13T06:52:12.372296+00:00",
-  "total_events": 140,
+  "generated_at": "2026-02-13T12:40:30.601799+00:00",
+  "total_events": 110,
   "city": "Online",
   "communities": [
     {
       "name": "AI/IA CDMX",
-      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México.",
+      "description": "Canal de Luma de la comunidad de IA en Ciudad de México.",
       "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx",
-          "label": "Meetup"
-        },
         {
           "platform": "luma",
           "url": "https://luma.com/ai-cdmx",
@@ -39,17 +34,6 @@
       "name": "Mexico Tech Week",
       "description": "Calendario oficial de Mexico Tech Week 2025.",
       "links": []
-    },
-    {
-      "name": "Python CDMX",
-      "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.",
-      "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/python-mexico",
-          "label": "Meetup"
-        }
-      ]
     },
     {
       "name": "Pythonista",
@@ -83,11 +67,6 @@
           "label": "Luma"
         }
       ]
-    },
-    {
-      "name": "Claude Community",
-      "description": "Eventos de la comunidad de Claude AI.",
-      "links": []
     },
     {
       "name": "AI Builders MX",
@@ -669,32 +648,6 @@
       "hash_key": "genai collective community town hall_2024-02-23T02:00:00+00:00"
     },
     {
-      "title": "HackGDL|HackGDL 2024|México|",
-      "description": "¡Acompáñanos en la primera edición! En HackGDL, adem´as de las pláticas y talleres, tendremos actividades sociales y dinámicas",
-      "url": "https://www.eventbrite.com.mx/e/hackgdl-2024-tickets-729584164877",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/hackgdl-2024-tickets-729584164877",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
-      "organizer": "HackGDL",
-      "dtstart": "2024-03-16T10:00:00-06:00",
-      "dtend": "2024-03-16T23:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
-      "hash_key": "hackgdl 2024_2024-03-16T16:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|🧠 GenAI Collective 🧠  Community Town Hall 🏛️|Online",
       "description": "Obtén información actualizada en: https://luma.com/4-24\n\nOrganizado por The AI Collective y 3 personas más",
       "url": "https://luma.com/4-24",
@@ -1050,32 +1003,6 @@
       "hash_key": "sesin 5 cmo hacer tu demo_2024-10-11T00:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|KASZEK Day|México|",
-      "description": "Obtén información actualizada en: https://luma.com/kaszekmtw2024\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week, Mariano Bomaggio y Julia Salles",
-      "url": "https://luma.com/kaszekmtw2024",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/kaszekmtw2024",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Mexico City",
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-22T13:30:00+00:00",
-      "dtend": "2024-10-22T23:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Mexico City",
-      "hash_key": "kaszek day_2024-10-22T12:00:00+00:00"
-    },
-    {
       "title": "Mexico Tech Week|Michelin Star Culinary Tour ✴✴✴ CDMX|México|",
       "description": "Obtén información actualizada en: https://luma.com/ux91ykez\n\nDirección:\n\n\nOrganizado por Mexico Tech Week y Hi Ventures",
       "url": "https://luma.com/ux91ykez",
@@ -1271,35 +1198,6 @@
       "hash_key": "corporativos academia e inversin para me_2024-10-24T18:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Supply Chains for the Future: AI & Tech Innovations.|México|",
-      "description": "Obtén información actualizada en: https://luma.com/f56p91xg\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y Guindic",
-      "url": "https://luma.com/f56p91xg",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/f56p91xg",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Mexico City",
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-24T20:00:00+00:00",
-      "dtend": "2024-10-24T22:00:00+00:00",
-      "tags": [
-        "ai",
-        "frontend"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Mexico City",
-      "hash_key": "supply chains for the future ai tech inn_2024-10-24T20:00:00+00:00"
-    },
-    {
       "title": "Mexico Tech Week|Mexico Venture Capital Report: An Overview for 2024|Online",
       "description": "Obtén información actualizada en: https://luma.com/8h9xrdh8\n\nOrganizado por Cuantico VP, Mexico Tech Week y Startuplinks Community",
       "url": "https://luma.com/8h9xrdh8",
@@ -1328,61 +1226,7 @@
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
-      "description": "Obtén información actualizada en: https://luma.com/nzb89n7y\n\nDirección:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nOrganizado por Mexico Tech Week y Intellectia Academy",
-      "url": "https://luma.com/nzb89n7y",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/nzb89n7y",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-25T21:30:00+00:00",
-      "dtend": "2024-10-26T02:30:00+00:00",
-      "tags": [
-        "python"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
-      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
-      "description": "Obtén información actualizada en: https://luma.com/8dtqdfok\n\nDirección:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nOrganizado por Mexico Tech Week y Intellectia Academy",
-      "url": "https://luma.com/8dtqdfok",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/8dtqdfok",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-25T21:30:00+00:00",
-      "dtend": "2024-10-26T02:30:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
-      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|Disconnect to Reconnect: A hike by Aire Libre|México|",
+      "title": "Mexico Tech Week|Disconnect to Reconnect: A hike by Aire Libre|México|Estado de México",
       "description": "Obtén información actualizada en: https://luma.com/hikeAL_MXTW\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y Gus Alvarez Moreno",
       "url": "https://luma.com/hikeAL_MXTW",
       "sources": [
@@ -1402,11 +1246,11 @@
       "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
       "country": "México",
       "country_code": "MX",
-      "state": "",
+      "state": "Estado de México",
       "state_code": "",
       "city": "",
       "city_code": "",
-      "address": "State of Mexico",
+      "address": "Estado de México, México",
       "hash_key": "disconnect to reconnect a hike by aire l_2024-10-26T12:00:00+00:00"
     },
     {
@@ -1841,32 +1685,6 @@
       "hash_key": "frutero talk 007 agentes ai en gaming gu_2025-02-25T22:00:00+00:00"
     },
     {
-      "title": "HackGDL|HackGDL 2025|México|",
-      "description": "¡Acompáñanos en la segunda edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y",
-      "url": "https://www.eventbrite.com.mx/e/hackgdl-2025-tickets-1032897001737",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/hackgdl-2025-tickets-1032897001737",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
-      "organizer": "HackGDL",
-      "dtstart": "2025-03-01T09:00:00-06:00",
-      "dtend": "2025-03-01T23:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
-      "hash_key": "hackgdl 2025_2025-03-01T14:00:00+00:00"
-    },
-    {
       "title": "Frutero Club|Frutero Talk #008 - Codifica un AI Agent sin saber programar|Online",
       "description": "Obtén información actualizada en: https://luma.com/wa0w94u0\n\nOrganizado por Carlos Rodríguez",
       "url": "https://luma.com/wa0w94u0",
@@ -2057,58 +1875,6 @@
       "hash_key": "ai fireside chat genai collective x bret_2025-05-07T16:00:00+00:00"
     },
     {
-      "title": "EPAM|EPAM Tech Talks Querétaro|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Querétaro para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-queretaro-1324656666749",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-queretaro-1324656666749",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "KROW, Calle Héroe de Nacozari 25B, Santiago de Querétaro, QUE",
-      "organizer": "EPAM",
-      "dtstart": "2025-05-08T18:30:00-06:00",
-      "dtend": "2025-05-08T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "KROW, Calle Héroe de Nacozari 25B, Santiago de Querétaro, QUE",
-      "hash_key": "epam tech talks quertaro_2025-05-09T00:00:00+00:00"
-    },
-    {
-      "title": "EPAM|EPAM Tech Talks Aguascalientes|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Aguascalientes para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-aguascalientes-1367450975679",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-aguascalientes-1367450975679",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "Microcervecería La Legendaria, 788d Boulevard Luis Donaldo Colosio Murrieta, Aguascalientes, AGU",
-      "organizer": "EPAM",
-      "dtstart": "2025-06-04T18:30:00-06:00",
-      "dtend": "2025-06-04T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Microcervecería La Legendaria, 788d Boulevard Luis Donaldo Colosio Murrieta, Aguascalientes, AGU",
-      "hash_key": "epam tech talks aguascalientes_2025-06-05T00:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|AI Collective Worldwide Launch Party 🚀|Online",
       "description": "Obtén información actualizada en: https://luma.com/aic-global\n\nOrganizado por The AI Collective y 8 personas más",
       "url": "https://luma.com/aic-global",
@@ -2267,32 +2033,6 @@
       "hash_key": "sesin 6 uniswap lab con frutero club_2025-07-01T00:00:00+00:00"
     },
     {
-      "title": "EPAM|EPAM Tech Talks Monterrey|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Monterrey para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-monterrey-1407854754469",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-monterrey-1407854754469",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "NEORIS, Blv. Gustavo Díaz Ordaz 333, San Pedro Garza García, NLE",
-      "organizer": "EPAM",
-      "dtstart": "2025-07-03T18:30:00-06:00",
-      "dtend": "2025-07-03T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "NEORIS, Blv. Gustavo Díaz Ordaz 333, San Pedro Garza García, NLE",
-      "hash_key": "epam tech talks monterrey_2025-07-04T00:00:00+00:00"
-    },
-    {
       "title": "Frutero Club|Frutero Talk #17 con Mel|Online",
       "description": "Obtén información actualizada en: https://luma.com/cpeixs8f\n\nOrganizado por René Hernández",
       "url": "https://luma.com/cpeixs8f",
@@ -2373,32 +2113,6 @@
       "hash_key": "frutero talk 18 con lvaro sierra_2025-07-15T20:00:00+00:00"
     },
     {
-      "title": "Richard Kasperowski|¡Dojo de Codificación Global - Ciudad de México!|México|",
-      "description": "¡Únete a nosotros para una sesión de codificación presencial donde practicaremos programación en parejas, TDD, y",
-      "url": "https://www.eventbrite.com/e/dojo-de-codificacion-global-ciudad-de-mexico-tickets-1422531773829",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com/e/dojo-de-codificacion-global-ciudad-de-mexico-tickets-1422531773829",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "Universidad La Salle, 45 Avenida Benjamín Franklin, Cuauhtémoc, CMX",
-      "organizer": "Richard Kasperowski",
-      "dtstart": "2025-08-13T18:00:00-06:00",
-      "dtend": "2025-08-13T20:00:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Universidad La Salle, 45 Avenida Benjamín Franklin, Cuauhtémoc, CMX",
-      "hash_key": "dojo de codificacin global ciudad de mxi_2025-08-14T00:00:00+00:00"
-    },
-    {
       "title": "AI/IA CDMX|Beyond the Plateau: Rethinking AI in 2025|Online",
       "description": "Find more information on https://luma.com/ai-cdmx",
       "url": "https://luma.com/ai-cdmx",
@@ -2425,32 +2139,6 @@
       "city_code": "",
       "address": "https://www.meetup.com/ai-cdmx/events/310087422/",
       "hash_key": "beyond the plateau rethinking ai in 2025_2025-08-20T00:00:00+00:00"
-    },
-    {
-      "title": "EPAM|EPAM Tech Talks Mexico City|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Ciudad de México para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-mexico-city-1530580801379",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-mexico-city-1530580801379",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "WeWork Varsovia, Calle Varsovia 36, Ciudad de México, CMX",
-      "organizer": "EPAM",
-      "dtstart": "2025-08-28T18:30:00-06:00",
-      "dtend": "2025-08-28T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "WeWork Varsovia, Calle Varsovia 36, Ciudad de México, CMX",
-      "hash_key": "epam tech talks mexico city_2025-08-29T00:00:00+00:00"
     },
     {
       "title": "Claude Users Group|Build with Claude Code|Online",
@@ -2536,86 +2224,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-J4Et3DBgzVr7ieI",
       "hash_key": "ricing el arte de personalizar linux_2025-10-10T22:00:00+00:00"
-    },
-    {
-      "title": "EPAM|EPAM Tech Talks Monterrey|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Monterrey para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-monterrey-1712401722649",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-monterrey-1712401722649",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "NEORIS, Blv. Gustavo Díaz Ordaz 333, San Pedro Garza García, NLE",
-      "organizer": "EPAM",
-      "dtstart": "2025-10-16T18:30:00-06:00",
-      "dtend": "2025-10-16T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "NEORIS, Blv. Gustavo Díaz Ordaz 333, San Pedro Garza García, NLE",
-      "hash_key": "epam tech talks monterrey_2025-10-17T00:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|AI Agents: Adoption in Mexico Panel & Mixer|México|",
-      "description": "Obtén información actualizada en: https://luma.com/u4r893tm\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week, Nancy Zapata y Host Team",
-      "url": "https://luma.com/u4r893tm",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/u4r893tm",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Mexico City",
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2025-10-20T23:00:00+00:00",
-      "dtend": "2025-10-21T01:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Mexico City",
-      "hash_key": "ai agents adoption in mexico panel mixer_2025-10-20T22:00:00+00:00"
-    },
-    {
-      "title": "EPAM|EPAM Tech Talks Querétaro|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Querétaro para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-queretaro-1849045317319",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-queretaro-1849045317319",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "KROW, Calle Héroe de Nacozari 25B, Santiago de Querétaro, QUE",
-      "organizer": "EPAM",
-      "dtstart": "2025-11-13T18:30:00-06:00",
-      "dtend": "2025-11-13T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "KROW, Calle Héroe de Nacozari 25B, Santiago de Querétaro, QUE",
-      "hash_key": "epam tech talks quertaro_2025-11-14T00:00:00+00:00"
     },
     {
       "title": "Sudo FCiencias|Kubernetes 101 (w/Victor Morales)|Online",
@@ -2751,32 +2359,6 @@
       "hash_key": "coworking frutal 28 fin de ao gather edi_2025-12-31T16:00:00+00:00"
     },
     {
-      "title": "Richard Kasperowski|Global Coding Dojo! - Ciudad de México|México|",
-      "description": "Practica TDD y mob programming con IA. Presencial en La Condesa. Gratis. TypeScript. ¡Grupo pequeño y amigable! Todos los niveles",
-      "url": "https://www.eventbrite.com/e/global-coding-dojo-ciudad-de-mexico-tickets-1975198490857",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com/e/global-coding-dojo-ciudad-de-mexico-tickets-1975198490857",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "Openhub Coworking Condesa, 6 Diagonal Patriotismo, Ciudad de México, CMX",
-      "organizer": "Richard Kasperowski",
-      "dtstart": "2026-01-14T18:30:00-06:00",
-      "dtend": "2026-01-14T20:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Openhub Coworking Condesa, 6 Diagonal Patriotismo, Ciudad de México, CMX",
-      "hash_key": "global coding dojo ciudad de mxico_2026-01-15T00:00:00+00:00"
-    },
-    {
       "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
       "description": "Obtén información actualizada en: https://luma.com/jov35dwo\n\nOrganizado por Sudo FCiencias",
       "url": "https://luma.com/jov35dwo",
@@ -2801,32 +2383,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
       "hash_key": "tics aprende a hackear con agentes de ia_2026-01-19T18:00:00+00:00"
-    },
-    {
-      "title": "EPAM|EPAM Tech Talks Mexico City|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Ciudad de México para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-mexico-city-1979557364365",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-mexico-city-1979557364365",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "WeWork Espacio de Oficinas & Coworking, 296 Avenida Paseo de la Reforma, Ciudad de México, CMX",
-      "organizer": "EPAM",
-      "dtstart": "2026-01-22T18:30:00-06:00",
-      "dtend": "2026-01-22T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "WeWork Espacio de Oficinas & Coworking, 296 Avenida Paseo de la Reforma, Ciudad de México, CMX",
-      "hash_key": "epam tech talks mexico city_2026-01-23T00:00:00+00:00"
     },
     {
       "title": "AI Builders MX|Diseña usando AI|Online",
@@ -2974,44 +2530,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PxxHVsKwgn09NEe",
       "hash_key": "ai education governing the machine_2026-02-17T16:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|Campeón Peso Ligero IA para la Salud/Lightweight Champion AI for Health|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nSpanish with live English subtitles\nEste evento será en español con subtítulos en inglés en vivo.\n\n\\*\\*Presencial y en vivo en YouTube/In-person and live on YouTube:\\*\\*\nhttps://www.youtube.com/@AICDMX\n\nEnglish Version Below\n6:00 p.m. Apertura y registro\n6:30 p.m. Arranca la conversación\n7:15 p.m. Preguntas y respuestas con el público\n7:30 p.m. Networking\n8:00–9:30 p.m. After party en un lugar cercano (a 5 min caminando; hay\nespacio interior/exterior, trae chamarra y zapatos para comer y beber)\n\nCuando los datos son escasos y la infraestructura es poco confiable, “más grande” no siempre es mejor. Ahí es donde la IA ligera puede convertirse en una campeona para la salud.\nAxell Albano Gutiérrez Ramírez es ingeniero biomédico y vio de cerca cómo un diagnóstico inicial equivocado puede afectar a toda una familia.\n\nEn muchas clínicas rurales y de bajos recursos, los pacientes muestran señales tempranas (temblores, cambios en la marcha, deterioro cognitivo), pero los especialistas están a horas de distancia y las listas de espera se extienden por meses.\n\nEn esta charla, Axell comparte un camino distinto al hype de “modelos más grandes + datasets masivos”: construir herramientas prácticas de apoyo al diagnóstico que puedan correr en hardware básico, funcionar sin conexión y aprender con decenas o cientos de registros de pacientes, no millones.\n\n\\#\\# Lo que veremos\n• \\*\\*Cuándo los pocos datos pueden ganar\\*\\* - Cómo los modelos simples y eficientes en datos pueden superar al deep learning en escenarios de datos limitados (y cuándo no)\n• \\*\\*Diseño guiado por restricciones\\*\\* - Construir para el sistema de salud que existe (ancho de banda limitado, energía inestable, dispositivos básicos), no para el de los papers\n• \\*\\*Explicabilidad útil para el personal clínico\\*\\* - Qué debería significar “explicable” en la práctica para apoyar decisiones, generar confianza y adoptar de forma segura\n• \\*\\*Del modelo al flujo de trabajo\\*\\* - Cómo convertir un prototipo en algo que un médico general realmente pueda usar bajo restricciones reales\n• \\*\\*Equidad, límites y responsabilidad\\*\\* - Cómo ampliar el acceso sin sobreprometer: IA como apoyo, no como reemplazo\n\nBasado en su investigación de maestría en el CIC IPN, Axell recorrerá un enfoque de prediagnóstico de Parkinson a partir del análisis con IA de patrones geométricos trazados a mano, algo que un médico general puede aplicar con papel y un teléfono, sin infraestructura en la nube ni equipo especializado.\n\n\\#\\# Sobre Axell\nhttps://www.linkedin.com/in/axell-albano-guti%C3%A9rrez-ram%C3%ADrez-2a30b11a8\nhttps://orcid.org/0009-0008-6197-5422\nAxell Albano Gutiérrez Ramírez es ingeniero biomédico de México y actualmente cursa la maestría en Ciencias de la Computación (MCIC) en el CIC IPN, en la Ciudad de México. Su tesis se enfoca en aprendizaje de máquina para apoyo al diagnóstico, específicamente un sistema de prediagnóstico de la enfermedad de Parkinson mediante el análisis de patrones geométricos trazados a mano.\n\nSu trabajo enfatiza IA práctica para la accesibilidad en salud: modelos ligeros adecuados para entornos clínicos de bajos recursos sin acceso a especialistas. Este año, en París, participó en el ICMV 2025, uno de los congresos internacionales a los que asistió para compartir avances de su investigación sobre el uso de trazos como apoyo en el diagnóstico de Parkinson.\n\nHa presentado en congresos internacionales, incluidos CIESEM 2021, EDULEARN24 (Mallorca) e ICMV 2025 (París, Francia), y ha sido coautor de trabajos sobre diagnósticos basados en IA, defendiendo enfoques simples y eficientes en datos cuando los conjuntos disponibles son limitados.\n\n\\*\\*Schedule\\*\\*\n6:00 p.m. Doors & check-in\n6:30 p.m. Conversation begins\n7:15 p.m. Audience Q&A\n7:30 p.m. Networking\n8:00–9:30 p.m. After party at a nearby spot (5 min walk; indoor/outdoor, bring a jacket and your drinking/eating shoes)\n\nWhen data is scarce and infrastructure is unreliable, “bigger” isn’t better. That’s where lightweight AI can become a champion for health.\nAxell Albano Gutiérrez Ramírez is a biomedical engineer who saw how a wrong initial diagnosis can ripple through a family. In many rural and low‑resource clinics, patients show early signs (tremors, gait changes, cognitive shifts), but specialists are hours away and waitlists stretch for months.\n\nIn this talk, Axell shares a different path from the “bigger models + massive datasets” hype: building practical diagnostic support that can run on basic hardware, work offline, and learn from dozens or hundreds of patient records, not millions.\n\nWe will cover his wins and losses. What he learned along the way and...\n• \\*\\*When small data can win\\*\\* - How simple, data‑efficient models can outperform deep learning in limited‑data settings (and when they can’t)\n• \\*\\*Constraint-driven design\\*\\* - Building for the healthcare system that exists (limited bandwidth, unreliable power, basic devices), not the one in research papers\n• \\*\\*Explainability clinicians can use\\*\\* - What “explainable” should mean in practice for decision support, trust, and safe adoption\n• \\*\\*From model to workflow\\*\\* - Turning a prototype into something a general practitioner can actually use under real constraints\n• \\*\\*Equity, limits, and responsibility\\*\\* - How to expand access without overclaiming: AI as support, not replacement\nGrounded in his master’s research at CIC IPN, Axell will walk through a Parkinson’s pre‑diagnosis approach based on AI analysis of hand‑drawn geometric patterns, something a general practitioner can administer with paper and a phone, without cloud infrastructure or specialized equipment.\n\n\\#\\# About Axell\nhttps://www.linkedin.com/in/axell-albano-guti%C3%A9rrez-ram%C3%ADrez-2a30b11a8\nhttps://orcid.org/0009-0008-6197-5422\n\nAxell Albano Gutiérrez Ramírez is a biomedical engineer from Mexico currently pursuing his master's degree in Computer Science (MCIC) at CIC IPN in Mexico City. His thesis focuses on machine learning for diagnostic support, specifically a pre‑diagnostic system for Parkinson’s disease through analysis of hand‑drawn geometric patterns.\n\nHis work emphasizes practical AI for healthcare accessibility: lightweight models suitable for low‑resource clinical settings without access to specialists. This year, in Paris, he took part in ICMV 2025, one of the international conferences he attended to share progress in his research on using hand‑drawn strokes to support Parkinson’s diagnosis.\nHe has presented at international conferences including CIESEM 2021, EDULEARN24 (Mallorca), and ICMV 2025 (Paris, France), and co‑authored work on AI‑driven diagnostics, advocating for simple, data‑efficient approaches when datasets are limited.",
-      "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
-          "label": "Ver en Meetup"
-        },
-        {
-          "platform": "luma",
-          "url": "https://luma.com/vals4loe",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-02-17T18:00:00-06:00",
-      "dtend": "2026-02-17T20:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "cloud",
-        "data",
-        "frontend",
-        "mobile"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "campen peso ligero ia para la salud ligh_2026-02-18T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|🧠 Next Horizon: Mastering AI & Data Skills for the Years Ahead Series Launch|Online",
@@ -3164,32 +2682,6 @@
       "hash_key": "master midjourney_2026-02-19T22:00:00+00:00"
     },
     {
-      "title": "EPAM|EPAM Tech Talks Monterrey|México|",
-      "description": "Acompáñanos en nuestras Tech Talks en Monterrey para compartir y discutir conocimientos sobre",
-      "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-monterrey-1981662831875",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-monterrey-1981662831875",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "EPAM NEORIS, Av. 2 de Octubre 333, San Pedro Garza García, NLE",
-      "organizer": "EPAM",
-      "dtstart": "2026-02-19T18:30:00-06:00",
-      "dtend": "2026-02-19T21:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "EPAM NEORIS, Av. 2 de Octubre 333, San Pedro Garza García, NLE",
-      "hash_key": "epam tech talks monterrey_2026-02-20T00:00:00+00:00"
-    },
-    {
       "title": "Pythonista|Introducción a Ingeniería y Analítica de Datos con Pyhon|Online",
       "description": "Pythonista®\n## 🚀 **Taller: Introducción a la Ingeniería y Analítica de Datos con Python**\n\n¿Quieres dominar las herramientas que utilizan los Ingenieros de Datos y Científicos de Datos hoy en día? Únete a este taller práctico de **24 horas** donde pasaremos de los fundamentos numéricos a la creación de aplicaciones de datos de alto rendimiento.\nEn este curso, no solo aprenderás la teoría, sino que trabajarás con el ecosistema moderno de Python (**Pandas, Polars, PyArrow, Dask, Streamlit**) para procesar grandes volúmenes de información de manera eficiente.\n\n### 🎁 Promoción Exclusiva Meetup\n\n¡Queremos premiar a los primeros en sumarse!\n\n* **Precio regular:** $29 USD\n* **Precio especial Meetup:** **$20 USD** (Solo para los **primeros 25 inscritos**).\n\n***\n\n### 📅 Detalles del Evento\n\n* **Fechas:** Del 23 de febrero al 12 de marzo.\n* **Sesiones:** Lunes a jueves (12 sesiones en total).\n* **Horario:** 18:30 a 20:30 horas (CST - CDMX).\n* **Modalidad:** Online en vivo (incluye acceso a grabaciones y materiales en GitHub).\n\n***\n\n### 🛠️ ¿Qué aprenderás?\n\nEl taller está dividido en 5 módulos estratégicos:\n\n1. **Fundamentos Numéricos:** Computación vectorial con NumPy y el ecosistema SciPy.\n2. **Pandas Moderno:** Optimización de memoria con PyArrow y gestión eficiente de tipos de datos.\n3. **ETL y Analítica Avanzada:** Técnicas de Windowing, limpieza de datos y transformaciones complejas.\n4. **Ingeniería de Alto Rendimiento:** Procesamiento con **Polars** (el futuro de los DataFrames) y computación distribuida con **Dask**.\n5. **Visualización y Producto:** Gráficos estadísticos con Seaborn y despliegue de **Data Apps con Streamlit**.\n\n***\n\n### 📋 Requisitos\n\n* Conocimientos básicos de Python.\n* Cuenta de GitHub (trabajaremos directamente en la nube con Codespaces).\n* ¡Muchas ganas de aprender!\n\n### 🎓 Certificación\n\nSe otorgará un **diploma de asistencia** a quienes participen en al menos el 80% de las sesiones.\n\n### 🔗 Cómo inscribirse\n\n1. Realiza tu pago con el descuento de Meetup aquí.\n2. Una vez realizado, completa tu registro oficial en: [https://www.pythonista.io/eventos/data_eng_intro-2602](https://www.pythonista.io/eventos/data_eng_intro-2602)\n\n**¡Corre! El cupo para el descuento de $20 USD es limitado a los primeros 25.**",
       "url": "https://www.meetup.com/pythonista/events/313316350/",
@@ -3219,36 +2711,6 @@
       "city_code": "",
       "address": "",
       "hash_key": "introduccin a ingeniera y analtica de da_2026-02-24T00:00:00+00:00"
-    },
-    {
-      "title": "Python CDMX|PythonCDMX🐍 Feb2026  - Python en el mundo cripto: Lecciones de un backend global|México|",
-      "description": "Python CDMX\n**#PythonCDMX** 🐍 es un grupo de personas interesadas en aprender y compartir su conocimiento sobre el lenguaje de programación Python. El objetivo es estar en contacto con más gente interesada en innovación y tecnología.\n\n**🚨 IMPORTANTE: NUEVO SISTEMA DE REGISTRO**\n**A partir de ahora ya no se aceptarán registros en Meetup.**\n**Estamos migrando a Luma, nuestra nueva plataforma de registro y comunidad.**\n**👉 Regístrate aquí para obtener tu QR de acceso:**\n**🔗 [https://luma.com/b2j4qyjy](https://luma.com/b2j4qyjy)**\n\n¡Estamos emocionados de anunciar que este mes lo haremos en las increíbles oficinas de CLARA!\n\nHabrá un tiempo de networking donde podrás platicar con programadores de diferentes niveles e intereses.\n\nY para ponerle aún más energía, prepárate para compartir tus conocimientos durante nuestras ***Lightning Talks.***\n**¡Es tu oportunidad de impactar con ideas frescas y compartir lo que sabes!**\n\nLa cita es el **Martes 24 de Febrero a las 18:00 en las oficinas de Clara México** ([Google Maps](https://maps.app.goo.gl/NPvkQjisJWY9ySyS7)).\n\n***«Python en el mundo cripto: Lecciones de un backend global***»\n*Por: Domingo Suarez*\nDespués de más de 15 años desarrollando en Java, pasé el último año construyendo un backend en Python para una startup cripto que opera a nivel global. El proyecto implicó integrar múltiples proveedores en distintos países, soportar diversas blockchains (EVM, SVM, etc.) y resolver retos técnicos de alta complejidad.\n\n**Domingo Suárez –** Backend Engineer, con experiencia en Java (15+ años) y actualmente desarrollando en Python para entornos cripto globales.\n\n**--> Transmisión en vivo <--**\n[YouTube](https://www.youtube.com/@PythonMexico/streams)\n\n**--> Unete al grupo de telegram y platica con más pythonistas <--**\n[https://t.me/PythonCDMX](https://t.me/PythonCDMX)",
-      "url": "https://www.meetup.com/python-mexico/events/313242971/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/python-mexico/events/313242971/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Clara, Av Sonora 46, Roma Nte., Cuauhtémoc, 06700, Mexico City, Mexico City",
-      "organizer": "Python CDMX",
-      "dtstart": "2026-02-24T18:00:00-06:00",
-      "dtend": "2026-02-24T21:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "python"
-      ],
-      "source": "https://www.meetup.com/python-mexico/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "pythoncdmx feb2026 python en el mundo cr_2026-02-25T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Responsible AI and Data Protection: Aligning Ghana’s Data Protection Act with Emerging AI Use Cases|Online",
@@ -3435,88 +2897,6 @@
       "hash_key": "march 12 agents mcp and skills virtual m_2026-03-12T18:00:00+00:00"
     },
     {
-      "title": "HackGDL|HackGDL 2026|México|",
-      "description": "¡Acompáñanos en la tercera edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y",
-      "url": "https://www.eventbrite.com.mx/e/hackgdl-2026-tickets-1816894182409",
-      "sources": [
-        {
-          "platform": "eventbrite",
-          "url": "https://www.eventbrite.com.mx/e/hackgdl-2026-tickets-1816894182409",
-          "label": "Ver en Eventbrite"
-        }
-      ],
-      "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
-      "organizer": "HackGDL",
-      "dtstart": "2026-03-14T09:00:00-06:00",
-      "dtend": "2026-03-14T23:30:00-06:00",
-      "tags": [],
-      "source": "Eventbrite",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
-      "hash_key": "hackgdl 2026_2026-03-14T14:00:00+00:00"
-    },
-    {
-      "title": "Claude Community|Claude Code Meetup Mexico City — Build Day  -  March Edition|México|",
-      "description": "Obtén información actualizada en: https://luma.com/2j4td8u0\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Claude Community y 3 personas más",
-      "url": "https://luma.com/2j4td8u0",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/2j4td8u0",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Bosque de Chapultepec I Sección, Mexico City",
-      "organizer": "Claude Community",
-      "dtstart": "2026-03-14T16:00:00+00:00",
-      "dtend": "2026-03-14T20:00:00+00:00",
-      "tags": [
-        "frontend"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Bosque de Chapultepec I Sección, Mexico City",
-      "hash_key": "claude code meetup mexico city build day_2026-03-14T16:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/312759812/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/312759812/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-03-17T18:00:00-06:00",
-      "dtend": "2026-03-17T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-03-18T00:00:00+00:00"
-    },
-    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|March 18 - Vibe Coding Production-Ready Computer Vision Pipelines Workshop|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for an interactive workshop where we'll build production-ready computer vision pipelines using vibe coded [FiftyOne plugins.](https://docs.voxel51.com/plugins/index.html)\n\n**[Register for the Zoom](https://voxel51.com/events/vibe-coding-production-ready-computer-vision-pipelines-hands-on-workshop-march-18-2026)**\n\nPlugins enable you to customize the open-source [FiftyOne computer vision app](https://docs.voxel51.com/index.html) to match your exact workflow by easily incorporating data annotation, curation, model evaluation and inference.\n\nWe'll demonstrate how FiftyOne Skills and the MCP Server can streamline the journey from prototype to production-ready pipelines, keeping your development flow intact.\n\nPerfect for open-source contributors, researchers, and enterprise teams seeking hands-on experience. All participants receive slides, notebooks, and access to GitHub repositories and videos from the workshop.",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313103242/",
@@ -3676,7 +3056,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "",
+      "location": "Online",
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-04-08T11:00:00-06:00",
       "dtend": "2026-04-08T12:00:00-06:00",
@@ -3708,7 +3088,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "",
+      "location": "Online",
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-04-09T10:00:00-06:00",
       "dtend": "2026-04-09T11:30:00-06:00",
@@ -3728,34 +3108,6 @@
       "city_code": "",
       "address": "",
       "hash_key": "april 9 workshop build a visual agent th_2026-04-09T16:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-04-21T18:00:00-06:00",
-      "dtend": "2026-04-21T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-04-22T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|How AI and Neurotechnology Are Transforming the Workplace|Online",
@@ -3786,34 +3138,6 @@
       "hash_key": "how ai and neurotechnology are transform_2026-04-27T14:00:00+00:00"
     },
     {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/313154427/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/313154427/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-05-19T18:00:00-06:00",
-      "dtend": "2026-05-19T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-05-20T00:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|Predictive Neurotechnologies, Criminal Risk and the Future of the Presumption of Innocence|Online",
       "description": "Obtén información actualizada en: https://luma.com/aic-gl-6-3\n\nOrganizado por The AI Collective y 3 personas más",
       "url": "https://luma.com/aic-gl-6-3",
@@ -3840,174 +3164,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-CORCUTzJrvpRzSw",
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/313290688/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/313290688/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-06-16T18:00:00-06:00",
-      "dtend": "2026-06-16T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-06-17T00:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjckbcc/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjckbcc/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-07-21T18:00:00-06:00",
-      "dtend": "2026-07-21T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-07-22T00:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/313154431/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/313154431/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-08-18T18:00:00-06:00",
-      "dtend": "2026-08-18T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-08-19T00:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcmbtb/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcmbtb/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-09-15T18:00:00-06:00",
-      "dtend": "2026-09-15T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-09-16T00:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcnbbc/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcnbbc/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-10-20T18:00:00-06:00",
-      "dtend": "2026-10-20T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-10-21T00:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcpbwb/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcpbwb/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-11-17T18:00:00-06:00",
-      "dtend": "2026-11-17T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-11-18T00:00:00+00:00"
     }
   ]
 }
