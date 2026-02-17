@@ -33,7 +33,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**GDG Guadalajara**](https://www.meetup.com/gdg-guadalajara) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
 | 🔴 [**GitTogether CDMX**](https://www.meetup.com/gittogether-cdmx) | GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source. | Online |
 | 🔴 [**GitTogether LATAM**](https://www.meetup.com/gittogether-latam) | Comunidad latinoamericana de GitHub. Open Source y colaboración. | Online |
-| 🟢 [**Global AI CDMX**](https://www.meetup.com/globalaicdmx) | Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure. | Online |
+| 🟢 [**Global AI CDMX**](https://www.meetup.com/globalaicdmx) | Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure. | Ciudad de México |
 | 🔴 [**GNU / SysAdmin Linux en Ciudad de México**](https://www.meetup.com/grupo-de-meetup-de-linux-en-ciudad-de-mexico) | Comunidad de Sysadmins que se dedican a dar soporte con Software Libre. | Online |
 | 🔴 [**Gophers MX**](https://www.meetup.com/gophersmx) | Comunidad de desarrolladores del lenguaje Go en México. | Online |
 | 🔴 [**Guadalajara Apache Kafka**](https://www.meetup.com/guadalajara-kafka) | Guadalajara Apache Kafka Meetup. | Online |
