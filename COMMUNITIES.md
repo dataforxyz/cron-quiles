@@ -26,7 +26,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**DigitalOcean México City**](https://www.meetup.com/digitaloceanmex) | Meet software developers of all skill levels to share resources, learn, and form discussions around cloud and devops topics. | Online |
 | 🔴 [**Elixir Mexico City**](https://www.meetup.com/elixir-mexico-city) | Comunidad enfocada en el lenguaje de programación Elixir y el framework Phoenix. | Online |
 | 🔴 [**Embajadoras Cloud**](https://www.meetup.com/embajadoras-cloud) | Comunidad dedicada a impulsar a mujeres hispanohablantes en cloud computing. Enfocada en AWS, aprendizaje colaborativo y desarrollo profesional. | Online |
-| 🟢 [**EPAM**](https://www.eventbrite.com.mx/o/epam-27283356907) | EPAM Tech Talks Mexico City | Aguascalientes, Ciudad de México, Nuevo León, Querétaro |
+| 🟢 [**EPAM**](https://www.eventbrite.com.mx/o/epam-27283356907) | EPAM Tech Talks Mexico City | Aguascalientes, Ciudad de México, Coahuila, Nuevo León, Querétaro |
 | 🔴 [**Eventloop**](https://www.meetup.com/eventloop) | La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad. | Online |
 | 🔴 [**Flutter Mexico City**](https://www.meetup.com/flutter-mexico-city) | Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres. | Online |
 | 🔴 [**GDG Ciudad de México**](https://www.meetup.com/gdg-ciudad-de-mexico) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
@@ -66,5 +66,5 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Sysarmy México**](https://www.meetup.com/sysarmy-mexico) | Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector. | Online |
 | 🟢 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Ciudad de México |
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
-| 🔴 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
+| 🟢 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
 | 🔴 [**Vim CDMX**](https://www.meetup.com/cdmx-vim-meetup) | Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo. | Online |
