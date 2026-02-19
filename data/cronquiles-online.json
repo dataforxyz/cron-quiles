@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-02-19T06:51:38.838846+00:00",
-  "total_events": 111,
+  "generated_at": "2026-02-19T12:44:17.925631+00:00",
+  "total_events": 112,
   "city": "Online",
   "communities": [
     {
       "name": "AI/IA CDMX",
-      "description": "Canal de Luma de la comunidad de IA en Ciudad de México.",
+      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México.",
       "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ai-cdmx",
+          "label": "Meetup"
+        },
         {
           "platform": "luma",
           "url": "https://luma.com/ai-cdmx",
@@ -3201,6 +3206,34 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-CORCUTzJrvpRzSw",
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
+    },
+    {
+      "title": "AI/IA CDMX|To Be Announced/Por anunciar|Online",
+      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
+      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcpbwb/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcpbwb/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "",
+      "organizer": "AI/IA CDMX",
+      "dtstart": "2026-11-17T18:00:00-06:00",
+      "dtend": "2026-11-17T20:00:00-06:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://www.meetup.com/ai-cdmx/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "to be announced por anunciar_2026-11-18T00:00:00+00:00"
     }
   ]
 }
