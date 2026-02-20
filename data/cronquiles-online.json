@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T18:46:19.418653+00:00",
-  "total_events": 110,
+  "generated_at": "2026-02-20T01:04:47.070170+00:00",
+  "total_events": 111,
   "city": "Online",
   "communities": [
     {
@@ -11,6 +11,17 @@
           "platform": "luma",
           "url": "https://luma.com/ai-cdmx",
           "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "Ajolotes en la Nube",
+      "description": "Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ajolotesenlanube",
+          "label": "Meetup"
         }
       ]
     },
@@ -2739,6 +2750,37 @@
       "city_code": "",
       "address": "",
       "hash_key": "march 5 ai ml and computer vision meetup_2026-03-05T16:00:00+00:00"
+    },
+    {
+      "title": "Ajolotes en la Nube|EKS en Piloto Automático: Terraform + Kiro para Administrar tu Clúster en AWS|France|Occitania",
+      "description": "AWS User Group: Ajolotes en la Nube\n📅 **Fecha:** Jueves 5 de marzo\n⏰ **Hora:** 7:30 PM\n📍 **Ubicación:** En línea\n\nÚnete a nosotros en esta sesión práctica donde aprenderás a llevar tu operación de Kubernetes al siguiente nivel con **Amazon EKS**, combinando **Terraform** para Infraestructura como Código y **Kiro** para la automatización operativa dentro del clúster.\n\nAdministrar Kubernetes manualmente no escala. Crear VPCs, nodos, clústeres y deployments puede convertirse en una tarea repetitiva y propensa a errores. En esta charla descubrirás cómo automatizar todo el proceso y construir un entorno reproducible, escalable y listo para producción en **Amazon Web Services**.\n\nDurante la sesión, aprenderás a:\n✅ Crear y desplegar un clúster en Amazon EKS usando Terraform.\n✅ Aplicar Infraestructura como Código (IaC) para entornos consistentes y versionables.\n✅ Automatizar la gestión operativa del clúster con Kiro.\n✅ Pasar de configuraciones manuales a una operación profesional y escalable.\n\nEsta charla es nivel básico–intermedio, ideal para desarrolladores y perfiles DevOps que quieran profesionalizar su operación en Kubernetes y dar el siguiente paso en la nube.\n\nEsta sesión es tu oportunidad perfecta para **profundizar tus conocimientos**, **conectar con nuestra vibrante comunidad** y **seguir creciendo** en tu camino profesional!\n\n**¡Nos vemos pronto, Ajolote! 💜🚀✨**",
+      "url": "https://www.meetup.com/ajolotesenlanube/events/313431118/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ajolotesenlanube/events/313431118/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online",
+      "organizer": "Ajolotes en la Nube",
+      "dtstart": "2026-03-05T19:30:00-06:00",
+      "dtend": "2026-03-05T21:00:00-06:00",
+      "tags": [
+        "cloud",
+        "devops",
+        "frontend",
+        "web"
+      ],
+      "source": "https://www.meetup.com/ajolotesenlanube/events/ical",
+      "country": "France",
+      "country_code": "FR",
+      "state": "Occitania",
+      "state_code": "",
+      "city": "Montpellier",
+      "city_code": "montpellier",
+      "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
+      "hash_key": "eks en piloto automtico terraform kiro p_2026-03-06T00:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|March 11 - Strategies for Validating World Models and Action-Conditioned Video|Online",
