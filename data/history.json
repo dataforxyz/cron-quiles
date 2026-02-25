@@ -848,7 +848,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Exterior, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Escolar, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -910,7 +910,7 @@
   },
   {
     "title": "Ajolotes en la Nube|EKS en Piloto Automático: Terraform + Kiro para Administrar tu Clúster en AWS|France|Occitania",
-    "description": "AWS User Group: Ajolotes en la Nube\n**Fecha:** Jueves 5 de marzo\n⏰ **Hora:** 7:30 PM\n**Ubicación:** En línea\n\nÚnete a nosotros en esta sesión práctica donde aprenderás a llevar tu operación de Kubernetes al siguiente nivel con **Amazon EKS**, combinando **Terraform** para Infraestructura como Código y **Kiro** para la automatización operativa dentro del clúster.\n\nAdministrar Kubernetes manualmente no escala. Crear VPCs, nodos, clústeres y deployments puede convertirse en una tarea repetitiva y propensa a errores. En esta charla descubrirás cómo automatizar todo el proceso y construir un entorno reproducible, escalable y listo para producción en **Amazon Web Services**.\n\nDurante la sesión, aprenderás a:\n✅ Crear y desplegar un clúster en Amazon EKS usando Terraform.\n✅ Aplicar Infraestructura como Código (IaC) para entornos consistentes y versionables.\n✅ Automatizar la gestión operativa del clúster con Kiro.\n✅ Pasar de configuraciones manuales a una operación profesional y escalable.\n\nEsta charla es nivel básico–intermedio, ideal para desarrolladores y perfiles DevOps que quieran profesionalizar su operación en Kubernetes y dar el siguiente paso en la nube.\n\nEsta sesión es tu oportunidad perfecta para **profundizar tus conocimientos**, **conectar con nuestra vibrante comunidad** y **seguir creciendo** en tu camino profesional!\n\n**¡Nos vemos pronto, Ajolote! ✨**",
+    "description": "AWS User Group: Ajolotes en la Nube\n📅 **Fecha:** Jueves 5 de marzo\n⏰ **Hora:** 7:30 PM\n📍 **Ubicación:** En línea\n\nÚnete a nosotros en esta sesión práctica donde aprenderás a llevar tu operación de Kubernetes al siguiente nivel con **Amazon EKS**, combinando **Terraform** para Infraestructura como Código y **Kiro** para la automatización operativa dentro del clúster.\n\nAdministrar Kubernetes manualmente no escala. Crear VPCs, nodos, clústeres y deployments puede convertirse en una tarea repetitiva y propensa a errores. En esta charla descubrirás cómo automatizar todo el proceso y construir un entorno reproducible, escalable y listo para producción en **Amazon Web Services**.\n\nDurante la sesión, aprenderás a:\n✅ Crear y desplegar un clúster en Amazon EKS usando Terraform.\n✅ Aplicar Infraestructura como Código (IaC) para entornos consistentes y versionables.\n✅ Automatizar la gestión operativa del clúster con Kiro.\n✅ Pasar de configuraciones manuales a una operación profesional y escalable.\n\nEsta charla es nivel básico–intermedio, ideal para desarrolladores y perfiles DevOps que quieran profesionalizar su operación en Kubernetes y dar el siguiente paso en la nube.\n\nEsta sesión es tu oportunidad perfecta para **profundizar tus conocimientos**, **conectar con nuestra vibrante comunidad** y **seguir creciendo** en tu camino profesional!\n\n**¡Nos vemos pronto, Ajolote! 💜🚀✨**",
     "url": "https://www.meetup.com/ajolotesenlanube/events/313431118/",
     "sources": [
       {
@@ -972,6 +972,38 @@
     "city_code": "",
     "address": "",
     "hash_key": "march 5 ai ml and computer vision meetup_2026-03-05T16:00:00+00:00"
+  },
+  {
+    "title": "Kong Mexico City|Governance across the AI Data Path: Enforce Zero-Trust API Security with Kong|Online",
+    "description": "Kong/MEXICO-CITY\nZero-trust is the essential security model for the AI era. As organizations transition to agentic architectures, AI agents autonomously invoke tools and trigger service-to-service workflows, creating complex data paths that can bypass traditional oversight. Zero-trust offers the right framework: every caller proves who it is, policy is enforced at every hop, and nothing is implicitly trusted.\nIn this session, we demonstrate how to develop and enforce consistent security policies across the entire AI lifecycle. We'll walk through a real request as it traverses the full AI data path — and show identity-based policy enforcement at every hop. You’ll experience a unified identity chain in action: from OIDC user authentication and AI Gateway routing (with token limits and prompt guards) to MCP-based tool invocation and secure east-west mesh communication via mTLS and OPA—all in a single trace.\nIf you're responsible for API security, platform engineering, or architecture — and you need a repeatable model for enforcing API security across gateways, AI workloads, and service meshes — this session is built to be immediately actionable.\n**Key Takeaways:**\n\n1. **Unified Governance Across the Stack:** Move beyond edge security to a \"continuous enforcement\" model. Use Kong to apply identity-based access (OIDC/mTLS) at the API Gateway, AI Gateway, Event Gateway, and Service Mesh layers.\n2. **Policy Enforcement, Not Friction:** Design granular and automated policies for routes, tools, and services that can be seamlessly implemented as APIs, agents, and teams scale.\n3. **End-to-End Visibility & Control:** Apply practical, repeatable patterns to enforce security from north-south ingress through east-west service communication — covering LLM access, tool invocation, and service-to-service calls in a single policy model.",
+    "url": "https://www.meetup.com/kong-mexico-city/events/313525447/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/kong-mexico-city/events/313525447/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "Kong Mexico City",
+    "dtstart": "2026-03-05T10:00:00-06:00",
+    "dtend": "2026-03-05T11:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "data",
+      "frontend",
+      "security"
+    ],
+    "source": "https://www.meetup.com/kong-mexico-city/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "governance across the ai data path enfor_2026-03-05T16:00:00+00:00"
   },
   {
     "title": "KCD Guadalajara|KCD Guadalajara 2026|México|Jalisco",
@@ -1093,7 +1125,7 @@
   },
   {
     "title": "R-Ladies CDMX|🔬 De tu código a una publicación académica  📝|México|Ciudad de México",
-    "description": "R-Ladies CDMX\n¿Has creado un paquete, script o dataset en GitHub y quieres que sea tan fácil de citar como un artículo científico?\nEn este taller práctico aprenderás a:\n\n* **Crear un archivo `CITATION.cff`:** El estándar para decirle al mundo (y a GitHub) cómo citar tu trabajo.\n* **Integrarlo con Zenodo:** El repositorio que conecta con GitHub para asignar un **DOI (Digital Object Identifier)** permanente a cada versión de tu código.\n* **Automatizar el proceso:** Para que cada \"release\" en GitHub genere automáticamente un nuevo registro citable en Zenodo.\n* ️ **Hacer visible y reconocible tu trabajo académico** en el ecosistema digital.",
+    "description": "R-Ladies CDMX\n¿Has creado un paquete, script o dataset en GitHub y quieres que sea tan fácil de citar como un artículo científico?\nEn este taller práctico aprenderás a:\n\n* 📄 **Crear un archivo `CITATION.cff`:** El estándar para decirle al mundo (y a GitHub) cómo citar tu trabajo.\n* 🤝 **Integrarlo con Zenodo:** El repositorio que conecta con GitHub para asignar un **DOI (Digital Object Identifier)** permanente a cada versión de tu código.\n* 🚀 **Automatizar el proceso:** Para que cada \"release\" en GitHub genere automáticamente un nuevo registro citable en Zenodo.\n* 🏷️ **Hacer visible y reconocible tu trabajo académico** en el ecosistema digital.",
     "url": "https://www.meetup.com/rladies-cdmx/events/313516666/",
     "sources": [
       {
@@ -1234,7 +1266,7 @@
   },
   {
     "title": "The Data Pub|Data Pub Febrero: La personalidad jurídica de la IA|México|Ciudad de México",
-    "description": "The Data Pub\n¡Atención Parroquian@s!\n\nEstamos de regreso este febrero y este mes contaremos con una charla titulada **\"La personalidad jurídica de la IA\"**, un espacio de reflexión y análisis sobre uno de los debates más relevantes en la intersección entre derecho y tecnología. En esta sesión exploraremos si, y cómo, los sistemas de inteligencia artificial podrían llegar a tener un reconocimiento legal similar al de las personas o las empresas. La discusión abordará temas clave como la responsabilidad por las acciones de la IA, la asignación de derechos y obligaciones, y los límites éticos y legales que deben establecerse. En esencia, la charla busca analizar cómo adaptar el derecho a tecnologías cada vez más autónomas, sin perder la responsabilidad humana ni la protección jurídica.\n\nLa charla será presentada por **Club IA Legal**, una comunidad que promueve el uso ético, innovador y colaborativo de la inteligencia artificial en el ámbito jurídico, conectando a profesionales del derecho, tecnólogos, académicos y entusiastas para aprender y construir juntos el futuro del derecho con tecnologías emergentes.\n\nQuien nos acompañará en esta charla será **Luis Raúl González Romo**, Director Ejecutivo del Club IA Legal en México, abogado y especialista en derecho digital y tecnología, con amplia experiencia en innovación legal y transformación digital en distintas organizaciones.\n\n\\-\\-\\-\n\nLa cita es este próximo **miércoles** 25 de febrero (2026) a las **7:00 pm (Hora de Ciudad de México)** en \"Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey\" [https://goo.gl/maps/eD5acVqaZ5MamH6T6](https://goo.gl/maps/eD5acVqaZ5MamH6T6) para aquellos que estén en la CDMX y también estaremos haciendo streaming del evento por nuestro canal de YouTube:\n\n[https://www.youtube.com/c/TheDataPubChannel](https://www.youtube.com/c/TheDataPubChannel/videos).\n\n¡Recuerden que al final tendremos nuestro evento de networking !\n\n¡Esperamos verlos por acá!\n\nLa agenda es la siguiente:\n\n* 7:00pm - 7:30pm Bienvenida y Anuncios\n* 7:30pm - 8:45pm La personalidad jurídica de la IA\n* 8:45pm - 10:00pm Chelas, pizzas y networking!\n\nPueden ir reservando su espacio registrándose en el evento.\n\n\\*El lugar cuenta con estacionamiento $50 pesos tiempo indefinido.\n\n¡Esperamos verlos por acá!\n\n\\- Data Pub",
+    "description": "The Data Pub\n¡Atención Parroquian@s! 👋\n\nEstamos de regreso este febrero y este mes contaremos con una charla titulada **\"La personalidad jurídica de la IA\"**, un espacio de reflexión y análisis sobre uno de los debates más relevantes en la intersección entre derecho y tecnología. En esta sesión exploraremos si, y cómo, los sistemas de inteligencia artificial podrían llegar a tener un reconocimiento legal similar al de las personas o las empresas. La discusión abordará temas clave como la responsabilidad por las acciones de la IA, la asignación de derechos y obligaciones, y los límites éticos y legales que deben establecerse. En esencia, la charla busca analizar cómo adaptar el derecho a tecnologías cada vez más autónomas, sin perder la responsabilidad humana ni la protección jurídica.\n\nLa charla será presentada por **Club IA Legal**, una comunidad que promueve el uso ético, innovador y colaborativo de la inteligencia artificial en el ámbito jurídico, conectando a profesionales del derecho, tecnólogos, académicos y entusiastas para aprender y construir juntos el futuro del derecho con tecnologías emergentes.\n\nQuien nos acompañará en esta charla será **Luis Raúl González Romo**, Director Ejecutivo del Club IA Legal en México, abogado y especialista en derecho digital y tecnología, con amplia experiencia en innovación legal y transformación digital en distintas organizaciones.\n\n\\-\\-\\-\n\nLa cita es este próximo **miércoles** 25 de febrero (2026) a las **7:00 pm (Hora de Ciudad de México)** en \"Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey\" [https://goo.gl/maps/eD5acVqaZ5MamH6T6](https://goo.gl/maps/eD5acVqaZ5MamH6T6) para aquellos que estén en la CDMX y también estaremos haciendo streaming del evento por nuestro canal de YouTube:\n\n[https://www.youtube.com/c/TheDataPubChannel](https://www.youtube.com/c/TheDataPubChannel/videos).\n\n¡Recuerden que al final tendremos nuestro evento de networking 🌐!\n\n¡Esperamos verlos por acá!\n\nLa agenda es la siguiente:\n\n* 7:00pm - 7:30pm Bienvenida y Anuncios\n* 7:30pm - 8:45pm La personalidad jurídica de la IA\n* 8:45pm - 10:00pm Chelas, pizzas y networking!\n\nPueden ir reservando su espacio registrándose en el evento.\n\n\\*El lugar cuenta con estacionamiento $50 pesos tiempo indefinido.\n\n¡Esperamos verlos por acá!\n\n\\- Data Pub",
     "url": "https://www.meetup.com/thedatapub/events/313303117/",
     "sources": [
       {
@@ -2589,7 +2621,7 @@
     "state_code": "MX-QUE",
     "city": "Santiago de Querétaro",
     "city_code": "santiagodequeretaro",
-    "address": "Calle Héroe de Nacozari, Centro, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76000, México",
+    "address": "Calle Héroe de Nacozari, Las Rosas, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76164, México",
     "hash_key": "epam tech talks quertaro_2025-11-14T00:00:00+00:00"
   },
   {
