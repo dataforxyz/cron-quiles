@@ -1,4 +1,4 @@
-.PHONY: help install install-dev sync test test-file test-filter lint format format-check run run-all serve clean update check
+.PHONY: help install install-dev sync test test-file test-filter lint format format-check run run-all serve stop clean update check
 .PHONY: tools-deduplicate tools-populate-cache tools-scan-feeds tools-scrape-meetup requirements-freeze deploy-gh-pages
 
 UV := uv
@@ -42,8 +42,14 @@ run:  ## Ejecuta pipeline (uso: make run ARGS="--city cdmx --json")
 run-all:  ## Ejecuta pipeline completo para todas las ciudades
 	$(UV) run python -m cronquiles.main --all-cities --json --output-dir $(OUTPUT_DIR)/
 
+run-fast:  ## Ejecuta pipeline en modo rápido (--fast: sin enrich ni geocoding de historial)
+	$(UV) run python -m cronquiles.main --all-cities --json --output-dir $(OUTPUT_DIR)/ --fast
+
 serve:  ## Inicia servidor local en gh-pages/
 	cd gh-pages && $(UV) run python serve.py
+
+stop:  ## Detiene el servidor local
+	@fuser -k 8000/tcp 2>/dev/null && echo "✓ Servidor detenido" || echo "No hay servidor corriendo"
 
 clean:  ## Limpia archivos generados
 	find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true

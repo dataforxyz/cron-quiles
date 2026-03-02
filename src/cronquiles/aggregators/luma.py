@@ -18,8 +18,9 @@ class LumaAggregator(GenericICSAggregator):
     """Aggregator para feeds ICS de Luma con enriquecimiento de ubicación."""
 
     def __init__(self, session=None, timeout: int = 30, max_retries: int = 2,
-                 url_cache: Optional[Dict] = None):
+                 url_cache: Optional[Dict] = None, skip_enrich: bool = False):
         super().__init__(session, timeout, max_retries)
+        self.skip_enrich = skip_enrich
         # Cache persistente compartido con ICSAggregator
         self.url_cache = url_cache if url_cache is not None else {"url_conversions": {}, "vanity_urls": {}}
         # Mantener referencia directa para compatibilidad

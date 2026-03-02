@@ -7,6 +7,22 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 
+### Added
+- **Feed CHIDAS TECH**: Luma `https://luma.com/nc2fac44` (comunidad tech, eventos sobre redes e infraestructura).
+- **Feed Management In Tech**: Luma `https://luma.com/qhszdqs3` (conversaciones sobre liderazgo y gestión de equipos en tech, Ciudad de México).
+- **Feed Founder Friends Mexico**: Luma `https://luma.com/FFMexico2026` (comunidad de founders por Hustle Fund, Ciudad de México).
+- **Feeds FinTech México y Sudo FCiencias**: Luma `https://luma.com/eofagheq`, `https://luma.com/02t893pf` (FinTech México), `https://luma.com/e17fbtoo` (Sudo FCiencias).
+- **Feed Fvckup Nights**: Luma perfil `https://luma.com/user/usr-OqGmWs21jbaz5fK` (solo eventos en MX; el pipeline ya filtra por país).
+- **Feed This Week in Fintech**: Luma `https://luma.com/lkn7cfxz` (AI x Fintech Talks, Ciudad de México).
+- **Feed v0 Prompt to Production Mexico City**: Luma `https://luma.com/fdg8riz2` (evento oficial v0/Vercel en México, aibuilders.mx).
+- **Evento manual**: Coding Sessions – MDC x Linuxeros Zapopan (sábado 7 feb 2026, 10:00–14:00, Hacker Garage, Zapopan).
+- **Modo `--fast`**: Omite enriquecimiento de ubicación (Luma/Meetup) y la fase 2 de geocoding (healing de historial). Uso: `make run-fast` o `python -m cronquiles.main --fast`.
+
+### Changed
+- **Rendimiento geocoding**: `geocode_location()` ahora retorna `(éxito, usó_api)` para que los callers solo hagan `sleep` después de llamadas reales a la API, no cuando hay cache hit.
+- **Extracción thread-safe**: Cada feed se extrae con su propia sesión HTTP para evitar problemas de concurrencia en ejecución paralela.
+- **URL Python CDMX**: Actualizada de `luma.com/pythoncdmx-eventos-2025` a endpoint ICS directo de la API.
+
 ## [1.9.0] - 2026-01-21
 
 ### Added

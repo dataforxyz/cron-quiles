@@ -13,6 +13,11 @@ _meetup_limiter = RateLimiter(min_interval=0.3)
 class MeetupAggregator(GenericICSAggregator):
     """Aggregator for Meetup ICS feeds with location enrichment."""
 
+    def __init__(self, session=None, timeout: int = 30, max_retries: int = 2,
+                 skip_enrich: bool = False):
+        super().__init__(session, timeout, max_retries)
+        self.skip_enrich = skip_enrich
+
     def extract(
         self, source: str | Dict, feed_name: Optional[str] = None
     ) -> List[EventNormalized]:
@@ -25,7 +30,7 @@ class MeetupAggregator(GenericICSAggregator):
             if e.url and "meetup.com" in e.url and len(e.location) < 15
         ]
 
-        if to_enrich:
+        if to_enrich and not self.skip_enrich:
             logger.info(f"Found {len(to_enrich)} Meetup events to potentially enrich")
             session = self.session
 

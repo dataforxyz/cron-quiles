@@ -143,9 +143,11 @@ class ICSAggregator:
     Handles deduplication, healing, history management, and output generation.
     """
 
-    def __init__(self, timeout: int = 30, max_retries: int = 2):
+    def __init__(self, timeout: int = 30, max_retries: int = 2,
+                 fast_mode: bool = False):
         self.timeout = timeout
         self.max_retries = max_retries
+        self.fast_mode = fast_mode
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": "Cron-Quiles-ICS-Aggregator/1.0"})
 
@@ -164,9 +166,13 @@ class ICSAggregator:
         self.aggregators = {
             "eventbrite": EventbriteAggregator(self.session),
             "luma": LumaAggregator(
-                self.session, timeout, max_retries, self.luma_url_cache
+                self.session, timeout, max_retries, self.luma_url_cache,
+                skip_enrich=fast_mode,
             ),
-            "meetup": MeetupAggregator(self.session, timeout, max_retries),
+            "meetup": MeetupAggregator(
+                self.session, timeout, max_retries,
+                skip_enrich=fast_mode,
+            ),
             "ics": GenericICSAggregator(self.session, timeout, max_retries),
             "manual": ManualAggregator(self.session),
             "hievents": HiEventsAggregator(self.session),
@@ -280,37 +286,60 @@ class ICSAggregator:
         logger.info(f"Deduplicación: {len(events)} -> {len(deduplicated)} eventos")
         return deduplicated
 
-    def _select_aggregator(self, url: str):
-        """Selecciona el agregador apropiado según la URL del feed."""
+    def _select_aggregator_key(self, url: str) -> str:
+        """Devuelve la clave del agregador apropiado según la URL del feed."""
         if (
             "eventbrite." in url
             and "/e/" not in url
             and "/o/" not in url
             and "ical" not in url
         ):
-            return self.aggregators["eventbrite"]
+            return "eventbrite"
         elif "eventbrite." in url and (
             "eventbrite.com" in url or "eventbrite.com.mx" in url
         ):
-            return self.aggregators["eventbrite"]
+            return "eventbrite"
         elif "lu.ma" in url or "luma.com" in url:
-            return self.aggregators["luma"]
+            return "luma"
         elif "meetup.com" in url:
-            return self.aggregators["meetup"]
+            return "meetup"
         elif "/reuniones." in url or "hi.events" in url:
-            return self.aggregators["hievents"]
+            return "hievents"
         else:
-            return self.aggregators["ics"]
+            return "ics"
 
     def _extract_single_feed(self, feed) -> List[EventNormalized]:
-        """Extrae eventos de un solo feed (para ejecución paralela)."""
+        """
+        Extrae eventos de un solo feed (para ejecución paralela).
+        Crea su propia sesión HTTP para ser thread-safe.
+        """
         url = feed if isinstance(feed, str) else feed.get("url")
         name = None if isinstance(feed, str) else feed.get("name")
 
         if not url:
             return []
 
-        agg = self._select_aggregator(url)
+        # Crear sesión thread-local para evitar problemas de concurrencia
+        session = requests.Session()
+        session.headers.update({"User-Agent": "Cron-Quiles-ICS-Aggregator/1.0"})
+
+        agg_key = self._select_aggregator_key(url)
+        if agg_key == "eventbrite":
+            agg = EventbriteAggregator(session)
+        elif agg_key == "luma":
+            agg = LumaAggregator(
+                session, self.timeout, self.max_retries, self.luma_url_cache,
+                skip_enrich=self.fast_mode,
+            )
+        elif agg_key == "meetup":
+            agg = MeetupAggregator(
+                session, self.timeout, self.max_retries,
+                skip_enrich=self.fast_mode,
+            )
+        elif agg_key == "hievents":
+            agg = HiEventsAggregator(session)
+        else:
+            agg = GenericICSAggregator(session, self.timeout, self.max_retries)
 
         try:
             return agg.extract(feed, name)
@@ -351,12 +380,13 @@ class ICSAggregator:
             all_events.extend(events)
 
         # 2.5 Enriquecer ubicación de eventos Luma sin country_code (para poder filtrar correctamente)
+        # En fast_mode se omite para reducir tiempo.
         luma_unknown = [
             e for e in all_events
             if not e.country_code and not e._is_online()
             and e.url and ("lu.ma" in e.url or "luma.com" in e.url)
         ]
-        if luma_unknown:
+        if luma_unknown and not self.fast_mode:
             logger.info(f"Enriqueciendo {len(luma_unknown)} eventos Luma sin país conocido")
             self.aggregators["luma"].enrich_events(luma_unknown)
             # Re-extraer detalles de ubicación después de enriquecer
@@ -387,13 +417,10 @@ class ICSAggregator:
         ]
         if to_geocode:
             logger.info(f"Geocoding {len(to_geocode)} new events...")
-            for i, event in enumerate(to_geocode):
-                if i > 0 and (
-                    not self.geocoding_cache
-                    or event.location not in self.geocoding_cache
-                ):
+            for event in to_geocode:
+                _, used_api = event.geocode_location(self.geocoding_cache)
+                if used_api:
                     time.sleep(1.1)
-                event.geocode_location(self.geocoding_cache)
             self.save_geocoding_cache()
             self.save_luma_url_cache()
 
@@ -413,23 +440,22 @@ class ICSAggregator:
                 logger.error(f"Error reconstructing event: {e}")
 
         # 6. Geocoding (Healing) Phase 2 - Full List (including historic)
+        # En fast_mode se omite para reducir tiempo (los datos ya vienen de caché/historial).
         to_geocode_final = [
             e
             for e in final_events
             if not e._is_online() and (not e.state_code or not e.city)
         ]
-        if to_geocode_final:
+        if to_geocode_final and not self.fast_mode:
             max_to_geocode = 100
             to_process = to_geocode_final[:max_to_geocode]
             logger.info(f"Healing location data: Geocoding {len(to_process)} events...")
 
-            for i, event in enumerate(to_process):
-                if i > 0 and (
-                    not self.geocoding_cache
-                    or event.location not in self.geocoding_cache
-                ):
+            for event in to_process:
+                success, used_api = event.geocode_location(self.geocoding_cache)
+                if used_api:
                     time.sleep(1.1)
-                if event.geocode_location(self.geocoding_cache):
+                if success:
                     # Update history immediately for persistence
                     key = event.hash_key
                     self.history_manager.events[key] = event.to_dict()
