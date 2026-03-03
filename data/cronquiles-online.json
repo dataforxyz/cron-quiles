@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T23:55:14.958922+00:00",
-  "total_events": 159,
+  "generated_at": "2026-03-03T01:07:36.876359+00:00",
+  "total_events": 162,
   "city": "Online",
   "communities": [
     {
@@ -86,11 +86,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -134,6 +134,28 @@
       ]
     },
     {
+      "name": "GDG Heroica Veracruz",
+      "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG IPN",
+      "description": "Disclaimer: GDG IPN is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-ipn/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "Rust-AICollective / The AI Collective",
       "description": "Organizador de eventos manuales (ej: Primer Meetup: Retos de la Posada de Código 2025)",
       "links": []
@@ -152,6 +174,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2021-01-07T17:45:00-05:00",
       "dtend": "2021-12-02T18:55:00-05:00",
@@ -178,6 +201,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2021-02-03T11:00:00-05:00",
       "dtend": "2021-04-28T12:00:00-04:00",
@@ -204,6 +228,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2021-03-18T11:00:00-04:00",
       "dtend": "2021-03-18T12:00:00-04:00",
@@ -230,6 +255,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2021-09-08T11:00:00-04:00",
       "dtend": "2021-12-15T11:30:00-05:00",
@@ -256,6 +282,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2022-01-06T17:45:00-05:00",
       "dtend": "2022-01-06T18:55:00-05:00",
@@ -282,6 +309,7 @@
         }
       ],
       "location": "https://partiful.com/e/fduy3TJ8t7xQYw06HEPU",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-02-10T03:00:00+00:00",
       "dtend": "2023-02-10T05:00:00+00:00",
@@ -310,6 +338,7 @@
         }
       ],
       "location": "https://partiful.com/e/ZWZxvHkihKn7JOkHg9HK",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-03-07T02:30:00+00:00",
       "dtend": "2023-03-07T05:00:00+00:00",
@@ -338,6 +367,7 @@
         }
       ],
       "location": "https://partiful.com/e/UFH62eStseylh4HrNMI8",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-03-14T01:30:00+00:00",
       "dtend": "2023-03-14T04:00:00+00:00",
@@ -366,6 +396,7 @@
         }
       ],
       "location": "https://partiful.com/e/JbxFICGdJXG7Dyq4bWDp",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-03-23T01:30:00+00:00",
       "dtend": "2023-03-23T04:00:00+00:00",
@@ -394,6 +425,7 @@
         }
       ],
       "location": "https://partiful.com/e/1F4eel3HqIgOA90tuAYF",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-03-30T01:30:00+00:00",
       "dtend": "2023-03-30T04:00:00+00:00",
@@ -422,6 +454,7 @@
         }
       ],
       "location": "https://partiful.com/e/nQKICydAsKOIIeLwRlrB",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-04-13T01:30:00+00:00",
       "dtend": "2023-04-13T04:00:00+00:00",
@@ -450,6 +483,7 @@
         }
       ],
       "location": "https://partiful.com/e/95vwcLJIrDHuw38dpPf4",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-04-20T01:30:00+00:00",
       "dtend": "2023-04-20T04:00:00+00:00",
@@ -478,6 +512,7 @@
         }
       ],
       "location": "https://partiful.com/e/5970i3bKnumiFfJ8sA4w",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-05-04T01:30:00+00:00",
       "dtend": "2023-05-04T04:00:00+00:00",
@@ -506,6 +541,7 @@
         }
       ],
       "location": "https://partiful.com/e/QRNMpghsgVNorMn7AbCd",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-06-01T01:30:00+00:00",
       "dtend": "2023-06-01T04:00:00+00:00",
@@ -534,6 +570,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-e9MnPdmeIZDwZ6k",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-07-26T19:00:00+00:00",
       "dtend": "2023-07-26T20:00:00+00:00",
@@ -560,6 +597,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-4Krdqb6f3DP2OBn",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-08-09T16:30:00+00:00",
       "dtend": "2023-08-09T20:00:00+00:00",
@@ -586,6 +624,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-uuo2blcOSr9Yggx",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-08-29T17:00:00+00:00",
       "dtend": "2023-08-29T18:00:00+00:00",
@@ -614,6 +653,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-3QJRnwHwI46eunH",
+      "online": true,
       "organizer": "This Week in Fintech",
       "dtstart": "2023-09-06T13:00:00+00:00",
       "dtend": "2023-09-06T21:00:00+00:00",
@@ -642,6 +682,7 @@
         }
       ],
       "location": "https://www.eventbrite.com/e/ai-investors-networking-tickets-707083233987?aff=ebdsoporgprofile",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-09-11T23:00:00+00:00",
       "dtend": "2023-09-12T01:00:00+00:00",
@@ -670,6 +711,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-SjfBmp6y8g6CsAE",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-09-12T17:00:00+00:00",
       "dtend": "2023-09-12T18:00:00+00:00",
@@ -698,6 +740,7 @@
         }
       ],
       "location": "https://partiful.com/e/xlVcg6ApMYiun8yt4pTp",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-09-23T16:00:00+00:00",
       "dtend": "2023-09-24T04:00:00+00:00",
@@ -726,6 +769,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Q6y8rwqE52I1uFP",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-09-27T17:00:00+00:00",
       "dtend": "2023-09-27T18:00:00+00:00",
@@ -752,6 +796,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-HzmhZEXVPYHTRRS",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-09-29T17:00:00+00:00",
       "dtend": "2023-09-29T18:00:00+00:00",
@@ -778,6 +823,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-qYPgUR0h87hL9sT",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2023-10-03T17:00:00+00:00",
       "dtend": "2023-10-03T18:00:00+00:00",
@@ -804,6 +850,7 @@
         }
       ],
       "location": "https://www.ai-event.ted.com/hackathon",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-10-14T17:00:00+00:00",
       "dtend": "2023-10-15T23:00:00+00:00",
@@ -832,6 +879,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-aDp3qqDCBoYt9mn",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-10-26T18:00:52+00:00",
       "dtend": "2023-10-26T19:00:52+00:00",
@@ -861,6 +909,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-YDkpPkYuPBXIpCH",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2023-11-21T19:00:41+00:00",
       "dtend": "2023-11-21T20:00:41+00:00",
@@ -889,6 +938,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-LqbycCMZit3K7Uq",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2024-02-07T00:30:00+00:00",
       "dtend": "2024-02-07T01:30:00+00:00",
@@ -915,6 +965,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-lL0WgU68uQsc3nv",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2024-02-23T02:00:36+00:00",
       "dtend": "2024-02-23T03:00:36+00:00",
@@ -943,6 +994,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-k2eD6VPeC0cHy5B",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2024-04-25T01:00:56+00:00",
       "dtend": "2024-04-25T02:00:56+00:00",
@@ -971,6 +1023,7 @@
         }
       ],
       "location": "hosted by mexico tech week",
+      "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-05-01T08:10:00+00:00",
       "dtend": "2024-05-01T09:10:00+00:00",
@@ -997,6 +1050,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-vbiSPvRJkL1Jiip",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2024-06-17T17:00:00+00:00",
       "dtend": "2024-06-17T18:00:00+00:00",
@@ -1023,6 +1077,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-PnNrccCrDJx3C2W",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2024-06-25T18:00:50+00:00",
       "dtend": "2024-06-25T19:00:50+00:00",
@@ -1051,6 +1106,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-BAYYJfemJabkiKB",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2024-07-18T21:00:00+00:00",
       "dtend": "2024-07-18T22:00:00+00:00",
@@ -1079,6 +1135,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-RGWOnuPO4uiDS3G",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2024-07-25T17:00:00+00:00",
       "dtend": "2024-07-25T18:00:00+00:00",
@@ -1105,6 +1162,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-6vq7fAy6FXHzWOU",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-08-30T00:00:00+00:00",
       "dtend": "2024-08-30T02:00:00+00:00",
@@ -1131,6 +1189,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-aeVCMMiEAJSX0aF",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2024-09-03T17:00:00+00:00",
       "dtend": "2024-09-03T18:00:00+00:00",
@@ -1157,6 +1216,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2024-09-11T11:30:00-04:00",
       "dtend": "2024-12-04T12:00:00-05:00",
@@ -1183,6 +1243,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2024-09-18T15:00:00-04:00",
       "dtend": "2024-09-18T17:00:00-04:00",
@@ -1211,6 +1272,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-HZp5M0UnfCVBPNE",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-09-27T00:00:00+00:00",
       "dtend": "2024-09-27T01:00:00+00:00",
@@ -1237,6 +1299,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Be7y58Q2AGJfo97",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-10-01T00:00:00+00:00",
       "dtend": "2024-10-01T01:00:00+00:00",
@@ -1265,6 +1328,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-SaS8LzSa0mUNpOX",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-10-04T00:00:00+00:00",
       "dtend": "2024-10-04T01:00:00+00:00",
@@ -1294,6 +1358,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-TEkdvol4ZI55xWN",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-10-09T00:00:00+00:00",
       "dtend": "2024-10-09T01:00:00+00:00",
@@ -1322,6 +1387,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2024-10-09T11:00:00-04:00",
       "dtend": "2024-10-09T13:00:00-04:00",
@@ -1348,6 +1414,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-JPlGJsTWuDfNz1f",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-10-11T00:00:00+00:00",
       "dtend": "2024-10-11T01:00:00+00:00",
@@ -1376,6 +1443,7 @@
         }
       ],
       "location": "hosted by mexico tech week & hi ventures",
+      "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-22T15:00:00+00:00",
       "dtend": "2024-10-23T04:00:00+00:00",
@@ -1404,6 +1472,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-tPsCHgtWHxx5GsJ",
+      "online": true,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-23T00:00:00+00:00",
       "dtend": "2024-10-23T01:00:00+00:00",
@@ -1432,6 +1501,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-JyNlPZhKKSXkkXG",
+      "online": true,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-23T00:00:00+00:00",
       "dtend": "2024-10-23T01:00:00+00:00",
@@ -1458,6 +1528,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-gpAIOkVpeUyDNIZ",
+      "online": true,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-23T17:00:00+00:00",
       "dtend": "2024-10-23T18:30:00+00:00",
@@ -1487,6 +1558,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-mRO6US6iBsyPg8p",
+      "online": true,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-23T18:00:00+00:00",
       "dtend": "2024-10-23T18:30:00+00:00",
@@ -1516,6 +1588,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-r02QQbE0hAcpo3X",
+      "online": true,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-24T17:00:00+00:00",
       "dtend": "2024-10-24T18:00:00+00:00",
@@ -1545,6 +1618,7 @@
         }
       ],
       "location": "hosted by mexico tech week & maria beltran",
+      "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-24T18:00:00+00:00",
       "dtend": "2024-10-24T20:00:00+00:00",
@@ -1571,6 +1645,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
+      "online": true,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-25T16:00:00+00:00",
       "dtend": "2024-10-25T17:00:00+00:00",
@@ -1599,6 +1674,7 @@
         }
       ],
       "location": "State of Mexico",
+      "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-26T13:00:00+00:00",
       "dtend": "2024-10-26T18:30:00+00:00",
@@ -1627,6 +1703,7 @@
         }
       ],
       "location": "hosted by mexico tech week & carlos dávila",
+      "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-26T14:00:00+00:00",
       "dtend": "2024-10-26T18:30:00+00:00",
@@ -1653,6 +1730,7 @@
         }
       ],
       "location": "https://www.meetup.com/ai-cdmx/events/303644420/",
+      "online": true,
       "organizer": "AI/IA CDMX",
       "dtstart": "2024-11-13T01:00:00+00:00",
       "dtend": "2024-11-13T03:00:00+00:00",
@@ -1682,6 +1760,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2024-11-13T11:00:00-05:00",
       "dtend": "2024-11-13T13:00:00-05:00",
@@ -1710,6 +1789,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2024-12-11T11:00:00-05:00",
       "dtend": "2024-12-11T13:00:00-05:00",
@@ -1736,6 +1816,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-EeNZEoYwKDTVe7W",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2024-12-17T20:00:00+00:00",
       "dtend": "2024-12-17T21:00:00+00:00",
@@ -1764,6 +1845,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-WObm3WXaenN0vjG",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-12-21T17:00:00+00:00",
       "dtend": "2024-12-21T20:00:00+00:00",
@@ -1792,6 +1874,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-cvMmP8ARx0lFqul",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2024-12-28T16:30:00+00:00",
       "dtend": "2024-12-28T19:00:00+00:00",
@@ -1818,6 +1901,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Richard Kasperowski",
       "dtstart": "2025-01-08T11:00:00-05:00",
       "dtend": "2026-12-09T13:00:00-05:00",
@@ -1846,6 +1930,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-ym2AbkiWvE726p8",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2025-01-16T01:00:00+00:00",
       "dtend": "2025-01-16T02:00:00+00:00",
@@ -1874,6 +1959,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-VXu6GIzeagI0jLA",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-01-22T01:00:00+00:00",
       "dtend": "2025-01-22T02:00:00+00:00",
@@ -1900,6 +1986,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-fQ4spf468xauodZ",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-01-29T01:00:00+00:00",
       "dtend": "2025-01-29T02:00:00+00:00",
@@ -1926,6 +2013,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-2r6lEgBHXt58nHR",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-02-11T18:00:00+00:00",
       "dtend": "2025-02-11T19:00:00+00:00",
@@ -1954,6 +2042,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-FX2R8RqkJ78zBt9",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-02-11T20:30:00+00:00",
       "dtend": "2025-02-11T22:00:00+00:00",
@@ -1982,6 +2071,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-IHEUTUJR8G4DTEy",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-02-18T23:00:00+00:00",
       "dtend": "2025-02-19T00:00:00+00:00",
@@ -2008,6 +2098,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-jmspavqQTcj4OmB",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-02-19T23:00:00+00:00",
       "dtend": "2025-02-20T00:00:00+00:00",
@@ -2034,6 +2125,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-ln64ZgDHMef2d2L",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-02-20T18:00:00+00:00",
       "dtend": "2025-02-20T19:00:00+00:00",
@@ -2060,6 +2152,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-WVzlUvTLaPbtmoV",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-02-21T22:00:00+00:00",
       "dtend": "2025-02-21T23:00:00+00:00",
@@ -2086,6 +2179,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-cyzCaJh2IIGv1sY",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-02-25T23:00:00+00:00",
       "dtend": "2025-02-26T00:00:00+00:00",
@@ -2114,6 +2208,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-4D9hLnBTR87hLPk",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-03-04T23:00:00+00:00",
       "dtend": "2025-03-05T00:00:00+00:00",
@@ -2142,6 +2237,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-4KOLIHsMA7MwFel",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-03-18T23:00:00+00:00",
       "dtend": "2025-03-19T00:00:00+00:00",
@@ -2168,6 +2264,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-JM9GL3h39SANuOV",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-03-25T17:00:00+00:00",
       "dtend": "2025-03-25T17:50:00+00:00",
@@ -2196,6 +2293,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-bHDiEzXv77L67gr",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-03-27T17:30:00+00:00",
       "dtend": "2025-03-29T03:30:00+00:00",
@@ -2224,6 +2322,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-052JxsIkPKeELUu",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-04-01T23:00:00+00:00",
       "dtend": "2025-04-02T00:00:00+00:00",
@@ -2252,6 +2351,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-T0z9nCR0hg3IwkX",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-04-08T23:00:00+00:00",
       "dtend": "2025-04-09T00:00:00+00:00",
@@ -2280,6 +2380,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-ENIluEGEp0Z68wh",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-15T17:30:00+00:00",
       "dtend": "2025-04-17T03:30:00+00:00",
@@ -2308,6 +2409,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-gv4JtT4E33xU9zm",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-15T17:30:00+00:00",
       "dtend": "2025-04-17T03:30:00+00:00",
@@ -2336,6 +2438,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-nGBjHQD3BtaqYCv",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-15T17:30:00+00:00",
       "dtend": "2025-04-17T03:30:00+00:00",
@@ -2364,6 +2467,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-8OrYQANLSFuy9Yj",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-04-15T23:00:00+00:00",
       "dtend": "2025-04-16T00:00:00+00:00",
@@ -2390,6 +2494,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Swr4Skt7ZMAhiPK",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-22T15:30:00+00:00",
       "dtend": "2025-04-24T03:30:00+00:00",
@@ -2418,6 +2523,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-HuQ0D9BpuZXJBRH",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-22T15:30:00+00:00",
       "dtend": "2025-04-24T03:30:00+00:00",
@@ -2446,6 +2552,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-4p0qcU7yuzMcRPG",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-22T15:30:00+00:00",
       "dtend": "2025-04-24T03:30:00+00:00",
@@ -2474,6 +2581,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-xgjYW4xbSlteRrg",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-04-22T23:00:00+00:00",
       "dtend": "2025-04-23T00:00:00+00:00",
@@ -2500,6 +2608,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-bwps12cQsGU0CQt",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-24T17:00:00+00:00",
       "dtend": "2025-04-24T17:10:00+00:00",
@@ -2526,6 +2635,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Sj9muIZAl50PxWp",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-29T20:00:00+00:00",
       "dtend": "2025-05-01T20:00:00+00:00",
@@ -2554,6 +2664,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-g4Kv6EARAbhC5MX",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-29T20:00:00+00:00",
       "dtend": "2025-05-01T20:00:00+00:00",
@@ -2582,6 +2693,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-IUNr9mkqIu8MRu9",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-04-29T20:00:00+00:00",
       "dtend": "2025-05-01T20:00:00+00:00",
@@ -2610,6 +2722,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-9BZaij9bfy1TBnw",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2025-05-07T17:00:00+00:00",
       "dtend": "2025-05-07T18:00:00+00:00",
@@ -2638,6 +2751,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-j1aDDbfGqmRAIgQ",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-05-07T18:00:00+00:00",
       "dtend": "2025-05-09T18:00:00+00:00",
@@ -2666,6 +2780,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-YlybcBFhJGGiGBu",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-05-07T18:00:00+00:00",
       "dtend": "2025-05-09T18:00:00+00:00",
@@ -2694,6 +2809,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-780stbyofbBC3HN",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-05-07T18:00:00+00:00",
       "dtend": "2025-05-09T18:00:00+00:00",
@@ -2722,6 +2838,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-wlqBonvCpwTIP13",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-05-07T18:00:00+00:00",
       "dtend": "2025-05-09T18:00:00+00:00",
@@ -2750,6 +2867,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-O1E8LIYm2GaxY4U",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-05-28T18:00:00+00:00",
       "dtend": "2025-05-31T06:00:00+00:00",
@@ -2778,6 +2896,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-yUFvH8opGCUohJL",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2025-06-05T17:00:00+00:00",
       "dtend": "2025-06-05T18:00:00+00:00",
@@ -2806,6 +2925,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-4FtP8DvJ24YwAEK",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-06-20T00:30:00+00:00",
       "dtend": "2025-06-20T01:30:00+00:00",
@@ -2832,6 +2952,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-BdnWzeaUTboIfh0",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-06-22T16:30:00+00:00",
       "dtend": "2025-06-22T18:00:00+00:00",
@@ -2858,6 +2979,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-dCeH8TBWdAjUwcI",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-06-23T17:00:00+00:00",
       "dtend": "2025-06-23T18:00:00+00:00",
@@ -2886,6 +3008,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-puEQsNioFj40AOB",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-06-24T00:30:00+00:00",
       "dtend": "2025-06-24T01:30:00+00:00",
@@ -2912,6 +3035,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-ViGYdQ695VpOohB",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-06-25T17:00:00+00:00",
       "dtend": "2025-06-25T17:10:00+00:00",
@@ -2938,6 +3062,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-TlQXEoC9kVJCsMZ",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-06-27T00:30:00+00:00",
       "dtend": "2025-06-27T01:30:00+00:00",
@@ -2964,6 +3089,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-OmEFmQgWu38vswM",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-07-01T00:30:00+00:00",
       "dtend": "2025-07-01T01:30:00+00:00",
@@ -2990,6 +3116,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-I1EDwiNNv575r4W",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-07-08T22:00:00+00:00",
       "dtend": "2025-07-08T23:00:00+00:00",
@@ -3016,6 +3143,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-p5A1dRnckTaCgoA",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-07-15T17:00:00+00:00",
       "dtend": "2025-07-15T18:30:00+00:00",
@@ -3044,6 +3172,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-LTnWJzF64Tke7e8",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-07-15T21:45:00+00:00",
       "dtend": "2025-07-15T22:45:00+00:00",
@@ -3070,6 +3199,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-jAbrAB2UuAtd9ay",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-07-31T18:00:00+00:00",
       "dtend": "2025-07-31T18:10:00+00:00",
@@ -3096,6 +3226,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-lBIaSzT6l1fN3SQ",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-08-14T18:00:00+00:00",
       "dtend": "2025-08-14T18:10:00+00:00",
@@ -3122,6 +3253,7 @@
         }
       ],
       "location": "https://www.meetup.com/ai-cdmx/events/310087422/",
+      "online": true,
       "organizer": "AI/IA CDMX",
       "dtstart": "2025-08-20T01:00:00+00:00",
       "dtend": "2025-08-20T03:00:00+00:00",
@@ -3150,6 +3282,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-bCXzW5aarpAQHid",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-09-10T17:00:00+00:00",
       "dtend": "2025-09-10T17:10:00+00:00",
@@ -3176,6 +3309,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-T9Ma1BnBItT1Yb2",
+      "online": true,
       "organizer": "Claude Users Group",
       "dtstart": "2025-09-12T01:00:00+00:00",
       "dtend": "2025-09-12T02:30:00+00:00",
@@ -3204,6 +3338,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-5bzZksYMsetVmKD",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-10-02T16:00:00+00:00",
       "dtend": "2025-10-02T16:30:00+00:00",
@@ -3233,6 +3368,7 @@
         }
       ],
       "location": "https://partiful.com/e/b0uCIPkiXO9lph7mTQ8S",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-10-06T17:30:00+00:00",
       "dtend": "2025-10-07T00:00:00+00:00",
@@ -3259,6 +3395,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
+      "online": true,
       "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2025-10-07T22:00:00+00:00",
       "dtend": "2025-10-07T23:00:00+00:00",
@@ -3287,13 +3424,14 @@
         }
       ],
       "location": "https://luma.com/event/evt-J4Et3DBgzVr7ieI",
+      "online": true,
       "organizer": "Sudo FCiencias",
       "dtstart": "2025-10-10T22:00:00+00:00",
       "dtend": "2025-10-10T23:30:00+00:00",
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3315,6 +3453,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-crhnVKntad1hufu",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-10-16T17:00:00+00:00",
       "dtend": "2025-10-16T17:10:00+00:00",
@@ -3341,6 +3480,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-vz1LMNtWMjcyQiF",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-10-24T18:00:00+00:00",
       "dtend": "2025-10-24T18:10:00+00:00",
@@ -3367,6 +3507,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-FmCBjqaT7Bx4B0i",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-11-06T18:30:00+00:00",
       "dtend": "2025-11-06T18:40:00+00:00",
@@ -3393,6 +3534,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Nxe2wxIrRaHFmwm",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-11-13T18:00:00+00:00",
       "dtend": "2025-11-13T18:45:00+00:00",
@@ -3419,6 +3561,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Oa0s1kPFFR8VtCh",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-11-20T19:00:00+00:00",
       "dtend": "2025-11-20T19:10:00+00:00",
@@ -3445,6 +3588,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-4FVaazO3gHVsG8I",
+      "online": true,
       "organizer": "Sudo FCiencias",
       "dtstart": "2025-12-06T18:00:00+00:00",
       "dtend": "2025-12-06T19:00:00+00:00",
@@ -3452,7 +3596,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3474,6 +3618,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-OugMCae81OaArCd",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-12-10T15:00:00+00:00",
       "dtend": "2025-12-10T21:00:00+00:00",
@@ -3500,6 +3645,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-slbZ24DNKXrv76g",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-12-10T19:00:00+00:00",
       "dtend": "2025-12-10T19:10:00+00:00",
@@ -3526,6 +3672,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-dCijW1iczXlhBFD",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-12-17T16:00:00+00:00",
       "dtend": "2025-12-17T22:00:00+00:00",
@@ -3552,6 +3699,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-MNA5eK2UuxsFKxQ",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2025-12-17T20:00:00+00:00",
       "dtend": "2025-12-18T19:59:00+00:00",
@@ -3578,6 +3726,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-wmlyAspxIRnO3uX",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-12-24T16:00:00+00:00",
       "dtend": "2025-12-24T22:00:00+00:00",
@@ -3604,6 +3753,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-SJHvte10cToetQW",
+      "online": true,
       "organizer": "Frutero Club",
       "dtstart": "2025-12-31T16:00:00+00:00",
       "dtend": "2025-12-31T22:00:00+00:00",
@@ -3630,11 +3780,12 @@
         }
       ],
       "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+      "online": true,
       "organizer": "Sudo FCiencias",
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3656,6 +3807,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
+      "online": true,
       "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-01-27T23:00:00+00:00",
       "dtend": "2026-01-28T02:00:00+00:00",
@@ -3684,6 +3836,7 @@
         }
       ],
       "location": "Ciudad de México, Ciudad de México",
+      "online": true,
       "organizer": "Rust-AICollective / The AI Collective",
       "dtstart": "2026-01-27T18:00:00-06:00",
       "dtend": "2026-01-27T21:00:00-06:00",
@@ -3716,6 +3869,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
+      "online": true,
       "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-01-28T23:00:00+00:00",
       "dtend": "2026-01-29T02:00:00+00:00",
@@ -3744,6 +3898,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
+      "online": true,
       "organizer": "CHIDAS TECH",
       "dtstart": "2026-02-06T01:00:00+00:00",
       "dtend": "2026-02-27T01:00:00+00:00",
@@ -3770,6 +3925,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
+      "online": true,
       "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-02-13T00:00:00+00:00",
       "dtend": "2026-02-13T00:30:00+00:00",
@@ -3798,6 +3954,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
+      "online": true,
       "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-02-19T23:30:00+00:00",
       "dtend": "2026-02-20T00:00:00+00:00",
@@ -3826,6 +3983,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-gJdCFiMrQ4I5wWp",
+      "online": true,
       "organizer": "Python CDMX",
       "dtstart": "2026-02-25T00:45:00+00:00",
       "dtend": "2026-02-25T03:00:00+00:00",
@@ -3854,6 +4012,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-T9DwqyfaoViKf9K",
+      "online": true,
       "organizer": "Founder Friends Mexico",
       "dtstart": "2026-02-26T18:00:00+00:00",
       "dtend": "2026-02-26T18:10:00+00:00",
@@ -3882,6 +4041,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "Kong Mexico City",
       "dtstart": "2026-03-05T10:00:00-06:00",
       "dtend": "2026-03-05T11:00:00-06:00",
@@ -3914,6 +4074,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-03-05T11:00:00-06:00",
       "dtend": "2026-03-05T13:00:00-06:00",
@@ -3937,6 +4098,41 @@
       "hash_key": "march 5 ai ml and computer vision meetup_2026-03-05T16:00:00+00:00"
     },
     {
+      "title": "GDG IPN|Build With AI: Explorando Vertex AI|Online",
+      "description": "Únase a nosotros para un emocionante taller titulado \"Build With AI\", donde exploraremos las capacidades innovadoras de ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-ipn-presents-build-with-ai-explorando-vertex-ai/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-ipn-presents-build-with-ai-explorando-vertex-ai/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG IPN",
+      "dtstart": "2026-03-05T12:25:19-06:00",
+      "dtend": "2026-03-05T13:25:19-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "AI - Gemma",
+        "Build with AI",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-ipn/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "build with ai explorando vertex ai_2026-03-05T18:00:00+00:00"
+    },
+    {
       "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
       "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/5ivardas",
@@ -3948,6 +4144,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
+      "online": true,
       "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-03-06T00:00:00+00:00",
       "dtend": "2026-03-06T01:00:00+00:00",
@@ -3976,6 +4173,7 @@
         }
       ],
       "location": "Online",
+      "online": false,
       "organizer": "Ajolotes en la Nube",
       "dtstart": "2026-03-05T19:30:00-06:00",
       "dtend": "2026-03-05T21:00:00-06:00",
@@ -4007,6 +4205,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-CJCaXWB49XVSf7C",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-03-06T16:00:00+00:00",
       "dtend": "2026-03-06T17:00:00+00:00",
@@ -4035,6 +4234,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-0JraIjXZQQpKEZz",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-03-07T15:00:00+00:00",
       "dtend": "2026-03-07T16:00:00+00:00",
@@ -4063,6 +4263,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-03-11T11:00:00-06:00",
       "dtend": "2026-03-11T12:00:00-06:00",
@@ -4095,6 +4296,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-03-12T13:00:00-06:00",
       "dtend": "2026-03-12T15:00:00-06:00",
@@ -4126,6 +4328,7 @@
         }
       ],
       "location": "PASEO MILEX, Carretera Torreón-San Pedro, Torreón, COA",
+      "online": false,
       "organizer": "EPAM",
       "dtstart": "2026-03-12T18:45:00-06:00",
       "dtend": "2026-03-12T21:30:00-06:00",
@@ -4154,6 +4357,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-03-18T10:00:00-06:00",
       "dtend": "2026-03-18T11:00:00-06:00",
@@ -4185,6 +4389,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-03-19T10:00:00-06:00",
       "dtend": "2026-03-19T12:00:00-06:00",
@@ -4215,6 +4420,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-EASUcMzrlHw4S7q",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-03-19T17:00:00+00:00",
       "dtend": "2026-03-19T18:30:00+00:00",
@@ -4244,6 +4450,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-YK2YpH1D4jshx5p",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-03-20T09:00:00+00:00",
       "dtend": "2026-03-20T09:45:00+00:00",
@@ -4272,6 +4479,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-Wsru160A7sqZvBL",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-03-23T16:00:00+00:00",
       "dtend": "2026-03-23T17:30:00+00:00",
@@ -4300,6 +4508,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-03-26T10:00:00-06:00",
       "dtend": "2026-03-26T12:00:00-06:00",
@@ -4333,6 +4542,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-04-02T10:00:00-06:00",
       "dtend": "2026-04-02T12:00:00-06:00",
@@ -4364,6 +4574,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-04-08T11:00:00-06:00",
       "dtend": "2026-04-08T12:00:00-06:00",
@@ -4396,6 +4607,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-04-09T10:00:00-06:00",
       "dtend": "2026-04-09T11:30:00-06:00",
@@ -4428,6 +4640,7 @@
         }
       ],
       "location": "Online",
+      "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-04-16T10:00:00-06:00",
       "dtend": "2026-04-16T12:00:00-06:00",
@@ -4459,6 +4672,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-jhD9wm18SZgzfLV",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-04-27T15:00:00+00:00",
       "dtend": "2026-04-27T16:30:00+00:00",
@@ -4476,6 +4690,36 @@
       "hash_key": "how ai and neurotechnology are transform_2026-04-27T14:00:00+00:00"
     },
     {
+      "title": "GDG Heroica Veracruz|Build with AI Veracruz 2026|México|Veracruz",
+      "description": "Únete a nosotros para un emocionante evento donde exploraremos las modernas tecnologías de inteligencia artificial de Go...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Universidad Cristóbal Colón, Paseo de Los Cedros, Veracruz",
+      "online": false,
+      "organizer": "GDG Heroica Veracruz",
+      "dtstart": "2026-04-27T10:00:00-06:00",
+      "dtend": "2026-04-27T15:30:00-06:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Veracruz",
+      "state_code": "",
+      "city": "Veracruz",
+      "city_code": "veracruz",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "hash_key": "build with ai veracruz 2026_2026-04-27T16:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Responsible AI and Data Protection: Aligning Ghana’s Data Protection Act with Emerging AI Use Cases|Online",
       "description": "Get up-to-date information at: https://luma.com/aidatagh\n\nHosted by The AI Collective, Knowledge Innovations & Gen Ai Collective Ghana",
       "url": "https://luma.com/aidatagh",
@@ -4487,6 +4731,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-rI9mxNqygqodV1R",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-04-30T19:00:00+00:00",
       "dtend": "2026-04-30T21:30:00+00:00",
@@ -4505,6 +4750,45 @@
       "hash_key": "responsible ai and data protection align_2026-04-30T18:00:00+00:00"
     },
     {
+      "title": "GDG Heroica Veracruz|Build with AI Veracruz Workshop Hands On 2026|México|Veracruz",
+      "description": "Únete a nosotros para un emocionante evento donde exploraremos las modernas tecnologías de inteligencia artificial de Go...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-workshop-hands-on-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-workshop-hands-on-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Universidad Cristóbal Colón, Paseo de Los Cedros, Veracruz",
+      "online": false,
+      "organizer": "GDG Heroica Veracruz",
+      "dtstart": "2026-05-08T10:00:00-06:00",
+      "dtend": "2026-05-08T17:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "AI - Gemma",
+        "AI - Vertex AI",
+        "Build with AI",
+        "Community Building",
+        "Conference",
+        "Google Cloud",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Veracruz",
+      "state_code": "",
+      "city": "Veracruz",
+      "city_code": "veracruz",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "hash_key": "build with ai veracruz workshop hands on_2026-05-08T16:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Predictive Neurotechnologies, Criminal Risk and the Future of the Presumption of Innocence|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-gl-6-3\n\nHosted by The AI Collective & 3 others",
       "url": "https://luma.com/aic-gl-6-3",
@@ -4516,6 +4800,7 @@
         }
       ],
       "location": "https://luma.com/event/evt-CORCUTzJrvpRzSw",
+      "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-06-03T06:00:00+00:00",
       "dtend": "2026-06-03T07:30:00+00:00",

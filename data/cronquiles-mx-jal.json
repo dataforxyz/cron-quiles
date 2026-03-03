@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-02T23:55:15.068036+00:00",
-  "total_events": 15,
+  "generated_at": "2026-03-03T01:07:36.994334+00:00",
+  "total_events": 16,
   "city": "Jalisco",
   "communities": [
     {
       "name": "Claude Users Group",
       "description": "",
       "links": []
+    },
+    {
+      "name": "Mobil3",
+      "description": "Canal de Luma de la comunidad de Mobil3.",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mobil3",
+          "label": "Luma"
+        }
+      ]
     },
     {
       "name": "Pythonistas GDL",
@@ -48,6 +59,7 @@
         }
       ],
       "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+      "online": false,
       "organizer": "HackGDL",
       "dtstart": "2024-03-16T10:00:00-06:00",
       "dtend": "2024-03-16T23:30:00-06:00",
@@ -74,6 +86,7 @@
         }
       ],
       "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+      "online": false,
       "organizer": "HackGDL",
       "dtstart": "2025-03-01T09:00:00-06:00",
       "dtend": "2025-03-01T23:30:00-06:00",
@@ -100,6 +113,7 @@
         }
       ],
       "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2025-09-12T22:00:00+00:00",
       "dtend": "2025-09-13T04:00:00+00:00",
@@ -126,6 +140,7 @@
         }
       ],
       "location": "Rock It Chapultepec, Av. Chapultepec Sur 389, Col Americana, Americana, 44140 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Claude Users Group",
       "dtstart": "2025-09-19T02:00:00+00:00",
       "dtend": "2025-09-19T05:00:00+00:00",
@@ -154,6 +169,7 @@
         }
       ],
       "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2025-10-17T22:00:00+00:00",
       "dtend": "2025-10-18T02:00:00+00:00",
@@ -180,6 +196,7 @@
         }
       ],
       "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2025-12-12T22:00:00+00:00",
       "dtend": "2025-12-13T04:00:00+00:00",
@@ -206,6 +223,7 @@
         }
       ],
       "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2026-01-16T22:00:00+00:00",
       "dtend": "2026-01-17T02:00:00+00:00",
@@ -232,6 +250,7 @@
         }
       ],
       "location": "Grid Dynamics, Av. de las Américas 1545-Piso 6, Providencia, Guadalajara, Jalisco, MX",
+      "online": false,
       "organizer": "Pythonistas GDL",
       "dtstart": "2026-01-31T00:30:00+00:00",
       "dtend": "2026-01-31T04:00:00+00:00",
@@ -260,6 +279,7 @@
         }
       ],
       "location": "Hacker Garage, Zapopan",
+      "online": false,
       "organizer": "Mobile Developer Community / Linuxeros Zapopan",
       "dtstart": "2026-02-07T10:00:00-06:00",
       "dtend": "2026-02-07T14:00:00-06:00",
@@ -294,6 +314,7 @@
         }
       ],
       "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2026-02-13T22:00:00+00:00",
       "dtend": "2026-02-14T02:00:00+00:00",
@@ -320,6 +341,7 @@
         }
       ],
       "location": "Ventura Café, Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2026-02-18T18:00:00+00:00",
       "dtend": "2026-02-18T22:00:00+00:00",
@@ -346,6 +368,7 @@
         }
       ],
       "location": "Cerevia, C. Isla Socorro 3297, Villa Guerrero, Guadalajara, Jalisco, MX",
+      "online": false,
       "organizer": "Pythonistas GDL",
       "dtstart": "2026-02-28T00:30:00+00:00",
       "dtend": "2026-02-28T04:00:00+00:00",
@@ -362,39 +385,8 @@
       "state_code": "MX-JAL",
       "city": "Guadalajara",
       "city_code": "guadalajara",
-      "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44989, México",
+      "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44960, México",
       "hash_key": "evento pospuesto interfaz web y agentes _2026-02-28T00:00:00+00:00"
-    },
-    {
-      "title": "KCD Guadalajara|KCD Guadalajara 2026|México|Jalisco",
-      "description": "Kubernetes Community Days Guadalajara, un evento para profesionales de la nube y Kubernetes.",
-      "url": "https://community.cncf.io/kcd-guadalajara/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://community.cncf.io/kcd-guadalajara/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
-      "organizer": "KCD Guadalajara",
-      "dtstart": "2026-02-28T08:00:00-06:00",
-      "dtend": "2026-02-28T19:00:00-06:00",
-      "tags": [
-        "cloud",
-        "conferencia",
-        "devops",
-        "kubernetes"
-      ],
-      "source": "Manual",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Jalisco",
-      "state_code": "MX-JAL",
-      "city": "Guadalajara",
-      "city_code": "guadalajara",
-      "address": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
-      "hash_key": "kcd guadalajara 2026_2026-02-28T14:00:00+00:00"
     },
     {
       "title": "Vive Codding Cafe|Vibe Coding Café — v0 Edition|México|Jalisco",
@@ -408,6 +400,7 @@
         }
       ],
       "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
       "organizer": "Vive Codding Cafe",
       "dtstart": "2026-03-13T22:00:00+00:00",
       "dtend": "2026-03-14T02:00:00+00:00",
@@ -434,6 +427,7 @@
         }
       ],
       "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+      "online": false,
       "organizer": "HackGDL",
       "dtstart": "2026-03-14T09:00:00-06:00",
       "dtend": "2026-03-14T23:30:00-06:00",
@@ -447,6 +441,65 @@
       "city_code": "guadalajara",
       "address": "Avenida Ignacio L. Vallarta, Obrera, Guadalajara, Región Centro, Jalisco, 44140, México",
       "hash_key": "hackgdl 2026_2026-03-14T14:00:00+00:00"
+    },
+    {
+      "title": "Mobil3|Monad Blitz Guadalajara|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/xem9rhtm\n\nAddress:\nFirst Complex Creative\nTorre C, Piso 2, Primer Complejo.\nGuadalajara, Jalisco\nMexico\n\nHosted by Monad Foundation & 3 others",
+      "url": "https://luma.com/xem9rhtm",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/xem9rhtm",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "First Complex Creative, C. Independencia 55, Zona Centro, 44100 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Mobil3",
+      "dtstart": "2026-03-14T15:30:00+00:00",
+      "dtend": "2026-03-15T02:00:00+00:00",
+      "tags": [],
+      "source": "https://luma.com/mobil3",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "monad blitz guadalajara_2026-03-14T14:00:00+00:00"
+    },
+    {
+      "title": "KCD Guadalajara|KCD Guadalajara 2026|México|Jalisco",
+      "description": "Kubernetes Community Days Guadalajara, un evento para profesionales de la nube y Kubernetes.",
+      "url": "https://community.cncf.io/kcd-guadalajara/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://community.cncf.io/kcd-guadalajara/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
+      "online": false,
+      "organizer": "KCD Guadalajara",
+      "dtstart": "2026-04-18T08:00:00-06:00",
+      "dtend": "2026-04-18T19:00:00-06:00",
+      "tags": [
+        "cloud",
+        "conferencia",
+        "devops",
+        "kubernetes"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
+      "hash_key": "kcd guadalajara 2026_2026-04-18T14:00:00+00:00"
     }
   ]
 }
