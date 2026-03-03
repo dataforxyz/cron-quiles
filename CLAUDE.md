@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Cron-Quiles is a Python tool that aggregates tech event calendars from multiple sources (Meetup, Luma, Eventbrite, ICS feeds) into unified, deduplicated calendars for Mexico. It runs automatically via GitHub Actions every 6 hours.
+Cron-Quiles is a Python tool that aggregates tech event calendars from multiple sources (Meetup, Luma, Eventbrite, ICS feeds) into unified, deduplicated calendars for Mexico. It runs automatically via GitHub Actions (schedule every 6 hours, or on push to main/master). **Full pipeline and deployment flow:** see `docs/FLUJO.md`.
 
 ## Common Commands
 
@@ -14,9 +14,9 @@ make install-dev  # Install prod + dev dependencies
 make install      # Production only
 
 # Run pipeline
-make run-all                                    # All cities
-make run ARGS="--city cdmx --json"             # Specific city
-make run ARGS="--all-cities --output-dir out/"  # Custom output
+make run-all                                    # All feeds, output to gh-pages/data/
+make run ARGS="--all-cities --output-dir out/"  # Custom output dir
+make run ARGS="--fast"                          # Skip location healing (faster)
 
 # Tests
 make test                                  # All tests
@@ -111,6 +111,8 @@ Files are generated in `gh-pages/data/`:
 - `cronquiles-online.ics/json` - Online-only events
 - `states_metadata.json` - Frontend manifest with state info
 
+Event JSON includes `online: true/false` (from `EventNormalized._is_online()`) so the frontend can show "en línea" and omit "Ver en mapa" for online events.
+
 ### Country Filtering
 
 Only events in Mexico (`country_code == "MX"`) or Online events are processed. Non-Mexico events are filtered out.
@@ -121,6 +123,7 @@ Only events in Mexico (`country_code == "MX"`) or Online events are processed. N
 - `config/manual_events.json`: Manual event entries (optional)
 - `data/history.json`: Persistent event history database
 - `data/geocoding_cache.json`: Cached geocoding results to avoid API rate limits
+- `gh-pages/`: Frontend (HTML, CSS, JS). Multipage: index, eventos, suscribir, comunidades. Calendar: click day → scroll to that day's events; event cards with date-first, "Ver en mapa" (physical), "en línea" (online). See `gh-pages/README.md`.
 
 ## Tools Directory
 
@@ -137,6 +140,7 @@ When making changes:
 2. Update `docs/COMMUNITIES.md` if adding new feeds to `config/feeds.yaml`
 3. Keep docstrings and inline comments current
 4. Do not commit generated files in `gh-pages/data/` manually (GitHub Actions handles this)
+5. **Pipeline/deployment flow:** The canonical description is in `docs/FLUJO.md`. Update that file if the aggregation steps, output layout, or GitHub Actions workflow change.
 
 ## Code Style
 
