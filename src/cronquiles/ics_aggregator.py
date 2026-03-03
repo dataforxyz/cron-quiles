@@ -29,6 +29,7 @@ from .aggregators.meetup import MeetupAggregator
 from .aggregators.ics import GenericICSAggregator
 from .aggregators.manual import ManualAggregator
 from .aggregators.hievents import HiEventsAggregator
+from .aggregators.gdgcommunitydev import GdgCommunityDev
 from .schemas import JSONOutputSchema, CommunitySchema, CommunityLinkSchema
 
 # Configurations
@@ -176,6 +177,7 @@ class ICSAggregator:
             "ics": GenericICSAggregator(self.session, timeout, max_retries),
             "manual": ManualAggregator(self.session),
             "hievents": HiEventsAggregator(self.session),
+            "gdgcommunitydev": GdgCommunityDev(self.session),
         }
 
     def load_geocoding_cache(self):
@@ -305,6 +307,8 @@ class ICSAggregator:
             return "meetup"
         elif "/reuniones." in url or "hi.events" in url:
             return "hievents"
+        elif "gdg.community.dev" in url:
+            return "gdgcommunitydev"
         else:
             return "ics"
 
@@ -338,6 +342,8 @@ class ICSAggregator:
             )
         elif agg_key == "hievents":
             agg = HiEventsAggregator(session)
+        elif agg_key == "gdgcommunitydev":
+            agg = GdgCommunityDev(session)
         else:
             agg = GenericICSAggregator(session, self.timeout, self.max_retries)
 
