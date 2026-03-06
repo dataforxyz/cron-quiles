@@ -1049,9 +1049,9 @@ LOCATION:https://partiful.com/e/b0uCIPkiXO9lph7mTQ8S
 X-CRONQUILES-ADDRESS:https://partiful.com/e/b0uCIPkiXO9lph7mTQ8S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online
+SUMMARY:AI Builders MX|How I Use AI – Vol 1|Online
 DTSTART:20251007T220000Z
-CATEGORIES:ai
+CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHo
  sted by Javier Rivero
 LOCATION:https://luma.com/event/evt-gCpfBqRDQhEOJf9
@@ -1179,9 +1179,9 @@ LOCATION:https://luma.com/event/evt-ZXwz0O5pF5DLIB9
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-ZXwz0O5pF5DLIB9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:v0 Prompt to Production Mexico City|Diseña usando AI|Online
+SUMMARY:AI Builders MX|Diseña usando AI|Online
 DTSTART:20260127T230000Z
-CATEGORIES:ai
+CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/ubxd600w\n\nHo
  sted by Javier Rivero
 LOCATION:https://luma.com/event/evt-IWVh1A0cdphlpRP
@@ -1208,9 +1208,9 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:v0 Prompt to Production Mexico City|Diseña usando AI|Online
+SUMMARY:AI Builders MX|Diseña usando AI|Online
 DTSTART:20260128T230000Z
-CATEGORIES:ai
+CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/5nq96pxw\n\nHo
  sted by Javier Rivero
 LOCATION:https://luma.com/event/evt-H4WPxCoPFcne2bC
@@ -1225,19 +1225,18 @@ LOCATION:https://luma.com/event/evt-cegDtZZOBpe2Ah4
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-cegDtZZOBpe2Ah4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online
+SUMMARY:AI Builders MX|How I Use AI – Vol 2|Online
 DTSTART:20260213T000000Z
-CATEGORIES:ai
+CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/lgd37763\n\nHo
  sted by Javier Rivero & 3 others
 LOCATION:https://luma.com/event/evt-rYB4HiifBPDm7LU
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-rYB4HiifBPDm7LU
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|On
- line
+SUMMARY:AI Builders MX|How I Use AI #3: Midjourney|Online
 DTSTART:20260219T233000Z
-CATEGORIES:ai
+CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/d342anny\n\nHo
  sted by Javier Rivero\, Ben Kim & Ricardo García
 LOCATION:https://luma.com/event/evt-WUg9IsqZP5MKL4B
@@ -1263,106 +1262,9 @@ LOCATION:https://luma.com/event/evt-T9DwqyfaoViKf9K
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-T9DwqyfaoViKf9K
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Marc
- h 5 - AI\, ML and Computer Vision Meetup|Online
-DTSTART:20260305T110000
-CATEGORIES:ai,backend,cloud,data,devops,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nJoin our virtual meetup to hear talks from experts on cutting-edge topics
-  across AI\, ML\, and computer vision.\n\n**Date and Location**\n\nMar 5\,
-  2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel
- 51.com/events/ai-ml-and-computer-vision-meetup-march-5-2026)**\n\n**MOSPA:
-  Human Motion Generation Driven by Spatial Audio**\n\nEnabling virtual hum
- ans to dynamically and realistically respond to diverse auditory stimuli r
- emains a key challenge in character animation\, demanding the integration 
- of perceptual modeling and motion synthesis. Despite its significance\, th
- is task remains largely unexplored. Most previous works have primarily foc
- used on mapping modalities like speech\, audio\, and music to generate hum
- an motion. As of yet\, these models typically overlook the impact of spati
- al features encoded in spatial audio signals on human motion.\n\nTo bridge
-  this gap and enable high-quality modeling of human movements in response 
- to spatial audio\, we introduce the first comprehensive Spatial Audio-Driv
- en Human Motion (SAM) dataset\, which contains diverse and high-quality sp
- atial audio and motion data. For benchmarking\, we develop a simple yet ef
- fective diffusion-based generative framework for human MOtion generation d
- riven by SPatial Audio\, termed MOSPA\, which faithfully captures the rela
- tionship between body motion and spatial audio through an effective fusion
-  mechanism. Once trained\, MOSPA can generate diverse\, realistic human mo
- tions conditioned on varying spatial audio inputs. We perform a thorough i
- nvestigation of the proposed dataset and conduct extensive experiments for
-  benchmarking\, where our method achieves state-of-the-art performance on 
- this task.\n\n*About the Speaker*\n\n[Zhiyang (Frank) Dou](https://www.lin
- kedin.com/in/zhiyang-frank-dou-0259111b3/) is a Ph.D. student at MIT CSAIL
- \, advised by Prof. Wojciech Matusik. I work with the Computational Design
-  and Fabrication Group and the Computer Graphics Group.\n\n**Securing the 
- Autonomous Future: Navigating the Intersection of Agentic AI\, Connected D
- evices\, and Cyber Resilience**\n\nWith billions of devices now in our inf
- rastructure and emerging as autonomous agents (AI)\, we face a very real q
- uestion: How can we create intelligent systems that are both secure and tr
- usted? This talk will explore the intersection of agentic AI and IoT and d
- emonstrate how the same AI systems can provide robust defense mechanisms. 
- At its core\, however\, this is a challenge about trusting people with tec
- hnology\, ensuring their safety\, and providing accountability. Therefore\
- , creating a new way of thinking is required\, one in which security is bu
- ilt in\, and where autonomous action has oversight\; and\, ultimately\, in
- novation leads to greater human well-being.\n\n*About the Speaker*\n\n[Sam
- aresh Kumar Singh](https://www.linkedin.com/in/samaresh-singh-9772ba23/) i
- s an engineering principal at HP Inc. with more than 21 years of experienc
- e in designing and implementing large-scale distributed systems\, cloud na
- tive platform systems\, and edge AI / ML systems. His expertise includes a
- gentic AI systems\, GenAI / LLMs\, Edge AI\, federated and privacy preserv
- ing learning\, and secure hybrid cloud / edge computing.\n\n**Plugins as P
- roducts: Bringing Visual AI Research into Real-World Workflows with FiftyO
- ne**\n\nVisual AI research often introduces new datasets\, models\, and an
- alysis methods\, but integrating these advances into everyday workflows ca
- n be challenging. FiftyOne is a data-centric platform designed to help tea
- ms explore\, evaluate\, and improve visual AI\, and its plugin ecosystem i
- s how the platform scales beyond the core. In this talk\, we explore the F
- iftyOne plugin ecosystem from both perspectives: how users apply plugins t
- o accelerate data-centric workflows\, and how researchers and engineers ca
- n package their work as plugins to make it easier to share\, reproduce\, a
- nd build upon. Through practical examples\, we show how plugins turn resea
- rch artifacts into reusable components that integrate naturally into real-
- world visual AI workflows.\n\n*About the Speaker*\n\n[Adonai Vera](https:/
- /www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel 
- at Voxel51\\. With over 7 years of experience building computer vision and
-  machine learning models using TensorFlow\, Docker\, and OpenCV\\.\n\n**Tr
- ansforming Business with Agentic AI**\n\nAgentic AI is reshaping business 
- operations by employing autonomous systems that learn\, adapt\, and optimi
- ze processes independently of human input. This session examines the essen
- tial differences between traditional AI agents and Agentic AI\, emphasizin
- g their significance for project professionals overseeing digital transfor
- mation initiatives. Real-world examples from eCommerce\, insurance\, and h
- ealthcare illustrate how autonomous AI achieves measurable outcomes across
-  industries. The session addresses practical orchestration patterns in whi
- ch specialized AI agents collaborate to resolve complex business challenge
- s and enhance operational efficiency. Attendees will receive a practical f
- ramework for identifying high-impact use cases\, developing infrastructure
- \, establishing governance\, and scaling Agentic AI within their organizat
- ions.\n\n*About the Speaker*\n\n[Joyjit Roy](https://www.linkedin.com/in/r
- oyjoyjit/) is a senior technology and program management leader with over 
- 21 years of experience delivering enterprise digital transformation\, clou
- d modernization\, and applied AI programs across insurance\, financial ser
- vices\, and global eCommerce.
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GDG IPN|Build With AI: Explorando Vertex AI|Online
-DTSTART:20260305T122519
-CATEGORIES:AI,AI - Gemini,AI - Gemma,Build with AI,Workshop / hands-on ses
- sion,ai,frontend
-DESCRIPTION:Únase a nosotros para un emocionante taller titulado "Build W
- ith AI"\, donde exploraremos las capacidades innovadoras de ...
-LOCATION:Online
-X-CRONQUILES-ADDRESS:Online
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Onli
- ne
+SUMMARY:AI Builders MX|How I Use AI #4: OpenClaw|Online
 DTSTART:20260306T000000Z
-CATEGORIES:ai
+CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/5ivardas\n\nHo
  sted by Javier Rivero\, Ben Kim & Ricardo García
 LOCATION:https://luma.com/event/evt-utuQiZ6tlVbHWXw
@@ -1583,6 +1485,35 @@ LOCATION:https://luma.com/event/evt-n65JCssY5ywfh8x
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-n65JCssY5ywfh8x
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kong Mexico City|Shifting From Prompt-First to Context-First|Onlin
+ e
+DTSTART:20260319T090000
+CATEGORIES:ai,backend,data,frontend,web
+DESCRIPTION:Kong/MEXICO-CITY\nAI is moving from prompt-first to context-fi
+ rst—and your API platform needs to keep up. Register to learn how to fut
+ ure-proof your API and AI connectivity strategy with practical guidance fr
+ om industry experts.\n\nAs AI and ML workloads accelerate\, organizations 
+ are shifting from prompt-first experimentation to context-first systems gr
+ ounded in the right data\, APIs\, and policies. This webinar explores how 
+ AI\, edge computing\, and platform engineering are converging to redefine 
+ API management—and why context engineering is becoming a core responsibi
+ lity of your connectivity platform\, not just your AI team. You’ll hear 
+ market insights and lessons learned from Fortune 500 transformations\, plu
+ s a pragmatic framework for designing resilient API and AI connectivity ar
+ chitectures. We’ll also share how Kong is innovating with distributed AP
+ I and AI gateway capabilities to support real-time inference at the edge a
+ nd self-service developer platforms.\n**What you’ll learn:**\n\n* How co
+ ntext-first AI changes requirements for API and AI connectivity architectu
+ re\n* What “context engineering” means in practice—and how to operat
+ ionalize it with policies and governance\n* Key emerging trends (LLM gatew
+ ays\, vector-aware routing\, edge inference) and how to assess them for yo
+ ur roadmap\n* How to design a scalable platform approach that supports dev
+ eloper self-service and consistent controls\n* A practical framework to fu
+ ture-proof your API and AI strategy amid evolving data and regulatory dema
+ nds
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GDG Villahermosa|Build with AI Sureste de México Virtual|Online
 DTSTART:20260319T090043
 CATEGORIES:Build with AI,ai,backend,frontend
@@ -1694,6 +1625,25 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-3-19\n\
  nHosted by AI Collective & 4 others
 LOCATION:https://luma.com/event/evt-EASUcMzrlHw4S7q
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-EASUcMzrlHw4S7q
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|When AI Agents Invent Religion?|Online
+DTSTART:20260319T210000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/eri2i0r5\n\nHo
+ sted by Amir Kiani & 4 others
+LOCATION:https://luma.com/event/evt-QGIFgRt0gawY8hE
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-QGIFgRt0gawY8hE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|⭕ Women & A.I. Circle LATAM  -  Un espacio par
+ a conocernos|Online
+DTSTART:20260319T220000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-latam\n\nH
+ osted by AI Collective & Sthefany Diaz Arias
+LOCATION:https://luma.com/event/evt-1aBtkclQzcD7DNi
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-1aBtkclQzcD7DNi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI Literacy Series: The AI  Safety Switch (w/ Th
@@ -2105,6 +2055,37 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aidatagh\n\nHo
  sted by AI Collective\, Knowledge Innovations & Gen Ai Collective Ghana
 LOCATION:https://luma.com/event/evt-rI9mxNqygqodV1R
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-rI9mxNqygqodV1R
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
+ 6 - Building Composable Computer Vision Workflows in FiftyOne|Online
+DTSTART:20260506T110000
+CATEGORIES:ai,backend,data,frontend,python
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nThis workshop explores the [FiftyOne](https://docs.voxel51.com/) plugin f
+ ramework to build custom computer vision applications. You’ll learn to e
+ xtend the open source FiftyOne App with Python based panels and server sid
+ e operators\, as well as integrate external tools for labeling\, vector se
+ arch\, and model inference into your dataset views.\n\n**Date\, Time and L
+ ocation**\n\nMay 6\, 2026\n10 AM - 11 AM PST\nOnline. **[Register for the 
+ Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-
+ fiftyone-may-6-2026)**\n\n**What You'll Learn**\n\n* **Build Python plugin
+ s.** Define plugin manifests and directory structures to register custom f
+ unctionality within the FiftyOne ecosystem.\n* **Develop server side opera
+ tors.** Write functions to execute model inference\, data cleaning\, or me
+ tadata updates from the App interface.\n* **Build interactive panels.** Cr
+ eate custom UI dashboards using to visualize model metrics or specialized 
+ dataset distributions.\n* **Manage operator execution contexts.** Pass dat
+ a between the App front end and your backend to build dynamic user workflo
+ ws.\n* **Implement delegated execution.** Configure background workers to 
+ handle long running data processing tasks without blocking the user interf
+ ace.\n* **Build labeling integrations.** Streamline the flow of data betwe
+ en FiftyOne and annotation platforms through custom triggers and ingestion
+  scripts.\n* **Extend vector database support**. Program custom connectors
+  for external vector stores to enable semantic search across large sample 
+ datasets.\n* **Package and share plugins**. Distribute your extensions int
+ ernally and externally
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Heroica Veracruz|Build with AI Veracruz Workshop Hands On 2026
