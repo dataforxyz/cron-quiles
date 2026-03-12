@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:55:22.015327+00:00",
-  "total_events": 168,
+  "generated_at": "2026-03-12T01:08:44.365967+00:00",
+  "total_events": 169,
   "city": "Online",
   "communities": [
     {
@@ -151,6 +151,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-monterrey/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Orizaba",
+      "description": "Si eres estudiante, profesor o alguien que le interesa la tecnología, únete a GDG Orizaba, se parte de los eventos que haremos de manera virtual o presencial en la región de Orizaba, Veracruz.\nRegístrate dando clic en el botón de arriba: 'Join us' para unirte a la comunidad y llena el siguiente formulario que nos será de ayuda para los próximos eventos: https://forms.gle/n1UDaaDWq42MeBXV8\nSíguenos en redes sociales: https://beacons.ai/gdgorizaba\nDisclaimer: GDG Orizaba is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-orizaba/",
           "label": "Sitio web"
         }
       ]
@@ -4223,6 +4234,38 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-n65JCssY5ywfh8x",
       "hash_key": "prompt power ai collective rio edio mulh_2026-03-18T20:00:00+00:00"
+    },
+    {
+      "title": "GDG Orizaba|Focus Leadership and Success|México|Veracruz",
+      "description": "🚀 ¡Lleva tu carrera al siguiente nivel en \"Focus: Leadership and Success\"!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-orizaba-presents-focus-leadership-and-success/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-orizaba-presents-focus-leadership-and-success/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Universidad Anáhuac Veracruz Campus Córdoba-Orizaba, 1 Avenida Eugenio Garza Sada, Córdoba",
+      "online": false,
+      "organizer": "GDG Orizaba",
+      "dtstart": "2026-03-19T08:30:00-06:00",
+      "dtend": "2026-03-19T13:00:00-06:00",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "Networking",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-orizaba/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Veracruz",
+      "state_code": "",
+      "city": "Córdoba",
+      "city_code": "cordoba",
+      "address": "Calzada Eugenio Garza Sada, Las Flores, Córdoba, Veracruz, 94500, México",
+      "hash_key": "focus leadership and success_2026-03-19T14:00:00+00:00"
     },
     {
       "title": "Kong Mexico City|Shifting From Prompt-First to Context-First|Online",
