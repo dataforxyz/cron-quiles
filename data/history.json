@@ -669,35 +669,6 @@
     "hash_key": "april 16 ai ml and computer vision meetu_2026-04-16T16:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|AI x EF Talks by TWIF|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/lkn7cfxz\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/lkn7cfxz",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/lkn7cfxz",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Mexico City",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-04-15T22:00:00+00:00",
-    "dtend": "2026-04-16T03:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "ai x ef talks by twif_2026-04-15T22:00:00+00:00"
-  },
-  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|April 9 - Workshop: Build a Visual Agent that can Navigate GUIs like Humans|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis hands-on workshop provides a comprehensive introduction to building and evaluating visual agents for GUI automation using modern tools and techniques.\n\n**Date, Time and Location**\n\nApril 9, 2026 at 9 AM Pacific\nOnline. **[Register for the Zoom](https://voxel51.com/events/visual-agents-what-it-takes-to-build-an-agent-that-can-navigate-guis-like-humans-april-9-2026)**\n\nVisual agents that can understand and interact with graphical user interfaces represent a transformative frontier in AI automation. These systems combine computer vision, natural language understanding, and spatial reasoning to enable machines to navigate complex interfaces—from web applications to desktop software—just as humans do. However, building robust GUI agents requires careful attention to dataset curation, model evaluation, and iterative improvement workflows.\n\nParticipants will learn how to leverage [FiftyOne](https://github.com/voxel51/fiftyone), an open-source toolkit for dataset curation and computer vision workflows, to build production-ready GUI agent systems.\n\nWhat You'll Learn:\n\n* **Dataset Creation & Management:** How to structure, annotate, and load GUI interaction datasets using the COCO4GUI standardized format\n* **Data Exploration & Analysis:** Using FiftyOne's interactive interface to visualize datasets, analyze action distributions, and understand annotation patterns\n* **Multimodal Embeddings:** Computing embeddings for screenshots and UI element patches to enable similarity search and retrieval\n* **Model Inference:** Running state-of-the-art models like Microsoft's GUI-Actor to predict interaction points from natural language instructions\n* **Performance Evaluation:** Measuring model accuracy using standard metrics and normalized click distance to assess localization precision\n* **Failure Analysis:** Investigating model failures through attention maps, error pattern analysis, and systematic debugging workflows\n* **Data-Driven Improvement:** Tagging samples based on error types (attention misalignment vs. localization errors) to prioritize fine-tuning efforts\n* **Synthetic Data Generation:** Using FiftyOne plugins to augment training data with synthetic task descriptions and variations\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in RAG, Agents, and Multimodal AI.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313207113/",
@@ -708,7 +679,7 @@
         "label": "Ver en Meetup"
       }
     ],
-    "location": "",
+    "location": "Online",
     "online": true,
     "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
     "dtstart": "2026-04-09T10:00:00-06:00",
@@ -1492,6 +1463,35 @@
     "hash_key": "prompt power ai collective rio edio mulh_2026-03-18T20:00:00+00:00"
   },
   {
+    "title": "GDG Hermosillo|Introducción a Firebase para Principiantes|México|Sonora",
+    "description": "Esta plática te guiará a través de los conceptos básicos de Firebase, la plataforma de desarrollo de aplicaciones de Goo...",
+    "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-introduccion-a-firebase-para-principiantes/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-introduccion-a-firebase-para-principiantes/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Aviada, 40 Avenida Doctor Ignacio Pesqueira, Hermosillo",
+    "online": false,
+    "organizer": "GDG Hermosillo",
+    "dtstart": "2026-03-18T10:00:00-07:00",
+    "dtend": "2026-03-18T11:30:00-07:00",
+    "tags": [
+      "frontend"
+    ],
+    "source": "https://gdg.community.dev/gdg-hermosillo/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Sonora",
+    "state_code": "MX-SON",
+    "city": "Hermosillo",
+    "city_code": "hermosillo",
+    "address": "Aviada, 40, Avenida Doctor Ignacio Pesqueira, Hermosillo, Sonora, 83260, México",
+    "hash_key": "introduccin a firebase para principiante_2026-03-18T16:00:00+00:00"
+  },
+  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|March 18 - Vibe Coding Production-Ready Computer Vision Pipelines Workshop|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for an interactive workshop where we'll build production-ready computer vision pipelines using vibe coded [FiftyOne plugins.](https://docs.voxel51.com/plugins/index.html)\n\n**[Register for the Zoom](https://voxel51.com/events/vibe-coding-production-ready-computer-vision-pipelines-hands-on-workshop-march-18-2026)**\n\nPlugins enable you to customize the open-source [FiftyOne computer vision app](https://docs.voxel51.com/index.html) to match your exact workflow by easily incorporating data annotation, curation, model evaluation and inference.\n\nWe'll demonstrate how FiftyOne Skills and the MCP Server can streamline the journey from prototype to production-ready pipelines, keeping your development flow intact.\n\nPerfect for open-source contributors, researchers, and enterprise teams seeking hands-on experience. All participants receive slides, notebooks, and access to GitHub repositories and videos from the workshop.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313103242/",
@@ -1592,6 +1592,35 @@
     "city_code": "",
     "address": "Online",
     "hash_key": "gdg monterrey de ai magic y un poco de t_2026-03-17T22:00:00+00:00"
+  },
+  {
+    "title": "Rust-AICollective|IWD ⭕ Women & A.I. Circle  -  The AI Collective - Event Organizers Meetup|Online",
+    "description": "Get up-to-date information at: https://luma.com/women-and-ai-event-organizers\n\nHosted by The AI Collective & Keerthana Mahadevan",
+    "url": "https://luma.com/women-and-ai-event-organizers",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/women-and-ai-event-organizers",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-0JraIjXZQQpKEZz",
+    "online": true,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-03-14T14:00:00+00:00",
+    "dtend": "2026-03-14T15:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-0JraIjXZQQpKEZz",
+    "hash_key": "iwd women a i circle the ai collective e_2026-03-14T14:00:00+00:00"
   },
   {
     "title": "HackGDL|HackGDL 2026|México|Jalisco",
@@ -2111,35 +2140,6 @@
     "hash_key": "lienzos de capital inversin y fundadores_2026-02-28T00:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|The Fintech Roast by PESPay and Bitrus @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/m1iw4juo\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & PESPay .",
-    "url": "https://luma.com/m1iw4juo",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/m1iw4juo",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Lomas de Chapultepec III Sección, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-27T23:00:00+00:00",
-    "dtend": "2026-02-28T03:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Lomas de Chapultepec III Sección, Ciudad de México",
-    "hash_key": "the fintech roast by pespay and bitrus m_2026-02-27T22:00:00+00:00"
-  },
-  {
     "title": "Frutero Club|Coworking Frutal - Work and Chill #4|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/n9wukrtp\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/n9wukrtp",
@@ -2192,64 +2192,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "health wealth by gbm_2026-02-27T14:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Women & Allies Breakfast by AWIC and Kroll @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/17lokg5x\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & 4 others",
-    "url": "https://luma.com/17lokg5x",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/17lokg5x",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Colonia Cuauhtémoc, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-27T14:30:00+00:00",
-    "dtend": "2026-02-27T17:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
-    "hash_key": "women allies breakfast by awic and kroll_2026-02-27T14:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Fintech Art Basel by Persona, BGBG and Visa @ México Fintech Week 2026|México|Aguascalientes",
-    "description": "Get up-to-date information at: https://luma.com/w0qvojz2\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & Persona Events",
-    "url": "https://luma.com/w0qvojz2",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/w0qvojz2",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Museo de Historia Natural, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-27T01:00:00+00:00",
-    "dtend": "2026-02-27T05:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Aguascalientes",
-    "state_code": "MX-AGU",
-    "city": "Aguascalientes",
-    "city_code": "aguascalientes",
-    "address": "Museo de Historia Natural, Avenida del Parque, Aguascalientes, Municipio de Aguascalientes, Aguascalientes, 20277, México",
-    "hash_key": "fintech art basel by persona bgbg and vi_2026-02-27T00:00:00+00:00"
   },
   {
     "title": "FinTech México|Rediseña tu estrategia de cobranza con IA by Gail|México|Ciudad de México",
@@ -2335,35 +2277,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "fuckup nights x fintech mxico week_2026-02-26T00:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|The Stablecon & Fintech Mixer by Reap @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/4o6xwb4v\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/4o6xwb4v",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/4o6xwb4v",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "San Rafael, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-26T01:00:00+00:00",
-    "dtend": "2026-02-26T05:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "San Rafael, Ciudad de México, Cuauhtémoc, Ciudad de México, 06470, México",
-    "hash_key": "the stablecon fintech mixer by reap mexi_2026-02-26T00:00:00+00:00"
   },
   {
     "title": "FinTech México|Wine and Cheese by Fintech. Bar|México|Ciudad de México",
@@ -2592,35 +2505,6 @@
     "hash_key": "estrategias de crecimiento cmo escalar m_2026-02-25T20:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|Stablecon Roadshow by Rain and VelaFi @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/afd2u1ud\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/afd2u1ud",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/afd2u1ud",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "San Rafael, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-25T20:00:00+00:00",
-    "dtend": "2026-02-26T01:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "San Rafael, Ciudad de México, Cuauhtémoc, Ciudad de México, 06470, México",
-    "hash_key": "stablecon roadshow by rain and velafi me_2026-02-25T20:00:00+00:00"
-  },
-  {
     "title": "FinTech México|BBVA Spark Brunch & Fintech Insights 2026|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/5ar890vb\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México & 3 others",
     "url": "https://luma.com/5ar890vb",
@@ -2761,35 +2645,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "fintech innovation call by aws startups _2026-02-25T14:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Rain Running Club: Rain or Shine by Rain @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/7r98byrk\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech, Jox Gallardo & PACE",
-    "url": "https://luma.com/7r98byrk",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/7r98byrk",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "San Rafael, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-25T13:00:00+00:00",
-    "dtend": "2026-02-25T14:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "San Rafael, Ciudad de México, Cuauhtémoc, Ciudad de México, 06470, México",
-    "hash_key": "rain running club rain or shine by rain _2026-02-25T12:00:00+00:00"
   },
   {
     "title": "FinTech México|Exclusive dinner by Pomelo for Banks & Top Issuers|México|Ciudad de México",
@@ -2966,35 +2821,6 @@
     "hash_key": "mexico wealthtech talks by latam fintech_2026-02-25T00:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|Taktile Dinner Series by Taktile @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/tf3t79vn\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & Taktile",
-    "url": "https://luma.com/tf3t79vn",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/tf3t79vn",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Polanco IV Sección, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-25T00:00:00+00:00",
-    "dtend": "2026-02-25T03:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Polanco Chapultepec, Polanco 4ª Sección, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11560, México",
-    "hash_key": "taktile dinner series by taktile mexico _2026-02-25T00:00:00+00:00"
-  },
-  {
     "title": "FinTech México|Security Circle México – Ciberseguridad by Mastercard|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/5he7wkf5\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México, Maura Crocker & Santiago Fuentes",
     "url": "https://luma.com/5he7wkf5",
@@ -3023,35 +2849,6 @@
     "city_code": "cdmx",
     "address": "Juárez, Avenida Balderas, Centro, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "hash_key": "security circle mxico ciberseguridad by _2026-02-24T22:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|VC & Fintech Founders Meetup by Station Fintech Montreal & Québec en Mexico @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/tr53ma57\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/tr53ma57",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/tr53ma57",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Colonia Renacimiento, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-24T23:00:00+00:00",
-    "dtend": "2026-02-25T03:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Colonia Nuevo Renacimiento de Axalco, Tlalpan, Ciudad de México, 14408, México",
-    "hash_key": "vc fintech founders meetup by station fi_2026-02-24T22:00:00+00:00"
   },
   {
     "title": "FinTech México|AML & Financial Crime Intelligence by  IKIEXPERTS|México|Ciudad de México",
@@ -3199,36 +2996,6 @@
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|Rain Running Club: Rain or Shine by Rain @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/ja0jgcp7\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech, Jox Gallardo & PACE",
-    "url": "https://luma.com/ja0jgcp7",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/ja0jgcp7",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Hipódromo, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-24T13:00:00+00:00",
-    "dtend": "2026-02-24T14:30:00+00:00",
-    "tags": [
-      "ai",
-      "cloud"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Hipódromo, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06100, México",
-    "hash_key": "rain running club rain or shine by rain _2026-02-24T12:00:00+00:00"
-  },
-  {
     "title": "FinTech México|Drink Global! by DitoBanx & Evertec|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ai07eens\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México, Fernando Serrato & Tamara",
     "url": "https://luma.com/ai07eens",
@@ -3342,35 +3109,6 @@
     "city_code": "cdmx",
     "address": "Roma Sur, La Piedad, Ciudad de México, Cuauhtémoc, Ciudad de México, 03000, México",
     "hash_key": "fintech founders vc s mixer by pygma lat_2026-02-23T22:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|México Expansion Series by BGBG and Stripe @ Mexico Fintech Week 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/bly1y1xe\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/bly1y1xe",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/bly1y1xe",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Juárez, Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2026-02-23T23:00:00+00:00",
-    "dtend": "2026-02-24T03:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Juárez, Avenida Balderas, Centro, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
-    "hash_key": "mxico expansion series by bgbg and strip_2026-02-23T22:00:00+00:00"
   },
   {
     "title": "FinTech México|UK Market Entry  - by PYVITAL|México|Ciudad de México",
@@ -4505,7 +4243,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Diagonal Patriotismo, Hipódromo Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 11850, México",
+    "address": "Avenida Diagonal Patriotismo, Hipódromo Condesa, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
     "hash_key": "global coding dojo ciudad de mxico_2026-01-15T00:00:00+00:00"
   },
   {
@@ -4564,35 +4302,6 @@
     "city_code": "cdmx",
     "address": "The Ritz-Carlton, Mexico City, 509, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "meetup enero 2026 pinterest pythoncdmx_2026-01-14T00:00:00+00:00"
-  },
-  {
-    "title": "Frutero Club|Coworking Frutal #29 🍇|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/jqhyldbe\n\nAddress:\nCheck event page for more details.\n\nHosted by Frutero",
-    "url": "https://luma.com/jqhyldbe",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/jqhyldbe",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Tlacoquemecatl del Valle, Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2026-01-07T16:00:00+00:00",
-    "dtend": "2026-01-07T22:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Tlacoquemecatl del Valle, Ciudad de México, Benito Juárez, Ciudad de México, 03200, México",
-    "hash_key": "coworking frutal 29_2026-01-07T16:00:00+00:00"
   },
   {
     "title": "Frutero Club|Coworking Frutal #28 Fin de Año Gather Edition|Online",
@@ -5089,7 +4798,7 @@
     "state_code": "MX-QUE",
     "city": "Santiago de Querétaro",
     "city_code": "santiagodequeretaro",
-    "address": "Calle Héroe de Nacozari, Las Rosas, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76164, México",
+    "address": "Calle Héroe de Nacozari, Centro, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76000, México",
     "hash_key": "epam tech talks quertaro_2025-11-14T00:00:00+00:00"
   },
   {
@@ -6549,35 +6258,6 @@
     "hash_key": "ricing el arte de personalizar linux_2025-10-10T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #16🍉|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/bcvv90v9\n\nAddress:\nCheck event page for more details.\n\nHosted by Emmanuel Martínez",
-    "url": "https://luma.com/bcvv90v9",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/bcvv90v9",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-10-08T16:00:00+00:00",
-    "dtend": "2025-10-08T22:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 16_2025-10-08T16:00:00+00:00"
-  },
-  {
     "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
     "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
     "url": "https://luma.com/pi3ebsn2",
@@ -6745,65 +6425,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "soft landing en espaa puerta a europa_2025-09-29T18:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Fintoc x TWIF Fintech Breakfast Club|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/vi3cjrw4\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech, Pedro Casale & Felipe",
-    "url": "https://luma.com/vi3cjrw4",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/vi3cjrw4",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2025-09-25T14:00:00+00:00",
-    "dtend": "2025-09-25T16:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "fintoc x twif fintech breakfast club_2025-09-25T14:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Fintech Happy Hour by TWIF & BGBG|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/izlvslsz\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech, Javier Pérez Moreno & Daniela Alejandra Lobato",
-    "url": "https://luma.com/izlvslsz",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/izlvslsz",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2025-09-25T01:00:00+00:00",
-    "dtend": "2025-09-25T04:00:00+00:00",
-    "tags": [
-      "ai",
-      "python"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "fintech happy hour by twif bgbg_2025-09-25T00:00:00+00:00"
   },
   {
     "title": "Frutero Club|Coworking Frutal #14 🍓|México|Ciudad de México",
@@ -7192,7 +6813,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "shefi x mobil3 she leads finance_2025-08-21T16:00:00+00:00"
   },
   {
@@ -7219,7 +6840,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "pre registro mobil3 hackathon_2025-08-20T16:00:00+00:00"
   },
   {
@@ -7480,35 +7101,6 @@
     "hash_key": "arquitecturas modernas en java hacia ser_2025-07-30T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #8🫐|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/xehxr5bu\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández & 4 others",
-    "url": "https://luma.com/xehxr5bu",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/xehxr5bu",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-07-23T16:00:00+00:00",
-    "dtend": "2025-07-23T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 8_2025-07-23T16:00:00+00:00"
-  },
-  {
     "title": "Frutero Club|Coworking Frutal #7|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/pzp6tc9w\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by René Hernández, mel & Anthony Morales",
     "url": "https://luma.com/pzp6tc9w",
@@ -7621,35 +7213,6 @@
     "hash_key": "python charlas en puebla networking_2025-07-11T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #6|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/javb4g8b\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández & 3 others",
-    "url": "https://luma.com/javb4g8b",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/javb4g8b",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-07-09T16:00:00+00:00",
-    "dtend": "2025-07-09T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 6_2025-07-09T16:00:00+00:00"
-  },
-  {
     "title": "Frutero Club|Frutero Talk #17 con Mel|Online",
     "description": "Get up-to-date information at: https://luma.com/cpeixs8f\n\nHosted by René Hernández",
     "url": "https://luma.com/cpeixs8f",
@@ -7702,35 +7265,6 @@
     "city_code": "",
     "address": "San Pedro Garza García, Nuevo León, México",
     "hash_key": "epam tech talks monterrey_2025-07-04T00:00:00+00:00"
-  },
-  {
-    "title": "Frutero Club|Coworking Frutal #5|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/2rjqt746\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández & 3 others",
-    "url": "https://luma.com/2rjqt746",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/2rjqt746",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-07-02T16:00:00+00:00",
-    "dtend": "2025-07-02T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 5_2025-07-02T16:00:00+00:00"
   },
   {
     "title": "Frutero Club|Sesión 6 - Uniswap Lab con Frutero Club|Online",
@@ -7978,35 +7512,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-4FtP8DvJ24YwAEK",
     "hash_key": "sesin 3 uniswap lab con frutero club_2025-06-20T00:00:00+00:00"
-  },
-  {
-    "title": "Frutero Club|Coworking Frutal 3|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/7dpb781y\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández, mel & Anthony Morales",
-    "url": "https://luma.com/7dpb781y",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/7dpb781y",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-06-18T16:00:00+00:00",
-    "dtend": "2025-06-18T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 3_2025-06-18T16:00:00+00:00"
   },
   {
     "title": "Mobil3|Mobil3 meetup: Camino a Devconnect|México|Ciudad de México",
@@ -8867,64 +8372,6 @@
     "city_code": "guadalajara",
     "address": "Avenida Ignacio L. Vallarta, Obrera, Guadalajara, Región Centro, Jalisco, 44140, México",
     "hash_key": "hackgdl 2025_2025-03-01T14:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Fintech Talks @ #MexicoFintechWeek by TWIF, Cobre & QED Investors|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/av0a2hri\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & 5 others",
-    "url": "https://luma.com/av0a2hri",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/av0a2hri",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2025-02-27T00:30:00+00:00",
-    "dtend": "2025-02-27T04:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "fintech talks mexicofintechweek by twif _2025-02-27T00:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Fintech Founders & VC  Dinner @ #MexicoFintechWeek|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/jiwd17lp\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & 3 others",
-    "url": "https://luma.com/jiwd17lp",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/jiwd17lp",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2025-02-26T01:30:00+00:00",
-    "dtend": "2025-02-26T04:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "fintech founders vc dinner mexicofintech_2025-02-26T00:00:00+00:00"
   },
   {
     "title": "Frutero Club|Frutero Talk #007 - Agentes AI en gaming → Guerrero Maya|Online",
@@ -10087,7 +9534,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "the future of automotive aftermarket ind_2024-10-25T22:00:00+00:00"
   },
   {
@@ -10864,7 +10311,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "crossing the chasm unlocking proptech op_2024-10-24T22:00:00+00:00"
   },
   {
@@ -13923,35 +13370,6 @@
     "hash_key": "sesiones co work lluvia de ideas_2024-09-27T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Sesiones Co-work: Lluvia de Ideas|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/e3vnxjix\n\nAddress:\nCheck event page for more details.\n\nHosted by mel",
-    "url": "https://luma.com/e3vnxjix",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/e3vnxjix",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2024-09-26T20:00:00+00:00",
-    "dtend": "2024-09-27T01:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "sesiones co work lluvia de ideas_2024-09-26T20:00:00+00:00"
-  },
-  {
     "title": "This Week in Fintech|Fintech Breakfast by TWIF & CFX Network|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/1a8lbpy6\n\nAddress:\nVicente Asador de Brasa - CDMX\nCiudad de México, Ciudad de México\nMexico\n\nHosted by This Week in Fintech",
     "url": "https://luma.com/1a8lbpy6",
@@ -14008,35 +13426,6 @@
     "city_code": "cdmx",
     "address": "Calle Mayorazgo de la Higuera, Colonia Xoco, Ciudad de México, Benito Juárez, Ciudad de México, 03330, México",
     "hash_key": "fintech happy hour by twif ripple_2024-09-26T00:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|Fintech Talks & Mixer by TWIF, Accion, Niva, CFX & BGBG at Downtown Reforma|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/kf1h64qu\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & 3 others",
-    "url": "https://luma.com/kf1h64qu",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/kf1h64qu",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2024-09-24T23:30:00+00:00",
-    "dtend": "2024-09-25T03:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "fintech talks mixer by twif accion niva _2024-09-24T22:00:00+00:00"
   },
   {
     "title": "Richard Kasperowski| ¡Dojo de Codificación Global en Línea!|Online",
@@ -14315,36 +13704,6 @@
     "hash_key": "m8l event 2_2024-05-01T08:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|This Week in Fintech: Fintech Happy Hour in Mexico City 🇲🇽|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/e7i2sumw\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/e7i2sumw",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/e7i2sumw",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2024-05-01T00:00:00+00:00",
-    "dtend": "2024-05-01T03:00:00+00:00",
-    "tags": [
-      "ai",
-      "python"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "this week in fintech fintech happy hour _2024-05-01T00:00:00+00:00"
-  },
-  {
     "title": "Rust-AICollective|🧠 GenAI Collective 🧠  Community Town Hall 🏛️|Online",
     "description": "Get up-to-date information at: https://luma.com/4-24\n\nHosted by The AI Collective & 3 others",
     "url": "https://luma.com/4-24",
@@ -14457,35 +13816,6 @@
     "hash_key": "testing_2024-02-07T00:00:00+00:00"
   },
   {
-    "title": "This Week in Fintech|This Week in Fintech x Taktile x Belvo: Fintech Mixer in Mexico City 🇲🇽|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/cdmx0201\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & Kate Kiewel",
-    "url": "https://luma.com/cdmx0201",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/cdmx0201",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2024-02-02T00:30:45+00:00",
-    "dtend": "2024-02-02T03:30:45+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "this week in fintech x taktile x belvo f_2024-02-02T00:00:00+00:00"
-  },
-  {
     "title": "Rust-AICollective|🧠 GenAI Collective 🧠 Virtual Friendsgiving! 🦃|Online",
     "description": "Get up-to-date information at: https://luma.com/11-21\n\nHosted by The AI Collective & 4 others",
     "url": "https://luma.com/11-21",
@@ -14513,37 +13843,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-YDkpPkYuPBXIpCH",
     "hash_key": "genai collective virtual friendsgiving_2023-11-21T18:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|TWIF x Clara x Clouxter Fintech Happy Hour - Mexico Tech Week|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/cdmx1026\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech & 3 others",
-    "url": "https://luma.com/cdmx1026",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/cdmx1026",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2023-10-27T00:30:00+00:00",
-    "dtend": "2023-10-27T03:30:00+00:00",
-    "tags": [
-      "ai",
-      "frontend",
-      "python"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "twif x clara x clouxter fintech happy ho_2023-10-27T00:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|🧠 GenAI Collective x OctoML 🐙 Builder's Roundtable: Domain Aware LLMs|Online",
@@ -14574,37 +13873,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-aDp3qqDCBoYt9mn",
     "hash_key": "genai collective x octoml builder s roun_2023-10-26T18:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|CDMX Fintech Happy Hour, presented by Ensemblex & AWS|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/cdmxtrek\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/cdmxtrek",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/cdmxtrek",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2023-10-20T01:00:00+00:00",
-    "dtend": "2023-10-20T04:00:00+00:00",
-    "tags": [
-      "ai",
-      "cloud",
-      "python"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "cdmx fintech happy hour presented by ens_2023-10-20T00:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|TedAI Hackathon|Online",
@@ -14715,35 +13983,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-Q6y8rwqE52I1uFP",
     "hash_key": "automate your lead gen and earn more rev_2023-09-27T16:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|This Week in Fintech x BGBG: Fintech Kickoff Mixer in Mexico City 🇲🇽|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/cdmx925\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/cdmx925",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/cdmx925",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2023-09-26T00:30:00+00:00",
-    "dtend": "2023-09-26T03:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "this week in fintech x bgbg fintech kick_2023-09-26T00:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|LLM x Law Hackathon #2 @Stanford|Online",
@@ -14916,35 +14155,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-4Krdqb6f3DP2OBn",
     "hash_key": "get more lps_2023-08-09T16:00:00+00:00"
-  },
-  {
-    "title": "This Week in Fintech|This Week in Fintech x Palenca x Visa: Mexico City Summer Social 🇲🇽|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/cdmx727\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
-    "url": "https://luma.com/cdmx727",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/cdmx727",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México",
-    "online": false,
-    "organizer": "This Week in Fintech",
-    "dtstart": "2023-07-27T00:00:00+00:00",
-    "dtend": "2023-07-27T03:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/lkn7cfxz",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "this week in fintech x palenca x visa me_2023-07-27T00:00:00+00:00"
   },
   {
     "title": "Founder Friends Mexico|Everything is storytelling|Online",
