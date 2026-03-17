@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T07:01:32.406240+00:00",
-  "total_events": 171,
+  "generated_at": "2026-03-17T12:56:16.745957+00:00",
+  "total_events": 170,
   "city": "Online",
   "communities": [
     {
@@ -16,13 +16,8 @@
     },
     {
       "name": "AI/IA CDMX",
-      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México.",
+      "description": "Canal de Luma de la comunidad de IA en Ciudad de México.",
       "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx",
-          "label": "Meetup"
-        },
         {
           "platform": "luma",
           "url": "https://luma.com/ai-cdmx",
@@ -91,11 +86,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -3458,7 +3453,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3623,7 +3618,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3812,7 +3807,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -5074,35 +5069,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-CORCUTzJrvpRzSw",
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
-    },
-    {
-      "title": "AI/IA CDMX|To Be Announced/Por anunciar|Online",
-      "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcmbtb/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcmbtb/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "",
-      "online": true,
-      "organizer": "AI/IA CDMX",
-      "dtstart": "2026-09-15T18:00:00-06:00",
-      "dtend": "2026-09-15T20:00:00-06:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://www.meetup.com/ai-cdmx/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "to be announced por anunciar_2026-09-16T00:00:00+00:00"
     }
   ]
 }
