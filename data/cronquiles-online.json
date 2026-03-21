@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:49:39.928369+00:00",
-  "total_events": 166,
+  "generated_at": "2026-03-21T01:12:42.539062+00:00",
+  "total_events": 168,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -3442,7 +3442,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3607,7 +3607,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3796,7 +3796,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4372,6 +4372,35 @@
       "hash_key": "ai education ai agent memory system work_2026-03-27T14:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|Saturday AI Roundtable W2 (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-noida-saturday-ai-roundtable2\n\nHosted by The AI Collective & Aditya",
+      "url": "https://luma.com/aic-noida-saturday-ai-roundtable2",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-noida-saturday-ai-roundtable2",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-8BF39n19NhjHbZj",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-03-28T15:30:00+00:00",
+      "dtend": "2026-03-28T18:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-8BF39n19NhjHbZj",
+      "hash_key": "saturday ai roundtable w2 w the ai colle_2026-03-28T14:00:00+00:00"
+    },
+    {
       "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
       "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/wsj293yt",
@@ -4625,6 +4654,38 @@
       "hash_key": "april 16 ai ml and computer vision meetu_2026-04-16T16:00:00+00:00"
     },
     {
+      "title": "GDG Villahermosa|Build with AI Sureste de México Sede TecNM de Villahermosa|México|",
+      "description": "\"Evento exclusivo para la comunidad de TecNM de Villahermosa\"Tendrás acceso a herramientas de vanguardia, como Gemini CL...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-build-with-ai-sureste-de-mexico-sede-tecnm-de-villahermosa/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-build-with-ai-sureste-de-mexico-sede-tecnm-de-villahermosa/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "TecNM - Campus Villahermosa, Villahermosa - Frontera, Villahermosa",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-04-16T12:00:00-06:00",
+      "dtend": "2026-04-16T14:00:00-06:00",
+      "tags": [
+        "Build with AI",
+        "ai",
+        "backend",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "TecNM - Campus Villahermosa, Villahermosa - Frontera, Villahermosa",
+      "hash_key": "build with ai sureste de mxico sede tecn_2026-04-16T18:00:00+00:00"
+    },
+    {
       "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
       "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/11fz6ef5",
@@ -4709,7 +4770,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
       "hash_key": "build with ai veracruz 2026_2026-04-27T16:00:00+00:00"
     },
     {
@@ -4811,7 +4872,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
       "hash_key": "build with ai veracruz workshop hands on_2026-05-08T16:00:00+00:00"
     },
     {
