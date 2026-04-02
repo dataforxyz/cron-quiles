@@ -448,7 +448,7 @@
     "state_code": "",
     "city": "Veracruz",
     "city_code": "veracruz",
-    "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+    "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
     "hash_key": "build with ai veracruz workshop hands on_2026-05-08T16:00:00+00:00"
   },
   {
@@ -632,7 +632,7 @@
     "state_code": "",
     "city": "Veracruz",
     "city_code": "veracruz",
-    "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+    "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
     "hash_key": "build with ai veracruz 2026_2026-04-27T16:00:00+00:00"
   },
   {
@@ -684,7 +684,7 @@
     "dtstart": "2026-04-23T15:00:00+00:00",
     "dtend": "2026-04-23T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -763,6 +763,35 @@
     "city_code": "cdmx",
     "address": "Casa Rafael Galván, 94, Calle Zacatecas, Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
     "hash_key": "tmele al shoggoth fear the shoggoth_2026-04-22T00:00:00+00:00"
+  },
+  {
+    "title": "Rust-AICollective|Achieve more with Microsoft Copilot|Online",
+    "description": "Get up-to-date information at: https://luma.com/aic-fi-copilot-intro\n\nHosted by The AI Collective & Michael Vonlanthen",
+    "url": "https://luma.com/aic-fi-copilot-intro",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/aic-fi-copilot-intro",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-Hc0ymyGFX93dXRU",
+    "online": true,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-04-21T05:00:00+00:00",
+    "dtend": "2026-04-21T06:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-Hc0ymyGFX93dXRU",
+    "hash_key": "achieve more with microsoft copilot_2026-04-21T04:00:00+00:00"
   },
   {
     "title": "Claude Community|Mexico City  -  Claude Impact Lab|México|Ciudad de México",
@@ -1344,35 +1373,6 @@
     "hash_key": "ai education executive track ai driven v_2026-04-02T14:00:00+00:00"
   },
   {
-    "title": "Rust-AICollective|World Autism Day (w/ The AI Collective)|Online",
-    "description": "Get up-to-date information at: https://luma.com/neurodivergent-01\n\nHosted by The AI Collective, Yauvan H & Alex Barnes",
-    "url": "https://luma.com/neurodivergent-01",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/neurodivergent-01",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-hBnAVY8QY2FDOeG",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-04-02T12:00:00+00:00",
-    "dtend": "2026-04-02T13:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-hBnAVY8QY2FDOeG",
-    "hash_key": "world autism day w the ai collective_2026-04-02T12:00:00+00:00"
-  },
-  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|April 2 - AI, ML and Computer Vision Meetup|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual Meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nApr 2, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-april-2-2026)**\n\n**Async Agents in Production: Failure Modes and Fixes**\n\nAs models improve, we are starting to build long-running, asynchronous agents such as deep research agents and browser agents that can execute multi-step workflows autonomously. These systems unlock new use cases, but they fail in ways that short-lived agents do not.\n\nThe longer an agent runs, the more early mistakes compound, and the more token usage grows through extended reasoning, retries, and tool calls. Patterns that work for request-response agents often break down, leading to unreliable behaviour and unpredictable costs.\n\nThis talk is aimed at use case developers, with secondary relevance for platform engineers. It covers the most common failure modes in async agents and practical design patterns for reducing error compounding and keeping token costs bounded in production.\n\n*About the Speaker*\n\n[Meryem Arik](https://www.linkedin.com/in/meryemarik/) is the co-founder and CEO of Doubleword, where she works on large-scale LLM inference and production AI systems. She studied theoretical physics and philosophy at the University of Oxford. Meryem is a frequent conference speaker, including a TEDx speaker and a four-time highly rated speaker at QCon conferences. She was named to the Forbes 30 Under 30 list for her work in AI infrastructure.\n\n**Visual AI at the Edge: Beyond the Model**\n\nEdge-based visual AI promises low latency, privacy, and real-time decision-making, but many projects struggle to move beyond successful demos. This talk explores what deploying visual AI at the edge really involves, shifting the focus from models to complete, operational systems. We will discuss common pitfalls teams encounter when moving from lab to field. Attendees will leave with a practical mental model for approaching edge vision projects more effectively.\n\n*About the Speaker*\n\n[David Moser](https://www.linkedin.com/in/david-moser-dm/) is an AI/Computer Vision expert and Founding Engineer with a strong track record of building and deploying safety-critical visual AI systems in real-world environments. As Co-Founder of Orella Vision, he is building Visual AI for Autonomy on the Edge - going from data and models to production-grade edge deployments.\n\n**Sanitizing Evaluation Datasets: From Detection to Correction**\n\nWe generally accept that gold standard evaluation sets contain label noise, yet we rarely fix them because the engineering friction is too high. This talk presents a workflow to operationalize ground-truth auditing. We will demonstrate how to bridge the gap between algorithmic error detection and manual rectification. Specifically, we will show how to inspect discordant ground truth labels and correct them directly in-situ. The goal is to move to a fully trusted end-to-end evaluation pipeline.\n\n*About the Speaker*\n\n[Nick Lotz](https://www.linkedin.com/in/nicholaslotz) is an engineer on the Voxel51 community team. With a background in open source infrastructure and a passion for developer enablement, Nick focuses on helping teams understand their tools and how to use them to ship faster.\n\n**Building enterprise agentic systems that scale**\n\nBuilding AI agents that work in demos is easy, building true assistants that make people genuinely productive takes a different set of patterns. This talk shares lessons from a multi-agent system at Cisco used by 2,000+ sellers daily, where we moved past \"chat with your data\" to encoding business workflows into true agentic systems people actually rely on to get work done.\n\nWe'll cover multi-agent orchestration patterns for complex workflows, the personalization and productivity features that drive adoption, and the enterprise foundations that helped us earn user trust at scale. You'll leave with an architecture and set of patterns that have been battle tested at enterprise scale.\n\n*About the Speaker*\n\n[Aman Sardana](https://www.linkedin.com/in/amansardana/) is a Senior Engineering Architect at Cisco, I lead the design and deployment of enterprise AI systems that blend LLMs, data infrastructure, and customer experience to solve high‑stakes, real-world problems at scale. I’m also an open-source contributor and active mentor in the AI community, helping teams move from AI experimentation to reliable agentic applications in production.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313081560/",
@@ -1489,7 +1489,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
   },
   {
@@ -1575,7 +1575,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
   },
   {
@@ -1635,7 +1635,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
   },
   {
@@ -1689,7 +1689,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
   },
   {
@@ -1997,7 +1997,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
   },
   {
@@ -2051,14 +2051,14 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Escolar, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Exterior, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -2116,7 +2116,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
   },
   {
@@ -2291,7 +2291,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
   },
   {
@@ -2802,7 +2802,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
   },
   {
@@ -3694,7 +3694,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
@@ -3804,7 +3804,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
   },
   {
@@ -3887,7 +3887,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
@@ -3943,7 +3943,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
   },
   {
@@ -4000,7 +4000,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4146,7 +4146,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
   },
   {
@@ -4260,7 +4260,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
   },
   {
@@ -4345,7 +4345,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
@@ -4461,7 +4461,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
   },
   {
@@ -4543,7 +4543,7 @@
     "dtstart": "2026-01-19T18:00:00+00:00",
     "dtend": "2026-01-28T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4660,7 +4660,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
   },
   {
@@ -5015,7 +5015,7 @@
     "tags": [
       "devops"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5216,7 +5216,7 @@
     "state_code": "MX-QUE",
     "city": "Santiago de Querétaro",
     "city_code": "santiagodequeretaro",
-    "address": "Calle Héroe de Nacozari, Centro, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76000, México",
+    "address": "Calle Héroe de Nacozari, Las Rosas, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76164, México",
     "hash_key": "epam tech talks quertaro_2025-11-14T00:00:00+00:00"
   },
   {
@@ -6665,7 +6665,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6976,7 +6976,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
