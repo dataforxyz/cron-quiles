@@ -277,6 +277,41 @@
     "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|May 21 - Women in AI Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nHear talks from experts on the latest topics in AI, ML, and computer vision on May 21.\n\n**Date, Time and Location**\n\nMay 21, 2026\n9 - 11 AM pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/women-in-ai-meetup-may-21-2026)**\n\n**Beyond Models: LLM-Guided Reinforcement Learning for Real-World Wireless Systems**\n\nReinforcement learning agents often perform well in simulation but break down when deployed in real, non-stationary, constraint-driven environments such as wireless systems. This work explores using large language models not as annotators or reward hacks, but as a reasoning layer that guides RL decision-making with domain logic, scenario interpretation, and adaptive constraints.\n\nWe present an architecture where the LLM provides structured, high-level advisory signals while the RL policy remains the final action authority to avoid hallucination-driven failures. Early experiments show that this hybrid setup improves robustness under distribution shifts and complex constraint scenarios where standard RL collapses. The goal is not to replace RL with LLMs, but to combine learning and reasoning into a more deployable control-intelligence framework.\n\n*About the Speaker*\n\n[Fatemeh Lotfi ](https://www.linkedin.com/in/fatemeh-lotfi-1a860359/?skipRedirect=true)is a Ph.D. researcher focused on integrating large language models and reinforcement learning for adaptive wireless control systems. Her work targets the limitations of classical RL under real-world uncertainty by introducing reasoning-driven guidance mechanisms using LLMs. She has contributed to multiple AI-for-infrastructure projects, including advanced O-RAN automation.\n\n**Responsible and Ethical AI in Healthcare: Building Trustworthy and Inclusive Intelligent Systems**\n\nIn this session, I will discuss how Responsible AI principles: including fairness, transparency, accountability, and reliability can be practically embedded into healthcare AI systems. Key discussion points will include:\n\n* Addressing bias and equity challenges in healthcare datasets and model training.\n* Building explainable and interpretable AI to strengthen clinician trust and adoption.\n* Ensuring ethical deployment of generative AI models within regulated healthcare environments.\n* Establishing governance frameworks for data privacy, model monitoring, and regulatory compliance.\n\n*About the Speaker*\n\n[Jahnavi Kachhia](https://www.linkedin.com/in/jk186/?skipRedirect=true) is the Global Product Owner, AI & ML at Abbott, leading large-scale AI initiatives for the FreeStyle Libre platform to enhance clinical decision-making and patient outcomes. Previously at Meta’s Reality Labs, she advanced AR/VR innovation and LLM-based intelligent systems. An active contributor to the AI research community, she serves on the IJCAI 2025 Program Committee and reviews for AAAI, IJCNN, and IEEE conferences.\n\n**AI Applications in Drug Repurposing**\n\nDrug repurposing is increasingly important because it offers a faster, lower-cost path to therapeutic discovery compared to de novo drug development, especially in oncology where many cancers still lack effective targeted options. In under-studied cancers such as endometrial cancer, the challenge is often a lack of large, high-quality clinical or response datasets, making purely data-dependent approaches difficult to scale reliably. This motivates combining data-independent strategies (e.g., pathway- and mechanism-driven modeling) with data-dependent learning when interaction evidence is available. A practical and scalable direction is drug–target interaction (DTI) prediction, where AI models can leverage molecular and protein representations to prioritize mechanistically plausible drug candidates for repurposing.\n\n*About the Speaker*\n\n[Madhurima Mondal's](https://www.linkedin.com/in/madhurima-mondal-65a59882/) academic journey has been shaped by strong foundations in mathematical and scientific problem-solving, including multiple national-level achievements such as Regional Mathematics Olympiad (RMO), NTSE, and the KVPY fellowship. She completed my B.Tech and M.Tech in Electronics & Electrical Communication Engineering from IIT Kharagpur, and I am currently a PhD candidate in Electrical & Computer Engineering at Texas A&M University,\n\n**Mapping to Belonging: How Ethically Governed AI Can Make Real Places More Accessible, Legible, and Human**\n\nCan AI help people belong in the places where they live, work, travel, and get together?\n\nThis talk explores that question through real-world work at the intersection of accessibility, computer vision mapping, civic data, and ethically governed AI. I will show how AI can support the collection and interpretation of pedestrian accessibility data, reduce the burden of documenting barriers, and help transform lived experience into structured information that can be used across routing tools, planning systems, and public decision-making. I will also argue that public-interest AI only works when it is governed well. In accessibility work, the risks are clear: over-averaging, hidden bias, false completeness, and systems that optimize for efficiency while overlooking the people most affected by missing or poor-quality data. Ethically governed AI must therefore be designed to preserve local context, support transparency, include community participation, and make room for experiences that conventional systems often ignore.\n\n*About the Speaker*\n\n[Anat Caspi](https://www.linkedin.com/in/anat-caspi-phd-8b0a161/) is Director of the Taskar Center for Accessible Technology at the University of Washington, where she leads research and public-interest technology efforts focused on accessibility, mobility, and inclusive transportation data.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313082635/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313082635/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-05-21T10:00:00-06:00",
+    "dtend": "2026-05-21T12:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "data",
+      "frontend",
+      "mobile",
+      "python",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "may 21 women in ai meetup_2026-05-21T16:00:00+00:00"
+  },
+  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|May 20 - Getting Started with FiftyOne|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis workshop provides a technical foundation for managing large scale computer vision datasets. You will learn to curate, visualize, and evaluate models using the [open source FiftyOne app](https://docs.voxel51.com/).\n\n**Date, Time and Location**\n\nMay 20, 2026\n10 AM PST - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/getting-started-with-fiftyone-may-20-2026)**\n\nThe session covers data ingestion, embedding visualization, and model failure analysis. You will build workflows to identify dataset bias, find annotation errors, and select informative samples for training. Attendees leave with a framework for data centric AI for research and production pipelines, prioritizing data quality over pure model iteration.\n\nWhat you'll learn\n\n* **Structure unstructured data.** Map data and metadata into a queryable schema for images, videos, and point clouds.\n* **Query datasets with the FiftyOne SDK**. Create complex views based on model predictions, labels, and custom tags. Use the FiftyOne to filter data based on logical conditions and confidence scores.\n* **Visualize high dimensional embeddings**. Project features into lower dimensions to find clusters of similar samples. Identify data gaps and outliers using FiftyOne Brain.\n* **Automate data curation.** Implement algorithmic measures to select diverse subsets for training. Reduce labeling costs by prioritizing high entropy samples.\n* **Debug model performance.** Run evaluation routines to generate confusion matrices and precision recall curves. Visualize false positives and false negatives directly in the App to understand model failures.\n* **Customize FiftyOne**. Build custom dashboards and interactive panels. Create specialized views for domain specific tasks.\n\n**Prerequisites:**\n\n* Working knowledge of Python and machine learning and/or computer vision fundamentals.\n* All attendees will get access to the tutorials and code examples used in the workshop.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313299039/",
@@ -488,7 +523,7 @@
   },
   {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|May 7 - Visual AI in Healthcare|Online",
-    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us to hear experts on cutting-edge topics at the intersection of AI, ML, computer vision and healthcare.\n\n**Date, Time, and Location**\n\nMay 07, 2026\n9AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/visual-ai-in-healthcare-may-7-2026)**\n\n**Efficient and Reliable AI for Real-World Healthcare Deployment**\n\nHealthcare is one of the highest-impact domains for AI, yet reliable deployment at scale remains difficult. To truly improve patient care and clinical workflows, AI must operate under real clinical constraints, not just in ideal lab settings. In practice, deployment is limited by high compute and memory costs, scarce labeled data, and distribution shifts across sites and time. Many clinically important findings are also rare and long-tailed, which makes generalization especially challenging. My research makes deployability a design objective by developing methods that stay accurate under strict resource and data constraints.\n\nIn this talk, I will first discuss high-performance lightweight deep learning architectures built by redesigning core building blocks. I will then present training-time generative supervision strategies that improve data efficiency and generalization to rare and long-tailed cases with no inference overhead. I will conclude with a forward-looking direction toward real-time perception for surgical assistance, where reliable performance under strict constraints is non-negotiable.\n\n*About the Speaker*\n\n[Md Mostafijur Rahman](https://www.linkedin.com/in/mostafij-rahman/) is a Ph.D. candidate at The University of Texas at Austin, advised by Radu Marculescu. His research sits at the intersection of AI, biomedical imaging, and computer vision, with a focus on building efficient, reliable, and scalable AI systems for deployment in healthcare under real-world constraints. His work has been translated to practice through research internships at GE Healthcare, the National Institutes of Health (NIH), and Bosch Research.\n\n**VIGIL: Vectors of Intelligent Guidance in Long-Reach Rural Healthcare**\n\nVIGIL (Vectors of Intelligent Guidance in Long-Reach Rural Healthcare) is an AI-driven system designed to support generalist clinicians through interactive, multimodal guidance. The system combines perception, language understanding, and tool use to assist with tasks such as ultrasound acquisition and interpretation in real time. In this talk, we focus on the overall system architecture, highlighting how individual components—ranging from visual models to medical reasoning agents—interact to produce coherent guidance. We also discuss key challenges we have encountered, including tool orchestration, latency, and robustness across components. This presentation aims to provide a systems-level perspective on building embodied AI agents for real-world healthcare settings.\n\n*About the Speaker*\n\n[Andrew Krikorian](https://linkedin.com/in/andrew-krikorian) is a Ph.D. student in Robotics at the University of Michigan, where he is a member of the Corso Group (COG). His research focuses on building physically grounded AI agents that combine perception, tool use, and planning to operate effectively in real-world environments, with a particular emphasis on healthcare applications. He is actively involved in the ARPA-H PARADIGM program, developing intelligent systems for rural clinical settings.\n\n**Scaling Healthcare AI with Synthetic Data and World Models**\n\nThe scarcity of labeled, privacy-compliant medical imaging data remains one of the biggest bottlenecks in healthcare AI development. Emerging world models are changing this landscape by generating high-fidelity synthetic data — from radiology scans to surgical scene simulations — that can augment real-world datasets without compromising patient privacy. However, synthetic data is only as valuable as your ability to curate, validate, and evaluate it alongside real clinical data. In this talk, we explore how teams are using FiftyOne to build rigorous quality pipelines around synthetic medical imagery, enabling them to detect distribution gaps, measure model performance across rare pathologies, and ensure that generated samples meaningfully improve downstream diagnostics. We'll walk through practical workflows that combine world model outputs with real-world medical datasets to accelerate Visual AI in healthcare — responsibly and at scale.\n\n*About the Speaker*\n\n[Daniel Gural ](https://www.linkedin.com/in/daniel-gural/)is an expert in Physical AI and has been working in the field for over 8 years. Working across healthcare he has experience in both operating use case as well as using Visual AI as an aid in psychology applications as well.",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us to hear experts on cutting-edge topics at the intersection of AI, ML, computer vision and healthcare.\n\n**Date, Time, and Location**\n\nMay 07, 2026\n9AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/visual-ai-in-healthcare-may-7-2026)**\n\n**Representation Learning Under Weak Supervision in Computational Pathology**\n\nComputational pathology has advanced rapidly with deep learning and, more recently, pathology foundation models that provide strong transferable representations from whole-slide images. Yet important gaps remain: pretrained features often retain domain shift relative to downstream clinical datasets, and most existing pipelines do not explicitly model the geometric organization of tissue architecture that underlies disease progression.\n\nIn this talk, I will present our work on weak- and semi-supervised representation learning methods designed to address these challenges, including adaptive stain separation for contrastive learning, bag-label-aware contrastive pretraining for multiple-instance learning, and distance-aware spatial modeling that injects tissue geometry into slide-level prediction. These methods reduce dependence on dense annotations while improving the quality, robustness, and clinical relevance of learned representations in histopathology. Across kidney and prostate cancer studies, they produce stronger downstream performance than standard self-supervised, semi-supervised, and MIL baselines, including improved classification on ccRCC datasets and more accurate prediction of metastatic risk from diagnostic prostate biopsies.\n\n*About the Speaker*\n\n[Dr. Tolga Tasdizen](https://www.linkedin.com/in/tolgatasdizen/) is Professor and Associate Chair of Electrical and Computer Engineering and a faculty member of the Scientific Computing and Imaging Institute at the University of Utah, where he works on AI and machine learning for image analysis with applications in biomedical imaging, public health, and materials science. His research spans self- and semi-supervised learning, domain adaptation, and interpretability.\n\n**Efficient and Reliable AI for Real-World Healthcare Deployment**\n\nHealthcare is one of the highest-impact domains for AI, yet reliable deployment at scale remains difficult. To truly improve patient care and clinical workflows, AI must operate under real clinical constraints, not just in ideal lab settings. In practice, deployment is limited by high compute and memory costs, scarce labeled data, and distribution shifts across sites and time. Many clinically important findings are also rare and long-tailed, which makes generalization especially challenging. My research makes deployability a design objective by developing methods that stay accurate under strict resource and data constraints.\n\nIn this talk, I will first discuss high-performance lightweight deep learning architectures built by redesigning core building blocks. I will then present training-time generative supervision strategies that improve data efficiency and generalization to rare and long-tailed cases with no inference overhead. I will conclude with a forward-looking direction toward real-time perception for surgical assistance, where reliable performance under strict constraints is non-negotiable.\n\n*About the Speaker*\n\n[Md Mostafijur Rahman](https://www.linkedin.com/in/mostafij-rahman/) is a Ph.D. candidate at The University of Texas at Austin, advised by Radu Marculescu. His research sits at the intersection of AI, biomedical imaging, and computer vision, with a focus on building efficient, reliable, and scalable AI systems for deployment in healthcare under real-world constraints. His work has been translated to practice through research internships at GE Healthcare, the National Institutes of Health (NIH), and Bosch Research.\n\n**VIGIL: Vectors of Intelligent Guidance in Long-Reach Rural Healthcare**\n\nVIGIL (Vectors of Intelligent Guidance in Long-Reach Rural Healthcare) is an AI-driven system designed to support generalist clinicians through interactive, multimodal guidance. The system combines perception, language understanding, and tool use to assist with tasks such as ultrasound acquisition and interpretation in real time. In this talk, we focus on the overall system architecture, highlighting how individual components—ranging from visual models to medical reasoning agents—interact to produce coherent guidance. We also discuss key challenges we have encountered, including tool orchestration, latency, and robustness across components. This presentation aims to provide a systems-level perspective on building embodied AI agents for real-world healthcare settings.\n\n*About the Speaker*\n\n[Andrew Krikorian](https://linkedin.com/in/andrew-krikorian) is a Ph.D. student in Robotics at the University of Michigan, where he is a member of the Corso Group (COG). His research focuses on building physically grounded AI agents that combine perception, tool use, and planning to operate effectively in real-world environments, with a particular emphasis on healthcare applications. He is actively involved in the ARPA-H PARADIGM program, developing intelligent systems for rural clinical settings.\n\n**Scaling Healthcare AI with Synthetic Data and World Models**\n\nThe scarcity of labeled, privacy-compliant medical imaging data remains one of the biggest bottlenecks in healthcare AI development. Emerging world models are changing this landscape by generating high-fidelity synthetic data — from radiology scans to surgical scene simulations — that can augment real-world datasets without compromising patient privacy. However, synthetic data is only as valuable as your ability to curate, validate, and evaluate it alongside real clinical data. In this talk, we explore how teams are using FiftyOne to build rigorous quality pipelines around synthetic medical imagery, enabling them to detect distribution gaps, measure model performance across rare pathologies, and ensure that generated samples meaningfully improve downstream diagnostics. We'll walk through practical workflows that combine world model outputs with real-world medical datasets to accelerate Visual AI in healthcare — responsibly and at scale.\n\n*About the Speaker*\n\n[Daniel Gural ](https://www.linkedin.com/in/daniel-gural/)is an expert in Physical AI and has been working in the field for over 8 years. Working across healthcare he has experience in both operating use case as well as using Visual AI as an aid in psychology applications as well.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314110411/",
     "sources": [
       {
@@ -504,6 +539,7 @@
     "dtend": "2026-05-07T12:00:00-06:00",
     "tags": [
       "ai",
+      "backend",
       "data",
       "frontend",
       "security"
@@ -904,7 +940,7 @@
     "dtstart": "2026-04-23T15:00:00+00:00",
     "dtend": "2026-04-23T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1007,6 +1043,38 @@
     "city_code": "cdmx",
     "address": "Circuito Exterior, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "compufest 1_2026-04-23T14:00:00+00:00"
+  },
+  {
+    "title": "Kong Mexico City|You Can't AI Your Way Out of a Governance Problem|France|Occitania",
+    "description": "Kong/MEXICO-CITY\nEvery enterprise wants to move fast on AI. Most are held back by the same three things: incomplete inventory, manual governance, and no cost visibility. A gateway is a start, but it's not the full answer. In this session, Kong experts will show how platform teams are laying the groundwork for safe, scalable AI adoption by solving three foundational challenges: establishing a complete, discoverable API and AI service inventory that gives every team and every agent a single, governed entry point; implementing APIOps to automate policy enforcement across the full API lifecycle; and building Metering & Billing capabilities that bring cost visibility and revenue potential to every AI and API interaction. Come away with an understanding of the Kong Konnect platform can enable your organization to build a solid Agentic-ready foundation.\n\nWhat you'll learn:\nIn this session, Kong experts will show how platform teams are laying the groundwork for safe, scalable AI adoption by solving three foundational challenges:\n\n* Inventory: Establish a complete, discoverable API and AI service catalog that gives every team — and every agent — a single, governed entry point.\n* Automation: Implement APIOps to enforce policy across the full API lifecycle and embed governance directly into CI/CD pipelines.\n* Monetization: Build metering and billing capabilities that bring cost visibility and revenue potential to every AI and API interaction.",
+    "url": "https://www.meetup.com/kong-mexico-city/events/314199579/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/kong-mexico-city/events/314199579/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "online": false,
+    "organizer": "Kong Mexico City",
+    "dtstart": "2026-04-23T09:00:00-06:00",
+    "dtend": "2026-04-23T10:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "devops",
+      "frontend"
+    ],
+    "source": "https://www.meetup.com/kong-mexico-city/events/ical",
+    "country": "France",
+    "country_code": "FR",
+    "state": "Occitania",
+    "state_code": "",
+    "city": "Montpellier",
+    "city_code": "montpellier",
+    "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
+    "hash_key": "you can t ai your way out of a governanc_2026-04-23T14:00:00+00:00"
   },
   {
     "title": "AI/IA CDMX|Témele al Shoggoth - Fear the Shoggoth|México|Ciudad de México",
@@ -1606,39 +1674,6 @@
     "hash_key": "the ai collective hampton roads claude c_2026-04-09T22:00:00+00:00"
   },
   {
-    "title": "México City AI, Machine Learning and Computer Vision Meetup|April 9 - Workshop: Build a Visual Agent that can Navigate GUIs like Humans|Online",
-    "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis hands-on workshop provides a comprehensive introduction to building and evaluating visual agents for GUI automation using modern tools and techniques.\n\n**Date, Time and Location**\n\nApril 9, 2026 at 9 AM Pacific\nOnline. **[Register for the Zoom](https://voxel51.com/events/visual-agents-what-it-takes-to-build-an-agent-that-can-navigate-guis-like-humans-april-9-2026)**\n\nVisual agents that can understand and interact with graphical user interfaces represent a transformative frontier in AI automation. These systems combine computer vision, natural language understanding, and spatial reasoning to enable machines to navigate complex interfaces—from web applications to desktop software—just as humans do. However, building robust GUI agents requires careful attention to dataset curation, model evaluation, and iterative improvement workflows.\n\nParticipants will learn how to leverage [FiftyOne](https://github.com/voxel51/fiftyone), an open-source toolkit for dataset curation and computer vision workflows, to build production-ready GUI agent systems.\n\nWhat You'll Learn:\n\n* **Dataset Creation & Management:** How to structure, annotate, and load GUI interaction datasets using the COCO4GUI standardized format\n* **Data Exploration & Analysis:** Using FiftyOne's interactive interface to visualize datasets, analyze action distributions, and understand annotation patterns\n* **Multimodal Embeddings:** Computing embeddings for screenshots and UI element patches to enable similarity search and retrieval\n* **Model Inference:** Running state-of-the-art models like Microsoft's GUI-Actor to predict interaction points from natural language instructions\n* **Performance Evaluation:** Measuring model accuracy using standard metrics and normalized click distance to assess localization precision\n* **Failure Analysis:** Investigating model failures through attention maps, error pattern analysis, and systematic debugging workflows\n* **Data-Driven Improvement:** Tagging samples based on error types (attention misalignment vs. localization errors) to prioritize fine-tuning efforts\n* **Synthetic Data Generation:** Using FiftyOne plugins to augment training data with synthetic task descriptions and variations\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in RAG, Agents, and Multimodal AI.",
-    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313207113/",
-    "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313207113/",
-        "label": "Ver en Meetup"
-      }
-    ],
-    "location": "Online",
-    "online": true,
-    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-    "dtstart": "2026-04-09T10:00:00-06:00",
-    "dtend": "2026-04-09T11:30:00-06:00",
-    "tags": [
-      "ai",
-      "backend",
-      "data",
-      "frontend",
-      "web"
-    ],
-    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "",
-    "hash_key": "april 9 workshop build a visual agent th_2026-04-09T16:00:00+00:00"
-  },
-  {
     "title": "v0 Prompt to Production Mexico City|OpenAI Codex – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/suipk589\n\nAddress:\nPlaza Carso\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/suipk589",
@@ -1724,7 +1759,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Expo Santa Fe México, Avenida Carlos Lazo, Santa Fe Cuajimalpa, Ciudad de México, Cuajimalpa de Morelos, Ciudad de México, 05348, México",
+    "address": "Expo Santa Fe México, Avenida Santa Fe, Santa Fe, Ciudad de México, Álvaro Obregón, Ciudad de México, 01376, México",
     "hash_key": "build with ai hackathon talentland cdmx _2026-04-07T10:00:00+00:00"
   },
   {
@@ -2342,14 +2377,14 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Calle Tepeyaucle, Unidad Habitacional Copilco, Colonia Copilco El Alto, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Escolar, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -2427,7 +2462,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2466,7 +2501,7 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44989, México",
+    "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44960, México",
     "hash_key": "evento pospuesto interfaz web y agentes _2026-02-28T00:00:00+00:00"
   },
   {
@@ -2488,7 +2523,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2519,7 +2554,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2602,7 +2637,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2689,7 +2724,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2745,7 +2780,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2803,7 +2838,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2830,7 +2865,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2886,7 +2921,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2913,7 +2948,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2942,7 +2977,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2971,7 +3006,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3000,7 +3035,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3059,7 +3094,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3113,7 +3148,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3142,7 +3177,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3229,7 +3264,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3258,7 +3293,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3316,7 +3351,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3345,7 +3380,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3374,7 +3409,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3433,7 +3468,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3491,7 +3526,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3521,7 +3556,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3551,7 +3586,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3580,7 +3615,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3607,7 +3642,7 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3666,7 +3701,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3693,7 +3728,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3722,7 +3757,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3752,7 +3787,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3811,7 +3846,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3838,7 +3873,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3865,7 +3900,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3892,7 +3927,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3922,7 +3957,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4291,7 +4326,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4834,7 +4869,7 @@
     "dtstart": "2026-01-19T18:00:00+00:00",
     "dtend": "2026-01-28T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4924,7 +4959,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Diagonal Patriotismo, Hipódromo Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 11850, México",
+    "address": "Avenida Diagonal Patriotismo, Hipódromo Condesa, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
     "hash_key": "global coding dojo ciudad de mxico_2026-01-15T00:00:00+00:00"
   },
   {
@@ -5306,7 +5341,7 @@
     "tags": [
       "devops"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5473,7 +5508,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -6956,7 +6991,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7154,7 +7189,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7267,7 +7302,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7610,7 +7645,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "shefi x mobil3 she leads finance_2025-08-21T16:00:00+00:00"
   },
   {
@@ -7637,7 +7672,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "pre registro mobil3 hackathon_2025-08-20T16:00:00+00:00"
   },
   {
@@ -8483,6 +8518,35 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-yUFvH8opGCUohJL",
     "hash_key": "ai collective worldwide launch party_2025-06-05T16:00:00+00:00"
+  },
+  {
+    "title": "Rust-AICollective|AI Collective México  -  Launch Party 🚀|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/cdmx-06-03\n\nAddress:\nCheck event page for more details.\n\nHosted by The AI Collective",
+    "url": "https://luma.com/cdmx-06-03",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/cdmx-06-03",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Ciudad de México",
+    "online": false,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2025-06-04T01:00:00+00:00",
+    "dtend": "2025-06-04T03:30:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "ai collective mxico launch party_2025-06-04T00:00:00+00:00"
   },
   {
     "title": "Founder Friends Mexico|Hustle Fund / Angel Squad: Claim your 30 day Guest Pass|Online",
@@ -10476,7 +10540,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "the future of automotive aftermarket ind_2024-10-25T22:00:00+00:00"
   },
   {
@@ -11253,7 +11317,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "crossing the chasm unlocking proptech op_2024-10-24T22:00:00+00:00"
   },
   {
@@ -11858,7 +11922,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
