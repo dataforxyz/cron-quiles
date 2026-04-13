@@ -2239,8 +2239,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/hrox05gq\n\nAd
  ted by Mexico Tech Week & Juan Vargas
 LOCATION:PÚBLICO Reforma\, Av. P.º de la Reforma 333\, Cuauhtémoc\, 065
  00 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Ciudad de
-  México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Condesa\,
+  Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -2703,8 +2703,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/5rh9cgs1\n\nAd
  nHosted by Mexico Tech Week & Merauto
 LOCATION:PÚBLICO Reforma\, Av. P.º de la Reforma 333\, Cuauhtémoc\, 065
  00 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Ciudad de
-  México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Condesa\,
+  Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -3937,8 +3937,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/3rpalo5b\n\nAd
  nMexico\n\nHosted by Mobil3
 LOCATION:Av. P.º de la Reforma 333\, Cuauhtémoc\, 06500 Ciudad de Méxic
  o\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Ciudad de
-  México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Condesa\,
+  Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -3971,8 +3971,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/qbdndnx7\n\nAd
  nHosted by Diana HR\, SheFi & SheFi México
 LOCATION:PÚBLICO Reforma\, Av. P.º de la Reforma 333\, Cuauhtémoc\, 065
  00 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Ciudad de
-  México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Cuauhtémoc\, Condesa\,
+  Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 06500\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -5110,9 +5110,9 @@ DESCRIPTION:Acompáñanos en nuestras Tech Talks en Querétaro para compar
  tir y discutir conocimientos sobre
 LOCATION:KROW\, Calle Héroe de Nacozari 25B\, Santiago de Querétaro\, QU
  E
-X-CRONQUILES-ADDRESS:Calle Héroe de Nacozari\, Las Rosas\, Delegación Ce
- ntro Histórico\, Santiago de Querétaro\, Municipio de Querétaro\, Quer
- étaro\, 76164\, México
+X-CRONQUILES-ADDRESS:Calle Héroe de Nacozari\, Centro\, Delegación Centr
+ o Histórico\, Santiago de Querétaro\, Municipio de Querétaro\, Queréta
+ ro\, 76000\, México
 X-CRONQUILES-CITY:Santiago de Querétaro
 X-CRONQUILES-CITY-CODE:santiagodequeretaro
 X-CRONQUILES-COUNTRY:México
@@ -6865,7 +6865,7 @@ DESCRIPTION:<ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
 LOCATION:Cerevia\, C. Isla Socorro 3297\, Villa Guerrero\, Guadalajara\, J
  alisco\, MX
 X-CRONQUILES-ADDRESS:Calle Isla Socorro\, Colón C.R.O.C.\, Guadalajara\, 
- Región Centro\, Jalisco\, 44989\, México
+ Región Centro\, Jalisco\, 44960\, México
 X-CRONQUILES-CITY:Guadalajara
 X-CRONQUILES-CITY-CODE:guadalajara
 X-CRONQUILES-COUNTRY:México
@@ -7468,6 +7468,17 @@ X-CRONQUILES-STATE:Puebla
 X-CRONQUILES-STATE-CODE:MX-PUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG Cloud Mexico City|Responsible AI Use|Online
+DTSTART:20260415T190000
+CATEGORIES:Google Workspace,ai,cloud
+DESCRIPTION:Únete a nosotros para explorar las iniciativas éticas de Goo
+ gle en el uso de la Inteligencia Artificial. Descubre recome...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Apri
  l 16 - AI\, ML and Computer Vision Meetup en Español|Online
 DTSTART:20260416T100000
@@ -7776,6 +7787,16 @@ LOCATION:https://luma.com/event/evt-5WqFgFJgGxEhHoP
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-5WqFgFJgGxEhHoP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rust-AICollective|AI Collective Executive Track: AI That Actually 
+ Lands: Turning Advanced Technology into Measurable Business Impact|Online
+DTSTART:20260423T150000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/373ove5j\n\nHo
+ sted by Chris Parker\, Abraham & The AI Collective
+LOCATION:https://luma.com/event/evt-tlD9VhdzwTwG62h
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-tlD9VhdzwTwG62h
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sudo FCiencias|compufest[1] - Charlas & Talleres|México|Ciudad de
   México
 DTSTART:20260423T150000Z
@@ -7794,16 +7815,6 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|AI Collective Executive Track: AI That Actually 
- Lands: Turning Advanced Technology into Measurable Business Impact|Online
-DTSTART:20260423T150000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/373ove5j\n\nHo
- sted by Chris Parker\, Abraham & The AI Collective
-LOCATION:https://luma.com/event/evt-tlD9VhdzwTwG62h
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-tlD9VhdzwTwG62h
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS Cloud Club at Universidad Nacional Autonoma de México|compufe
@@ -8088,9 +8099,9 @@ CATEGORIES:AI,AI - Gemini,Build with AI,Community Building,Conference,Work
 DESCRIPTION:Únete a nosotros para un emocionante evento donde exploraremo
  s las modernas tecnologías de inteligencia artificial de Go...
 LOCATION:Universidad Cristóbal Colón\, Paseo de Los Cedros\, Veracruz
-X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón\, Calle Paseo de los Ce
- dros\, Floresta\, Veracruz\, Municipio de Veracruz\, Veracruz\, 91945\, M
- éxico
+X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón (Torrente Viver)\, Call
+ e Paseo de los Cedros\, Floresta\, Veracruz\, Municipio de Veracruz\, Vera
+ cruz\, 91945\, México
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México
@@ -8438,9 +8449,9 @@ CATEGORIES:AI,AI - Gemini,AI - Gemma,AI - Vertex AI,Build with AI,Communit
 DESCRIPTION:Únete a nosotros para un emocionante evento donde exploraremo
  s las modernas tecnologías de inteligencia artificial de Go...
 LOCATION:Universidad Cristóbal Colón\, Paseo de Los Cedros\, Veracruz
-X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón\, Calle Paseo de los Ce
- dros\, Floresta\, Veracruz\, Municipio de Veracruz\, Veracruz\, 91945\, M
- éxico
+X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón (Torrente Viver)\, Call
+ e Paseo de los Cedros\, Floresta\, Veracruz\, Municipio de Veracruz\, Vera
+ cruz\, 91945\, México
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México

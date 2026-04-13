@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:51:30.868420+00:00",
-  "total_events": 179,
+  "generated_at": "2026-04-13T01:27:54.332695+00:00",
+  "total_events": 180,
   "city": "Online",
   "communities": [
     {
@@ -75,11 +75,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -140,6 +140,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Cloud Mexico City",
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -3453,7 +3464,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3617,7 +3628,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3806,7 +3817,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4250,6 +4261,37 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-UMAxssbXjR651Fc",
       "hash_key": "leadership and the new competitive advan_2026-04-14T18:00:00+00:00"
+    },
+    {
+      "title": "GDG Cloud Mexico City|Responsible AI Use|Online",
+      "description": "Únete a nosotros para explorar las iniciativas éticas de Google en el uso de la Inteligencia Artificial. Descubre recome...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-responsible-ai-use/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-responsible-ai-use/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG Cloud Mexico City",
+      "dtstart": "2026-04-15T19:00:00-06:00",
+      "dtend": "2026-04-15T20:00:00-06:00",
+      "tags": [
+        "Google Workspace",
+        "ai",
+        "cloud"
+      ],
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "responsible ai use_2026-04-16T00:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|April 16 - AI, ML and Computer Vision Meetup en Español|Online",
@@ -4829,7 +4871,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
       "hash_key": "build with ai veracruz ciencia y tecnolo_2026-04-27T16:00:00+00:00"
     },
     {
@@ -5116,7 +5158,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
       "hash_key": "build with ai veracruz workshop hands on_2026-05-08T16:00:00+00:00"
     },
     {
