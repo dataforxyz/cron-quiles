@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T01:29:52.191036+00:00",
+  "generated_at": "2026-04-16T07:21:20.173961+00:00",
   "total_events": 184,
   "city": "Online",
   "communities": [
@@ -151,17 +151,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Cloud Mexico City",
-      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -1652,7 +1641,7 @@
     },
     {
       "title": "Mexico Tech Week|\"Corporativos, Academia e Inversión para Mexico como el Hub Tecnológico de Latinoamérica\"|México|",
-      "description": "Get up-to-date information at: https://luma.com/qbmnn3zn\n\nAddress:\n\n\nHosted by Mexico Tech Week & Maria Beltran",
+      "description": "Get up-to-date information at: https://luma.com/qbmnn3zn\n\nAddress:\n\n\nHosted by Mexico Tech Week & Andrea Rodriguez",
       "url": "https://luma.com/qbmnn3zn",
       "sources": [
         {
@@ -1661,7 +1650,7 @@
           "label": "Ver en Luma"
         }
       ],
-      "location": "hosted by mexico tech week & maria beltran",
+      "location": "hosted by mexico tech week & andrea rodriguez",
       "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-24T18:00:00+00:00",
@@ -1674,7 +1663,7 @@
       "state_code": "",
       "city": "",
       "city_code": "",
-      "address": "hosted by mexico tech week & maria beltran",
+      "address": "hosted by mexico tech week & andrea rodriguez",
       "hash_key": "corporativos academia e inversin para me_2024-10-24T18:00:00+00:00"
     },
     {
@@ -4187,37 +4176,6 @@
       "hash_key": "how i use ai 5 image manipulation_2026-04-01T22:00:00+00:00"
     },
     {
-      "title": "GDG Cloud Mexico City|Responsible AI Use|Online",
-      "description": "Únete a nosotros para explorar las iniciativas éticas de Google en el uso de la Inteligencia Artificial. Descubre recome...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-responsible-ai-use/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-responsible-ai-use/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG Cloud Mexico City",
-      "dtstart": "2026-04-15T19:00:00-06:00",
-      "dtend": "2026-04-15T20:00:00-06:00",
-      "tags": [
-        "Google Workspace",
-        "ai",
-        "cloud"
-      ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "responsible ai use_2026-04-16T00:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|ChapterX #2|Online",
       "description": "Get up-to-date information at: https://luma.com/chx2\n\nHosted by Alex Barnes",
       "url": "https://luma.com/chx2",
@@ -5164,6 +5122,37 @@
       "city_code": "",
       "address": "Avenida Urano, Joyas de Mocambo, Boca del Río, Veracruz, 94292, México",
       "hash_key": "build with ai zero to agent x vercel_2026-05-02T16:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|Next Horizon: Mastering Skills for Building AI ready data foundation: Part 1 (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-ai-ready-data-foundation-1\n\nHosted by The AI Collective & Neelima Misra",
+      "url": "https://luma.com/aic-ai-ready-data-foundation-1",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-ai-ready-data-foundation-1",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-LOd5P3mZaooCed5",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-05-05T08:00:00+00:00",
+      "dtend": "2026-05-05T08:45:00+00:00",
+      "tags": [
+        "ai",
+        "data",
+        "frontend"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-LOd5P3mZaooCed5",
+      "hash_key": "next horizon mastering skills for buildi_2026-05-05T08:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Spirals of Connection: Science, AI, and the Felt Experience of Being Seen|Online",
