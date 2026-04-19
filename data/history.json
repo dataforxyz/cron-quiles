@@ -181,7 +181,7 @@
     "hash_key": "del oro negro al oro digital from black _2026-07-22T00:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #7: WhatsApp Voicebots|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
     "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/vhwcyvjr",
     "sources": [
@@ -193,14 +193,13 @@
     ],
     "location": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-06-18T23:00:00+00:00",
     "dtend": "2026-06-19T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -589,6 +588,75 @@
     "hash_key": "may 11 best of 3dv 2026_2026-05-11T16:00:00+00:00"
   },
   {
+    "title": "GDG Heroica Veracruz|Build with AI Veracruz Workshop Hands On 2026|México|Veracruz",
+    "description": "Únete a nosotros para un emocionante evento donde exploraremos las modernas tecnologías de inteligencia artificial de Go...",
+    "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-workshop-hands-on-2026/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-workshop-hands-on-2026/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Universidad Cristóbal Colón, Paseo de Los Cedros, Veracruz",
+    "online": false,
+    "organizer": "GDG Heroica Veracruz",
+    "dtstart": "2026-05-08T10:00:00-06:00",
+    "dtend": "2026-05-08T17:00:00-06:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "AI - Gemma",
+      "AI - Vertex AI",
+      "Build with AI",
+      "Community Building",
+      "Conference",
+      "Google Cloud",
+      "Workshop / hands-on session",
+      "ai",
+      "frontend"
+    ],
+    "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Veracruz",
+    "state_code": "",
+    "city": "Veracruz",
+    "city_code": "veracruz",
+    "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+    "hash_key": "build with ai veracruz workshop hands on_2026-05-08T16:00:00+00:00"
+  },
+  {
+    "title": "Rust-AICollective|AI Literacy Series: Me, Myself & AI: Vattenfall (w/ The AI Collective)|Online",
+    "description": "Get up-to-date information at: https://luma.com/aic-ai-literacy-vanttenfall\n\nHosted by The AI Collective, Neelima Misra & Kajsa Grip",
+    "url": "https://luma.com/aic-ai-literacy-vanttenfall",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/aic-ai-literacy-vanttenfall",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-16GG6BkdIGXqAfQ",
+    "online": true,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-05-08T08:00:00+00:00",
+    "dtend": "2026-05-08T08:30:00+00:00",
+    "tags": [
+      "ai",
+      "web"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-16GG6BkdIGXqAfQ",
+    "hash_key": "ai literacy series me myself ai vattenfa_2026-05-08T08:00:00+00:00"
+  },
+  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|May 7 - Visual AI in Healthcare|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us to hear experts on cutting-edge topics at the intersection of AI, ML, computer vision and healthcare.\n\n**Date, Time, and Location**\n\nMay 07, 2026\n9AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/visual-ai-in-healthcare-may-7-2026)**\n\n**Representation Learning Under Weak Supervision in Computational Pathology**\n\nComputational pathology has advanced rapidly with deep learning and, more recently, pathology foundation models that provide strong transferable representations from whole-slide images. Yet important gaps remain: pretrained features often retain domain shift relative to downstream clinical datasets, and most existing pipelines do not explicitly model the geometric organization of tissue architecture that underlies disease progression.\n\nIn this talk, I will present our work on weak- and semi-supervised representation learning methods designed to address these challenges, including adaptive stain separation for contrastive learning, bag-label-aware contrastive pretraining for multiple-instance learning, and distance-aware spatial modeling that injects tissue geometry into slide-level prediction. These methods reduce dependence on dense annotations while improving the quality, robustness, and clinical relevance of learned representations in histopathology. Across kidney and prostate cancer studies, they produce stronger downstream performance than standard self-supervised, semi-supervised, and MIL baselines, including improved classification on ccRCC datasets and more accurate prediction of metastatic risk from diagnostic prostate biopsies.\n\n*About the Speaker*\n\n[Dr. Tolga Tasdizen](https://www.linkedin.com/in/tolgatasdizen/) is Professor and Associate Chair of Electrical and Computer Engineering and a faculty member of the Scientific Computing and Imaging Institute at the University of Utah, where he works on AI and machine learning for image analysis with applications in biomedical imaging, public health, and materials science. His research spans self- and semi-supervised learning, domain adaptation, and interpretability.\n\n**Efficient and Reliable AI for Real-World Healthcare Deployment**\n\nHealthcare is one of the highest-impact domains for AI, yet reliable deployment at scale remains difficult. To truly improve patient care and clinical workflows, AI must operate under real clinical constraints, not just in ideal lab settings. In practice, deployment is limited by high compute and memory costs, scarce labeled data, and distribution shifts across sites and time. Many clinically important findings are also rare and long-tailed, which makes generalization especially challenging. My research makes deployability a design objective by developing methods that stay accurate under strict resource and data constraints.\n\nIn this talk, I will first discuss high-performance lightweight deep learning architectures built by redesigning core building blocks. I will then present training-time generative supervision strategies that improve data efficiency and generalization to rare and long-tailed cases with no inference overhead. I will conclude with a forward-looking direction toward real-time perception for surgical assistance, where reliable performance under strict constraints is non-negotiable.\n\n*About the Speaker*\n\n[Md Mostafijur Rahman](https://www.linkedin.com/in/mostafij-rahman/) is a Ph.D. candidate at The University of Texas at Austin, advised by Radu Marculescu. His research sits at the intersection of AI, biomedical imaging, and computer vision, with a focus on building efficient, reliable, and scalable AI systems for deployment in healthcare under real-world constraints. His work has been translated to practice through research internships at GE Healthcare, the National Institutes of Health (NIH), and Bosch Research.\n\n**VIGIL: Vectors of Intelligent Guidance in Long-Reach Rural Healthcare**\n\nVIGIL (Vectors of Intelligent Guidance in Long-Reach Rural Healthcare) is an AI-driven system designed to support generalist clinicians through interactive, multimodal guidance. The system combines perception, language understanding, and tool use to assist with tasks such as ultrasound acquisition and interpretation in real time. In this talk, we focus on the overall system architecture, highlighting how individual components—ranging from visual models to medical reasoning agents—interact to produce coherent guidance. We also discuss key challenges we have encountered, including tool orchestration, latency, and robustness across components. This presentation aims to provide a systems-level perspective on building embodied AI agents for real-world healthcare settings.\n\n*About the Speaker*\n\n[Andrew Krikorian](https://linkedin.com/in/andrew-krikorian) is a Ph.D. student in Robotics at the University of Michigan, where he is a member of the Corso Group (COG). His research focuses on building physically grounded AI agents that combine perception, tool use, and planning to operate effectively in real-world environments, with a particular emphasis on healthcare applications. He is actively involved in the ARPA-H PARADIGM program, developing intelligent systems for rural clinical settings.\n\n**Scaling Healthcare AI with Synthetic Data and World Models**\n\nThe scarcity of labeled, privacy-compliant medical imaging data remains one of the biggest bottlenecks in healthcare AI development. Emerging world models are changing this landscape by generating high-fidelity synthetic data — from radiology scans to surgical scene simulations — that can augment real-world datasets without compromising patient privacy. However, synthetic data is only as valuable as your ability to curate, validate, and evaluate it alongside real clinical data. In this talk, we explore how teams are using FiftyOne to build rigorous quality pipelines around synthetic medical imagery, enabling them to detect distribution gaps, measure model performance across rare pathologies, and ensure that generated samples meaningfully improve downstream diagnostics. We'll walk through practical workflows that combine world model outputs with real-world medical datasets to accelerate Visual AI in healthcare — responsibly and at scale.\n\n*About the Speaker*\n\n[Daniel Gural ](https://www.linkedin.com/in/daniel-gural/)is an expert in Physical AI and has been working in the field for over 8 years. Working across healthcare he has experience in both operating use case as well as using Visual AI as an aid in psychology applications as well.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314110411/",
@@ -713,6 +781,41 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-LOd5P3mZaooCed5",
     "hash_key": "next horizon mastering skills for buildi_2026-05-05T08:00:00+00:00"
+  },
+  {
+    "title": "GDG Heroica Veracruz|Build with AI: Zero to Agent x Vercel|México|Veracruz",
+    "description": "​Zero to Agent es una semana de desarrollo global donde lanzamos agentes de IA reales con v0.​La Build week empieza el 2...",
+    "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-zero-to-agent-x-vercel/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-zero-to-agent-x-vercel/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Computacion Del Golfo Ver, S.C., 213 Avenida Urano, Boca del Río",
+    "online": false,
+    "organizer": "GDG Heroica Veracruz",
+    "dtstart": "2026-05-02T10:00:00-06:00",
+    "dtend": "2026-05-02T14:00:00-06:00",
+    "tags": [
+      "AI",
+      "Build with AI",
+      "Community Building",
+      "Networking",
+      "Workshop / hands-on session",
+      "ai",
+      "frontend"
+    ],
+    "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Veracruz",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Avenida Urano, Joyas de Mocambo, Boca del Río, Veracruz, 94292, México",
+    "hash_key": "build with ai zero to agent x vercel_2026-05-02T16:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|Parenting with AI (w/ The AI Collective Kansas City)|Online",
@@ -988,7 +1091,43 @@
     "hash_key": "how ai and neurotechnology are transform_2026-04-27T14:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|Zero to Agent: Mexico City|México|Ciudad de México",
+    "title": "GDG Heroica Veracruz|Build with AI Veracruz - Ciencia y Tecnología 2026|México|Veracruz",
+    "description": "Únete a nosotros para un emocionante evento donde exploraremos las modernas tecnologías de inteligencia artificial de Go...",
+    "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-ciencia-y-tecnologia-2026/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-build-with-ai-veracruz-ciencia-y-tecnologia-2026/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Universidad Cristóbal Colón, Paseo de Los Cedros, Veracruz",
+    "online": false,
+    "organizer": "GDG Heroica Veracruz",
+    "dtstart": "2026-04-27T10:30:00-06:00",
+    "dtend": "2026-04-27T14:00:00-06:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "Build with AI",
+      "Community Building",
+      "Conference",
+      "Workshop / hands-on session",
+      "ai",
+      "frontend"
+    ],
+    "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Veracruz",
+    "state_code": "",
+    "city": "Veracruz",
+    "city_code": "veracruz",
+    "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+    "hash_key": "build with ai veracruz ciencia y tecnolo_2026-04-27T16:00:00+00:00"
+  },
+  {
+    "title": "v0 Prompt to Production Mexico City|Zero to Agent: Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/wp947zvj\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & 3 others",
     "url": "https://luma.com/wp947zvj",
     "sources": [
@@ -1000,14 +1139,13 @@
     ],
     "location": "Polanco, Ciudad de México",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-25T15:00:00+00:00",
     "dtend": "2026-04-25T19:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1160,7 +1298,7 @@
     "dtstart": "2026-04-23T15:00:00+00:00",
     "dtend": "2026-04-23T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1505,6 +1643,39 @@
     "hash_key": "achieve more with microsoft copilot_2026-04-21T04:00:00+00:00"
   },
   {
+    "title": "GDG Tepic|Evento Especial: Programación 10x con IA|Online",
+    "description": "Únete a nosotros para una sesión inspiradora sobre 'Programación 10x: Cómo la IA redefine la rapidez del desarrollador m...",
+    "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-evento-especial-programacion-10x-con-ia/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-evento-especial-programacion-10x-con-ia/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Online",
+    "online": true,
+    "organizer": "GDG Tepic",
+    "dtstart": "2026-04-19T08:00:00-07:00",
+    "dtend": "2026-04-19T12:00:00-07:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "Build with AI",
+      "Workshop / hands-on session",
+      "backend"
+    ],
+    "source": "https://gdg.community.dev/gdg-tepic/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Online",
+    "hash_key": "evento especial programacin 10x con ia_2026-04-19T14:00:00+00:00"
+  },
+  {
     "title": "Claude Community|Mexico City  -  Claude Impact Lab|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claudemexicocitylab\n\nAddress:\nCheck event page for more details.\n\nHosted by Claude Community & 6 others",
     "url": "https://luma.com/claudemexicocitylab",
@@ -1622,7 +1793,7 @@
     "hash_key": "vibecoding caf_2026-04-17T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #6: Scaling to 1M users|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
     "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/11fz6ef5",
     "sources": [
@@ -1634,14 +1805,13 @@
     ],
     "location": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-16T23:00:00+00:00",
     "dtend": "2026-04-17T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1766,7 +1936,7 @@
     "hash_key": "meetups frutales q1 2026 bienvenidos a e_2026-04-13T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|OpenAI Codex – Mexico City|México|Ciudad de México",
+    "title": "v0 Prompt to Production Mexico City|OpenAI Codex – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/suipk589\n\nAddress:\nPlaza Carso\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/suipk589",
     "sources": [
@@ -1778,14 +1948,14 @@
     ],
     "location": "Plaza Carso, Pl. Carso, Amp Granada, 11529 Ciudad de México, CDMX, Mexico",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-08T23:00:00+00:00",
     "dtend": "2026-04-09T02:00:00+00:00",
     "tags": [
       "ai",
       "frontend"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1823,7 +1993,7 @@
     "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #5: Image Manipulation|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
     "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/wsj293yt",
     "sources": [
@@ -1835,14 +2005,13 @@
     ],
     "location": "https://luma.com/event/evt-3QmmiVDsImuKFFB",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-01T23:00:00+00:00",
     "dtend": "2026-04-02T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2409,18 +2578,18 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Escolar, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Calle Tepeyaucle, Unidad Habitacional Copilco, Colonia Copilco El Alto, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #4: OpenClaw|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
     "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/5ivardas",
     "sources": [
@@ -2432,14 +2601,13 @@
     ],
     "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-03-06T00:00:00+00:00",
     "dtend": "2026-03-06T01:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4057,7 +4225,7 @@
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #3: Midjourney|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|Online",
     "description": "Get up-to-date information at: https://luma.com/d342anny\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/d342anny",
     "sources": [
@@ -4069,14 +4237,13 @@
     ],
     "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-02-19T23:30:00+00:00",
     "dtend": "2026-02-20T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4224,7 +4391,7 @@
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI – Vol 2|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
     "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero & 3 others",
     "url": "https://luma.com/lgd37763",
     "sources": [
@@ -4236,14 +4403,13 @@
     ],
     "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-02-13T00:00:00+00:00",
     "dtend": "2026-02-13T00:30:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4334,7 +4500,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4513,7 +4679,7 @@
     "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciudad de México",
+    "title": "v0 Prompt to Production Mexico City|v0 Prompt to Production – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/fdg8riz2\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & Ben Kim",
     "url": "https://luma.com/fdg8riz2",
     "sources": [
@@ -4525,14 +4691,13 @@
     ],
     "location": "Hipódromo, Ciudad de México",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-01-31T15:00:00+00:00",
     "dtend": "2026-01-31T18:30:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4628,7 +4793,7 @@
     "hash_key": "30 aos programando lecciones aprendidas _2026-01-29T00:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|Diseña usando AI|Online",
+    "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
     "description": "Get up-to-date information at: https://luma.com/5nq96pxw\n\nHosted by Javier Rivero",
     "url": "https://luma.com/5nq96pxw",
     "sources": [
@@ -4640,14 +4805,13 @@
     ],
     "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-01-28T23:00:00+00:00",
     "dtend": "2026-01-29T02:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4685,7 +4849,7 @@
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|Diseña usando AI|Online",
+    "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
     "description": "Get up-to-date information at: https://luma.com/ubxd600w\n\nHosted by Javier Rivero",
     "url": "https://luma.com/ubxd600w",
     "sources": [
@@ -4697,14 +4861,13 @@
     ],
     "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-01-27T23:00:00+00:00",
     "dtend": "2026-01-28T02:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4853,7 +5016,7 @@
     "dtstart": "2026-01-19T18:00:00+00:00",
     "dtend": "2026-01-28T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5298,7 +5461,7 @@
     "tags": [
       "devops"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6894,7 +7057,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6934,7 +7097,7 @@
     "hash_key": "coworking frutal 16_2025-10-08T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI – Vol 1|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
     "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
     "url": "https://luma.com/pi3ebsn2",
     "sources": [
@@ -6946,14 +7109,13 @@
     ],
     "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2025-10-07T22:00:00+00:00",
     "dtend": "2025-10-07T23:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7206,7 +7368,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7329,7 +7491,7 @@
     "hash_key": "build with claude code_2025-09-12T00:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
+    "title": "v0 Prompt to Production Mexico City|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/r8rwqnn9\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero",
     "url": "https://luma.com/r8rwqnn9",
     "sources": [
@@ -7341,14 +7503,13 @@
     ],
     "location": "Ciudad de México",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2025-09-11T23:00:00+00:00",
     "dtend": "2025-09-12T02:30:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7523,7 +7684,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "shefi x mobil3 she leads finance_2025-08-21T16:00:00+00:00"
   },
   {
@@ -7550,7 +7711,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "pre registro mobil3 hackathon_2025-08-20T16:00:00+00:00"
   },
   {
@@ -10279,7 +10440,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "the future of automotive aftermarket ind_2024-10-25T22:00:00+00:00"
   },
   {
@@ -11056,7 +11217,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "crossing the chasm unlocking proptech op_2024-10-24T22:00:00+00:00"
   },
   {
