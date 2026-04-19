@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T18:52:05.784640+00:00",
-  "total_events": 167,
+  "generated_at": "2026-04-19T01:29:49.876866+00:00",
+  "total_events": 166,
   "city": "Online",
   "communities": [
     {
@@ -63,17 +63,6 @@
       "links": []
     },
     {
-      "name": "Pythonista",
-      "description": "Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles.",
-      "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/pythonista",
-          "label": "Meetup"
-        }
-      ]
-    },
-    {
       "name": "Rust-AICollective",
       "description": "Comunidad de Rust y AI en Ciudad de México. Eventos sobre desarrollo en Rust, inteligencia artificial y desafíos técnicos.",
       "links": [
@@ -86,11 +75,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -3161,7 +3150,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3325,7 +3314,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3514,7 +3503,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3900,38 +3889,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
       "hash_key": "how i use ai 6 scaling to 1m users_2026-04-16T22:00:00+00:00"
-    },
-    {
-      "title": "Pythonista|Taller gratuito de Git|Online",
-      "description": "Pythonista®\nEn este taller 100% práctico y gratuito, pasaremos de los conceptos básicos hasta flujos de trabajo que se usan todos los días en la industria, trabajando sobre un repositorio real.\nNo necesitas instalar herramientas pesadas ni configurar tu entorno local; trabajaremos directamente en la nube utilizando **Codespaces**, por lo que podrás enfocarte completamente en aprender los comandos y la lógica de Git.\n**🗓️ Agenda del Taller:**\n\n* **Fundamentos:** Configuración inicial y primeros pasos con Git.\n* **Control total:** Dominando `commit`, `status`, `log`.\n* **Viajes en el tiempo y universos paralelos:** Manejo de ramas (*branching*), *tags* y el uso de `git stash`.\n* **Resolución de conflictos:** Cómo arreglar problemas sin perder la cabeza.\n* **Colaboración:** Trabajo con repositorios remotos y flujos de trabajo profesionales.\n\n**💻 Requisitos (¿Qué necesitas traer?):**\n\n* Una computadora con conexión a internet.\n* Una cuenta activa de **GitHub** (totalmente gratis).\n* No necesitas conocimientos previos de Git, pero sí saber moverte en un navegador web.\n\n**📍 Cuande nos vemos:** 9:00 AM a 1:00 PM (Llega unos 5 minutos antes para empezar puntuales).\n¡Confirma tu asistencia (RSVP) para que te llegue el recordatorio! Nos vemos el sábado para escribir un código más seguro y ordenado.",
-      "url": "https://www.meetup.com/pythonista/events/314270845/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/pythonista/events/314270845/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "Pythonista",
-      "dtstart": "2026-04-18T09:00:00-06:00",
-      "dtend": "2026-04-18T13:00:00-06:00",
-      "tags": [
-        "frontend",
-        "mobile",
-        "python",
-        "web"
-      ],
-      "source": "https://www.meetup.com/pythonista/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "taller gratuito de git_2026-04-18T14:00:00+00:00"
     },
     {
       "title": "GDG Tepic|Evento Especial: Programación 10x con IA|Online",
