@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-04-22T13:05:33.189551+00:00",
-  "total_events": 1,
+  "generated_at": "2026-04-22T19:04:22.019269+00:00",
+  "total_events": 2,
   "city": "Yucatán",
   "communities": [
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
+    },
     {
       "name": "Frutero Club",
       "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
@@ -36,6 +41,35 @@
       "city_code": "merida",
       "address": "Mérida, Yucatán, México",
       "hash_key": "xoc en ethereum mxico dinmica sep 11 a s_2024-09-11T18:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Mérida  -  Claude Code for Everyone|México|Yucatán",
+      "description": "Get up-to-date information at: https://luma.com/claudemerida\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la Vega & 3 others",
+      "url": "https://luma.com/claudemerida",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claudemerida",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Fundura Montebello, Mérida, Yucatán, México",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-03-25T00:00:00+00:00",
+      "dtend": "2026-03-25T03:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Yucatán",
+      "state_code": "MX-YUC",
+      "city": "Mérida",
+      "city_code": "merida",
+      "address": "Mérida, Yucatán, México",
+      "hash_key": "mrida claude code for everyone_2026-03-25T00:00:00+00:00"
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-04-22T19:04:22.039850+00:00",
+  "total_events": 1,
+  "city": "Sonora",
+  "communities": [
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Claude Community|Hermosillo  -  Claude Code for Everyone|México|Sonora",
+      "description": "Get up-to-date information at: https://luma.com/claudehermosillo\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la Vega, Argel Bejarano & Tadeo Zamora",
+      "url": "https://luma.com/claudehermosillo",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claudehermosillo",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "El Centenario, Hermosillo, Sonora, México",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-04-17T01:00:00+00:00",
+      "dtend": "2026-04-17T04:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Sonora",
+      "state_code": "MX-SON",
+      "city": "Hermosillo",
+      "city_code": "hermosillo",
+      "address": "Hermosillo, Sonora, 83140, México",
+      "hash_key": "hermosillo claude code for everyone_2026-04-17T00:00:00+00:00"
+    }
+  ]
+}

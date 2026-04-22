@@ -20,7 +20,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**AWS User Group Jalisco**](https://www.meetup.com/amazon-web-services-jalisco) | Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🟢 [**CHIDAS TECH**](https://luma.com/nc2fac44) | Comunidad tech. Eventos sobre redes, infraestructura y desarrollo. | Online |
-| 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México |
+| 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México, Colima, Nuevo León, Quintana Roo, Sonora, Tabasco, Yucatán |
 | 🔴 [**Data, Cloud and AI in Mexico City**](https://www.meetup.com/big-data-developers-in-mexico-city) | IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts. | Online |
 | 🔴 [**Desarrollo de Aplicaciones Móviles México**](https://www.meetup.com/mobile-development-mexico) | Bienvenidos a la comunidad de desarrolladores móviles en iOS y Android, un espacio donde la innovación, la colaboración y el aprendizaje son clave. | Online |
 | 🔴 [**DevOps Workshop**](https://www.meetup.com/devops-workshop) | Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos. | Online |
@@ -31,7 +31,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Eventloop**](https://www.meetup.com/eventloop) | La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad. | Online |
 | 🟢 [**FinTech México**](https://luma.com/eofagheq) | Comunidad FinTech México. Eventos sobre fintech y sistemas transaccionales. | Ciudad de México |
 | 🔴 [**Flutter Mexico City**](https://www.meetup.com/flutter-mexico-city) | Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres. | Online |
-| 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México |
+| 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México, Nuevo León |
 | 🔴 [**Fvckup Nights**](https://luma.com/user/usr-OqGmWs21jbaz5fK) | Gestión del Fracaso para la productividad e innovación. | Online |
 | 🟢 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
 | 🔴 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
@@ -71,7 +71,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Sysarmy México**](https://www.meetup.com/sysarmy-mexico) | Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector. | Online |
 | 🔴 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Online |
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
-| 🟢 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Aguascalientes, Ciudad de México |
+| 🟢 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Ciudad de México |
 | 🟢 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
 | 🟢 [**v0 Prompt to Production Mexico City**](https://luma.com/fdg8riz2) | Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. | Ciudad de México |
 | 🔴 [**Vim CDMX**](https://www.meetup.com/cdmx-vim-meetup) | Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo. | Online |

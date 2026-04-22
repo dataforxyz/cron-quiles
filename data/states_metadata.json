@@ -3,7 +3,7 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 532,
+    "event_count": 543,
     "future_event_count": 55,
     "active_months": [
       "2023-02",
@@ -54,17 +54,6 @@
     "emoji": "🇲🇽"
   },
   {
-    "code": "MX-AGU",
-    "name": "Aguascalientes",
-    "slug": "mx-agu",
-    "event_count": 1,
-    "future_event_count": 0,
-    "active_months": [
-      "2026-02"
-    ],
-    "emoji": "🌵"
-  },
-  {
     "code": "MX-BCN",
     "name": "Baja California",
     "slug": "mx-bcn",
@@ -79,8 +68,8 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 329,
-    "future_event_count": 16,
+    "event_count": 332,
+    "future_event_count": 15,
     "active_months": [
       "2023-07",
       "2023-09",
@@ -114,10 +103,21 @@
     "emoji": "🌮"
   },
   {
+    "code": "MX-COL",
+    "name": "Colima",
+    "slug": "mx-col",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2026-04"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-JAL",
     "name": "Jalisco",
     "slug": "mx-jal",
-    "event_count": 15,
+    "event_count": 16,
     "future_event_count": 1,
     "active_months": [
       "2025-09",
@@ -134,7 +134,7 @@
     "code": "MX-MEX",
     "name": "México",
     "slug": "mx-mex",
-    "event_count": 1,
+    "event_count": 2,
     "future_event_count": 0,
     "active_months": [
       "2024-10"
@@ -142,11 +142,23 @@
     "emoji": "🌵"
   },
   {
+    "code": "MX-NLE",
+    "name": "Nuevo León",
+    "slug": "mx-nle",
+    "event_count": 2,
+    "future_event_count": 0,
+    "active_months": [
+      "2025-11",
+      "2026-03"
+    ],
+    "emoji": "🏔️"
+  },
+  {
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 169,
-    "future_event_count": 37,
+    "event_count": 168,
+    "future_event_count": 38,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -193,13 +205,14 @@
     "code": "MX-PUE",
     "name": "Puebla",
     "slug": "mx-pue",
-    "event_count": 15,
+    "event_count": 16,
     "future_event_count": 0,
     "active_months": [
       "2025-01",
       "2025-02",
       "2025-03",
       "2025-04",
+      "2025-05",
       "2025-06",
       "2025-07",
       "2025-08",
@@ -213,13 +226,47 @@
     "emoji": "🌋"
   },
   {
-    "code": "MX-YUC",
-    "name": "Yucatán",
-    "slug": "mx-yuc",
+    "code": "MX-ROO",
+    "name": "Quintana Roo",
+    "slug": "mx-roo",
     "event_count": 1,
     "future_event_count": 0,
     "active_months": [
-      "2024-09"
+      "2026-03"
+    ],
+    "emoji": "🌵"
+  },
+  {
+    "code": "MX-SON",
+    "name": "Sonora",
+    "slug": "mx-son",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2026-04"
+    ],
+    "emoji": "🌵"
+  },
+  {
+    "code": "MX-TAB",
+    "name": "Tabasco",
+    "slug": "mx-tab",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2026-04"
+    ],
+    "emoji": "🌵"
+  },
+  {
+    "code": "MX-YUC",
+    "name": "Yucatán",
+    "slug": "mx-yuc",
+    "event_count": 2,
+    "future_event_count": 0,
+    "active_months": [
+      "2024-09",
+      "2026-03"
     ],
     "emoji": "🏖️"
   }
