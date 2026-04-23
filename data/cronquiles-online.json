@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T07:22:16.598348+00:00",
+  "generated_at": "2026-04-23T13:06:11.872635+00:00",
   "total_events": 167,
   "city": "Online",
   "communities": [
@@ -86,11 +86,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -3121,7 +3121,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3285,7 +3285,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3474,7 +3474,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3860,35 +3860,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
       "hash_key": "how i use ai 6 scaling to 1m users_2026-04-16T22:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|AI Collective Ontario - May Accelerator Cohort Intake|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-ont\n\nHosted by The AI Collective & Alex Barnes",
-      "url": "https://luma.com/aic-ont",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-ont",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-tY61iYSTFGut4hQ",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-04-23T12:00:00+00:00",
-      "dtend": "2026-04-23T12:30:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-tY61iYSTFGut4hQ",
-      "hash_key": "ai collective ontario may accelerator co_2026-04-23T12:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Collective Executive Track: AI That Actually Lands: Turning Advanced Technology into Measurable Business Impact|Online",
@@ -5004,6 +4975,35 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-CORCUTzJrvpRzSw",
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|The Copilot Effect: Microsoft's AI and What It Means for Your Business (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-du-6-10\n\nHosted by The AI Collective & Kaamil Motala",
+      "url": "https://luma.com/aic-du-6-10",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-du-6-10",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-nj1HAmXQ6B7kh72",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-06-10T09:00:00+00:00",
+      "dtend": "2026-06-10T10:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-nj1HAmXQ6B7kh72",
+      "hash_key": "the copilot effect microsoft s ai and wh_2026-06-10T08:00:00+00:00"
     },
     {
       "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
