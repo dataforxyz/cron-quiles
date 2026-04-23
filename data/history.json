@@ -350,6 +350,41 @@
     "hash_key": "build with ai week gira universitaria su_2026-05-25T14:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|May 21 - Women in AI Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nHear talks from experts on the latest topics in AI, ML, and computer vision on May 21.\n\n**Date, Time and Location**\n\nMay 21, 2026\n9 - 11 AM pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/women-in-ai-meetup-may-21-2026)**\n\n**Beyond Models: LLM-Guided Reinforcement Learning for Real-World Wireless Systems**\n\nReinforcement learning agents often perform well in simulation but break down when deployed in real, non-stationary, constraint-driven environments such as wireless systems. This work explores using large language models not as annotators or reward hacks, but as a reasoning layer that guides RL decision-making with domain logic, scenario interpretation, and adaptive constraints.\n\nWe present an architecture where the LLM provides structured, high-level advisory signals while the RL policy remains the final action authority to avoid hallucination-driven failures. Early experiments show that this hybrid setup improves robustness under distribution shifts and complex constraint scenarios where standard RL collapses. The goal is not to replace RL with LLMs, but to combine learning and reasoning into a more deployable control-intelligence framework.\n\n*About the Speaker*\n\n[Fatemeh Lotfi ](https://www.linkedin.com/in/fatemeh-lotfi-1a860359/?skipRedirect=true)is a Ph.D. researcher focused on integrating large language models and reinforcement learning for adaptive wireless control systems. Her work targets the limitations of classical RL under real-world uncertainty by introducing reasoning-driven guidance mechanisms using LLMs. She has contributed to multiple AI-for-infrastructure projects, including advanced O-RAN automation.\n\n**Responsible and Ethical AI in Healthcare: Building Trustworthy and Inclusive Intelligent Systems**\n\nIn this session, I will discuss how Responsible AI principles: including fairness, transparency, accountability, and reliability can be practically embedded into healthcare AI systems. Key discussion points will include:\n\n* Addressing bias and equity challenges in healthcare datasets and model training.\n* Building explainable and interpretable AI to strengthen clinician trust and adoption.\n* Ensuring ethical deployment of generative AI models within regulated healthcare environments.\n* Establishing governance frameworks for data privacy, model monitoring, and regulatory compliance.\n\n*About the Speaker*\n\n[Jahnavi Kachhia](https://www.linkedin.com/in/jk186/?skipRedirect=true) is the Global Product Owner, AI & ML at Abbott, leading large-scale AI initiatives for the FreeStyle Libre platform to enhance clinical decision-making and patient outcomes. Previously at Meta’s Reality Labs, she advanced AR/VR innovation and LLM-based intelligent systems. An active contributor to the AI research community, she serves on the IJCAI 2025 Program Committee and reviews for AAAI, IJCNN, and IEEE conferences.\n\n**AI Applications in Drug Repurposing**\n\nDrug repurposing is increasingly important because it offers a faster, lower-cost path to therapeutic discovery compared to de novo drug development, especially in oncology where many cancers still lack effective targeted options. In under-studied cancers such as endometrial cancer, the challenge is often a lack of large, high-quality clinical or response datasets, making purely data-dependent approaches difficult to scale reliably. This motivates combining data-independent strategies (e.g., pathway- and mechanism-driven modeling) with data-dependent learning when interaction evidence is available. A practical and scalable direction is drug–target interaction (DTI) prediction, where AI models can leverage molecular and protein representations to prioritize mechanistically plausible drug candidates for repurposing.\n\n*About the Speaker*\n\n[Madhurima Mondal's](https://www.linkedin.com/in/madhurima-mondal-65a59882/) academic journey has been shaped by strong foundations in mathematical and scientific problem-solving, including multiple national-level achievements such as Regional Mathematics Olympiad (RMO), NTSE, and the KVPY fellowship. She completed my B.Tech and M.Tech in Electronics & Electrical Communication Engineering from IIT Kharagpur, and I am currently a PhD candidate in Electrical & Computer Engineering at Texas A&M University,\n\n**Mapping to Belonging: How Ethically Governed AI Can Make Real Places More Accessible, Legible, and Human**\n\nCan AI help people belong in the places where they live, work, travel, and get together?\n\nThis talk explores that question through real-world work at the intersection of accessibility, computer vision mapping, civic data, and ethically governed AI. I will show how AI can support the collection and interpretation of pedestrian accessibility data, reduce the burden of documenting barriers, and help transform lived experience into structured information that can be used across routing tools, planning systems, and public decision-making. I will also argue that public-interest AI only works when it is governed well. In accessibility work, the risks are clear: over-averaging, hidden bias, false completeness, and systems that optimize for efficiency while overlooking the people most affected by missing or poor-quality data. Ethically governed AI must therefore be designed to preserve local context, support transparency, include community participation, and make room for experiences that conventional systems often ignore.\n\n*About the Speaker*\n\n[Anat Caspi](https://www.linkedin.com/in/anat-caspi-phd-8b0a161/) is Director of the Taskar Center for Accessible Technology at the University of Washington, where she leads research and public-interest technology efforts focused on accessibility, mobility, and inclusive transportation data.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313082635/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313082635/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-05-21T10:00:00-06:00",
+    "dtend": "2026-05-21T12:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "data",
+      "frontend",
+      "mobile",
+      "python",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "may 21 women in ai meetup_2026-05-21T16:00:00+00:00"
+  },
+  {
     "title": "This Week in Fintech|AI x EF Talks by TWIF|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/lkn7cfxz\n\nAddress:\nCheck event page for more details.\n\nHosted by This Week in Fintech",
     "url": "https://luma.com/lkn7cfxz",
@@ -650,7 +685,7 @@
     "state_code": "",
     "city": "Veracruz",
     "city_code": "veracruz",
-    "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+    "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91940, México",
     "hash_key": "hands on build with ai veracruz 2026_2026-05-08T16:00:00+00:00"
   },
   {
@@ -1275,7 +1310,7 @@
     "state_code": "",
     "city": "Veracruz",
     "city_code": "veracruz",
-    "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+    "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91940, México",
     "hash_key": "build with ai veracruz ciencia y tecnolo_2026-04-27T16:00:00+00:00"
   },
   {
@@ -1370,33 +1405,32 @@
     "hash_key": "interfaz web y agentes autnomos_2026-04-25T00:00:00+00:00"
   },
   {
-    "title": "HTML5 CDMX|GitHub Copilot Dev Day CDMX|México|Ciudad de México",
-    "description": "HTML5 + JS  Ciudad de México\nBuen día,\n\nGitHub Copilot Dev Days 2026 es una serie global de talleres y charlas gratuitas , presenciales y dirigidos por la comunidad que se llevarán a cabo el próximo viernes 24 de abril en CDMX. Estos eventos de aproximadamente 3 horas ofrecen experiencia práctica con Copilot en VS Code/Visual Studio, centrados en flujos de trabajo asistidos por IA del mundo real, incluido el uso de la CLI y del Cloud Agent.\n\n12:00 - 12:15 Recepción\n12:15 - 15:15 Charlas y Demos\n15:00 - 16:00 Clausura y networking",
-    "url": "https://www.meetup.com/html5-ciudad-de-mexico/events/314399344/",
+    "title": "DevOps Workshop|GitHub Copilot Dev Day CDMX|México|Ciudad de México",
+    "description": "DevOps Workshop\nBuen día,\n\nGitHub Copilot Dev Days 2026 es una serie global de talleres y charlas gratuitas , presenciales y dirigidos por la comunidad que se llevarán a cabo el próximo viernes 24 de abril en CDMX. Estos eventos de aproximadamente 3 horas ofrecen experiencia práctica con Copilot en VS Code/Visual Studio, centrados en flujos de trabajo asistidos por IA del mundo real, incluido el uso de la CLI y del Cloud Agent.\n\n12:00 - 12:15 Recepción\n12:15 - 15:15 Charlas y Demos\n15:00 - 16:00 Clausura y networking\n\nLleven su máquina con Visual Studio Code, de preferencia, abran su cuenta de Copilot, la cual les da acceso a créditos.\nCafé, galletas y stickers cortesía de GitHub.",
+    "url": "https://www.meetup.com/devops-workshop/events/314399264/",
     "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/html5-ciudad-de-mexico/events/314399344/",
-        "label": "Ver en Meetup"
-      },
       {
         "platform": "meetup",
         "url": "https://www.meetup.com/devops-workshop/events/314399264/",
         "label": "Ver en Meetup"
+      },
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/html5-ciudad-de-mexico/events/314399344/",
+        "label": "Ver en Meetup"
       }
     ],
-    "location": "KMMX BC146, Baja California 146 Oficina 501 Col.Roma Sur, Mexico City, Mexico City",
+    "location": "KMMX BC146, Eje 3 Baja California 146 Oficina 501 Col. Roma Sur, Mexico City, Mexico City",
     "online": false,
-    "organizer": "HTML5 CDMX",
+    "organizer": "DevOps Workshop",
     "dtstart": "2026-04-24T12:00:00-06:00",
     "dtend": "2026-04-24T15:00:00-06:00",
     "tags": [
-      "ai",
       "cloud",
-      "frontend",
-      "web"
+      "devops",
+      "frontend"
     ],
-    "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/ical",
+    "source": "https://www.meetup.com/devops-workshop/events/ical",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1531,7 +1565,7 @@
   },
   {
     "title": "Sudo FCiencias|compufest[1] - Charlas & Talleres|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/nlyxj7sm\n\nAddress:\nUNAM - Facultad De Ciencias\nAuditorio Barajas Celis + Por Definir\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias & 4 others",
+    "description": "Get up-to-date information at: https://luma.com/nlyxj7sm\n\nAddress:\nUNAM - Facultad De Ciencias\nAuditorio Barajas Celis + Por Definir\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias & 9 others",
     "url": "https://luma.com/nlyxj7sm",
     "sources": [
       {
@@ -1553,98 +1587,8 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+    "address": "Circuito de la Investigación Científica, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "compufest 1 charlas talleres_2026-04-23T14:00:00+00:00"
-  },
-  {
-    "title": "Rust-AICollective|AI Collective Executive Track: AI That Actually Lands: Turning Advanced Technology into Measurable Business Impact|Online",
-    "description": "Get up-to-date information at: https://luma.com/373ove5j\n\nHosted by Chris Parker, Abraham & The AI Collective",
-    "url": "https://luma.com/373ove5j",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/373ove5j",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-tlD9VhdzwTwG62h",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-04-23T15:00:00+00:00",
-    "dtend": "2026-04-23T16:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-tlD9VhdzwTwG62h",
-    "hash_key": "ai collective executive track ai that ac_2026-04-23T14:00:00+00:00"
-  },
-  {
-    "title": "Unity User Group CDMX|Skillshare Thursday #4: From Code to Nodes - Unity Visual Scripting|Online",
-    "description": "Unity User Group - Ciudad de México\nIn this Skillshare Thursday, we will be exploring Unity Visual Scripting and how to get started with it. We'll dive into what Unity Visual Scripting is, how to use it to do common Unity development tasks, and how to use it alongside traditional C# Scripting. By the end of this talk, you should have the confidence and knowledge to use Unity Visual Scripting in your personal and professional projects.\n\nThere will be time at the end of the presentation for a brief Q&A.\n\nWe look forward to seeing you on the call!",
-    "url": "https://www.meetup.com/mexico-city-unity-user-group/events/314148355/",
-    "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/mexico-city-unity-user-group/events/314148355/",
-        "label": "Ver en Meetup"
-      }
-    ],
-    "location": "Online",
-    "online": true,
-    "organizer": "Unity User Group CDMX",
-    "dtstart": "2026-04-23T10:00:00-06:00",
-    "dtend": "2026-04-23T11:00:00-06:00",
-    "tags": [],
-    "source": "https://www.meetup.com/mexico-city-unity-user-group/events/ical",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "",
-    "hash_key": "skillshare thursday 4 from code to nodes_2026-04-23T16:00:00+00:00"
-  },
-  {
-    "title": "México City AI, Machine Learning and Computer Vision Meetup|April 23 - Advances in AI at Johns Hopkins University|France|Occitania",
-    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual Meetup to hear talks from researchers at Johns Hopkins University on cutting-edge AI topics.\n\n**Date, Time and Location**\n\nApr 23, 2026\n9AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/advances-in-ai-at-johns-hopkins-university-april-23-2026)**\n\n**Recent Advancements in Image Generation and Understanding**\n\nIn this talk, I will provide an overview of my research and then take a closer look at three recent works. Image generation has progressed rapidly in the past decade-evolving from Gaussian Mixture Models (GMMs) to Variational Autoencoders (VAEs), GANs, and more recently diffusion models, which have set new standards for quality. I will begin with DiffNat (TMLR’25), which draws inspiration from a simple yet powerful observation: the kurtosis concentration property of natural images. By incorporating a kurtosis concentration loss together with a perceptual guidance strategy, DiffNat can be plugged directly into existing diffusion pipelines, leading to sharper and more faithful generations across tasks such as personalization, super-resolution, and unconditional synthesis.\n\nContinuing the theme of improving quality under constraints, I will then discuss DuoLoRA (ICCV’25), which tackles the challenge of content–style personalization from just a few examples. DuoLoRA introduces adaptive-rank LoRA merging with cycle-consistency, allowing the model to better disentangle style from content. This not only improves personalization quality but also achieves it with 19× fewer trainable parameters, making it far more efficient than conventional merging strategies.\n\nFinally, I will turn to Cap2Aug (WACV’25), which directly addresses data scarcity. This approach uses captions as a bridge for semantic augmentation, applying cross-modal backtranslation (image → text → image) to generate diverse synthetic samples. By aligning real and synthetic distributions, Cap2Aug boosts both few-shot and long-tail classification performance on multiple benchmarks.\n\n*About the Speaker*\n\n[Aniket Roy](https://www.linkedin.com/in/aniket-roy-86181785/) is currently a Research Scientist at NEC Labs America. He recently earned a PhD from the Computer Science department at Johns Hopkins University under the guidance of Bloomberg Distinguished Professor Prof. Rama Chellappa.\n\n**From Representation Analysis to Data Refinement: Understanding Correlations in Deep Models**\n\nThis talk examines how deep learning models encode information beyond their intended objectives and how such dependencies influence reliability, fairness, and generalization. Representation-level analysis using mutual information–based expressivity estimation is introduced to quantify the extent to which attributes such as demographics or anatomical structural factors are implicitly captured in learned embeddings, even when they are not explicitly used for supervision. These analyses reveal hierarchical patterns of attribute encoding and highlight how correlated factors emerge across layers. Data attribution techniques are then discussed to identify influential training samples that contribute to model errors and reinforce dependencies that reduce robustness. By auditing the training data through influence estimation, harmful instances can be identified and removed to improve model behavior. Together, these components highlight a unified, data-centric perspective for analyzing and refining correlations in deep models.\n\n*About the Speaker*\n\n[Basudha Pal](https://www.linkedin.com/in/basudha-pal-phd-587035217/) is a recent PhD graduate from the Electrical and Computer Engineering Department at Johns Hopkins University. Her research lies at the intersection of computer vision and representation learning, focusing on understanding and refining correlations in deep neural network representations for biometric and medical imaging using mutual information analysis, data attribution, and generative modeling to improve robustness, fairness, and reliability in high-stakes AI systems.\n\n**Scalable & Precise Histopathology: Next-Gen Deep Learning for Digital Histopathology**\n\nWhole slide images (WSIs) present a unique computational challenge in digital pathology, with single images reaching gigapixel resolution, equivalent to 500+ photos stitched together. This talk presents two complementary deep learning solutions for scalable and accurate WSI analysis. First, I introduce a Task-Specific Self-Supervised Learning (TS-SSL) framework that uses spatial-channel attention to learn domain-optimized feature representations, outperforming existing foundation models across multiple cancer classification benchmarks. Second, I present CEMIL, a contextual attention-based MIL framework that leverages instructor-learner knowledge distillation to classify cancer subtypes using only a fraction of WSI patches, achieving state-of-the-art accuracy with significantly reduced computational cost. Together, these methods address critical bottlenecks in generalization and efficiency for clinical-grade computational pathology.\n\n*About the Speaker*\n\n[Tawsifur Rahman](https://www.linkedin.com/in/tawsifurrahman/) is a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University, advised by Prof. Rama Chellappa and Dr. Alex Baras, with research focused on weakly supervised and self-supervised deep learning for computational pathology. He has completed two clinical data science internships at Johnson & Johnson MedTech and has published extensively in venues including Nature Modern Pathology, Nature Digital Medicine, MIDL, and IEEE WACV, accumulating over 8,500 citations and recognition in Stanford's Top 2% Scientists ranking.\n\n**Towards trustworthy AI under real world data challenges**\n\nThe current paradigm of training AI models relies on fundamental assumptions that the data we have is clean, properly annotated, and sufficiently diverse across domains. However, this is not always true for the real world. In practice, data is may be physically corrupt, incompletely annotated, and specific to certain domains. As me move towards large scale general purpose models like LLMs and foundation models, it is even more important to address these data challenges so that we can train trustworthy AI models even with noisy real world data. In this presentation, we discuss some methods to tackle these potential issues.\n\nAbout the Speaker\n\n[Ayush Gupta](https://www.linkedin.com/in/ayush-gupta-491b891a2/) is a Ph.D. student at the AIEM lab, Johns Hopkins University in the department of Computer Science. He is advised by Prof. Rama Chellappa and is working on problems in Computer Vision and Deep Learning. His research has two focus points - general-purpose vision language models, where he works on multimodal LLMs on tasks like VQA, Video Grounding and LLM interpretability; and on fine-grained computer vision problems, where he works on person re-identification and gait recognition.",
-    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314074567/",
-    "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314074567/",
-        "label": "Ver en Meetup"
-      }
-    ],
-    "location": "Online",
-    "online": false,
-    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-    "dtstart": "2026-04-23T10:00:00-06:00",
-    "dtend": "2026-04-23T12:00:00-06:00",
-    "tags": [
-      "ai",
-      "backend",
-      "cloud",
-      "data",
-      "frontend",
-      "security"
-    ],
-    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-    "country": "France",
-    "country_code": "FR",
-    "state": "Occitania",
-    "state_code": "",
-    "city": "Montpellier",
-    "city_code": "montpellier",
-    "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
-    "hash_key": "april 23 advances in ai at johns hopkins_2026-04-23T16:00:00+00:00"
   },
   {
     "title": "AWS Cloud Club at Universidad Nacional Autonoma de México|compufest[1]|México|Ciudad de México",
@@ -1680,38 +1624,6 @@
     "hash_key": "compufest 1_2026-04-23T14:00:00+00:00"
   },
   {
-    "title": "Kong Mexico City|You Can't AI Your Way Out of a Governance Problem|France|Occitania",
-    "description": "Kong/MEXICO-CITY\nEvery enterprise wants to move fast on AI. Most are held back by the same three things: incomplete inventory, manual governance, and no cost visibility. A gateway is a start, but it's not the full answer. In this session, Kong experts will show how platform teams are laying the groundwork for safe, scalable AI adoption by solving three foundational challenges: establishing a complete, discoverable API and AI service inventory that gives every team and every agent a single, governed entry point; implementing APIOps to automate policy enforcement across the full API lifecycle; and building Metering & Billing capabilities that bring cost visibility and revenue potential to every AI and API interaction. Come away with an understanding of the Kong Konnect platform can enable your organization to build a solid Agentic-ready foundation.\n\nWhat you'll learn:\nIn this session, Kong experts will show how platform teams are laying the groundwork for safe, scalable AI adoption by solving three foundational challenges:\n\n* Inventory: Establish a complete, discoverable API and AI service catalog that gives every team — and every agent — a single, governed entry point.\n* Automation: Implement APIOps to enforce policy across the full API lifecycle and embed governance directly into CI/CD pipelines.\n* Monetization: Build metering and billing capabilities that bring cost visibility and revenue potential to every AI and API interaction.",
-    "url": "https://www.meetup.com/kong-mexico-city/events/314199579/",
-    "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/kong-mexico-city/events/314199579/",
-        "label": "Ver en Meetup"
-      }
-    ],
-    "location": "Online",
-    "online": false,
-    "organizer": "Kong Mexico City",
-    "dtstart": "2026-04-23T09:00:00-06:00",
-    "dtend": "2026-04-23T10:00:00-06:00",
-    "tags": [
-      "ai",
-      "backend",
-      "devops",
-      "frontend"
-    ],
-    "source": "https://www.meetup.com/kong-mexico-city/events/ical",
-    "country": "France",
-    "country_code": "FR",
-    "state": "Occitania",
-    "state_code": "",
-    "city": "Montpellier",
-    "city_code": "montpellier",
-    "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
-    "hash_key": "you can t ai your way out of a governanc_2026-04-23T14:00:00+00:00"
-  },
-  {
     "title": "Frutero Club|Casa Frutero - Coworking Frutal #15|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/h9wl63gl\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/h9wl63gl",
@@ -1735,7 +1647,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 15_2026-04-22T16:00:00+00:00"
   },
   {
@@ -2168,7 +2080,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
   },
   {
@@ -2224,7 +2136,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
   },
   {
@@ -2340,7 +2252,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
   },
   {
@@ -2458,7 +2370,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
   },
   {
@@ -2512,7 +2424,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
   },
   {
@@ -2595,7 +2507,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
   },
   {
@@ -2625,7 +2537,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Londres, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "address": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
     "hash_key": "meetup marzo 2026 payjoy pythoncdmx_2026-03-11T00:00:00+00:00"
   },
   {
@@ -2656,7 +2568,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Calle Fuego, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01900, México",
+    "address": "Universidad Nacional Autónoma de México, Calle Tepeyaucle, Unidad Habitacional Copilco, Colonia Copilco El Alto, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -2714,7 +2626,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
   },
   {
@@ -2734,7 +2646,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2773,7 +2685,7 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44960, México",
+    "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44989, México",
     "hash_key": "evento pospuesto interfaz web y agentes _2026-02-28T00:00:00+00:00"
   },
   {
@@ -2795,7 +2707,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2826,7 +2738,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2889,7 +2801,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
   },
   {
@@ -2909,7 +2821,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2996,7 +2908,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3052,7 +2964,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3110,7 +3022,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3137,7 +3049,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3193,7 +3105,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3220,7 +3132,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3249,14 +3161,14 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Juárez, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+    "address": "Avenida Paseo de la Reforma, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "vc fintech session by adn vc zeta gain s_2026-02-25T20:00:00+00:00"
   },
   {
@@ -3278,7 +3190,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3307,7 +3219,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3366,7 +3278,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3400,7 +3312,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
   },
   {
@@ -3420,7 +3332,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3449,7 +3361,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3536,7 +3448,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3565,7 +3477,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3623,7 +3535,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3652,7 +3564,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3681,7 +3593,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3740,7 +3652,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3798,7 +3710,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3828,7 +3740,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3858,7 +3770,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3887,7 +3799,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3914,7 +3826,7 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3973,7 +3885,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4000,7 +3912,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4029,7 +3941,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4059,7 +3971,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4118,7 +4030,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4145,7 +4057,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4172,7 +4084,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4199,7 +4111,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4229,7 +4141,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4292,7 +4204,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
@@ -4346,9 +4258,9 @@
     "country_code": "MX",
     "state": "Jalisco",
     "state_code": "MX-JAL",
-    "city": "",
-    "city_code": "",
-    "address": "Jalisco, México",
+    "city": "Guadalajara",
+    "city_code": "guadalajara",
+    "address": "Avenida San Francisco, Jardines de Los Arcos, Guadalajara, Región Centro, Jalisco, 44500, México",
     "hash_key": "codeworking day_2026-02-18T18:00:00+00:00"
   },
   {
@@ -4375,7 +4287,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
   },
   {
@@ -4458,7 +4370,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
@@ -4514,7 +4426,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
   },
   {
@@ -4578,7 +4490,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+    "address": "Circuito de la Investigación Científica, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "bases de datos no relacionales qu es eso_2026-02-06T20:00:00+00:00"
   },
   {
@@ -4717,7 +4629,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
   },
   {
@@ -4746,7 +4658,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Extremadura Insurgentes, San Juan Malinaltongo, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
+    "address": "Extremadura Insurgentes, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
     "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
   },
   {
@@ -4831,7 +4743,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
   },
   {
@@ -4916,7 +4828,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
@@ -5005,7 +4917,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
   },
   {
@@ -5177,7 +5089,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
   },
   {
@@ -5699,7 +5611,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7384,7 +7296,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7504,7 +7416,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+    "address": "Circuito de la Investigación Científica, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "charla aprendizajes y perspectivas actua_2025-09-19T22:00:00+00:00"
   },
   {
@@ -8012,7 +7924,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle San Francisco, Santo Tomás Actipan, Ciudad de México, Benito Juárez, Ciudad de México, 03230, México",
+    "address": "Calle San Francisco, Actipan, Santo Tomás Actipan, Ciudad de México, Benito Juárez, Ciudad de México, 03240, México",
     "hash_key": "coworking frutal 9_2025-08-06T16:00:00+00:00"
   },
   {
@@ -10430,7 +10342,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Juárez, Avenida Balderas, Centro, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "hash_key": "masterclass para cerrar clientes con wha_2024-10-26T00:00:00+00:00"
   },
   {
@@ -13795,7 +13707,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Doctor Rafaél Lucio, Doctores, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+    "address": "Calle Doctor Rafaél Lucio, Doctores, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06720, México",
     "hash_key": "finance for hypergrowth measure what mat_2024-10-22T14:00:00+00:00"
   },
   {

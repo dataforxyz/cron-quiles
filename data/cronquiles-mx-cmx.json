@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T13:06:11.981900+00:00",
+  "generated_at": "2026-04-23T19:06:55.240448+00:00",
   "total_events": 332,
   "city": "Ciudad de México",
   "communities": [
@@ -47,12 +47,23 @@
       "links": []
     },
     {
+      "name": "DevOps Workshop",
+      "description": "Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/devops-workshop",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -65,17 +76,6 @@
           "platform": "luma",
           "url": "https://luma.com/FFMexico2026",
           "label": "Luma"
-        }
-      ]
-    },
-    {
-      "name": "HTML5 CDMX",
-      "description": "Desarrollo web, estándares W3C y tecnologías de frontend.",
-      "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/html5-ciudad-de-mexico",
-          "label": "Meetup"
         }
       ]
     },
@@ -979,7 +979,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Calle Doctor Rafaél Lucio, Doctores, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+      "address": "Calle Doctor Rafaél Lucio, Doctores, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06720, México",
       "hash_key": "finance for hypergrowth measure what mat_2024-10-22T14:00:00+00:00"
     },
     {
@@ -4057,7 +4057,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Juárez, Avenida Balderas, Centro, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
       "hash_key": "masterclass para cerrar clientes con wha_2024-10-26T00:00:00+00:00"
     },
     {
@@ -4862,7 +4862,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Calle San Francisco, Santo Tomás Actipan, Ciudad de México, Benito Juárez, Ciudad de México, 03230, México",
+      "address": "Calle San Francisco, Actipan, Santo Tomás Actipan, Ciudad de México, Benito Juárez, Ciudad de México, 03240, México",
       "hash_key": "coworking frutal 9_2025-08-06T16:00:00+00:00"
     },
     {
@@ -5143,7 +5143,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+      "address": "Circuito de la Investigación Científica, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
       "hash_key": "charla aprendizajes y perspectivas actua_2025-09-19T22:00:00+00:00"
     },
     {
@@ -5249,7 +5249,7 @@
       "dtstart": "2025-09-29T18:00:00+00:00",
       "dtend": "2025-09-29T19:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6597,7 +6597,7 @@
       "dtstart": "2025-11-18T23:00:00+00:00",
       "dtend": "2025-11-19T01:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6859,7 +6859,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
     },
     {
@@ -6948,7 +6948,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
     },
     {
@@ -6975,7 +6975,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
     },
     {
@@ -7031,7 +7031,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
     },
     {
@@ -7089,7 +7089,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Extremadura Insurgentes, San Juan Malinaltongo, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
+      "address": "Extremadura Insurgentes, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
       "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
     },
     {
@@ -7116,7 +7116,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
     },
     {
@@ -7201,7 +7201,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+      "address": "Circuito de la Investigación Científica, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
       "hash_key": "bases de datos no relacionales qu es eso_2026-02-06T20:00:00+00:00"
     },
     {
@@ -7228,7 +7228,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
     },
     {
@@ -7255,7 +7255,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
     },
     {
@@ -7311,7 +7311,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
     },
     {
@@ -7338,7 +7338,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
     },
     {
@@ -7390,7 +7390,7 @@
         "ai",
         "python"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7417,7 +7417,7 @@
       "dtstart": "2026-02-23T17:00:00+00:00",
       "dtend": "2026-02-23T18:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7444,7 +7444,7 @@
       "dtstart": "2026-02-23T18:00:00+00:00",
       "dtend": "2026-02-23T19:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7471,7 +7471,7 @@
       "dtstart": "2026-02-23T19:00:00+00:00",
       "dtend": "2026-02-23T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7501,7 +7501,7 @@
         "ai",
         "python"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7531,7 +7531,7 @@
         "ai",
         "python"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7587,7 +7587,7 @@
       "dtstart": "2026-02-24T00:00:00+00:00",
       "dtend": "2026-02-24T02:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7616,7 +7616,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7645,7 +7645,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7702,7 +7702,7 @@
       "dtstart": "2026-02-24T14:30:00+00:00",
       "dtend": "2026-02-24T16:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7731,7 +7731,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7761,7 +7761,7 @@
         "ai",
         "python"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7791,7 +7791,7 @@
         "ai",
         "backend"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7820,7 +7820,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7879,7 +7879,7 @@
         "ai",
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7908,7 +7908,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7937,7 +7937,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7966,7 +7966,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8024,7 +8024,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8053,7 +8053,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8138,7 +8138,7 @@
       "dtstart": "2026-02-25T15:00:00+00:00",
       "dtend": "2026-02-25T16:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8167,7 +8167,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8201,7 +8201,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
     },
     {
@@ -8224,7 +8224,7 @@
         "ai",
         "data"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8253,7 +8253,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8311,14 +8311,14 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Paseo de la Reforma, Juárez, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+      "address": "Avenida Paseo de la Reforma, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
       "hash_key": "vc fintech session by adn vc zeta gain s_2026-02-25T20:00:00+00:00"
     },
     {
@@ -8340,7 +8340,7 @@
       "tags": [
         "mobile"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8369,7 +8369,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8396,7 +8396,7 @@
       "dtstart": "2026-02-25T22:00:00+00:00",
       "dtend": "2026-02-25T23:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8425,7 +8425,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8452,7 +8452,7 @@
       "dtstart": "2026-02-26T00:00:00+00:00",
       "dtend": "2026-02-26T03:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8479,7 +8479,7 @@
       "dtstart": "2026-02-26T01:00:00+00:00",
       "dtend": "2026-02-26T04:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8537,7 +8537,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8622,7 +8622,7 @@
       "dtstart": "2026-02-27T15:00:00+00:00",
       "dtend": "2026-02-27T17:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8656,7 +8656,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
     },
     {
@@ -8707,7 +8707,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8738,7 +8738,7 @@
         "backend",
         "frontend"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8765,7 +8765,7 @@
       "dtstart": "2026-03-01T17:00:00+00:00",
       "dtend": "2026-03-01T19:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8801,7 +8801,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
     },
     {
@@ -8832,7 +8832,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Universidad Nacional Autónoma de México, Calle Fuego, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01900, México",
+      "address": "Universidad Nacional Autónoma de México, Calle Tepeyaucle, Unidad Habitacional Copilco, Colonia Copilco El Alto, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
       "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
     },
     {
@@ -8862,7 +8862,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Calle Londres, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "address": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
       "hash_key": "meetup marzo 2026 payjoy pythoncdmx_2026-03-11T00:00:00+00:00"
     },
     {
@@ -8889,7 +8889,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
     },
     {
@@ -8945,7 +8945,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
     },
     {
@@ -8975,7 +8975,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
     },
     {
@@ -9032,7 +9032,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
     },
     {
@@ -9089,7 +9089,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
     },
     {
@@ -9116,7 +9116,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
     },
     {
@@ -9289,12 +9289,12 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 15_2026-04-22T16:00:00+00:00"
     },
     {
       "title": "Sudo FCiencias|compufest[1] - Charlas & Talleres|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/nlyxj7sm\n\nAddress:\nUNAM - Facultad De Ciencias\nAuditorio Barajas Celis + Por Definir\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias & 4 others",
+      "description": "Get up-to-date information at: https://luma.com/nlyxj7sm\n\nAddress:\nUNAM - Facultad De Ciencias\nAuditorio Barajas Celis + Por Definir\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias & 9 others",
       "url": "https://luma.com/nlyxj7sm",
       "sources": [
         {
@@ -9316,7 +9316,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+      "address": "Circuito de la Investigación Científica, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
       "hash_key": "compufest 1 charlas talleres_2026-04-23T14:00:00+00:00"
     },
     {
@@ -9353,33 +9353,32 @@
       "hash_key": "compufest 1_2026-04-23T14:00:00+00:00"
     },
     {
-      "title": "HTML5 CDMX|GitHub Copilot Dev Day CDMX|México|Ciudad de México",
-      "description": "HTML5 + JS  Ciudad de México\nBuen día,\n\nGitHub Copilot Dev Days 2026 es una serie global de talleres y charlas gratuitas , presenciales y dirigidos por la comunidad que se llevarán a cabo el próximo viernes 24 de abril en CDMX. Estos eventos de aproximadamente 3 horas ofrecen experiencia práctica con Copilot en VS Code/Visual Studio, centrados en flujos de trabajo asistidos por IA del mundo real, incluido el uso de la CLI y del Cloud Agent.\n\n12:00 - 12:15 Recepción\n12:15 - 15:15 Charlas y Demos\n15:00 - 16:00 Clausura y networking",
-      "url": "https://www.meetup.com/html5-ciudad-de-mexico/events/314399344/",
+      "title": "DevOps Workshop|GitHub Copilot Dev Day CDMX|México|Ciudad de México",
+      "description": "DevOps Workshop\nBuen día,\n\nGitHub Copilot Dev Days 2026 es una serie global de talleres y charlas gratuitas , presenciales y dirigidos por la comunidad que se llevarán a cabo el próximo viernes 24 de abril en CDMX. Estos eventos de aproximadamente 3 horas ofrecen experiencia práctica con Copilot en VS Code/Visual Studio, centrados en flujos de trabajo asistidos por IA del mundo real, incluido el uso de la CLI y del Cloud Agent.\n\n12:00 - 12:15 Recepción\n12:15 - 15:15 Charlas y Demos\n15:00 - 16:00 Clausura y networking\n\nLleven su máquina con Visual Studio Code, de preferencia, abran su cuenta de Copilot, la cual les da acceso a créditos.\nCafé, galletas y stickers cortesía de GitHub.",
+      "url": "https://www.meetup.com/devops-workshop/events/314399264/",
       "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/html5-ciudad-de-mexico/events/314399344/",
-          "label": "Ver en Meetup"
-        },
         {
           "platform": "meetup",
           "url": "https://www.meetup.com/devops-workshop/events/314399264/",
           "label": "Ver en Meetup"
+        },
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/html5-ciudad-de-mexico/events/314399344/",
+          "label": "Ver en Meetup"
         }
       ],
-      "location": "KMMX BC146, Baja California 146 Oficina 501 Col.Roma Sur, Mexico City, Mexico City",
+      "location": "KMMX BC146, Eje 3 Baja California 146 Oficina 501 Col. Roma Sur, Mexico City, Mexico City",
       "online": false,
-      "organizer": "HTML5 CDMX",
+      "organizer": "DevOps Workshop",
       "dtstart": "2026-04-24T12:00:00-06:00",
       "dtend": "2026-04-24T15:00:00-06:00",
       "tags": [
-        "ai",
         "cloud",
-        "frontend",
-        "web"
+        "devops",
+        "frontend"
       ],
-      "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/ical",
+      "source": "https://www.meetup.com/devops-workshop/events/ical",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
