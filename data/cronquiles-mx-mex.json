@@ -1,15 +1,105 @@
 {
-  "generated_at": "2026-04-27T07:39:25.999264+00:00",
-  "total_events": 2,
+  "generated_at": "2026-04-27T13:17:19.444812+00:00",
+  "total_events": 25,
   "city": "México",
   "communities": [
     {
       "name": "Mexico Tech Week",
       "description": "Calendario oficial de Mexico Tech Week 2025.",
       "links": []
+    },
+    {
+      "name": "Frutero Club",
+      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
+      "links": []
     }
   ],
   "events": [
+    {
+      "title": "Mexico Tech Week|Halcyon Latin America & the Caribbean (LAC) Climate Fellowship Showcase|México|México",
+      "description": "Get up-to-date information at: https://luma.com/ix35osjs\n\nAddress:\nISDI México\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Marcelo Homrich & Mexico Tech Week",
+      "url": "https://luma.com/ix35osjs",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ix35osjs",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "ISDI México, Calle Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-24T17:00:00+00:00",
+      "dtend": "2024-10-24T21:00:00+00:00",
+      "tags": [
+        "web"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "hash_key": "halcyon latin america the caribbean lac _2024-10-24T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Tech 4 Mother Nature: Storytelling by Decididas & Savia Ventures|México|México",
+      "description": "Get up-to-date information at: https://luma.com/y3v84mev\n\nAddress:\nSoho House Mexico City\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
+      "url": "https://luma.com/y3v84mev",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/y3v84mev",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Soho House Mexico City, C. Versalles 28, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T01:00:00+00:00",
+      "dtend": "2024-10-25T03:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Soho House, 28, Calle Versalles, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "hash_key": "tech 4 mother nature storytelling by dec_2024-10-25T00:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Conoce todo sobre Apple Intelligence y cómo utilizar AI/ML en tus apps|México|México",
+      "description": "Get up-to-date information at: https://luma.com/h9qyyyjt\n\nAddress:\nApple Operations México\nTorre Reforma, Piso 41 (Av. P.º de la Reforma 483), si vienes en coche se recomienda buscar un lugar de parquímetro o algún estacionamiento cerca, ya que el de la torre es muy caro\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Jero Cosio",
+      "url": "https://luma.com/h9qyyyjt",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/h9qyyyjt",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Apple Operations México, Av. P.º de la Reforma 483, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T17:00:00+00:00",
+      "dtend": "2024-10-25T19:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Torre Reforma, 483, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+      "hash_key": "conoce todo sobre apple intelligence y c_2024-10-25T16:00:00+00:00"
+    },
     {
       "title": "Mexico Tech Week|Despecho night!|México|Estado de México",
       "description": "Get up-to-date information at: https://luma.com/pwl9jnw8\n\nAddress:\nDespecho Satélite\nSatélite, Estado de México\nMexico\n\nHosted by Mexico Tech Week, azalea & Héctor Cancela",
@@ -63,8 +153,553 @@
       "state_code": "MX-MEX",
       "city": "Ecatepec de Morelos",
       "city_code": "ecatepecdemorelos",
-      "address": "Avenida San Agustín, Colonia Faja de Oro, Colonia Granjas Valle de Guadalupe Sección B, Ecatepec de Morelos, Estado de México, 55130, México",
+      "address": "Avenida San Agustín, Colonia Faja de Oro, Santa Clara Coatitla, Ecatepec de Morelos, Atenco, Estado de México, 55130, México",
       "hash_key": "disconnect to reconnect a hike by aire l_2024-10-26T12:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Unlocking Global Growth: The Role of EOR Solutions in Scaling Tech Companies|México|México",
+      "description": "Get up-to-date information at: https://luma.com/u1abgg73\n\nAddress:\nTorre Médica Metropolitana Sucursal Condesa\nTorre Medica Metropolitana Sucursal Condesa (Tampico 8, Cuauhtémoc, 06700, CDMX, MX\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Koren Eloul & Host Team",
+      "url": "https://luma.com/u1abgg73",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/u1abgg73",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Torre Médica Metropolitana Sucursal Condesa, Tampico 8, Colonia Condesa, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2025-10-20T22:00:00+00:00",
+      "dtend": "2025-10-21T00:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "8, Calle Tampico, Roma Norte, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+      "hash_key": "unlocking global growth the role of eor _2025-10-20T22:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #2|México|México",
+      "description": "Get up-to-date information at: https://luma.com/qq2u3tf6\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/qq2u3tf6",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/qq2u3tf6",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-01-14T16:00:00+00:00",
+      "dtend": "2026-01-15T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #3|México|México",
+      "description": "Get up-to-date information at: https://luma.com/ql22e7vg\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/ql22e7vg",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ql22e7vg",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-01-21T16:00:00+00:00",
+      "dtend": "2026-01-22T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #4|México|México",
+      "description": "Get up-to-date information at: https://luma.com/us0gg0x0\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/us0gg0x0",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/us0gg0x0",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-01-28T16:00:00+00:00",
+      "dtend": "2026-01-28T23:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Coworking Frutal - Work and Chill #1|México|México",
+      "description": "Get up-to-date information at: https://luma.com/y2araht0\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/y2araht0",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/y2araht0",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-01-30T16:00:00+00:00",
+      "dtend": "2026-01-30T22:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #5|México|México",
+      "description": "Get up-to-date information at: https://luma.com/uh5wt1t4\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/uh5wt1t4",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/uh5wt1t4",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-04T16:00:00+00:00",
+      "dtend": "2026-02-05T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #6|México|México",
+      "description": "Get up-to-date information at: https://luma.com/0nllzrl7\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/0nllzrl7",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/0nllzrl7",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-11T16:00:00+00:00",
+      "dtend": "2026-02-12T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Coworking Frutal - Work and Chill #2|México|México",
+      "description": "Get up-to-date information at: https://luma.com/ew6147x6\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/ew6147x6",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ew6147x6",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-13T16:00:00+00:00",
+      "dtend": "2026-02-14T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #7|México|México",
+      "description": "Get up-to-date information at: https://luma.com/asxxex3y\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/asxxex3y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/asxxex3y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-18T16:00:00+00:00",
+      "dtend": "2026-02-19T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Coworking Frutal - Work and Chill #3|México|México",
+      "description": "Get up-to-date information at: https://luma.com/rg30j7cd\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/rg30j7cd",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/rg30j7cd",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-20T16:00:00+00:00",
+      "dtend": "2026-02-21T00:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #8|México|México",
+      "description": "Get up-to-date information at: https://luma.com/mh6kbutb\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/mh6kbutb",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mh6kbutb",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-25T16:00:00+00:00",
+      "dtend": "2026-02-26T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Coworking Frutal - Work and Chill #4|México|México",
+      "description": "Get up-to-date information at: https://luma.com/n9wukrtp\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/n9wukrtp",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/n9wukrtp",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-02-27T17:00:00+00:00",
+      "dtend": "2026-02-28T00:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #9|México|México",
+      "description": "Get up-to-date information at: https://luma.com/9plymler\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/9plymler",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/9plymler",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-03-04T17:00:00+00:00",
+      "dtend": "2026-03-05T02:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #10|México|México",
+      "description": "Get up-to-date information at: https://luma.com/ozklutyc\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez",
+      "url": "https://luma.com/ozklutyc",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ozklutyc",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-03-11T17:00:00+00:00",
+      "dtend": "2026-03-12T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Coworking Frutal #11 - Synthesis Hackathon CDMX|México|México",
+      "description": "Get up-to-date information at: https://luma.com/rd58a412\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/rd58a412",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/rd58a412",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-03-18T17:00:00+00:00",
+      "dtend": "2026-03-19T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|AI & Agents IRL Building Session (Synthesis Hackathon)|México|México",
+      "description": "Get up-to-date information at: https://luma.com/sz21p1t8\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero & Nico Gallardo",
+      "url": "https://luma.com/sz21p1t8",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/sz21p1t8",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-03-20T17:00:00+00:00",
+      "dtend": "2026-03-21T02:00:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #12|México|México",
+      "description": "Get up-to-date information at: https://luma.com/m0m47xvx\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/m0m47xvx",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/m0m47xvx",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-03-25T17:00:00+00:00",
+      "dtend": "2026-03-26T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #13|México|México",
+      "description": "Get up-to-date information at: https://luma.com/obpf66cy\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/obpf66cy",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/obpf66cy",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-04-01T17:00:00+00:00",
+      "dtend": "2026-04-02T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #14|México|México",
+      "description": "Get up-to-date information at: https://luma.com/jnnist79\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/jnnist79",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/jnnist79",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-04-08T22:00:00+00:00",
+      "dtend": "2026-04-09T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
+    },
+    {
+      "title": "Frutero Club|Casa Frutero - Coworking Frutal #15|México|México",
+      "description": "Get up-to-date information at: https://luma.com/h9wl63gl\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/h9wl63gl",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/h9wl63gl",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+      "online": false,
+      "organizer": "Frutero Club",
+      "dtstart": "2026-04-22T17:00:00+00:00",
+      "dtend": "2026-04-23T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+      "hash_key": "casa frutero coworking frutal 15_2026-04-22T16:00:00+00:00"
     }
   ]
 }

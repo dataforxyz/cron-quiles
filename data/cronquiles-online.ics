@@ -411,6 +411,38 @@ LOCATION:https://luma.com/event/evt-PrP4i8wg2oKljAl
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-PrP4i8wg2oKljAl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|TechLab: Workshop Manipulación de datos de Pytho
+ n|México|
+DTSTART:20241025T213000Z
+CATEGORIES:python
+DESCRIPTION:Get up-to-date information at: https://luma.com/nzb89n7y\n\nAd
+ dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
+ xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
+LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
+ xico\, CDMX
+X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
+ e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:ciudaddemexico
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|
+DTSTART:20241025T213000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/8dtqdfok\n\nAd
+ dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
+ xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
+LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
+ xico\, CDMX
+X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
+ e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:ciudaddemexico
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Disconnect to connect con Tally|México|
 DTSTART:20241026T140000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/lq8qr9ji\n\nAd
@@ -1223,9 +1255,9 @@ CATEGORIES:AI,AI - Gemini,Build with AI,Community Building,Conference,Work
 DESCRIPTION:Únete a nosotros para un emocionante evento donde exploraremo
  s las modernas tecnologías de inteligencia artificial de Go...
 LOCATION:Universidad Cristóbal Colón\, Paseo de Los Cedros\, Veracruz
-X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón (Torrente Viver)\, Call
- e Paseo de los Cedros\, Floresta\, Veracruz\, Municipio de Veracruz\, Vera
- cruz\, 91945\, México
+X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón\, Calle Paseo de los Ce
+ dros\, Floresta\, Veracruz\, Municipio de Veracruz\, Veracruz\, 91940\, M
+ éxico
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México
@@ -1304,104 +1336,6 @@ LOCATION:https://luma.com/event/evt-rI9mxNqygqodV1R
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-rI9mxNqygqodV1R
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Apri
- l 30 - Best of WACV 2026|France|Occitania
-DTSTART:20260430T100000
-CATEGORIES:ai,data,frontend,mobile,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nWelcome to the Best of WACV series\, your virtual pass to some of the gro
- undbreaking research\, insights\, and innovations that defined this year
- ’s conference. Live streaming from the authors to you\n\n**Date\, Time a
- nd Location**\n\nApr 30\, 2026\n9AM - 11AM Pacific\nOnline. **[Register fo
- r the Zoom!](https://voxel51.com/events/best-of-wacv-2026-april-30-2026)**
- \n\n**Zero-Shot Coreset Selection via Iterative Subspace Sampling**\n\nDee
- p learning's reliance on massive datasets leads to significant costs in st
- orage\, annotation\, and training. Although coreset selection aims to miti
- gate these costs by finding performant data subsets\, state-of-the-art met
- hods typically require expensive ground-truth labels and dataset-specific 
- training. To overcome these scalability issues\, ZCore introduces a zero-s
- hot approach that functions without labels or prior training on candidate 
- data. Instead\, ZCore uses foundation models to generate a zero-shot embed
- ding space for unlabeled data\, then quantifies the relative importance of
-  each example based on overall coverage and redundancy within the embeddin
- g distribution. On ImageNet\, ZCore outperforms previous label-based metho
- ds at a 90% prune rate while eliminating the need to annotate over one mil
- lion images.\n\n*About the Speaker*\n\n[Brent Griffin](https://www.linkedi
- n.com/in/brent-griffin-0b6325b5/) is a Principal Machine Learning Scientis
- t at Voxel51 specializing in low-cost machine learning on unstructured dat
- a. Previously\, he was the Perception Lead at Agility Robotics and an assi
- stant research scientist at the University of Michigan conducting research
-  at the intersection of computer vision\, control\, and robot learning. He
-  is lead author on publications in all of the top IEEE conferences for com
- puter vision\, robotics\, and control\, and his work has been featured in 
- Popular Science\, in IEEE Spectrum\, and on the Big Ten Network.\n\n**ENCO
- RE: A Neural Collapse Perspective on Out of-Distribution Detection in Deep
-  Neural Networks**\n\nWe present ENCORE\, a post-hoc out-of-distribution (
- OOD) detection method grounded in the geometric properties of neural colla
- pse in deep neural networks. By leveraging the observation that in-distrib
- ution features align with class means while OOD features tend to be misali
- gned or orthogonal\, ENCORE modifies inference through cosine-based scorin
- g and adaptive feature scaling to enhance separation between known and unk
- nown inputs. The method approximates neural collapse behavior at test time
-  without requiring retraining\, enabling more reliable uncertainty estimat
- ion. It is lightweight\, memory-efficient\, and compatible with a wide ran
- ge of architectures\, including convolutional networks and vision transfor
- mers. Extensive experiments on standard benchmarks demonstrate consistent 
- improvements over existing OOD detection approaches in both near- and far-
- distribution shifts.\n\n*About the Speaker*\n\n[A.Q.M. Sazzad Sayyed](http
- s://www.linkedin.com/in/a-q-m-sazzad-sayyed-74a4a4180/) is a Ph.D. candida
- te in Electrical and Computer Engineering at Northeastern University\, foc
- using on robust\, secure\, and efficient deep learning. His research cente
- rs on out-of-distribution detection\, uncertainty modeling\, and machine l
- earning reliability for safety-critical and edge AI systems.\n\n**Synthesi
- zing Compositional Videos from Text Description**\n\nExisting pre-trained 
- text-to-video diffusion models can generate high-quality videos\, but ofte
- n struggle with misalignment between the generated content and the input t
- ext\, particularly while composing scenes with multiple objects. To tackle
-  this issue\, we propose a straightforward\, training-free approach for co
- mpositional video generation from text. We introduce Video-ASTAR for test-
- time aggregation and segregation of attention with a novel centroid loss t
- o enhance alignment\, which enables the generation of multiple objects in 
- the scene\, modeling the actions and interactions.\n\nAdditionally\, we ex
- tend our approach to the Multi-Action video generation setting\, where onl
- y the specified action should vary across a sequence of prompts. To ensure
-  coherent action transitions\, we introduce a novel token-swapping and lat
- ent interpolation strategy.\n\n*About the Speaker*\n\n[Shanmuganathan Rama
- n](https://www.linkedin.com/in/shanmuganathan?utm_source=share&utm_campaig
- n=share_via&utm_content=profile&utm_medium=ios_app) is a prominent academi
- c and researcher in the fields of computer vision\, deep learning\, comput
- ational photography\, and computer graphics. He is a Professor at the Indi
- an Institute of Technology Gandhinagar (IIT Gandhinagar)\, where he holds 
- a joint appointment in the Departments of Electrical Engineering and Compu
- ter Science and Engineering. He serves as the Head of the Department of Co
- mputer Science and Engineering at IIT Gandhinagar.\n\n**The Perceptual Obs
- ervatory Characterizing Robustness and Grounding in MLLMs**\n\nMultimodal 
- large language models can answer impressively complex visual questions\, b
- ut do they truly understand what they see? We present The Perceptual Obser
- vatory\, a framework for characterizing robustness and grounding in MLLMs 
- beyond standard leaderboard scores. We evaluate models on interpretable ta
- sks such as image matching\, grid pointing game\, and attribute localizati
- on across pixel-level corruptions and diffusion-based stylized illusions. 
- Our analysis reveals that scaling the language model alone does not guaran
- tee better perceptual grounding\, uncovering systematic weaknesses in robu
- stness\, spatial invariance\, fairness\, and reasoning-based perception. T
- he Perceptual Observatory offers a more principled way to study multimodal
-  perception and provides actionable insights for building future MLLMs tha
- t are reliable and truly grounded in visual evidence.\n\n*About the Speake
- r*\n\n[Fenil Bardoliya](http://www.linkedin.com/in/fenil-bardoliya) is a R
- esearcher at the Complex Data Reasoning & Analysis Lab (CORAL) at Arizona 
- State University. His research revolves around Multimodal Model Evaluation
-  and Benchmarking\, Machine Unlearning\, and Structured Reasoning.
-LOCATION:Online
-X-CRONQUILES-ADDRESS:Online\, Croix d'Argent\, Montpellier\, Hérault\, Oc
- citania\, Francia metropolitana\, Francia
-X-CRONQUILES-CITY:Montpellier
-X-CRONQUILES-CITY-CODE:montpellier
-X-CRONQUILES-COUNTRY:France
-X-CRONQUILES-COUNTRY-CODE:FR
-X-CRONQUILES-STATE:Occitania
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG CDMX|Taller: De Promptear por convivir a convertirte en Contex
  t Engineer.|Online
 DTSTART:20260430T190000
@@ -1422,100 +1356,6 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-at-5-1\n\n
  Hosted by The AI Collective & 3 others
 LOCATION:https://luma.com/event/evt-AlEVWCSoZIIpfox
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-AlEVWCSoZIIpfox
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
- 1 - Best of WACV (Day 2)|France|Occitania
-DTSTART:20260501T100000
-CATEGORIES:ai,backend,cloud,data,frontend,mobile,security,web
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nWelcome to the Best of WACV series\, your virtual pass to some of the gro
- undbreaking research\, insights\, and innovations that defined this year
- ’s conference. Live streaming from the authors to you.\n\n**Date\, Time 
- and Location**\n\nMay 01\, 2026\n9 AM - 11 AM Pacific\nOnline. **[Register
-  for the Zoom!](https://voxel51.com/events/best-of-wacv-2026-may-1-2026)**
- \n\n**Beyond Pixels: Type-Aware Contrastive Learning for Global Urban Simi
- larity**\n\nStandard visual models often fail to distinguish between super
- ficial appearances and meaningful structural variations in urban environme
- nts. We present a type-aware contrastive learning framework that measures 
- city similarity by explicitly modeling infrastructure elements like inters
- ections and bus lanes. Our framework integrates a type-conditioned Vision 
- Transformer that actively fuses visual features with CLIP-derived semantic
-  embeddings via a novel adaptive per-type contrastive loss. This allows th
- e model to dynamically prioritize the most discriminative infrastructure c
- ategories while down-weighting less informative visual noise. We demonstra
- te that this method significantly improves clustering quality and generali
- zes to unseen cities\, providing a scalable\, interpretable foundation for
-  urban analysis.\n\n*About the Speaker*\n\n[Idan Kligvasser](https://www.l
- inkedin.com/in/idan-kligvasser-668ab083/) is a Ph.D. researcher and Machin
- e Learning Engineer specializing in multimodal generative AI and large-sca
- le ML systems. With a background in developing state-of-the-art diffusion 
- models and VLMs\, his work has been recognized at top-tier venues includin
- g CVPR\, NeurIPS\, and ICLR.\n\n**Perceptually Guided 3DGS Streaming and R
- endering for Mixed Reality**\n\nRecent advances in 3D Gaussian Splatting (
- 3DGS) enable high-quality rendering but fall short of mixed reality's dema
- nding requirements for high refresh rates\, stereo viewing\, and limited c
- ompute budgets. We propose a perception-guided\, continuous level-of-detai
- l framework that exploits human visual system limitations through a lightw
- eight\, gaze-contingent model to predict and adaptively modulate rendering
-  quality across the visual field\, maximizing perceived quality under comp
- ute constraints.\n\nCombined with an edge-cloud collaborative rendering fr
- amework for untethered MR devices\, our method achieves superior computati
- onal efficiency with minimal perceptual quality loss compared to vanilla a
- nd foveated baselines\, validated through objective metrics and user studi
- es.\n\n*About the Speaker*\n\n[Sai Harsha Mupparaju](https://www.linkedin.
- com/in/harsha-mupparaju/) is an MS Computer Science student at NYU working
-  in the Immersive Computing Lab with Prof. Qi Sun\, where he focuses on 3D
-  Gaussian Splatting\, neural rendering\, and perceptual VR/MR systems. He 
- previously earned his undergraduate degree from BITS Pilani and conducted 
- research at the Indian Institute of Science (IISc). His research has been 
- published at IEEE WACV 2026\, ACM Transactions on Graphics\, and ACM SIGGR
- APH 2024.\n\n**SAVIOR: Sample-efficient Adaptation of Vision-Language Mode
- ls for OCR Representation**\n\nOCR pipelines and vision-language models sy
- stematically underperform on document patterns critical to financial workf
- lows\, such as vertical text\, logo-embedded vendor names\, degraded scans
- \, and complex multi-column layouts. While underrepresented in public data
- sets\, these patterns constitute a substantial portion of real-world failu
- re cases.\n\nWe introduce SAVIOR\, a sample-efficient data curation method
- ology that targets such high-impact failure scenarios to adapt vision-lang
- uage models for robust financial OCR\, and PaIRS\, a structure-aware evalu
- ation metric that measures layout fidelity by comparing pairwise spatial r
- elationships between tokens. When fine-tuned with SAVIOR-Train\, Qwen2.5-V
- L-Instruct demonstrates robust financial OCR performance\, outperforming b
- oth open and closed-source baselines including GPT-4o\, Mistral-OCR\, Padd
- leOCR-VL\, and DeepSeek-OCR.\n\n*About the Speaker*\n\n[Akshata Bhat](http
- s://www.linkedin.com/in/akshataabhat/) is an AI/ML Research Engineer at Hy
- prbots Inc. Her research interests include multimodal learning\, vision-la
- nguage models\, and large-scale document understanding systems.\n\n**Synth
- Form: Towards a DLA-free E2E Form understanding model**\n\nWe present Synt
- hForm-3k\, the first large-scale publicly available dataset of synthetical
- ly perturbed forms\, comprising 3\,417 samples across six domains: taxatio
- n\, immigration\, finance\, healthcare\, dental\, and insurance. Ground-tr
- uth Markdown is constructed via an intermediate HTML representation genera
- ted by GPT-5 under high-reasoning inference\, followed by deterministic HT
- ML-to-Markdown conversion and scan-like perturbations (dust\, scan lines\,
-  blur\, rotation) that simulate real-world faxed and scanned documents.\n\
- nWe further introduce SynthForm-VL\, a family of 2B\, 4B\, and 8B models o
- btained via full-parameter supervised fine-tuning of Qwen3-VL on this data
- set. All three variants outperform their respective baselines\, yielding A
- NLS improvements of +5.8\, +9.3\, and +10.3\, with the fine-tuned 2B model
-  exceeding the performance of the 4× larger Qwen3-VL-8B baseline — demo
- nstrating that targeted domain adaptation on perturbation-robust data offe
- rs a more favorable cost–performance tradeoff than scale alone for struc
- tured form understanding.\n\n*About the Speaker*\n\n[Andre Fu](https://www
- .linkedin.com/in/andre-fu/) is an ML researcher and founder whose work spa
- ns multimodal learning\, GPU inference infrastructure\, and document under
- standing\, with prior publications at NeurIPS\, ICCV\, CVPR\, and WACV. He
-  has worked in document processing and ML for the last 4 years\, specializ
- ing in InsurTech\, FinTech & HealthTech use cases.
-LOCATION:Online
-X-CRONQUILES-ADDRESS:Online\, Croix d'Argent\, Montpellier\, Hérault\, Oc
- citania\, Francia metropolitana\, Francia
-X-CRONQUILES-CITY:Montpellier
-X-CRONQUILES-CITY-CODE:montpellier
-X-CRONQUILES-COUNTRY:France
-X-CRONQUILES-COUNTRY-CODE:FR
-X-CRONQUILES-STATE:Occitania
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Heroica Veracruz|Build with AI: Zero to Agent x Vercel|México
@@ -1582,7 +1422,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
   for external vector stores to enable semantic search across large sample 
  datasets.\n* **Package and share plugins**. Distribute your extensions int
  ernally and externally
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -1680,7 +1520,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  nd has been working in the field for over 8 years. Working across healthca
  re he has experience in both operating use case as well as using Visual AI
   as an aid in psychology applications as well.
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FinTech México|Cumplir sin frenar el negocio by IQSEC|Online
@@ -1710,107 +1550,14 @@ CATEGORIES:AI,AI - Gemini,AI - Gemma,AI - Vertex AI,Build with AI,Communit
 DESCRIPTION:Únete a nosotros para un emocionante evento donde exploraremo
  s las modernas tecnologías de inteligencia artificial de Go...
 LOCATION:Universidad Cristóbal Colón\, Paseo de Los Cedros\, Veracruz
-X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón (Torrente Viver)\, Call
- e Paseo de los Cedros\, Floresta\, Veracruz\, Municipio de Veracruz\, Vera
- cruz\, 91945\, México
+X-CRONQUILES-ADDRESS:Universidad Cristóbal Colón\, Calle Paseo de los Ce
+ dros\, Floresta\, Veracruz\, Municipio de Veracruz\, Veracruz\, 91940\, M
+ éxico
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Veracruz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
- 11 - Best of 3DV 2026|France|Occitania
-DTSTART:20260511T100000
-CATEGORIES:ai,backend,data,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nWelcome to the Best of 3DV series\, your virtual pass to some of the grou
- ndbreaking research\, insights\, and innovations that defined this year’
- s conference. Live streaming from the authors to you.\n\n**Date\, Time and
-  Location**\n\nMay 11\, 2026\n9AM Pacific\nOnline. **[Register for Zoom!](
- https://voxel51.com/events/best-of-3dv-2026-may-11-2026)**\n\n**Navigating
-  a 3D Vision Conference with VLMs and Embeddings**\n\nAttending the 3D Vis
- ion Conference means confronting 177 accepted papers across 3.5 days\, far
-  more than any one person can absorb. Skimming titles the night before isn
- 't enough.\n\nThis talk shows how to build a systematic\, interactive map 
- of an entire conference using modern open-source tools. We load all 177 pa
- pers from 3DV 2026 (full PDF page images plus metadata) into a FiftyOne gr
- ouped dataset. We then run three annotation passes using Qwen3.5-9B on eac
- h cover page: topic classification\, author affiliation extraction\, and p
- roject page detection. Document embeddings from Jina v4 are computed acros
- s all 3\,019 page images\, pooled to paper-level vectors\, and fed into Fi
- ftyOne Brain for UMAP visualization\, similarity search\, representativene
- ss scoring\, and uniqueness scoring.\n\nThe result is an interactive datas
- et you can query\, filter\, and explore in the FiftyOne App. Sort by uniqu
- eness to find distinctive work\, filter by topic and sort by representativ
- eness to understand each research area\, and cross-reference with scheduli
- ng metadata to build a personal agenda.\n\nI demonstrate the end-to-end pi
- peline and discuss design decisions regarding grouped datasets\, reasoning
-  model output parsing\, and embedding pooling strategies.\n\n*About the Sp
- eaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/
- ) is a hacker-in-residence and machine learning engineer with a passion fo
- r deep learning and generative AI. He’s got a deep interest in VLMs\, Vi
- sual Agents\, Document AI\, and Physical AI.\n\n**Seeing Through Clutter: 
- Structured 3D Scene Reconstruction via Iterative Object Removal**\n\nWe pr
- esent SeeingThroughClutter\, a method for reconstructing structured 3D rep
- resentations from single images by segmenting and modeling objects individ
- ually. Prior approaches rely on intermediate tasks such as semantic segmen
- tation and depth estimation\, which often underperform in complex scenes\,
-  particularly in the presence of occlusion and clutter.\n\nWe address this
-  by introducing an iterative object removal and reconstruction pipeline th
- at decomposes complex scenes into a sequence of simpler subtasks. Using VL
- Ms as orchestrators\, foreground objects are removed one at a time via det
- ection\, segmentation\, object removal\, and 3D fitting. We show that remo
- ving objects allows for cleaner segmentations of subsequent objects\, even
-  in highly occluded scenes. Our method requires no task-specific training 
- and benefits directly from ongoing advances in foundation models. We demon
- strate state-of-the-art robustness on 3D-Front and ADE20K datasets.\n\n*Ab
- out the Speaker*\n\n[Rio Aguina-Kang](https://www.linkedin.com/in/raguinak
- /) is currently a Machine Learning Engineer at Drafted AI\, a startup focu
- sed on generative architecture. He has previously worked at Adobe Research
- \, Brown Visual Computing\, and the Stanford Institute for Human-Centered 
- Artificial Intelligence. He is broadly interested in building systems that
-  let users generate and control visual content through structured represen
- tations that reflect their intent.\n\n**Physical Realistic 4D Generation**
- \n\nGenerating dynamic 3D content that moves and deforms over time is a ke
- y frontier in visual computing\, with applications in VR/AR\, robotics\, a
- nd digital humans. In this talk\, I present our series of works on physica
- lly realistic 4D generation: from neural surface deformation with explicit
-  velocity fields (ICLR 2025) to our 4Deform framework for robust shape int
- erpolation (CVPR 2025). Both methods use implicit neural representations w
- ith physically constrained velocity fields that enforce volume preservatio
- n\, spatial smoothness\, and geometric consistency. I will also introduce 
- TwoSquared (3DV 2026\, oral)\, which achieves full 4D generation from just
-  two 2D image pairs — demonstrating a practical path toward controllable
- \, physically plausible 4D content creation.\n\n*About the Speaker*\n\n[
- ⁠Lu Sang ](https://www.linkedin.com/in/lu-sang-tum/)is a PhD researcher 
- in Computer Vision at TU Munich (Prof. Daniel Cremers)\, specializing in 3
- D/4D reconstruction\, neural implicit surfaces\, and inverse rendering\, w
- ith serveral publications at top venues including CVPR\, ICLR\, and ECCV. 
- She is currently a research intern at Google XR in Zurich. With a strong m
- athematical foundation and a track record spanning photometric stereo to 4
- D generation\, she brings both theoretical depth and hands-on engineering 
- to cutting-edge visual computing research.\n\n**Finding NeMO: A Geometry-A
- ware Representation of Template Views for Few-Shot Perception**\n\nHow can
-  we use and perceive objects without training a new model given only a few
-  images? We present NeMO\, a novel object representation that allows 6DoF 
- object pose estimation\, detection and segmentation given only a hand full
-  of RGB images of an unknown object.\n\n*About the Speaker*\n\n[Sebastian 
- Jung](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) studied
-  physics at the LMU munich. He started his PhD in Computer Science at the 
- german aerospace center (DLR) in 2025 and focuses on object centric few sh
- ot perception with a focus on robotic applications. Additionally\, he's a 
- student researcher at google\, focusing on computer vision algorithms for 
- XR.
-LOCATION:Online
-X-CRONQUILES-ADDRESS:Online\, Croix d'Argent\, Montpellier\, Hérault\, Oc
- citania\, Francia metropolitana\, Francia
-X-CRONQUILES-CITY:Montpellier
-X-CRONQUILES-CITY-CODE:montpellier
-X-CRONQUILES-COUNTRY:France
-X-CRONQUILES-COUNTRY-CODE:FR
-X-CRONQUILES-STATE:Occitania
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -1871,7 +1618,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  tät Heidelberg specializing in computer vision and machine learning. Duri
  ng my bachelor's\, I focused on self-supervised representations\, while du
  ring my master's\, I shifted my focus towards computer vision.
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -1945,7 +1692,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
   explore the intersection of machine learning\, computer vision and genera
  tive modelling to enable the generation of more realistic and efficient 3D
   assets.
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -2024,7 +1771,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  ing specializing in control and power systems\, Medi brings deep technical
   expertise to the challenge of scaling AI within real-time grid constraint
  s.
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FinTech México|FrameIQ: Hacia una banca impulsada por inteligenci
@@ -2077,7 +1824,7 @@ DESCRIPTION:Pythonista®\n# 🛡️ CI/CD endurecido para aplicaciones en
  n* Diploma (con 70% en evaluaciones y 80% de asistencia)\n\n## 📌 Inform
  ación adicional\n\nTemario completo\, detalles del taller: https://www.py
  thonista.io/eventos/py271-2605
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -2112,7 +1859,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
   specific tasks.\n\n**Prerequisites:**\n\n* Working knowledge of Python an
  d machine learning and/or computer vision fundamentals.\n* All attendees w
  ill get access to the tutorials and code examples used in the workshop.
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -2199,7 +1946,7 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  ctor of the Taskar Center for Accessible Technology at the University of W
  ashington\, where she leads research and public-interest technology effort
  s focused on accessibility\, mobility\, and inclusive transportation data.
-LOCATION:Online
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Cloud Mexico City|Build with AI Week: Gira Universitaria Sur d

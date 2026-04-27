@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T07:39:25.872511+00:00",
-  "total_events": 164,
+  "generated_at": "2026-04-27T13:17:19.321392+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -1454,6 +1454,62 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/nzb89n7y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nzb89n7y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/8dtqdfok",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8dtqdfok",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -3912,7 +3968,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91940, México",
       "hash_key": "build with ai veracruz ciencia y tecnolo_2026-04-27T16:00:00+00:00"
     },
     {
@@ -4124,39 +4180,6 @@
       "hash_key": "responsible ai and data protection align_2026-04-30T14:00:00+00:00"
     },
     {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|April 30 - Best of WACV 2026|France|Occitania",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nWelcome to the Best of WACV series, your virtual pass to some of the groundbreaking research, insights, and innovations that defined this year’s conference. Live streaming from the authors to you\n\n**Date, Time and Location**\n\nApr 30, 2026\n9AM - 11AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/best-of-wacv-2026-april-30-2026)**\n\n**Zero-Shot Coreset Selection via Iterative Subspace Sampling**\n\nDeep learning's reliance on massive datasets leads to significant costs in storage, annotation, and training. Although coreset selection aims to mitigate these costs by finding performant data subsets, state-of-the-art methods typically require expensive ground-truth labels and dataset-specific training. To overcome these scalability issues, ZCore introduces a zero-shot approach that functions without labels or prior training on candidate data. Instead, ZCore uses foundation models to generate a zero-shot embedding space for unlabeled data, then quantifies the relative importance of each example based on overall coverage and redundancy within the embedding distribution. On ImageNet, ZCore outperforms previous label-based methods at a 90% prune rate while eliminating the need to annotate over one million images.\n\n*About the Speaker*\n\n[Brent Griffin](https://www.linkedin.com/in/brent-griffin-0b6325b5/) is a Principal Machine Learning Scientist at Voxel51 specializing in low-cost machine learning on unstructured data. Previously, he was the Perception Lead at Agility Robotics and an assistant research scientist at the University of Michigan conducting research at the intersection of computer vision, control, and robot learning. He is lead author on publications in all of the top IEEE conferences for computer vision, robotics, and control, and his work has been featured in Popular Science, in IEEE Spectrum, and on the Big Ten Network.\n\n**ENCORE: A Neural Collapse Perspective on Out of-Distribution Detection in Deep Neural Networks**\n\nWe present ENCORE, a post-hoc out-of-distribution (OOD) detection method grounded in the geometric properties of neural collapse in deep neural networks. By leveraging the observation that in-distribution features align with class means while OOD features tend to be misaligned or orthogonal, ENCORE modifies inference through cosine-based scoring and adaptive feature scaling to enhance separation between known and unknown inputs. The method approximates neural collapse behavior at test time without requiring retraining, enabling more reliable uncertainty estimation. It is lightweight, memory-efficient, and compatible with a wide range of architectures, including convolutional networks and vision transformers. Extensive experiments on standard benchmarks demonstrate consistent improvements over existing OOD detection approaches in both near- and far-distribution shifts.\n\n*About the Speaker*\n\n[A.Q.M. Sazzad Sayyed](https://www.linkedin.com/in/a-q-m-sazzad-sayyed-74a4a4180/) is a Ph.D. candidate in Electrical and Computer Engineering at Northeastern University, focusing on robust, secure, and efficient deep learning. His research centers on out-of-distribution detection, uncertainty modeling, and machine learning reliability for safety-critical and edge AI systems.\n\n**Synthesizing Compositional Videos from Text Description**\n\nExisting pre-trained text-to-video diffusion models can generate high-quality videos, but often struggle with misalignment between the generated content and the input text, particularly while composing scenes with multiple objects. To tackle this issue, we propose a straightforward, training-free approach for compositional video generation from text. We introduce Video-ASTAR for test-time aggregation and segregation of attention with a novel centroid loss to enhance alignment, which enables the generation of multiple objects in the scene, modeling the actions and interactions.\n\nAdditionally, we extend our approach to the Multi-Action video generation setting, where only the specified action should vary across a sequence of prompts. To ensure coherent action transitions, we introduce a novel token-swapping and latent interpolation strategy.\n\n*About the Speaker*\n\n[Shanmuganathan Raman](https://www.linkedin.com/in/shanmuganathan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) is a prominent academic and researcher in the fields of computer vision, deep learning, computational photography, and computer graphics. He is a Professor at the Indian Institute of Technology Gandhinagar (IIT Gandhinagar), where he holds a joint appointment in the Departments of Electrical Engineering and Computer Science and Engineering. He serves as the Head of the Department of Computer Science and Engineering at IIT Gandhinagar.\n\n**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**\n\nMultimodal large language models can answer impressively complex visual questions, but do they truly understand what they see? We present The Perceptual Observatory, a framework for characterizing robustness and grounding in MLLMs beyond standard leaderboard scores. We evaluate models on interpretable tasks such as image matching, grid pointing game, and attribute localization across pixel-level corruptions and diffusion-based stylized illusions. Our analysis reveals that scaling the language model alone does not guarantee better perceptual grounding, uncovering systematic weaknesses in robustness, spatial invariance, fairness, and reasoning-based perception. The Perceptual Observatory offers a more principled way to study multimodal perception and provides actionable insights for building future MLLMs that are reliable and truly grounded in visual evidence.\n\n*About the Speaker*\n\n[Fenil Bardoliya](http://www.linkedin.com/in/fenil-bardoliya) is a Researcher at the Complex Data Reasoning & Analysis Lab (CORAL) at Arizona State University. His research revolves around Multimodal Model Evaluation and Benchmarking, Machine Unlearning, and Structured Reasoning.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314074293/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314074293/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online",
-      "online": false,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-04-30T10:00:00-06:00",
-      "dtend": "2026-04-30T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "data",
-        "frontend",
-        "mobile",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "France",
-      "country_code": "FR",
-      "state": "Occitania",
-      "state_code": "",
-      "city": "Montpellier",
-      "city_code": "montpellier",
-      "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
-      "hash_key": "april 30 best of wacv 2026_2026-04-30T16:00:00+00:00"
-    },
-    {
       "title": "GDG CDMX|Taller: De Promptear por convivir a convertirte en Context Engineer.|Online",
       "description": "Únete a nosotros en este divertido, inclusivo y productivo taller donde exploraremos el mundo de la Ingeniería de Contex...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-taller-de-promptear-por-convivir-a-convertirte-en-context-engineer-2026-04-30/",
@@ -4216,42 +4239,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-AlEVWCSoZIIpfox",
       "hash_key": "prompting is table stakes judgement is t_2026-05-01T14:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|May 1 - Best of WACV (Day 2)|France|Occitania",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nWelcome to the Best of WACV series, your virtual pass to some of the groundbreaking research, insights, and innovations that defined this year’s conference. Live streaming from the authors to you.\n\n**Date, Time and Location**\n\nMay 01, 2026\n9 AM - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/best-of-wacv-2026-may-1-2026)**\n\n**Beyond Pixels: Type-Aware Contrastive Learning for Global Urban Similarity**\n\nStandard visual models often fail to distinguish between superficial appearances and meaningful structural variations in urban environments. We present a type-aware contrastive learning framework that measures city similarity by explicitly modeling infrastructure elements like intersections and bus lanes. Our framework integrates a type-conditioned Vision Transformer that actively fuses visual features with CLIP-derived semantic embeddings via a novel adaptive per-type contrastive loss. This allows the model to dynamically prioritize the most discriminative infrastructure categories while down-weighting less informative visual noise. We demonstrate that this method significantly improves clustering quality and generalizes to unseen cities, providing a scalable, interpretable foundation for urban analysis.\n\n*About the Speaker*\n\n[Idan Kligvasser](https://www.linkedin.com/in/idan-kligvasser-668ab083/) is a Ph.D. researcher and Machine Learning Engineer specializing in multimodal generative AI and large-scale ML systems. With a background in developing state-of-the-art diffusion models and VLMs, his work has been recognized at top-tier venues including CVPR, NeurIPS, and ICLR.\n\n**Perceptually Guided 3DGS Streaming and Rendering for Mixed Reality**\n\nRecent advances in 3D Gaussian Splatting (3DGS) enable high-quality rendering but fall short of mixed reality's demanding requirements for high refresh rates, stereo viewing, and limited compute budgets. We propose a perception-guided, continuous level-of-detail framework that exploits human visual system limitations through a lightweight, gaze-contingent model to predict and adaptively modulate rendering quality across the visual field, maximizing perceived quality under compute constraints.\n\nCombined with an edge-cloud collaborative rendering framework for untethered MR devices, our method achieves superior computational efficiency with minimal perceptual quality loss compared to vanilla and foveated baselines, validated through objective metrics and user studies.\n\n*About the Speaker*\n\n[Sai Harsha Mupparaju](https://www.linkedin.com/in/harsha-mupparaju/) is an MS Computer Science student at NYU working in the Immersive Computing Lab with Prof. Qi Sun, where he focuses on 3D Gaussian Splatting, neural rendering, and perceptual VR/MR systems. He previously earned his undergraduate degree from BITS Pilani and conducted research at the Indian Institute of Science (IISc). His research has been published at IEEE WACV 2026, ACM Transactions on Graphics, and ACM SIGGRAPH 2024.\n\n**SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation**\n\nOCR pipelines and vision-language models systematically underperform on document patterns critical to financial workflows, such as vertical text, logo-embedded vendor names, degraded scans, and complex multi-column layouts. While underrepresented in public datasets, these patterns constitute a substantial portion of real-world failure cases.\n\nWe introduce SAVIOR, a sample-efficient data curation methodology that targets such high-impact failure scenarios to adapt vision-language models for robust financial OCR, and PaIRS, a structure-aware evaluation metric that measures layout fidelity by comparing pairwise spatial relationships between tokens. When fine-tuned with SAVIOR-Train, Qwen2.5-VL-Instruct demonstrates robust financial OCR performance, outperforming both open and closed-source baselines including GPT-4o, Mistral-OCR, PaddleOCR-VL, and DeepSeek-OCR.\n\n*About the Speaker*\n\n[Akshata Bhat](https://www.linkedin.com/in/akshataabhat/) is an AI/ML Research Engineer at Hyprbots Inc. Her research interests include multimodal learning, vision-language models, and large-scale document understanding systems.\n\n**SynthForm: Towards a DLA-free E2E Form understanding model**\n\nWe present SynthForm-3k, the first large-scale publicly available dataset of synthetically perturbed forms, comprising 3,417 samples across six domains: taxation, immigration, finance, healthcare, dental, and insurance. Ground-truth Markdown is constructed via an intermediate HTML representation generated by GPT-5 under high-reasoning inference, followed by deterministic HTML-to-Markdown conversion and scan-like perturbations (dust, scan lines, blur, rotation) that simulate real-world faxed and scanned documents.\n\nWe further introduce SynthForm-VL, a family of 2B, 4B, and 8B models obtained via full-parameter supervised fine-tuning of Qwen3-VL on this dataset. All three variants outperform their respective baselines, yielding ANLS improvements of +5.8, +9.3, and +10.3, with the fine-tuned 2B model exceeding the performance of the 4× larger Qwen3-VL-8B baseline — demonstrating that targeted domain adaptation on perturbation-robust data offers a more favorable cost–performance tradeoff than scale alone for structured form understanding.\n\n*About the Speaker*\n\n[Andre Fu](https://www.linkedin.com/in/andre-fu/) is an ML researcher and founder whose work spans multimodal learning, GPU inference infrastructure, and document understanding, with prior publications at NeurIPS, ICCV, CVPR, and WACV. He has worked in document processing and ML for the last 4 years, specializing in InsurTech, FinTech & HealthTech use cases.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314389157/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314389157/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online",
-      "online": false,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-05-01T10:00:00-06:00",
-      "dtend": "2026-05-01T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "cloud",
-        "data",
-        "frontend",
-        "mobile",
-        "security",
-        "web"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "France",
-      "country_code": "FR",
-      "state": "Occitania",
-      "state_code": "",
-      "city": "Montpellier",
-      "city_code": "montpellier",
-      "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
-      "hash_key": "may 1 best of wacv day 2_2026-05-01T16:00:00+00:00"
     },
     {
       "title": "GDG Heroica Veracruz|Build with AI: Zero to Agent x Vercel|México|Veracruz",
@@ -4359,7 +4346,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-06T11:00:00-06:00",
@@ -4392,7 +4379,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-07T10:00:00-06:00",
@@ -4509,41 +4496,8 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
+      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91940, México",
       "hash_key": "hands on build with ai veracruz 2026_2026-05-08T16:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|May 11 - Best of 3DV 2026|France|Occitania",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nWelcome to the Best of 3DV series, your virtual pass to some of the groundbreaking research, insights, and innovations that defined this year’s conference. Live streaming from the authors to you.\n\n**Date, Time and Location**\n\nMay 11, 2026\n9AM Pacific\nOnline. **[Register for Zoom!](https://voxel51.com/events/best-of-3dv-2026-may-11-2026)**\n\n**Navigating a 3D Vision Conference with VLMs and Embeddings**\n\nAttending the 3D Vision Conference means confronting 177 accepted papers across 3.5 days, far more than any one person can absorb. Skimming titles the night before isn't enough.\n\nThis talk shows how to build a systematic, interactive map of an entire conference using modern open-source tools. We load all 177 papers from 3DV 2026 (full PDF page images plus metadata) into a FiftyOne grouped dataset. We then run three annotation passes using Qwen3.5-9B on each cover page: topic classification, author affiliation extraction, and project page detection. Document embeddings from Jina v4 are computed across all 3,019 page images, pooled to paper-level vectors, and fed into FiftyOne Brain for UMAP visualization, similarity search, representativeness scoring, and uniqueness scoring.\n\nThe result is an interactive dataset you can query, filter, and explore in the FiftyOne App. Sort by uniqueness to find distinctive work, filter by topic and sort by representativeness to understand each research area, and cross-reference with scheduling metadata to build a personal agenda.\n\nI demonstrate the end-to-end pipeline and discuss design decisions regarding grouped datasets, reasoning model output parsing, and embedding pooling strategies.\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in VLMs, Visual Agents, Document AI, and Physical AI.\n\n**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**\n\nWe present SeeingThroughClutter, a method for reconstructing structured 3D representations from single images by segmenting and modeling objects individually. Prior approaches rely on intermediate tasks such as semantic segmentation and depth estimation, which often underperform in complex scenes, particularly in the presence of occlusion and clutter.\n\nWe address this by introducing an iterative object removal and reconstruction pipeline that decomposes complex scenes into a sequence of simpler subtasks. Using VLMs as orchestrators, foreground objects are removed one at a time via detection, segmentation, object removal, and 3D fitting. We show that removing objects allows for cleaner segmentations of subsequent objects, even in highly occluded scenes. Our method requires no task-specific training and benefits directly from ongoing advances in foundation models. We demonstrate state-of-the-art robustness on 3D-Front and ADE20K datasets.\n\n*About the Speaker*\n\n[Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/) is currently a Machine Learning Engineer at Drafted AI, a startup focused on generative architecture. He has previously worked at Adobe Research, Brown Visual Computing, and the Stanford Institute for Human-Centered Artificial Intelligence. He is broadly interested in building systems that let users generate and control visual content through structured representations that reflect their intent.\n\n**Physical Realistic 4D Generation**\n\nGenerating dynamic 3D content that moves and deforms over time is a key frontier in visual computing, with applications in VR/AR, robotics, and digital humans. In this talk, I present our series of works on physically realistic 4D generation: from neural surface deformation with explicit velocity fields (ICLR 2025) to our 4Deform framework for robust shape interpolation (CVPR 2025). Both methods use implicit neural representations with physically constrained velocity fields that enforce volume preservation, spatial smoothness, and geometric consistency. I will also introduce TwoSquared (3DV 2026, oral), which achieves full 4D generation from just two 2D image pairs — demonstrating a practical path toward controllable, physically plausible 4D content creation.\n\n*About the Speaker*\n\n[⁠Lu Sang ](https://www.linkedin.com/in/lu-sang-tum/)is a PhD researcher in Computer Vision at TU Munich (Prof. Daniel Cremers), specializing in 3D/4D reconstruction, neural implicit surfaces, and inverse rendering, with serveral publications at top venues including CVPR, ICLR, and ECCV. She is currently a research intern at Google XR in Zurich. With a strong mathematical foundation and a track record spanning photometric stereo to 4D generation, she brings both theoretical depth and hands-on engineering to cutting-edge visual computing research.\n\n**Finding NeMO: A Geometry-Aware Representation of Template Views for Few-Shot Perception**\n\nHow can we use and perceive objects without training a new model given only a few images? We present NeMO, a novel object representation that allows 6DoF object pose estimation, detection and segmentation given only a hand full of RGB images of an unknown object.\n\n*About the Speaker*\n\n[Sebastian Jung](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) studied physics at the LMU munich. He started his PhD in Computer Science at the german aerospace center (DLR) in 2025 and focuses on object centric few shot perception with a focus on robotic applications. Additionally, he's a student researcher at google, focusing on computer vision algorithms for XR.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314090335/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314090335/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online",
-      "online": false,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-05-11T10:00:00-06:00",
-      "dtend": "2026-05-11T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "data",
-        "frontend",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "France",
-      "country_code": "FR",
-      "state": "Occitania",
-      "state_code": "",
-      "city": "Montpellier",
-      "city_code": "montpellier",
-      "address": "Online, Croix d'Argent, Montpellier, Hérault, Occitania, Francia metropolitana, Francia",
-      "hash_key": "may 11 best of 3dv 2026_2026-05-11T16:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 12 - Best of 3DV 2026|Online",
@@ -4556,7 +4510,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-12T10:00:00-06:00",
@@ -4589,7 +4543,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-13T10:00:00-06:00",
@@ -4623,7 +4577,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-14T10:00:00-06:00",
@@ -4685,7 +4639,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "Pythonista",
       "dtstart": "2026-05-18T18:30:00-06:00",
@@ -4717,7 +4671,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-20T11:00:00-06:00",
@@ -4750,7 +4704,7 @@
           "label": "Ver en Meetup"
         }
       ],
-      "location": "Online",
+      "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
       "dtstart": "2026-05-21T10:00:00-06:00",
