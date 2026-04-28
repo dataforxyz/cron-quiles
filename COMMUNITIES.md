@@ -33,7 +33,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Flutter Mexico City**](https://www.meetup.com/flutter-mexico-city) | Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres. | Online |
 | 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México, Nuevo León |
 | 🔴 [**Fvckup Nights**](https://luma.com/user/usr-OqGmWs21jbaz5fK) | Gestión del Fracaso para la productividad e innovación. | Online |
-| 🟢 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
+| 🔴 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
 | 🔴 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
 | 🔴 [**GitTogether CDMX**](https://www.meetup.com/gittogether-cdmx) | GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source. | Online |
 | 🔴 [**GitTogether LATAM**](https://www.meetup.com/gittogether-latam) | Comunidad latinoamericana de GitHub. Open Source y colaboración. | Online |
@@ -60,7 +60,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**PHP Mexico**](https://www.meetup.com/php-the-right-way) | ¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP. | Online |
 | 🔴 [**PostgreSQL México**](https://www.meetup.com/postgresql-mexico) | Usuarios y administradores de bases de datos PostgreSQL. | Online |
 | 🟢 [**PyTalavera**](https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl) | Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región. | Puebla |
-| 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México, México |
+| 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México |
 | 🔴 [**Python Monterrey**](https://www.meetup.com/pythonmty) | Comunidad de Python en la ciudad de Monterrey. | Online |
 | 🔴 [**Python Puebla**](https://www.meetup.com/grupo-de-python-en-puebla) | Comunidad de Python en el estado de Puebla. Charlas y talleres. | Online |
 | 🟢 [**Pythonista**](https://www.meetup.com/pythonista) | Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles. | Online |
@@ -71,7 +71,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Sysarmy México**](https://www.meetup.com/sysarmy-mexico) | Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector. | Online |
 | 🔴 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Online |
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
-| 🟢 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Ciudad de México |
+| 🟢 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Ciudad de México, México |
 | 🔴 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
 | 🟢 [**v0 Prompt to Production Mexico City**](https://luma.com/fdg8riz2) | Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. | Ciudad de México |
 | 🔴 [**Vim CDMX**](https://www.meetup.com/cdmx-vim-meetup) | Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo. | Online |
