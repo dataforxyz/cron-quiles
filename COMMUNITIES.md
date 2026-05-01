@@ -45,7 +45,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**HackrobotsMX**](https://www.meetup.com/hackrobotsmx) | HackrobotsMX es la primera y única comunidad en América sin fines de lucro dedicada a la formación y capacitación en robótica. | Online |
 | 🔴 [**HTML5 CDMX**](https://www.meetup.com/html5-ciudad-de-mexico) | Desarrollo web, estándares W3C y tecnologías de frontend. | Online |
 | 🔴 [**j4Guanatos**](https://www.meetup.com/j4guanatos) | Comunidad de Java en Guadalajara. Eventos sobre Java y tecnologías relacionadas. | Online |
-| 🔴 [**Kong Mexico City**](https://www.meetup.com/kong-mexico-city) | Eventos sobre APIs, Microservicios, Service Mesh e Insomnia. | Online |
+| 🟢 [**Kong Mexico City**](https://www.meetup.com/kong-mexico-city) | Eventos sobre APIs, Microservicios, Service Mesh e Insomnia. | Online |
 | 🟢 [**Management In Tech**](https://luma.com/qhszdqs3) | Conversaciones sobre liderazgo y gestión de equipos en tech. | Ciudad de México |
 | 🔴 [**Meetup de Network Orquestrators, Creating Unicorns**](https://www.meetup.com/meetup-de-network-orquestrators-creating-unicorns) | En este grupo estamos intentando construir empresas Unicornio. Queremos contactar con startuperos interesados en intercambiar ideas y contactos. | Online |
 | 🔴 [**Meetup México**](https://www.meetup.com/meetup-mexico) | Comunidad general de usuarios y organizadores de Meetup en México. | Online |
@@ -71,7 +71,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Sysarmy México**](https://www.meetup.com/sysarmy-mexico) | Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector. | Online |
 | 🔴 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Online |
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
-| 🟢 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Ciudad de México |
+| 🟢 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Ciudad de México, México |
 | 🔴 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
 | 🟢 [**v0 Prompt to Production Mexico City**](https://luma.com/fdg8riz2) | Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. | Ciudad de México |
 | 🔴 [**Vim CDMX**](https://www.meetup.com/cdmx-vim-meetup) | Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo. | Online |
