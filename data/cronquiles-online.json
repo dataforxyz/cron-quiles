@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:09:23.595335+00:00",
-  "total_events": 159,
+  "generated_at": "2026-05-02T01:36:32.506465+00:00",
+  "total_events": 161,
   "city": "Online",
   "communities": [
     {
@@ -43,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -1465,6 +1465,62 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/nzb89n7y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nzb89n7y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/8dtqdfok",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8dtqdfok",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -4161,7 +4217,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4418,7 +4474,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4572,7 +4628,7 @@
       "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-05-21T19:00:00+00:00",
-      "dtend": "2026-05-21T21:30:00+00:00",
+      "dtend": "2026-05-21T20:00:00+00:00",
       "tags": [
         "ai"
       ],
