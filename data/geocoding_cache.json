@@ -1,73 +1,8 @@
 {
-  "#Hashtag Gallery Ltd, Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {},
-  "Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {
-    "place_id": 308025682,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "way",
-    "osm_id": 25207658,
-    "lat": "19.4068753",
-    "lon": "-99.1810584",
-    "class": "highway",
-    "type": "primary",
-    "place_rank": 26,
-    "importance": 0.05342732661936366,
-    "addresstype": "road",
-    "name": "Avenida Benjamín Franklin",
-    "display_name": "Avenida Benjamín Franklin, Hipódromo Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 11850, México",
-    "address": {
-      "road": "Avenida Benjamín Franklin",
-      "neighbourhood": "Hipódromo Condesa",
-      "quarter": "San Miguel Chapultepec",
-      "city": "Ciudad de México",
-      "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "postcode": "11850",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.4059176",
-      "19.4078475",
-      "-99.1840371",
-      "-99.1780751"
-    ]
-  },
-  "Casa Rafael Galvan, Zacatecas 94, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
-  "Zacatecas 94, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
-  "CDMX, Mexico": {
-    "place_id": 309771282,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "relation",
-    "osm_id": 1376330,
-    "lat": "19.3207722",
-    "lon": "-99.1514678",
-    "class": "boundary",
-    "type": "administrative",
-    "place_rank": 8,
-    "importance": 0.7820130584016439,
-    "addresstype": "state",
-    "name": "Ciudad de México",
-    "display_name": "Ciudad de México, México",
-    "address": {
-      "state": "Ciudad de México",
-      "ISO3166-2-lvl4": "MX-CMX",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "19.0487187",
-      "19.5927573",
-      "-99.3649242",
-      "-98.9403028"
-    ]
-  },
-  "FlemishPixel (FPX), FlemishPixel, Av. Ejército Nacional Mexicano 6, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico": {},
-  "FlemishPixel, Av. Ejército Nacional Mexicano 6, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico": {},
   "Rock It Chapultepec, Av. Chapultepec Sur 389, Col Americana, Americana, 44140 Guadalajara, Jal., Mexico": {},
   "Av. Chapultepec Sur 389, Col Americana, Americana, 44140 Guadalajara, Jal., Mexico": {},
   "Jal., Mexico": {
-    "place_id": 312000265,
+    "place_id": 288800179,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 2340910,
@@ -95,11 +30,38 @@
   },
   "Rojo Birria, Primavera 106-Local 1, Ángel Zimbrón, Miguel Hidalgo, 02099 Ciudad de México, CDMX, Mexico": {},
   "Primavera 106-Local 1, Ángel Zimbrón, Miguel Hidalgo, 02099 Ciudad de México, CDMX, Mexico": {},
+  "CDMX, Mexico": {
+    "place_id": 286673173,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1376330,
+    "lat": "19.3207722",
+    "lon": "-99.1514678",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 8,
+    "importance": 0.7820130584016439,
+    "addresstype": "state",
+    "name": "Ciudad de México",
+    "display_name": "Ciudad de México, México",
+    "address": {
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.0487187",
+      "19.5927573",
+      "-99.3649242",
+      "-98.9403028"
+    ]
+  },
   "Lincoln Offices & Cowork, Anatole France 51, Polanco, Polanco III Secc, Miguel Hidalgo, 11540 Ciudad de México, CDMX, Mexico": {},
   "Anatole France 51, Polanco, Polanco III Secc, Miguel Hidalgo, 11540 Ciudad de México, CDMX, Mexico": {},
   "Polanco, Polanco III Secc, Miguel Hidalgo, 11540 Ciudad de México, CDMX, Mexico": {},
   "Roma Sur, Ciudad de México, México": {
-    "place_id": 311667794,
+    "place_id": 311082742,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 16823836,
@@ -111,13 +73,11 @@
     "importance": 0.13342732661936368,
     "addresstype": "neighbourhood",
     "name": "Roma Sur",
-    "display_name": "Roma Sur, La Piedad, Ciudad de México, Cuauhtémoc, Ciudad de México, 06760, México",
+    "display_name": "Roma Sur, Ciudad de México, Cuauhtémoc, Ciudad de México, 06760, México",
     "address": {
       "neighbourhood": "Roma Sur",
-      "quarter": "La Piedad",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06760",
       "country": "México",
@@ -133,7 +93,7 @@
   "WeWork Espacio de Oficinas & Coworking, Lago Alberto 375, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico": {},
   "Lago Alberto 375, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico": {},
   "Juárez, Ciudad de México, México": {
-    "place_id": 310239901,
+    "place_id": 311312715,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 5335697471,
@@ -153,6 +113,7 @@
       "suburb": "Roma",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06050",
       "country": "México",
@@ -168,7 +129,7 @@
   "Foro GBM, Plaza I, Av. Javier Barros Sierra 540-Planta Baja, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01219 Ciudad de México, CDMX, Mexico": {},
   "Plaza I, Av. Javier Barros Sierra 540-Planta Baja, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01219 Ciudad de México, CDMX, Mexico": {},
   "Roma Norte, Ciudad de México, México": {
-    "place_id": 311050350,
+    "place_id": 408056738,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 16823842,
@@ -180,11 +141,13 @@
     "importance": 0.13342732661936368,
     "addresstype": "neighbourhood",
     "name": "Roma Norte",
-    "display_name": "Roma Norte, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+    "display_name": "Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
     "address": {
       "neighbourhood": "Roma Norte",
+      "suburb": "Roma",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06700",
       "country": "México",
@@ -199,39 +162,40 @@
   },
   "Dalia, Monte Líbano 215, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "Monte Líbano 215, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {
-    "place_id": 313734889,
+    "place_id": 288618345,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 30641687,
-    "lat": "19.4168075",
-    "lon": "-99.2221102",
+    "osm_id": 844034216,
+    "lat": "19.4181148",
+    "lon": "-99.2148992",
     "class": "highway",
     "type": "residential",
     "place_rank": 26,
     "importance": 0.05342732661936366,
     "addresstype": "road",
     "name": "Calle Monte Líbano",
-    "display_name": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "display_name": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "address": {
       "road": "Calle Monte Líbano",
-      "neighbourhood": "Lomas de Chapultepec 2ª Sección",
+      "neighbourhood": "Lomas de Chapultepec 6ª Sección",
       "suburb": "Lomas de Chapultepec",
       "city": "Ciudad de México",
       "borough": "Miguel Hidalgo",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "11000",
       "country": "México",
       "country_code": "mx"
     },
     "boundingbox": [
-      "19.4167247",
-      "19.4168718",
-      "-99.2224086",
-      "-99.2218074"
+      "19.4180009",
+      "19.4191575",
+      "-99.2181127",
+      "-99.2118645"
     ]
   },
   "Polanco I Sección, Ciudad de México, México": {
-    "place_id": 413975570,
+    "place_id": 414144977,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 9041880459,
@@ -264,7 +228,7 @@
     ]
   },
   "Hipódromo Condesa, Ciudad de México, México": {
-    "place_id": 313721006,
+    "place_id": 286585304,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 16823809,
@@ -276,11 +240,13 @@
     "importance": 0.13342732661936368,
     "addresstype": "neighbourhood",
     "name": "Hipódromo Condesa",
-    "display_name": "Hipódromo Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
+    "display_name": "Hipódromo Condesa, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06160, México",
     "address": {
       "neighbourhood": "Hipódromo Condesa",
+      "suburb": "Condesa",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06160",
       "country": "México",
@@ -327,7 +293,7 @@
     ]
   },
   "Cuauhtémoc, Ciudad de México, México": {
-    "place_id": 402575862,
+    "place_id": 311629893,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 17483459,
@@ -343,7 +309,6 @@
     "address": {
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "country": "México",
       "country_code": "mx"
@@ -356,7 +321,7 @@
     ]
   },
   "Hipódromo, Ciudad de México, México": {
-    "place_id": 309298520,
+    "place_id": 311170585,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 16823826,
@@ -368,11 +333,13 @@
     "importance": 0.13342732661936368,
     "addresstype": "neighbourhood",
     "name": "Hipódromo",
-    "display_name": "Hipódromo, Ciudad de México, Cuauhtémoc, Ciudad de México, 06100, México",
+    "display_name": "Hipódromo, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06100, México",
     "address": {
       "neighbourhood": "Hipódromo",
+      "suburb": "Condesa",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06100",
       "country": "México",
@@ -418,7 +385,7 @@
     ]
   },
   "Polanco IV Sección, Ciudad de México, México": {
-    "place_id": 311442475,
+    "place_id": 309316550,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 11990524026,
@@ -439,7 +406,6 @@
       "suburb": "Polanco",
       "city": "Ciudad de México",
       "borough": "Miguel Hidalgo",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "11550",
       "country": "México",
@@ -586,7 +552,7 @@
     ]
   },
   "Anáhuac I Sección, Ciudad de México, México": {
-    "place_id": 286459744,
+    "place_id": 309853443,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 54445804,
@@ -598,7 +564,7 @@
     "importance": 0.05342732661936366,
     "addresstype": "road",
     "name": "Calle Anáhuac",
-    "display_name": "Calle Anáhuac, Arenal 1ª. Sección, Ciudad de México, Venustiano Carranza, Ciudad de México, 15600, México",
+    "display_name": "Calle Anáhuac, Arenal 1ª. Sección, Arenal Puerto Aéreo, Ciudad de México, Venustiano Carranza, Ciudad de México, 15600, México",
     "address": {
       "road": "Calle Anáhuac",
       "neighbourhood": "Arenal 1ª. Sección",
@@ -649,15 +615,53 @@
       "-100.1552580"
     ]
   },
+  "#Hashtag Gallery Ltd, Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {},
+  "Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {
+    "place_id": 288688556,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1184579346,
+    "lat": "19.4057607",
+    "lon": "-99.1775757",
+    "class": "highway",
+    "type": "primary",
+    "place_rank": 26,
+    "importance": 0.05342732661936366,
+    "addresstype": "road",
+    "name": "Avenida Benjamín Franklin",
+    "display_name": "Avenida Benjamín Franklin, Hipódromo, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06100, México",
+    "address": {
+      "road": "Avenida Benjamín Franklin",
+      "neighbourhood": "Hipódromo",
+      "suburb": "Condesa",
+      "city": "Ciudad de México",
+      "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
+      "ISO3166-2-lvl4": "MX-CMX",
+      "postcode": "06100",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "19.4056227",
+      "19.4059176",
+      "-99.1780751",
+      "-99.1770718"
+    ]
+  },
+  "Casa Rafael Galvan, Zacatecas 94, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
+  "Zacatecas 94, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
+  "FlemishPixel (FPX), FlemishPixel, Av. Ejército Nacional Mexicano 6, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico": {},
+  "FlemishPixel, Av. Ejército Nacional Mexicano 6, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico": {},
   "Jardín Chapultepec, Av Chapultepec 398, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
   "Av Chapultepec 398, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
   "Ciudad de México, Mexico": {
-    "place_id": 313823621,
+    "place_id": 286673173,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 1376330,
-    "lat": "19.4326296",
-    "lon": "-99.1331785",
+    "lat": "19.3207722",
+    "lon": "-99.1514678",
     "class": "boundary",
     "type": "administrative",
     "place_rank": 8,
@@ -712,7 +716,7 @@
   },
   "PÚBLICO Reforma, Av. P.º de la Reforma 333, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {},
   "Colonia del Valle Centro, Ciudad de México, México": {
-    "place_id": 309399073,
+    "place_id": 311082506,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 10759183923,
@@ -742,17 +746,80 @@
       "-99.1569696"
     ]
   },
+  "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico": {},
+  "Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico": {},
+  "Pue., Mexico": {
+    "place_id": 308909357,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1376491,
+    "lat": "18.8333330",
+    "lon": "-98.0000000",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 8,
+    "importance": 0.6580700769828297,
+    "addresstype": "state",
+    "name": "Puebla",
+    "display_name": "Puebla, México",
+    "address": {
+      "state": "Puebla",
+      "ISO3166-2-lvl4": "MX-PUE",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "17.8609120",
+      "20.8396271",
+      "-99.0704940",
+      "-96.7246199"
+    ]
+  },
+  "Heroica Puebla de Zaragoza, Puebla, Mexico": {
+    "place_id": 286308930,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 245792117,
+    "lat": "19.0437196",
+    "lon": "-98.1981486",
+    "class": "place",
+    "type": "city",
+    "place_rank": 16,
+    "importance": 0.5949891799811835,
+    "addresstype": "city",
+    "name": "Puebla de Zaragoza",
+    "display_name": "Puebla de Zaragoza, Municipio de Puebla, Puebla, 72000, México",
+    "address": {
+      "city": "Puebla de Zaragoza",
+      "county": "Municipio de Puebla",
+      "state": "Puebla",
+      "ISO3166-2-lvl4": "MX-PUE",
+      "postcode": "72000",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "18.8837196",
+      "19.2037196",
+      "-98.3581486",
+      "-98.0381486"
+    ]
+  },
+  "Cervecería Cholula, Av. 13 Ote. 412, San Pablo Tecamac, 72760 Cholula de Rivadavia, Pue., Mexico": {},
+  "Av. 13 Ote. 412, San Pablo Tecamac, 72760 Cholula de Rivadavia, Pue., Mexico": {},
+  "Jobs Coworking Cholula | Gran Pirámide Plaza, C. 14 Pte. 111-Local 11, San Juan Aquiahuac, 72810 San Andrés Cholula, Pue., Mexico": {},
+  "C. 14 Pte. 111-Local 11, San Juan Aquiahuac, 72810 San Andrés Cholula, Pue., Mexico": {},
   "mexico tech week": {},
   "Google Mexico City, C. Montes Urales 445, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "C. Montes Urales 445, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "Carpe Diem Mindful Training, Lago Andromaco 17, Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico": {},
   "Lago Andromaco 17, Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico": {
-    "place_id": 289971923,
+    "place_id": 310653662,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 1148984825,
-    "lat": "19.4430584",
-    "lon": "-99.1990015",
+    "osm_id": 25038900,
+    "lat": "19.4432140",
+    "lon": "-99.2025181",
     "class": "highway",
     "type": "residential",
     "place_rank": 26,
@@ -773,17 +840,17 @@
       "country_code": "mx"
     },
     "boundingbox": [
-      "19.4430389",
-      "19.4430778",
-      "-99.1996376",
-      "-99.1983654"
+      "19.4430888",
+      "19.4433457",
+      "-99.2051120",
+      "-99.1999240"
     ]
   },
   "Colony House Reforma, Av. P.º de la Reforma 560, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "Av. P.º de la Reforma 560, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "BBVA, Av. P.º de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {},
   "Av. P.º de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 288232719,
+    "place_id": 311930761,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 427833539,
@@ -803,7 +870,6 @@
       "neighbourhood": "Juárez",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06600",
       "country": "México",
@@ -914,7 +980,7 @@
   "The Square at Corporativo Neuchatel, Av. Río San Joaquín 498, Polanco, Amp Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico": {},
   "Av. Río San Joaquín 498, Polanco, Amp Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico": {},
   "Polanco, Ciudad de México, Mexico": {
-    "place_id": 310752858,
+    "place_id": 287176082,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 308561120,
@@ -1033,7 +1099,7 @@
     ]
   },
   "Mexico City, CDMX, Mexico": {
-    "place_id": 311740181,
+    "place_id": 311629893,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 17483459,
@@ -1049,7 +1115,6 @@
     "address": {
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "country": "México",
       "country_code": "mx"
@@ -1067,7 +1132,7 @@
   "Av. Álvaro Obregón 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
   "Loop Climbing Center, C. Lago Wenner 37, Cuauhtémoc Pensil, Miguel Hidalgo, 11490 Ciudad de México, CDMX, Mexico": {},
   "C. Lago Wenner 37, Cuauhtémoc Pensil, Miguel Hidalgo, 11490 Ciudad de México, CDMX, Mexico": {
-    "place_id": 287484609,
+    "place_id": 309325933,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 11247031240,
@@ -1088,7 +1153,6 @@
       "quarter": "Nuevo Polanco",
       "city": "Ciudad de México",
       "borough": "Miguel Hidalgo",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "11490",
       "country": "México",
@@ -1103,7 +1167,7 @@
   },
   "NINYAS, C. Versalles 21, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {},
   "C. Versalles 21, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 309381963,
+    "place_id": 311642391,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 16748312,
@@ -1123,6 +1187,7 @@
       "suburb": "Roma",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06600",
       "country": "México",
@@ -1139,7 +1204,7 @@
   "Calz. del Rey, Panteón Civíl de Dolores, Miguel Hidalgo, 11580 Ciudad de México, CDMX, Mexico": {},
   "Está Pádel, Lago Ladoga 210, Modelo Pensil, Miguel Hidalgo, 11450 Ciudad de México, CDMX, Mexico": {},
   "Lago Ladoga 210, Modelo Pensil, Miguel Hidalgo, 11450 Ciudad de México, CDMX, Mexico": {
-    "place_id": 309307137,
+    "place_id": 311345364,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 654603031,
@@ -1158,6 +1223,7 @@
       "suburb": "Polanco",
       "city": "Ciudad de México",
       "borough": "Miguel Hidalgo",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "11450",
       "country": "México",
@@ -1206,11 +1272,11 @@
   "Periférico Blvrd Manuel Ávila Camacho 261, Polanco, Lomas de Chapultepec III Secc, Miguel Hidalgo, 11510 Ciudad de México, CDMX, Mexico": {},
   "ISDI México, Calle Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {},
   "Calle Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 308110843,
+    "place_id": 287568067,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 1231611936,
-    "lat": "19.4260273",
+    "lat": "19.4260274",
     "lon": "-99.1588658",
     "class": "amenity",
     "type": "social_centre",
@@ -1243,7 +1309,7 @@
   "mexico tech week & andrea rodriguez": {},
   "Núcleo, Av Plan de San Luis 491, Nueva Santa María, Azcapotzalco, 02800 Ciudad de México, CDMX, Mexico": {},
   "Av Plan de San Luis 491, Nueva Santa María, Azcapotzalco, 02800 Ciudad de México, CDMX, Mexico": {
-    "place_id": 289035520,
+    "place_id": 308125093,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 182894766,
@@ -1280,7 +1346,7 @@
   "Gobernador José Guadalupe Covarrubias 57-20, San Miguel Chapultepec I Secc, Miguel Hidalgo, 11850 Ciudad de México, CDMX, Mexico": {},
   "VINTORY Business House, Av. P.º de la Reforma 180, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México": {},
   "Av. P.º de la Reforma 180, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México": {
-    "place_id": 286713025,
+    "place_id": 311932222,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 217477791,
@@ -1318,7 +1384,7 @@
   "Puebla 237, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
   "Soho House Mexico City, C. Versalles 28, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {},
   "C. Versalles 28, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 287328124,
+    "place_id": 311025944,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 1226587716,
@@ -1339,7 +1405,6 @@
       "suburb": "Roma",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06600",
       "country": "México",
@@ -1358,7 +1423,7 @@
   "Enrique Ibsen 32-A, Polanco, Polanco III Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico": {},
   "Apple Operations México, Av. P.º de la Reforma 483, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {},
   "Av. P.º de la Reforma 483, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {
-    "place_id": 311730024,
+    "place_id": 312659986,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 217330154,
@@ -1379,7 +1444,6 @@
       "suburb": "Condesa",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06500",
       "country": "México",
@@ -1460,7 +1524,7 @@
   },
   "Av. P.º de la Reforma 180-piso 29, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {},
   "Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 311312715,
+    "place_id": 401811628,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 5335697471,
@@ -1472,12 +1536,11 @@
     "importance": 0.4050032141000227,
     "addresstype": "railway",
     "name": "Juárez",
-    "display_name": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+    "display_name": "Juárez, Avenida Balderas, Centro, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "address": {
       "railway": "Juárez",
       "road": "Avenida Balderas",
       "neighbourhood": "Centro",
-      "suburb": "Roma",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
       "state": "Ciudad de México",
@@ -1498,7 +1561,7 @@
   "Despecho Satélite, Cto Centro Comercial 29, Cd. Satélite, Naucalpan de Juárez, Manzana 034, Cd. Satélite, 53100 Satélite, Méx., Mexico": {},
   "Cto Centro Comercial 29, Cd. Satélite, Naucalpan de Juárez, Manzana 034, Cd. Satélite, 53100 Satélite, Méx., Mexico": {},
   "Méx., Mexico": {
-    "place_id": 287691034,
+    "place_id": 287992971,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 1376489,
@@ -1525,7 +1588,7 @@
     ]
   },
   "State of Mexico, State of Mexico, Mexico": {
-    "place_id": 290258681,
+    "place_id": 311664471,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 778642160,
@@ -1537,11 +1600,13 @@
     "importance": 0.05338709315632864,
     "addresstype": "road",
     "name": "Avenida San Agustín",
-    "display_name": "Avenida San Agustín, Colonia Faja de Oro, Colonia Granjas Valle de Guadalupe Sección B, Ecatepec de Morelos, Estado de México, 55130, México",
+    "display_name": "Avenida San Agustín, Colonia Faja de Oro, Santa Clara Coatitla, Ecatepec de Morelos, Atenco, Estado de México, 55130, México",
     "address": {
       "road": "Avenida San Agustín",
       "neighbourhood": "Colonia Faja de Oro",
+      "village": "Santa Clara Coatitla",
       "city": "Ecatepec de Morelos",
+      "municipality": "Atenco",
       "state": "Estado de México",
       "ISO3166-2-lvl4": "MX-MEX",
       "postcode": "55130",
@@ -1558,7 +1623,7 @@
   "mexico tech week & carlos dávila": {},
   "Nápoles 47, Nápoles 47, Ciudad de México, Mexico": {},
   "Nápoles 47, Ciudad de México, Mexico": {
-    "place_id": 311318648,
+    "place_id": 400103416,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 1222166850,
@@ -1593,7 +1658,7 @@
   },
   "Sheraton Mexico City Maria Isabel Hotel, Av. P.º de la Reforma 325, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {},
   "Av. P.º de la Reforma 325, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {
-    "place_id": 311117879,
+    "place_id": 311064198,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 217327858,
@@ -1614,7 +1679,6 @@
       "suburb": "Condesa",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06500",
       "country": "México",
@@ -1628,7 +1692,7 @@
     ]
   },
   "Cuauhtémoc, Ciudad de México, Mexico": {
-    "place_id": 402743203,
+    "place_id": 311740181,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 17483459,
@@ -1660,7 +1724,7 @@
   "Av. Insurgentes Sur 553, Escandón II Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX, Mexico": {},
   "Parque Tezozómoc Azcapotzalco, Hacienda del Rosario, Ex el Rosario, 02420 Mexico City, CDMX, Mexico": {},
   "Hacienda del Rosario, Ex el Rosario, 02420 Mexico City, CDMX, Mexico": {
-    "place_id": 407643723,
+    "place_id": 407811469,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 294268326,
@@ -1735,7 +1799,7 @@
   "Centro Urbano Pdte. Juárez, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
   "Coffeefy Workafe - Juárez, Liverpool 69, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {},
   "Liverpool 69, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 400135341,
+    "place_id": 399968682,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 1230780563,
@@ -1778,7 +1842,7 @@
   "C. Lago Zurich 219-Piso 11, Amp Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico": {},
   "Torre Médica Metropolitana Sucursal Condesa, Tampico 8, Colonia Condesa, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {},
   "Tampico 8, Colonia Condesa, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico": {
-    "place_id": 415243253,
+    "place_id": 415412764,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 1420618050,
@@ -1814,7 +1878,7 @@
   "Pedregal 55, Lomas - Virreyes, Lomas de Chapultepec IV Secc, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "Lomas - Virreyes, Lomas de Chapultepec IV Secc, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "Av. P.º de la Reforma 180, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 286713025,
+    "place_id": 309293156,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 217477791,
@@ -1835,7 +1899,6 @@
       "suburb": "Roma",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "06600",
       "country": "México",
@@ -1852,69 +1915,6 @@
   "Av. Javier Barros Sierra 540, Santa Fe, Lomas de Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX, Mexico": {},
   "Sierra Nevada 130, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
   "Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico": {},
-  "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico": {},
-  "Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico": {},
-  "Pue., Mexico": {
-    "place_id": 307920644,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "relation",
-    "osm_id": 1376491,
-    "lat": "18.8333330",
-    "lon": "-98.0000000",
-    "class": "boundary",
-    "type": "administrative",
-    "place_rank": 8,
-    "importance": 0.6580700769828297,
-    "addresstype": "state",
-    "name": "Puebla",
-    "display_name": "Puebla, México",
-    "address": {
-      "state": "Puebla",
-      "ISO3166-2-lvl4": "MX-PUE",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "17.8609120",
-      "20.8396271",
-      "-99.0704940",
-      "-96.7246199"
-    ]
-  },
-  "Heroica Puebla de Zaragoza, Puebla, Mexico": {
-    "place_id": 286308930,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "node",
-    "osm_id": 245792117,
-    "lat": "19.0437196",
-    "lon": "-98.1981486",
-    "class": "place",
-    "type": "city",
-    "place_rank": 16,
-    "importance": 0.5949891799811835,
-    "addresstype": "city",
-    "name": "Puebla de Zaragoza",
-    "display_name": "Puebla de Zaragoza, Municipio de Puebla, Puebla, 72000, México",
-    "address": {
-      "city": "Puebla de Zaragoza",
-      "county": "Municipio de Puebla",
-      "state": "Puebla",
-      "ISO3166-2-lvl4": "MX-PUE",
-      "postcode": "72000",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "18.8837196",
-      "19.2037196",
-      "-98.3581486",
-      "-98.0381486"
-    ]
-  },
-  "Cervecería Cholula, Av. 13 Ote. 412, San Pablo Tecamac, 72760 Cholula de Rivadavia, Pue., Mexico": {},
-  "Av. 13 Ote. 412, San Pablo Tecamac, 72760 Cholula de Rivadavia, Pue., Mexico": {},
-  "Jobs Coworking Cholula | Gran Pirámide Plaza, C. 14 Pte. 111-Local 11, San Juan Aquiahuac, 72810 San Andrés Cholula, Pue., Mexico": {},
-  "C. 14 Pte. 111-Local 11, San Juan Aquiahuac, 72810 San Andrés Cholula, Pue., Mexico": {},
   "Pinterest México, Av. P.º de la Reforma 509, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {},
   "Av. P.º de la Reforma 509, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico": {
     "place_id": 308326115,
@@ -1952,47 +1952,47 @@
     ]
   },
   "Londres 61, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico": {
-    "place_id": 288122541,
+    "place_id": 308326477,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 395300730,
-    "lat": "19.4273240",
-    "lon": "-99.1600647",
+    "osm_id": 1237116953,
+    "lat": "19.4228310",
+    "lon": "-99.1696061",
     "class": "highway",
     "type": "residential",
     "place_rank": 26,
     "importance": 0.05342732661936366,
     "addresstype": "road",
     "name": "Calle Londres",
-    "display_name": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+    "display_name": "Calle Londres, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "address": {
       "road": "Calle Londres",
       "neighbourhood": "Juárez",
-      "suburb": "Roma",
+      "suburb": "Condesa",
       "city": "Ciudad de México",
       "borough": "Cuauhtémoc",
       "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
-      "postcode": "06700",
+      "postcode": "06600",
       "country": "México",
       "country_code": "mx"
     },
     "boundingbox": [
-      "19.4267445",
-      "19.4279036",
-      "-99.1612838",
-      "-99.1588457"
+      "19.4225179",
+      "19.4231442",
+      "-99.1702725",
+      "-99.1689397"
     ]
   },
   "TecNM Instituto Tecnológico de Gustavo A. Madero, Avenida 608 y Avenida 412 300, Zoológico de San Juan de Aragón, Gustavo A. Madero, 07470 Ciudad de México, CDMX, Mexico": {},
   "Avenida 608 y Avenida 412 300, Zoológico de San Juan de Aragón, Gustavo A. Madero, 07470 Ciudad de México, CDMX, Mexico": {},
   "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico": {
-    "place_id": 286563230,
+    "place_id": 311196973,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 128123643,
-    "lat": "19.3608273",
-    "lon": "-99.1832488",
+    "osm_id": 128123645,
+    "lat": "19.3576918",
+    "lon": "-99.1842546",
     "class": "highway",
     "type": "secondary",
     "place_rank": 26,
@@ -2006,23 +2006,22 @@
       "suburb": "San Ángel",
       "city": "Ciudad de México",
       "borough": "Álvaro Obregón",
-      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "01020",
       "country": "México",
       "country_code": "mx"
     },
     "boundingbox": [
-      "19.3594704",
-      "19.3621818",
-      "-99.1836838",
-      "-99.1828066"
+      "19.3564669",
+      "19.3589177",
+      "-99.1846527",
+      "-99.1838594"
     ]
   },
   "Grid Dynamics, Av. de las Américas 1545-Piso 6, Providencia, Guadalajara, Jalisco, MX": {},
   "Av. de las Américas 1545-Piso 6, Providencia, Guadalajara, Jalisco, MX": {},
   "Jalisco, MX": {
-    "place_id": 290094031,
+    "place_id": 312000265,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 2340910,
@@ -2050,19 +2049,19 @@
   },
   "Cerevia, C. Isla Socorro 3297, Villa Guerrero, Guadalajara, Jalisco, MX": {},
   "C. Isla Socorro 3297, Villa Guerrero, Guadalajara, Jalisco, MX": {
-    "place_id": 289528040,
+    "place_id": 288901862,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 949050150,
-    "lat": "20.6299760",
-    "lon": "-103.3831447",
+    "osm_id": 829762420,
+    "lat": "20.6306672",
+    "lon": "-103.3855881",
     "class": "highway",
     "type": "residential",
     "place_rank": 26,
     "importance": 0.05340407644769967,
     "addresstype": "road",
     "name": "Calle Isla Socorro",
-    "display_name": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44960, México",
+    "display_name": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44989, México",
     "address": {
       "road": "Calle Isla Socorro",
       "neighbourhood": "Colón C.R.O.C.",
@@ -2071,15 +2070,15 @@
       "state_district": "Región Centro",
       "state": "Jalisco",
       "ISO3166-2-lvl4": "MX-JAL",
-      "postcode": "44960",
+      "postcode": "44989",
       "country": "México",
       "country_code": "mx"
     },
     "boundingbox": [
-      "20.6298919",
       "20.6300601",
-      "-103.3834434",
-      "-103.3828460"
+      "20.6311877",
+      "-103.3877535",
+      "-103.3834434"
     ]
   },
   "Improving, Av. Patria 888-4th, Loma Real, Zapopan, Jalisco, MX": {},
@@ -2154,44 +2153,6 @@
       "-99.1722979"
     ]
   },
-  "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
-  "Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
-  "Blend Station, Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {},
-  "Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {},
-  "Ventura Café, Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico": {},
-  "Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico": {
-    "place_id": 288459476,
-    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-    "osm_type": "way",
-    "osm_id": 691708647,
-    "lat": "20.6688527",
-    "lon": "-103.3969617",
-    "class": "highway",
-    "type": "residential",
-    "place_rank": 26,
-    "importance": 0.05340407644769967,
-    "addresstype": "road",
-    "name": "Avenida San Francisco",
-    "display_name": "Avenida San Francisco, Jardines de Los Arcos, Guadalajara, Región Centro, Jalisco, 44500, México",
-    "address": {
-      "road": "Avenida San Francisco",
-      "neighbourhood": "Jardines de Los Arcos",
-      "city": "Guadalajara",
-      "county": "Guadalajara",
-      "state_district": "Región Centro",
-      "state": "Jalisco",
-      "ISO3166-2-lvl4": "MX-JAL",
-      "postcode": "44500",
-      "country": "México",
-      "country_code": "mx"
-    },
-    "boundingbox": [
-      "20.6666938",
-      "20.6710107",
-      "-103.4006613",
-      "-103.3932628"
-    ]
-  },
   "Plaza Carso, Pl. Carso, Amp Granada, 11529 Ciudad de México, CDMX, Mexico": {},
   "Pl. Carso, Amp Granada, 11529 Ciudad de México, CDMX, Mexico": {},
   "Polanco, Ciudad de México, México": {
@@ -2230,7 +2191,7 @@
   },
   "Vicente Asador de Brasa - CDMX, Mayorazgo Higuera 40, Xoco, Benito Juárez, 03330 Ciudad de México, CDMX, Mexico": {},
   "Mayorazgo Higuera 40, Xoco, Benito Juárez, 03330 Ciudad de México, CDMX, Mexico": {
-    "place_id": 311146853,
+    "place_id": 308120375,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 865071075,
@@ -2249,6 +2210,7 @@
       "quarter": "San Sebastián Xoco",
       "city": "Ciudad de México",
       "borough": "Benito Juárez",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "03330",
       "country": "México",
@@ -2328,7 +2290,7 @@
     ]
   },
   "Colonia San Rafael, Ciudad de México, México": {
-    "place_id": 311052846,
+    "place_id": 309696618,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 9041880765,
@@ -2346,6 +2308,7 @@
       "quarter": "San Simón Pochtlan",
       "city": "Ciudad de México",
       "borough": "Azcapotzalco",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "02010",
       "country": "México",
@@ -2361,7 +2324,7 @@
   "CASO, Jose, C. José Rosas Moreno 142, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, Mexico": {},
   "Jose, C. José Rosas Moreno 142, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, Mexico": {},
   "Museo de Historia Natural y Cultura Ambiental, Ciudad de México, México": {
-    "place_id": 311016711,
+    "place_id": 308311861,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 153527884,
@@ -2381,6 +2344,7 @@
       "suburb": "Lomas de Chapultepec",
       "city": "Ciudad de México",
       "borough": "Miguel Hidalgo",
+      "state": "Ciudad de México",
       "ISO3166-2-lvl4": "MX-CMX",
       "postcode": "11100",
       "country": "México",
@@ -2394,6 +2358,44 @@
     ]
   },
   "Lomas de Chapultepec III Sección, Ciudad de México, México": {},
+  "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
+  "Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico": {},
+  "Blend Station, Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {},
+  "Avenida Tamaulipas 60, Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico": {},
+  "Ventura Café, Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico": {},
+  "Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico": {
+    "place_id": 288459476,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 691708647,
+    "lat": "20.6688527",
+    "lon": "-103.3969617",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05340407644769967,
+    "addresstype": "road",
+    "name": "Avenida San Francisco",
+    "display_name": "Avenida San Francisco, Jardines de Los Arcos, Guadalajara, Región Centro, Jalisco, 44500, México",
+    "address": {
+      "road": "Avenida San Francisco",
+      "neighbourhood": "Jardines de Los Arcos",
+      "city": "Guadalajara",
+      "county": "Guadalajara",
+      "state_district": "Región Centro",
+      "state": "Jalisco",
+      "ISO3166-2-lvl4": "MX-JAL",
+      "postcode": "44500",
+      "country": "México",
+      "country_code": "mx"
+    },
+    "boundingbox": [
+      "20.6666938",
+      "20.6710107",
+      "-103.4006613",
+      "-103.3932628"
+    ]
+  },
   "Extremadura Insurgentes, Ciudad de México, México": {
     "place_id": 311914696,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
@@ -2522,40 +2524,40 @@
     ]
   },
   "Centro, Colima, México": {
-    "place_id": 314891428,
+    "place_id": 407227988,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
-    "osm_id": 12869474116,
-    "lat": "19.2433983",
-    "lon": "-103.7279067",
+    "osm_id": 12853585267,
+    "lat": "19.2017137",
+    "lon": "-103.8117446",
     "class": "place",
     "type": "neighbourhood",
-    "place_rank": 24,
-    "importance": 0.08005327306019681,
+    "place_rank": 20,
+    "importance": 0.13338660639353014,
     "addresstype": "neighbourhood",
     "name": "Centro",
-    "display_name": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
+    "display_name": "Centro, Coquimatlán, Colima, 28400, México",
     "address": {
       "neighbourhood": "Centro",
-      "city": "Colima",
-      "county": "Municipio de Colima",
+      "town": "Coquimatlán",
+      "county": "Coquimatlán",
       "state": "Colima",
       "ISO3166-2-lvl4": "MX-COL",
-      "postcode": "28000",
+      "postcode": "28400",
       "country": "México",
       "country_code": "mx"
     },
     "boundingbox": [
-      "19.2333983",
-      "19.2533983",
-      "-103.7379067",
-      "-103.7179067"
+      "19.1917137",
+      "19.2117137",
+      "-103.8217446",
+      "-103.8017446"
     ]
   },
   "18, -92.9425, Oropeza, Villahermosa, Tabasco, México": {},
   "-92.9425, Oropeza, Villahermosa, Tabasco, México": {},
   "Tabasco, México": {
-    "place_id": 306503746,
+    "place_id": 306192490,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 2556680,
@@ -2583,7 +2585,7 @@
   },
   "El Centenario, Hermosillo, Sonora, México": {},
   "Hermosillo, Sonora, México": {
-    "place_id": 315091325,
+    "place_id": 316018697,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 273589239,
@@ -2612,10 +2614,8 @@
       "-110.8092202"
     ]
   },
-  "Workósfera Coworking @ Cerro de La Paz, Puebla, Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico": {},
-  "Puebla, Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico": {},
   "Merida, Yucatan, Mexico": {
-    "place_id": 284386221,
+    "place_id": 303090781,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "relation",
     "osm_id": 6265959,
@@ -2678,7 +2678,7 @@
     ]
   },
   "Guadalajara, Jalisco, Mexico": {
-    "place_id": 310091674,
+    "place_id": 288739709,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 1663173902,
@@ -2711,23 +2711,22 @@
   "Flemish Pixel, FlemishPixel, Av. Ejército Nacional Mexicano 6, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico": {},
   "Chez Vous #Timecafé, Av. Insurgentes Centro 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico": {},
   "Av. Insurgentes Centro 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico": {
-    "place_id": 311328139,
+    "place_id": 286890476,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 25286345,
-    "lat": "19.3820125",
-    "lon": "-99.1713523",
+    "osm_id": 25286451,
+    "lat": "19.3825968",
+    "lon": "-99.1740881",
     "class": "highway",
     "type": "residential",
     "place_rank": 26,
     "importance": 0.05342732661936366,
     "addresstype": "road",
-    "name": "Avenida Porfirio Díaz",
-    "display_name": "Avenida Porfirio Díaz, Colonia Insurgentes San Borja, Del Valle, Ciudad de México, Benito Juárez, Ciudad de México, 03100, México",
+    "name": "Avenida California",
+    "display_name": "Avenida California, Colonia Insurgentes San Borja, Ciudad de México, Benito Juárez, Ciudad de México, 03100, México",
     "address": {
-      "road": "Avenida Porfirio Díaz",
+      "road": "Avenida California",
       "neighbourhood": "Colonia Insurgentes San Borja",
-      "suburb": "Del Valle",
       "city": "Ciudad de México",
       "borough": "Benito Juárez",
       "state": "Ciudad de México",
@@ -2737,10 +2736,10 @@
       "country_code": "mx"
     },
     "boundingbox": [
-      "19.3816524",
-      "19.3824684",
-      "-99.1726525",
-      "-99.1700040"
+      "19.3816241",
+      "19.3835914",
+      "-99.1753442",
+      "-99.1728150"
     ]
   },
   "Tlacoquemecatl del Valle, Ciudad de México, México": {
@@ -2776,13 +2775,15 @@
   },
   "Universidad de Oriente, Av. 21 Ote. 1816, Zona Sin Asignación de Nombre de Col 39, Azcarate, 72501 Heroica Puebla de Zaragoza, Pue., Mexico": {},
   "Av. 21 Ote. 1816, Zona Sin Asignación de Nombre de Col 39, Azcarate, 72501 Heroica Puebla de Zaragoza, Pue., Mexico": {},
+  "Workósfera Coworking @ Cerro de La Paz, Puebla, Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico": {},
+  "Puebla, Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico": {},
   "Multiple Venues - University Roadshow, South Tamaulipas, Tampico, Madero y Altamira": {},
   "South Tamaulipas, Tampico, Madero y Altamira": {},
   "Tampico, Madero y Altamira": {},
   "Computacion Del Golfo Ver, S.C., 213 Avenida Urano, Boca del Río": {},
   "S.C., 213 Avenida Urano, Boca del Río": {},
   "213 Avenida Urano, Boca del Río": {
-    "place_id": 288298664,
+    "place_id": 310408372,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
     "osm_id": 29104486,
@@ -2813,7 +2814,7 @@
     ]
   },
   "Universidad Cristóbal Colón, Paseo de Los Cedros, Veracruz": {
-    "place_id": 308944843,
+    "place_id": 307705242,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 499411497,
@@ -2847,39 +2848,39 @@
   },
   "Apex Systems Helice, 1104 Avenida San Jerónimo, Monterrey": {},
   "1104 Avenida San Jerónimo, Monterrey": {
-    "place_id": 291075892,
+    "place_id": 312476019,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "way",
-    "osm_id": 795690225,
-    "lat": "25.6813780",
-    "lon": "-100.3708526",
+    "osm_id": 712526989,
+    "lat": "25.6750160",
+    "lon": "-100.3595075",
     "class": "highway",
-    "type": "tertiary",
+    "type": "primary",
     "place_rank": 26,
     "importance": 0.05340270008392459,
     "addresstype": "road",
-    "name": "Avenida San Jerónimo",
-    "display_name": "Avenida San Jerónimo, San Jerónimo, Monterrey, Nuevo León, 64650, México",
+    "name": "Calzada San Jerónimo",
+    "display_name": "Calzada San Jerónimo, San Jerónimo, Monterrey, Nuevo León, 64640, México",
     "address": {
-      "road": "Avenida San Jerónimo",
+      "road": "Calzada San Jerónimo",
       "neighbourhood": "San Jerónimo",
       "city": "Monterrey",
       "county": "Monterrey",
       "state": "Nuevo León",
       "ISO3166-2-lvl4": "MX-NLE",
-      "postcode": "64650",
+      "postcode": "64640",
       "country": "México",
       "country_code": "mx"
     },
     "boundingbox": [
-      "25.6813357",
-      "25.6814202",
-      "-100.3709778",
-      "-100.3707274"
+      "25.6736886",
+      "25.6753233",
+      "-100.3649318",
+      "-100.3541858"
     ]
   },
   "Villahermosa, Villahermosa, Villahermosa": {
-    "place_id": 309330983,
+    "place_id": 285849634,
     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
     "osm_type": "node",
     "osm_id": 363593895,
