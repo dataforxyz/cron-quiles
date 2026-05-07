@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T19:23:00.076590+00:00",
-  "total_events": 156,
+  "generated_at": "2026-05-07T01:35:51.744340+00:00",
+  "total_events": 155,
   "city": "Online",
   "communities": [
     {
@@ -118,17 +118,6 @@
       ]
     },
     {
-      "name": "This Week in Fintech",
-      "description": "AI x Fintech Talks, Mexico Fintech Week 2026. Eventos sobre IA y fintech (Ciudad de México).",
-      "links": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/lkn7cfxz",
-          "label": "Luma"
-        }
-      ]
-    },
-    {
       "name": "v0 Prompt to Production Mexico City",
       "description": "Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. Hosted by aibuilders.mx (Ciudad de México).",
       "links": [
@@ -152,6 +141,17 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
         }
       ]
     },
@@ -527,35 +527,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-uuo2blcOSr9Yggx",
       "hash_key": "selling the dream how to explain your aw_2023-08-29T16:00:00+00:00"
-    },
-    {
-      "title": "This Week in Fintech|The Fintech Job Fair|Online",
-      "description": "Get up-to-date information at: https://luma.com/fintech-job-fair\n\nHosted by This Week in Fintech",
-      "url": "https://luma.com/fintech-job-fair",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/fintech-job-fair",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-3QJRnwHwI46eunH",
-      "online": true,
-      "organizer": "This Week in Fintech",
-      "dtstart": "2023-09-06T13:00:00+00:00",
-      "dtend": "2023-09-06T21:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/lkn7cfxz",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-3QJRnwHwI46eunH",
-      "hash_key": "the fintech job fair_2023-09-06T12:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Investors & Networking|Online",
@@ -3862,35 +3833,6 @@
       "hash_key": "how i use ai 6 scaling to 1m users_2026-04-16T22:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|Toronto Chapter Organizing (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-to-5-6\n\nHosted by The AI Collective, Sina Ahmadi Malayeri & Alex Barnes",
-      "url": "https://luma.com/aic-to-5-6",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-to-5-6",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-BvCANYozYx17BLl",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-05-06T20:00:00+00:00",
-      "dtend": "2026-05-06T21:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-BvCANYozYx17BLl",
-      "hash_key": "toronto chapter organizing w the ai coll_2026-05-06T20:00:00+00:00"
-    },
-    {
       "title": "Kong Mexico City|You Secured Your APIs. Then You Added AI.|Online",
       "description": "Kong/MEXICO-CITY\nYour organization has added GenAI. Your developers are hitting LLM APIs. Your agents are talking to tools over MCP. Your systems are communicating agent-to-agent over A2A. Events are triggering autonomous workflows nobody fully documented. And somewhere in all of that traffic — sensitive data is moving in ways nobody fully mapped out.\n\nIn this fireside chat, Kong's Dan Temkin and Harness’ Adam Arellano get into the specific, technical risks that emerge across the full AI connectivity stack: prompt injection via MCP tool calls, PII leaking through LLM request payloads, trust assumptions that break down in A2A communication, event streams that bypass every security control, and down to the classic synchronous APIs still powering it all.\n\nNo product slides. No sales pitch. Just a candid conversation about what the threat landscape actually looks like and what a realistic governance architecture can do about it.",
       "url": "https://www.meetup.com/kong-mexico-city/events/314581663/",
@@ -4110,8 +4052,39 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Universidad Cristóbal Colón, Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91940, México",
+      "address": "Universidad Cristóbal Colón (Torrente Viver), Calle Paseo de los Cedros, Floresta, Veracruz, Municipio de Veracruz, Veracruz, 91945, México",
       "hash_key": "hands on build with ai veracruz 2026_2026-05-08T16:00:00+00:00"
+    },
+    {
+      "title": "GDG Barranquilla|Conferencia Online: Build With AI LATAM|Online",
+      "description": "Un día completo de charlas y workshops técnicos donde los GDG de Latinoamérica nos unimos para compartir lo que estamos construyendo con IA generativa, agentes y las últimas herramientas de Google.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-barranquilla-presents-conferencia-online-build-with-ai-latam/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-barranquilla-presents-conferencia-online-build-with-ai-latam/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG Barranquilla",
+      "dtstart": "2026-05-09T09:00:00-05:00",
+      "dtend": "2026-05-09T17:30:00-05:00",
+      "tags": [
+        "Build with AI",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "conferencia online build with ai latam_2026-05-09T14:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Roundtable #23: AI Stigma at Work: Easy Button or Essential? (w/ AI Collective & Voyage Consulting)|Online",
@@ -4559,6 +4532,37 @@
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
     },
     {
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|June 9 - Visual AI in Healthcare: Ground Truth in the Foundation-Model Era|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nLearn how to handle expert label disagreement and build high performing fine-tuned medical foundation models for clinical imaging tasks.\n\n**Date, Time and Location**\n\nJun 09, 2026\n9:00 AM – 10:30 AM PST\n**[Online. Register for the Zoom!](https://voxel51.com/events/visual-ai-in-healthcare-ground-truth-in-the-foundation-model-era-june-9-2026)**\n\nMedical imaging teams are increasingly fine-tuning foundation models like UNI, MedSAM2, and BiomedCLIP on small in-house datasets. At that scale, label disagreement is a dominant cause of model failures, and the disputed ground truth is what regulators will ask you to defend. We'll build a medical imaging dataset in [FiftyOne](https://docs.voxel51.com/), surfacing and analyzing the cases where reviewers disagree. From there, we'll fine-tune a foundation model on cleaned data and use FiftyOne to evaluate where our model succeeds and fails, and which data is needed to move the model’s performance forward.\n\n**You’ll learn how to:**\n\n* Build a medical imaging dataset that preserves multiple expert annotations as first-class fields\n* Use FiftyOne views, embedding similarity, and confidence-disagreement signals to find the samples where reviewers split.\n* Run label-quality screens, near-duplicate detection, and active-learning sample selection using foundation model embeddings\n* Fine-tune a medical foundation model on a defensible dataset, with auditable and versioned experiment tracking\n* Filter and slice evaluation for regulatory and clinical readiness\n* Drive the pipeline with natural-language agents using the FiftyOne MCP Server and Skills to run the same curation, evaluation, and review workflows from your favorite AI tool\n\n**Who This Is For**\n\n* ML and computer-vision engineers in the medical imaging space\n* Data and annotation operations teams\n* Clinical AI and digital pathology leads\n* Regulatory and quality leads",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314665898/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314665898/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+      "dtstart": "2026-06-09T10:00:00-06:00",
+      "dtend": "2026-06-09T11:30:00-06:00",
+      "tags": [
+        "ai",
+        "data",
+        "frontend"
+      ],
+      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "june 9 visual ai in healthcare ground tr_2026-06-09T16:00:00+00:00"
+    },
+    {
       "title": "Agility Talks|Evolución de Prácticas de Entrega Continua en tiempos de IA|Online",
       "description": "Agile Talks - Difundiendo la agilidad\n**Evolución de Prácticas de Entrega Continua en tiempos de Desarrollo de software con IA**\n\nLa entrega continua de software sigue siendo el modo de máximo flujo de valor para el negocio en desarrollo de software, a pesar de que a muchas organizaciones todavía les cueste implementar muchas de sus prácticas centrales, como integración continua, automatización de pruebas de aceptación y entregas frecuentes.\nAl mismo tiempo, el cambio acelerado en la capacidad de producir software utilizando prácticas y herramientas de IA pone en discusión qué cambia, y qué sigue siendo igual, en nuestras prácticas y procesos. El balance entre responsabilidad, capacidad y calidad nos desafía a explorar nuevas formas de desarrollar mientras mantenemos los avances que hemos logrado. En este contexto de incertidumbre, nos encontramos para compartir preguntas, experiencias y algunas de las respuestas que están emergiendo.\n\n**Patrocinado por ScrumAlliance.**\n\n**Diego Fontdevila** es consultor, profesor e investigador con una trayectoria centrada en elevar el nivel de la práctica en la comunidad de desarrollo de software. A lo largo de su carrera, ha trabajado impulsando enfoques que combinan agilidad y excelencia técnica, convencido de que la agilidad sin una base sólida es solo una ilusión.\nPara Diego, la calidad no es un lujo, sino un principio fundamental para garantizar la continuidad del negocio y la sostenibilidad de las organizaciones.\nForma parte de Grupo Esfera, donde desde hace más de 20 años colaboran con líderes de TI y CTOs en procesos de transformación organizacional, apoyándose no en soluciones mágicas, sino en un enfoque estructurado y probado: el **Esfera Way**.",
       "url": "https://www.meetup.com/agilility-talks/events/314544766/",
@@ -4647,40 +4651,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-18T22:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|July 23 - AI, ML, and Computer Vision Meetup|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nJul 23, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-july-23-2026)**\n\n**Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive Creativity**\n\nThe domain of automatic video trailer generation is currently undergoing a profound paradigm shift, transitioning from heuristicbased extraction methods to deep generative synthesis. While early methodologies relied heavily on low-level feature engineering, visual saliency, and rule-based heuristics to select representative shots, recent advancements in Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and diffusion-based video synthesis have enabled systems that not only identify key moments but also construct coherent, emotionally resonant narratives.\n\nThis survey provides a comprehensive technical review of this evolution, with a specific focus on generative techniques including autoregressive Transformers, LLM-orchestrated pipelines, and text-to-video foundation models like OpenAI's Sora and Google's Veo. We analyze the architectural progression from Graph Convolutional Networks (GCNs) to Trailer Generation Transformers (TGT), evaluate the economic implications of automated content velocity on User-Generated Content (UGC) platforms, and discuss the ethical challenges posed by high-fidelity neural synthesis.\n\nBy synthesizing insights from recent literature, this report establishes a new taxonomy for AI-driven trailer generation in the era of foundation models, suggesting that future promotional video systems will move beyond extractive selection toward controllable generative editing and semantic reconstruction of trailers.\n\n*About the Speaker*\n\n[Abhishek Dharmaratnakar](https://www.linkedin.com/in/abhid95/?isSelfProfile=false) is an Engineering Leader at Google leading YouTube Premium. His work focuses on the intersection of hyperscale media infrastructure and generative artificial intelligence, directing cross-functional engineering organizations to redefine how billions of users consume and create content\n\n**Making Agent Systems Observable, Reliable, and Testable**\n\nIn this talk, I’ll share practical lessons from building real agent systems in computer vision workflows, focusing on how to design evaluation loops, observability pipelines, and sandboxed environments that make agents reliable in practice. We’ll explore how to measure behavior end-to-end, test components independently, and build feedback loops that help agents improve over time, even as tools, models, and pipelines evolve. This talk is for engineers and builders who want to move beyond demos and learn how to make agent systems production-ready.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel at Voxel51\\. With over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV\\.\n\n**Training-Free Object and Associated Effect Removal in Videos**\n\nI will be presenting our recent work, Object-WIPER, which focuses on removing objects and their associated effects from videos. Instead of fine-tuning models for each editing task, our method reuses the priors of pre-trained text-to-video models to perform object and effect removal in a training-free manner. We also curate a real world associated-effect benchmark and evaluation metric for more realistic assessment of video object removal.\n\n*About the Speaker*\n\n[Saksham Singh Kushwaha](https://www.linkedin.com/in/saksham-singh-kushwaha/) is a candidate at UT Dallas, with research interests in audio-visual learning, spatial audio, and computer vision. I received my master’s degree from NYU and bachelor’s degree from IIT Delhi.\n\n**Turning Models into Systems: AI Architecture That Works**\n\nThis talk explores what it really takes to make \"intelligent systems\" work in the messy, high-stakes reality of production environments – not just in demos or pilots. Most AI initiatives do not fail because the algorithms are weak, but because the surrounding system is not designed to handle uncertainty, change, and operational demands.\n\nThe session shows how to separate the concerns of building and improving models from their use in daily operations, and how to create a stable core of rules, safety, and business meaning around which smarter components can evolve.\n\nInstead of treating AI as a magic add-on, the talk frames it as a capability that must be grounded in the organization's language, workflows, and responsibilities. It demonstrates how to design that core so that new models, tools, and data sources can be plugged in, compared, and replaced without breaking trust.\n\nAttendees will leave with a clear mental model and a set of practical design ideas for turning clever prototypes into robust, understandable, and adaptable intelligent systems that people on the ground are willing to rely on.\n\n*About the Speaker*\n\n[Dr. Nikita Golovko](https://www.linkedin.com/in/dr-nikita-golovko/) is a seasoned Solution Architect with over 16 years of experience in designing scalable, secure, and cost-effective software architectures for industrial and business-critical systems.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314662548/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314662548/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-07-23T10:00:00-06:00",
-      "dtend": "2026-07-23T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "data",
-        "devops",
-        "frontend",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "july 23 ai ml and computer vision meetup_2026-07-23T16:00:00+00:00"
     }
   ]
 }
