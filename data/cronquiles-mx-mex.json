@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-10T13:02:22.139613+00:00",
-  "total_events": 51,
+  "generated_at": "2026-05-10T19:01:01.036716+00:00",
+  "total_events": 50,
   "city": "México",
   "communities": [
     {
-      "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "name": "AI/IA CDMX",
+      "description": "Canal de Luma de la comunidad de IA en Ciudad de México.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/ai-cdmx",
           "label": "Luma"
         }
       ]
@@ -23,17 +23,6 @@
       "name": "Python CDMX",
       "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.",
       "links": []
-    },
-    {
-      "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
-      "links": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
-          "label": "Luma"
-        }
-      ]
     },
     {
       "name": "Frutero Club",
@@ -102,22 +91,25 @@
       "hash_key": "mastering fundraising building a strong _2024-10-21T16:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Finance for Hypergrowth - Measure What Matters|México|México",
-      "description": "Get up-to-date information at: https://luma.com/9zgfnaxv\n\nAddress:\nBUNA - La Tostadora\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Juan Pablo Donoso",
-      "url": "https://luma.com/9zgfnaxv",
+      "title": "Mexico Tech Week|AWS Startups  -  GenAI Workshop|México|México",
+      "description": "Get up-to-date information at: https://luma.com/ytcxgpit\n\nAddress:\nNápoles 47\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Alex Santana, Mexico Tech Week & Daniel Bedolla",
+      "url": "https://luma.com/ytcxgpit",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/9zgfnaxv",
+          "url": "https://luma.com/ytcxgpit",
           "label": "Ver en Luma"
         }
       ],
-      "location": "BUNA - La Tostadora, C. Dr. Lucio 181, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico",
+      "location": "Nápoles 47, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
       "online": false,
       "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-22T14:30:00+00:00",
-      "dtend": "2024-10-22T15:30:00+00:00",
-      "tags": [],
+      "dtstart": "2024-10-22T15:00:00+00:00",
+      "dtend": "2024-10-22T17:00:00+00:00",
+      "tags": [
+        "ai",
+        "cloud"
+      ],
       "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
       "country": "México",
       "country_code": "MX",
@@ -125,8 +117,8 @@
       "state_code": "MX-MEX",
       "city": "Ciudad de México",
       "city_code": "ciudaddemexico",
-      "address": "Calle Doctor Rafaél Lucio, Doctores, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06720, México",
-      "hash_key": "finance for hypergrowth measure what mat_2024-10-22T14:00:00+00:00"
+      "address": "47, Calle Nápoles, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "hash_key": "aws startups genai workshop_2024-10-22T14:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Tech Nights: Retos de escalar SaaS en Latinoamérica.|México|México",
@@ -378,22 +370,24 @@
       "hash_key": "emprendimiento digital innovacin sin lmi_2024-10-23T22:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Pizza, Beer & Startup Talks! 🚀|México|México",
-      "description": "Get up-to-date information at: https://luma.com/StartupBeers\n\nAddress:\nLoop Climbing Center\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Aleksi Lehtola & Miguel Del Monte",
-      "url": "https://luma.com/StartupBeers",
+      "title": "Mexico Tech Week|Padel Club x Fintual|México|México",
+      "description": "Get up-to-date information at: https://luma.com/ai25cw26\n\nAddress:\nEstá Pádel\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Anahí Sosa",
+      "url": "https://luma.com/ai25cw26",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/StartupBeers",
+          "url": "https://luma.com/ai25cw26",
           "label": "Ver en Luma"
         }
       ],
-      "location": "Loop Climbing Center, C. Lago Wenner 37, Cuauhtémoc Pensil, Miguel Hidalgo, 11490 Ciudad de México, CDMX, Mexico",
+      "location": "Está Pádel, Lago Ladoga 210, Modelo Pensil, Miguel Hidalgo, 11450 Ciudad de México, CDMX, Mexico",
       "online": false,
       "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-24T01:00:00+00:00",
-      "dtend": "2024-10-24T05:00:00+00:00",
-      "tags": [],
+      "dtstart": "2024-10-24T14:00:00+00:00",
+      "dtend": "2024-10-24T15:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
       "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
       "country": "México",
       "country_code": "MX",
@@ -401,8 +395,8 @@
       "state_code": "MX-MEX",
       "city": "Ciudad de México",
       "city_code": "ciudaddemexico",
-      "address": "Loop Climbing Center, 37, Calle Lago Wenner, Cuauhtémoc Pensil, Nuevo Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11490, México",
-      "hash_key": "pizza beer startup talks_2024-10-24T00:00:00+00:00"
+      "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+      "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|2° Health Day in Tech by Asociación Healthtech México|México|México",
@@ -462,33 +456,6 @@
       "hash_key": "cabrito valley mtw_2024-10-24T14:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Pivote (from the concept of pivoting)|México|México",
-      "description": "Get up-to-date information at: https://luma.com/ilnes23n\n\nAddress:\nNúcleo\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 4 others",
-      "url": "https://luma.com/ilnes23n",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/ilnes23n",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Núcleo, Av Plan de San Luis 491, Nueva Santa María, Azcapotzalco, 02800 Ciudad de México, CDMX, Mexico",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-24T22:00:00+00:00",
-      "dtend": "2024-10-25T05:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "México",
-      "state_code": "MX-MEX",
-      "city": "Ciudad de México",
-      "city_code": "ciudaddemexico",
-      "address": "Avenida Plan de San Luis, Colonia Nueva Santa María, Ciudad de México, Azcapotzalco, Ciudad de México, 02800, México",
-      "hash_key": "pivote from the concept of pivoting_2024-10-24T22:00:00+00:00"
-    },
-    {
       "title": "Mexico Tech Week|Startup to Exit in Mexico: Connect, Learn & Sunset Party @HAAB Condesa by DBMx. Powered by BluePixel & Andromeda|México|México",
       "description": "Get up-to-date information at: https://luma.com/dtgm3mb9\n\nAddress:\nHaab Project Condesa\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Stefano Perlasca",
       "url": "https://luma.com/dtgm3mb9",
@@ -516,24 +483,52 @@
       "hash_key": "startup to exit in mexico connect learn _2024-10-24T22:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Conoce todo sobre Apple Intelligence y cómo utilizar AI/ML en tus apps|México|México",
-      "description": "Get up-to-date information at: https://luma.com/h9qyyyjt\n\nAddress:\nApple Operations México\nTorre Reforma, Piso 41 (Av. P.º de la Reforma 483), si vienes en coche se recomienda buscar un lugar de parquímetro o algún estacionamiento cerca, ya que el de la torre es muy caro\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Jero Cosio",
-      "url": "https://luma.com/h9qyyyjt",
+      "title": "AI/IA CDMX|AI For Hustlers|México|México",
+      "description": "Get up-to-date information at: https://luma.com/lxfgbzju\n\nAddress:\n#Hashtag Gallery Ltd\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Benjamin Ullrich & Gilberto Aguila Alamillo",
+      "url": "https://luma.com/lxfgbzju",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/h9qyyyjt",
+          "url": "https://luma.com/lxfgbzju",
           "label": "Ver en Luma"
         }
       ],
-      "location": "Apple Operations México, Av. P.º de la Reforma 483, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+      "location": "#Hashtag Gallery Ltd, Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "AI/IA CDMX",
+      "dtstart": "2024-10-25T01:00:00+00:00",
+      "dtend": "2024-10-25T02:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/ai-cdmx",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Avenida Benjamín Franklin, Hipódromo Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 11850, México",
+      "hash_key": "ai for hustlers_2024-10-25T00:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Encuentro de Social Media: estrategia, contenido y Ads by Converzzo|México|México",
+      "description": "Get up-to-date information at: https://luma.com/converzzoenmexico\n\nAddress:\nCto. Interior Melchor Ocampo 469\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Juan Tamayo",
+      "url": "https://luma.com/converzzoenmexico",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/converzzoenmexico",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Cto. Interior Melchor Ocampo 469, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico",
       "online": false,
       "organizer": "Mexico Tech Week",
       "dtstart": "2024-10-25T17:00:00+00:00",
-      "dtend": "2024-10-25T19:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
+      "dtend": "2024-10-25T19:30:00+00:00",
+      "tags": [],
       "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
       "country": "México",
       "country_code": "MX",
@@ -541,8 +536,8 @@
       "state_code": "MX-MEX",
       "city": "Ciudad de México",
       "city_code": "ciudaddemexico",
-      "address": "Torre Reforma, 483, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
-      "hash_key": "conoce todo sobre apple intelligence y c_2024-10-25T16:00:00+00:00"
+      "address": "Anzures, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+      "hash_key": "encuentro de social media estrategia con_2024-10-25T16:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Masterclass para cerrar clientes con Whatsapp|México|México",
@@ -628,31 +623,85 @@
       "hash_key": "disconnect to reconnect a hike by aire l_2024-10-26T12:00:00+00:00"
     },
     {
-      "title": "Sudo FCiencias|Charla: Aprendizajes y Perspectivas Actuales sobre la Déuda Técnica|México|México",
-      "description": "Get up-to-date information at: https://luma.com/9hu9w8j7\n\nAddress:\nUNAM - Facultad De Ciencias\nAnfiteatro Alfredo Barrera, Edificio Amoxcalli.\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias",
-      "url": "https://luma.com/9hu9w8j7",
+      "title": "Frutero Club|Coworking Frutal #9🥑|México|México",
+      "description": "Get up-to-date information at: https://luma.com/28h8jcg9\n\nAddress:\nSan Francisco 1845\nCiudad de México, Ciudad de México\nMexico\n\nHosted by René Hernández & 3 others",
+      "url": "https://luma.com/28h8jcg9",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/9hu9w8j7",
+          "url": "https://luma.com/28h8jcg9",
           "label": "Ver en Luma"
         }
       ],
-      "location": "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
+      "location": "San Francisco 1845, Actipan, Benito Juárez, 03230 Ciudad de México, CDMX, Mexico",
       "online": false,
-      "organizer": "Sudo FCiencias",
-      "dtstart": "2025-09-19T22:00:00+00:00",
-      "dtend": "2025-09-20T00:00:00+00:00",
+      "organizer": "Frutero Club",
+      "dtstart": "2025-08-06T16:00:00+00:00",
+      "dtend": "2025-08-06T21:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
       "country": "México",
       "country_code": "MX",
       "state": "México",
       "state_code": "MX-MEX",
       "city": "Ciudad de México",
       "city_code": "ciudaddemexico",
-      "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
-      "hash_key": "charla aprendizajes y perspectivas actua_2025-09-19T22:00:00+00:00"
+      "address": "Calle San Francisco, Actipan, Santo Tomás Actipan, Ciudad de México, Benito Juárez, Ciudad de México, 03240, México",
+      "hash_key": "coworking frutal 9_2025-08-06T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|HYROX - HYBRID CLASS @CARPE|México|México",
+      "description": "Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAddress:\nCalz. Gral. Mariano Escobedo 726\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
+      "url": "https://luma.com/lq1rnyo7",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/lq1rnyo7",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Calz. Gral. Mariano Escobedo 726, Polanco, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2025-10-20T12:00:00+00:00",
+      "dtend": "2025-10-20T13:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+      "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Monday Brunch Breaks by Pluria: Tech That Brings People Together|México|México",
+      "description": "Get up-to-date information at: https://luma.com/w5b8uzk7\n\nAddress:\nCoffeefy Workafe - Juárez\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 5 others",
+      "url": "https://luma.com/w5b8uzk7",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/w5b8uzk7",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Coffeefy Workafe - Juárez, Liverpool 69, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2025-10-20T17:00:00+00:00",
+      "dtend": "2025-10-20T19:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "69, Calle Liverpool, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "hash_key": "monday brunch breaks by pluria tech that_2025-10-20T16:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Unlocking Global Growth: The Role of EOR Solutions in Scaling Tech Companies|México|México",
@@ -792,34 +841,31 @@
       "hash_key": "make tech sexy_2025-10-21T00:00:00+00:00"
     },
     {
-      "title": "Python CDMX|Meetup Enero 2026  -  Pinterest & PythonCDMX|México|México",
-      "description": "Get up-to-date information at: https://luma.com/cciyzwk2\n\nAddress:\nPinterest México\nCiudad de México, Ciudad de México\nMexico\n\nHosted by PythonCDMX",
-      "url": "https://luma.com/cciyzwk2",
+      "title": "Frutero Club|Coworking Frutal #24🍇|México|México",
+      "description": "Get up-to-date information at: https://luma.com/853fahdd\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Frutero",
+      "url": "https://luma.com/853fahdd",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/cciyzwk2",
+          "url": "https://luma.com/853fahdd",
           "label": "Ver en Luma"
         }
       ],
-      "location": "Pinterest México, Av. P.º de la Reforma 509, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+      "location": "Chez Vous #Timecafé, Av. Insurgentes Centro 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
       "online": false,
-      "organizer": "Python CDMX",
-      "dtstart": "2026-01-14T00:00:00+00:00",
-      "dtend": "2026-01-14T02:30:00+00:00",
-      "tags": [
-        "backend",
-        "python"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-f8GxWvNMvBvvuLb",
+      "organizer": "Frutero Club",
+      "dtstart": "2025-12-03T16:00:00+00:00",
+      "dtend": "2025-12-03T22:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
       "country": "México",
       "country_code": "MX",
       "state": "México",
       "state_code": "MX-MEX",
       "city": "Ciudad de México",
       "city_code": "ciudaddemexico",
-      "address": "The Ritz-Carlton, Mexico City, 509, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
-      "hash_key": "meetup enero 2026 pinterest pythoncdmx_2026-01-14T00:00:00+00:00"
+      "address": "Avenida Porfirio Díaz, Colonia Insurgentes San Borja, Del Valle, Ciudad de México, Benito Juárez, Ciudad de México, 03100, México",
+      "hash_key": "coworking frutal 24_2025-12-03T16:00:00+00:00"
     },
     {
       "title": "Frutero Club|Casa Frutero - Coworking Frutal #2|México|México",
@@ -957,35 +1003,6 @@
       "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
     },
     {
-      "title": "Sudo FCiencias|Bases de datos no relacionales, ¿qué es eso?|México|México",
-      "description": "Get up-to-date information at: https://luma.com/e17fbtoo\n\nAddress:\nUNAM - Facultad De Ciencias\nLaboratorio de Ciencias de la Computación 1, Edificio Tlahuizcalpan\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias",
-      "url": "https://luma.com/e17fbtoo",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
-      "online": false,
-      "organizer": "Sudo FCiencias",
-      "dtstart": "2026-02-06T21:00:00+00:00",
-      "dtend": "2026-02-06T22:30:00+00:00",
-      "tags": [
-        "frontend"
-      ],
-      "source": "https://luma.com/e17fbtoo",
-      "country": "México",
-      "country_code": "MX",
-      "state": "México",
-      "state_code": "MX-MEX",
-      "city": "Ciudad de México",
-      "city_code": "ciudaddemexico",
-      "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
-      "hash_key": "bases de datos no relacionales qu es eso_2026-02-06T20:00:00+00:00"
-    },
-    {
       "title": "Frutero Club|Casa Frutero - Coworking Frutal #6|México|México",
       "description": "Get up-to-date information at: https://luma.com/0nllzrl7\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
       "url": "https://luma.com/0nllzrl7",
@@ -1092,33 +1109,6 @@
       "city_code": "ciudaddemexico",
       "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
-    },
-    {
-      "title": "FinTech México|Evoluciona tu relación con el dinero - By Pilou & Dalia|México|México",
-      "description": "Get up-to-date information at: https://luma.com/7mivqqeo\n\nAddress:\nDalia\nCiudad de México, Ciudad de México\nMexico\n\nHosted by FinTech México & 4 others",
-      "url": "https://luma.com/7mivqqeo",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/7mivqqeo",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Dalia, Monte Líbano 215, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
-      "online": false,
-      "organizer": "FinTech México",
-      "dtstart": "2026-02-24T14:30:00+00:00",
-      "dtend": "2026-02-24T16:30:00+00:00",
-      "tags": [],
-      "source": "https://luma.com/02t893pf",
-      "country": "México",
-      "country_code": "MX",
-      "state": "México",
-      "state_code": "MX-MEX",
-      "city": "Ciudad de México",
-      "city_code": "ciudaddemexico",
-      "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
-      "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
     },
     {
       "title": "Frutero Club|Casa Frutero - Coworking Frutal #8|México|México",
@@ -1367,33 +1357,6 @@
       "city_code": "ciudaddemexico",
       "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
       "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
-    },
-    {
-      "title": "Sudo FCiencias|compufest[1] - Charlas & Talleres|México|México",
-      "description": "Get up-to-date information at: https://luma.com/nlyxj7sm\n\nAddress:\nUNAM - Facultad De Ciencias\nAuditorio Barajas Celis + Por Definir\nCiudad de México, Mexico\n\nHosted by Sudo FCiencias & 4 others",
-      "url": "https://luma.com/nlyxj7sm",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/nlyxj7sm",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
-      "online": false,
-      "organizer": "Sudo FCiencias",
-      "dtstart": "2026-04-24T15:00:00+00:00",
-      "dtend": "2026-04-24T21:00:00+00:00",
-      "tags": [],
-      "source": "https://luma.com/e17fbtoo",
-      "country": "México",
-      "country_code": "MX",
-      "state": "México",
-      "state_code": "MX-MEX",
-      "city": "Ciudad de México",
-      "city_code": "ciudaddemexico",
-      "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
-      "hash_key": "compufest 1 charlas talleres_2026-04-24T14:00:00+00:00"
     },
     {
       "title": "Frutero Club|Casa Frutero - Coworking Frutal #15|México|México",
