@@ -45,7 +45,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**HackrobotsMX**](https://www.meetup.com/hackrobotsmx) | HackrobotsMX es la primera y única comunidad en América sin fines de lucro dedicada a la formación y capacitación en robótica. | Online |
 | 🔴 [**HTML5 CDMX**](https://www.meetup.com/html5-ciudad-de-mexico) | Desarrollo web, estándares W3C y tecnologías de frontend. | Online |
 | 🔴 [**j4Guanatos**](https://www.meetup.com/j4guanatos) | Comunidad de Java en Guadalajara. Eventos sobre Java y tecnologías relacionadas. | Online |
-| 🔴 [**Kong Mexico City**](https://www.meetup.com/kong-mexico-city) | Eventos sobre APIs, Microservicios, Service Mesh e Insomnia. | Online |
+| 🟢 [**Kong Mexico City**](https://www.meetup.com/kong-mexico-city) | Eventos sobre APIs, Microservicios, Service Mesh e Insomnia. | Online |
 | 🟢 [**Management In Tech**](https://luma.com/qhszdqs3) | Conversaciones sobre liderazgo y gestión de equipos en tech. | Ciudad de México |
 | 🔴 [**Meetup de Network Orquestrators, Creating Unicorns**](https://www.meetup.com/meetup-de-network-orquestrators-creating-unicorns) | En este grupo estamos intentando construir empresas Unicornio. Queremos contactar con startuperos interesados en intercambiar ideas y contactos. | Online |
 | 🔴 [**Meetup México**](https://www.meetup.com/meetup-mexico) | Comunidad general de usuarios y organizadores de Meetup en México. | Online |
@@ -60,7 +60,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**PHP Mexico**](https://www.meetup.com/php-the-right-way) | ¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP. | Online |
 | 🔴 [**PostgreSQL México**](https://www.meetup.com/postgresql-mexico) | Usuarios y administradores de bases de datos PostgreSQL. | Online |
 | 🟢 [**PyTalavera**](https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl) | Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región. | Puebla |
-| 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México |
+| 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México, México |
 | 🔴 [**Python Monterrey**](https://www.meetup.com/pythonmty) | Comunidad de Python en la ciudad de Monterrey. | Online |
 | 🔴 [**Python Puebla**](https://www.meetup.com/grupo-de-python-en-puebla) | Comunidad de Python en el estado de Puebla. Charlas y talleres. | Online |
 | 🟢 [**Pythonista**](https://www.meetup.com/pythonista) | Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles. | Online |
