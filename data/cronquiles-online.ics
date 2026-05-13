@@ -402,38 +402,6 @@ LOCATION:https://luma.com/event/evt-PrP4i8wg2oKljAl
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-PrP4i8wg2oKljAl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|TechLab: Workshop Manipulación de datos de Pytho
- n|México|
-DTSTART:20241025T213000Z
-CATEGORIES:python
-DESCRIPTION:Get up-to-date information at: https://luma.com/nzb89n7y\n\nAd
- dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
-LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX
-X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
- e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
-X-CRONQUILES-CITY:Ciudad de México
-X-CRONQUILES-CITY-CODE:ciudaddemexico
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|
-DTSTART:20241025T213000Z
-DESCRIPTION:Get up-to-date information at: https://luma.com/8dtqdfok\n\nAd
- dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
-LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX
-X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
- e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
-X-CRONQUILES-CITY:Ciudad de México
-X-CRONQUILES-CITY-CODE:ciudaddemexico
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Disconnect to connect con Tally|México|
 DTSTART:20241026T140000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/lq8qr9ji\n\nAd
@@ -1141,80 +1109,6 @@ LOCATION:https://luma.com/event/evt-JKP1msvFEFrIVYP
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-JKP1msvFEFrIVYP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
- 13 - Best of 3DV 2026|Online
-DTSTART:20260513T100000
-CATEGORIES:ai,backend,cloud,frontend,mobile,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nWelcome to the Best of 3DV series\, your virtual pass to some of the grou
- ndbreaking research\, insights\, and innovations that defined this year’
- s conference. Live streaming from the authors to you.\n\n**Date\, Time and
-  Location**\n\nMay 13\, 2026\n9AM Pacific\nOnline. **[Register for Zoom!](
- https://voxel51.com/events/best-of-3dv-2026-may-13-2026)**\n\n**Material s
- election in 2D and beyond - methods\, tricks and applications**\n\nIn this
-  talk\, we'll explore image understanding from a material-centric perspect
- ive\, namely through the lens of material understanding. Materials disting
- uish themselves by their response to light\, which is governed and modelle
- d through physical properties like roughness or gloss - however\, understa
- nding such properties is a non-trivial task for current models and network
-  architectures. We'll see how we can select materials similar to a given q
- uery material\, significantly improve selection fidelity and eventually ev
- en venture beyond 2D\, to enable selection in the 3D domain.\n\n*About the
-  Speaker*\n\n[Michael Fischer](https://www.linkedin.com/in/michael-fischer
- -32b43b1a4/) is a research scientist at Adobe research London. He obtained
-  his PhD from University College London (UCL)\, advised by Niloy Mitra and
-  Tobias Ritschel. Michael has authored several top-tier publications (CVPR
- \, ICCV\, SIGGRAPH\, ...) and is a recipient of both the Meta PhD scholars
- hip and the Rabin Ezra scholarship. His research interests focus on image-
-  and scene-understanding\, material perception\, selection and editing and
-  efficient optimization.\n\n**Look Around and Pay Attention: Multi-camera 
- Point Tracking Reimagined with Transformers**\n\nThis paper presents LAPA 
- (Look Around and Pay Attention)\, a novel end-to-end transformer-based arc
- hitecture for multi-camera point tracking that integrates appearance-based
-  matching with geometric constraints. Traditional pipelines decouple detec
- tion\, association\, and tracking\, leading to error propagation and tempo
- ral inconsistency in challenging scenarios. LAPA addresses these limitatio
- ns by leveraging attention mechanisms to jointly reason across views and t
- ime\, establishing soft correspondences through a cross-view attention mec
- hanism enhanced with geometric priors. Instead of relying on classical tri
- angulation\, we construct 3D point representations via attention-weighted 
- aggregation\, inherently accommodating uncertainty and partial observation
- s.\n\n*About the Speaker*\n\n[Bishoy Galoaa](https://www.linkedin.com/in/b
- ishoy-galoaa-153668149) is a PhD Student in Northeastern University\n\n**G
- aussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual 
- Try-On**\n\nWe introduce Gaussian Wardrobe\, a novel framework to digitali
- ze compositional 3D neural avatars from multi-view videos. Existing method
- s for 3D neural avatars typically treat the human body and clothing as an 
- inseparable entity\, which fails to capture the dynamics of complex free-f
- orm garments and limits the reuse of clothing across different subjects. T
- o overcome these problems\, our method decomposes neural avatars into bodi
- es and layers of shape-agnostic neural garments. Our framework learns the 
- geometry and deformations of each garment layer from multi-view videos and
-  normalizes them into a shape-independent space using 3D Gaussians. We dem
- onstrate that these compositional garments contribute to a versatile digit
- al wardrobe\, enabling a practical 3D virtual try-on application where clo
- thing can be freely transferred to new subjects.\n\n*About the Speaker*\n\
- n[Hsuan-I Ho](https://www.linkedin.com/in/hohs) obtained his doctoral degr
- ee from ETH Zurich\, supervised by Prof. Otmar Hilliges and Prof. Marc Pol
- lefeys. His research focuses on human-centric machine perception\, includi
- ng 3D human reconstruction\, human modeling\, and pose estimation. The goa
- l is to push the boundary of human and machine interaction on future human
- -centric reasoning and physical AI.\n\n**Consistency Models for 3D Point C
- loud Generation**\n\nConTiCoM-3D is a new method for creating 3D point clo
- uds. It works directly with 3D points and can generate shapes very quickly
-  in only one or two steps. Unlike many older methods\, it does not need a 
- separate teacher model or a complex latent space. Tests on typical benchma
- rks show that it can produce high-quality 3D shapes while being faster tha
- n many existing approaches.\n\n*About the Speaker*\n\n[Sebastian Eilermann
- ](https://www.linkedin.com/in/sebastian-eilermann-a83339151) is a PhD stud
- ent specialising in 3D generative AI. My research focuses on developing ad
- vanced methods for creating and understanding three-dimensional content. I
-  explore the intersection of machine learning\, computer vision and genera
- tive modelling to enable the generation of more realistic and efficient 3D
-  assets.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
  II|Online
 DTSTART:20260513T200000
@@ -1441,7 +1335,7 @@ SUMMARY:Rust-AICollective|Live Executive Teardowns: Scaling Your Voice Wit
 DTSTART:20260520T180000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/2uyzceoo\n\nHo
- sted by Abraham & 3 others
+ sted by Abraham & 4 others
 LOCATION:https://luma.com/event/evt-juNiYiKaeEVT857
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-juNiYiKaeEVT857
 END:VEVENT
@@ -1576,6 +1470,16 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-4-30\n\
  nHosted by Eileen Wu & 3 others
 LOCATION:https://luma.com/event/evt-UwmVlsfq54OZNGj
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-UwmVlsfq54OZNGj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|Papo de Founders - Dilson\, da CertiFace - Encon
+ tro #11 AI Collective São Paulo|Online
+DTSTART:20260521T220000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sa-5-21\n\
+ nHosted by The AI Collective\, Alexandre Mandl & Luiz Real
+LOCATION:https://luma.com/event/evt-5vkWHGOMiVuCCXT
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-5vkWHGOMiVuCCXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Heroica Veracruz|[Hands on] Build with AI: De la curiosidad co
@@ -2179,6 +2083,31 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  on Architect with over 16 years of experience in designing scalable\, secu
  re\, and cost-effective software architectures for industrial and business
  -critical systems.
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Aug 
+ 20 - Cold Pool to Hot Queue: Annotation Curation with FiftyOne|Online
+DTSTART:20260820T100000
+CATEGORIES:ai,data
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nIn this hands-on workshop\, you'll use [FiftyOne ](https://docs.voxel51.c
+ om/)to run the full rare-class mining loop end-to-end on a large unlabeled
+  image pool: compress the pool with near-duplicate detection\, embed image
+ s with a modern vision backbone\, mine candidate positives via seeded simi
+ larity from a tiny labeled set\, confirm them through targeted human revie
+ w\, and prioritize the survivors for annotation using representativeness a
+ nd uniqueness scores.\n\n**Time\, Date and Location**\n\nAug 20\, 2026\n9:
+ 00 AM - 11:00 AM PST\, 2026\nOnline. **[Register for the Zoom!](https://vo
+ xel51.com/events/from-cold-pool-to-hot-queue-annotation-curation-with-fift
+ yone-august-20-2026)**\n\n**What You'll Walk Away With**\n\n* A working Fi
+ ftyOne pipeline for finding rare classes in any visual dataset you own\n* 
+ A repeatable four-stage funnel — compress\, mine\, confirm\, prioritize 
+ — with a clear objective at each stage\n* A fine-tuned detector that dem
+ onstrably outperforms one trained on the same number of randomly sampled i
+ mages\n* The mental model that data curation — not architecture or hyper
+ parameters — is the highest-leverage thing you can do to improve a rare-
+ class detector
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
