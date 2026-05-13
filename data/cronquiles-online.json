@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:19:03.718489+00:00",
-  "total_events": 155,
+  "generated_at": "2026-05-13T01:39:32.533124+00:00",
+  "total_events": 169,
   "city": "Online",
   "communities": [
     {
@@ -65,11 +65,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -163,6 +163,17 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
         }
       ]
     },
@@ -1447,62 +1458,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
-      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
-      "url": "https://luma.com/nzb89n7y",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/nzb89n7y",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-25T21:30:00+00:00",
-      "dtend": "2024-10-26T02:30:00+00:00",
-      "tags": [
-        "python"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "Ciudad de México",
-      "city_code": "ciudaddemexico",
-      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
-      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
-      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
-      "url": "https://luma.com/8dtqdfok",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/8dtqdfok",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-25T21:30:00+00:00",
-      "dtend": "2024-10-26T02:30:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "Ciudad de México",
-      "city_code": "ciudaddemexico",
-      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
-      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -3632,7 +3587,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3641,69 +3596,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-JKP1msvFEFrIVYP",
       "hash_key": "cumplir sin frenar el negocio by iqsec_2026-05-08T00:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|May 12 - Best of 3DV 2026|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nWelcome to the Best of 3DV series, your virtual pass to some of the groundbreaking research, insights, and innovations that defined this year’s conference. Live streaming from the authors to you.\n\n**Date, Time and Location**\n\nMay 12, 2026\n9AM Pacific\nOnline. **[Register for Zoom!](https://voxel51.com/events/best-of-3dv-2026-may-12-2026)**\n\n**Precise lighting control in diffusion models by drawing shadows**\n\nDiffusion models can now be used as powerful neural rendering engines that can be leveraged for realistically inserting virtual objects into images. However, unlike traditional 3D rendering engines (e.g., Blender), they lack precise control over the lighting, an essential requirement in an artistic workflow. We demonstrate that fine-grained lighting control can be achieved for object relighting simply by specifying the desired shadow of the object and injecting it into the diffusion denoising process. The model then produces a realistic relighting of the object consistent with the input shadow direction.\n\n*About the Speaker*\n\n[Frédéric Fortier-Chouinard](https://www.linkedin.com/in/lefreud/) is a PhD student at Laval University, advised by Prof. Jean-François Lalonde. His research focuses on adding precise physical controls to diffusion-based image and video generation methods, in particular lighting and camera control.\n\n**SmokeSeer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction**\n\nSmoke in real-world scenes can severely degrade image quality and hamper visibility. Recent image restoration methods either rely on data-driven priors that are susceptible to hallucinations, or are limited to static low-density smoke. We introduce SmokeSeer, a method for simultaneous 3D scene reconstruction and smoke removal from multi-view video sequences. Our method uses thermal and RGB images, leveraging the reduced scattering in thermal images to see through smoke. We build upon 3D Gaussian splatting to fuse information from the two image modalities, and decompose the scene into smoke and non-smoke components. Unlike prior work, SmokeSeer handles a broad range of smoke densities and adapts to temporally varying smoke. We validate our method on synthetic data and a new real-world smoke dataset with RGB and thermal images.\n\n*About the Speaker*\n\n[Neham Jain](https://www.linkedin.com/in/neham-jain/) is a Research Scientist at Meshy AI focused on 3D generative models and multimodal learning. He holds an M.S. in Robotics from Carnegie Mellon University and works at the intersection of 3D vision, neural rendering, and scalable AI systems.\n\n**Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption**\n\nDepth estimation from monocular video has become a key component of many real-world computer vision systems. Recently, Video Depth Anything (VDA) has demonstrated strong performance on long video sequences. However, it relies on batch-processing which prohibits its use in an online setting. In this work, we overcome this limitation and introduce online VDA (oVDA). The key innovation is to employ techniques from Large Language Models (LLMs), namely, caching latent features during inference and masking frames at training. Our oVDA method outperforms all competing online video depth estimation methods in both accuracy and VRAM usage. Low VRAM usage is particularly important for deployment on edge devices. We demonstrate that oVDA runs at 42 FPS on an NVIDIA A100 and at 20 FPS on an NVIDIA Jetson edge device.\n\n*About the Speaker*\n\n[Johann-Friedrich Feiden](https://www.linkedin.com/in/johann-friedrich-feiden-b9120329a/) is a PhD student at Universität Heidelberg specializing in computer vision and machine learning. During my bachelor's, I focused on self-supervised representations, while during my master's, I shifted my focus towards computer vision.\n\n**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**\n\nNovel view synthesis of dynamic scenes from monocular video tends to break down once the camera deviates far from the training trajectory, leaving applications in mixed reality, autonomous driving, and immersive media without reliable wide-angle renderings. We present ExpanDyNeRF, a dynamic NeRF that broadens the reliable synthesis range to large-angle rotations by leveraging Gaussian splatting priors as pseudo ground truth to jointly refine density and color at novel viewpoints. To benchmark side-view fidelity, an axis largely missing from prior datasets, we introduce SynDM, the first synthetic dynamic multi-view dataset with paired primary and rotated views, built on a custom GTA V pipeline. Across SynDM, DyNeRF, and NVIDIA, ExpanDyNeRF substantially outperforms prior dynamic NeRF and Gaussian methods under extreme viewpoint shifts.\n\nWe close by previewing PanoWorld, our follow-up that pushes view expansion to its natural limit, namely geometry-consistent 360° panoramic video generation from a single image and text prompt.\n\n*About the Speaker*\n\n[Le Jiang](https://www.linkedin.com/in/lejiang999/) is a [Ph.D. student] in the Augmented Cognition Lab (ACLab) at Northeastern University, advised by Prof. Sarah Ostadabbas. His research centers on 3D scene reconstruction and novel view synthesis for dynamic scenes, with recent work extending dynamic NeRFs to large-angle viewpoints and pushing view synthesis toward geometry-consistent 360° panoramic video world models.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314386368/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314386368/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-05-12T12:00:00-06:00",
-      "dtend": "2026-05-12T14:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "data",
-        "frontend",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "may 12 best of 3dv 2026_2026-05-12T18:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|Vibe Hours v3: Unhinged Builds in Claude Design|Online",
-      "description": "Get up-to-date information at: https://luma.com/3dcegc6j\n\nHosted by Abraham, Alexandria Hamilton & The AI Collective",
-      "url": "https://luma.com/3dcegc6j",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/3dcegc6j",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-1n6rmlkPcOH7PFK",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-05-13T00:00:00+00:00",
-      "dtend": "2026-05-13T01:00:00+00:00",
-      "tags": [
-        "ai",
-        "frontend"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-1n6rmlkPcOH7PFK",
-      "hash_key": "vibe hours v3 unhinged builds in claude _2026-05-13T00:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 13 - Best of 3DV 2026|Online",
@@ -3738,6 +3630,37 @@
       "city_code": "",
       "address": "",
       "hash_key": "may 13 best of 3dv 2026_2026-05-13T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-13/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-13/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-13T20:00:00-06:00",
+      "dtend": "2026-05-13T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-05-14T02:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 14 - AI, ML and Computer Vision Meetup|Online",
@@ -3791,7 +3714,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3832,6 +3755,36 @@
       "city_code": "",
       "address": "",
       "hash_key": "ci cd endurecido para aplicaciones en py_2026-05-19T00:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-18/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-18/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-18T20:00:00-06:00",
+      "dtend": "2026-05-18T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-05-19T02:00:00+00:00"
     },
     {
       "title": "Data, Cloud and AI in Mexico City|IBM Tech Summit Monterrey 2026|México|",
@@ -3926,6 +3879,37 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-juNiYiKaeEVT857",
       "hash_key": "live executive teardowns scaling your vo_2026-05-20T18:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-20/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-20/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-20T20:00:00-06:00",
+      "dtend": "2026-05-20T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-05-21T02:00:00+00:00"
     },
     {
       "title": "Kong Mexico City|Agentic AI Cost Control for the CFO: Attribution & Visibility|Online",
@@ -4104,6 +4088,36 @@
       "hash_key": "build with ai week gira universitaria su_2026-05-25T14:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-25/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-25/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-25T20:00:00-06:00",
+      "dtend": "2026-05-25T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-05-26T02:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 27 - Perceptron AI and FiftyOne for Video Understanding Workshop|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for a hands-on virtual session on May 27 exploring video-native multimodal AI and how to integrate cutting-edge video understanding models into your computer vision workflows.\n\n**Date, Time and Location**\n\nMay 27, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for Zoom!](https://voxel51.com/events/getting-started-perceptron-ai-fiftyone-video-understanding-may-27-2026)**\n\n**Video-Native Multimodal Models for Video and Image Understanding**\n\nIn this 20-minute talk, Akshat will introduce Perceptron’s latest release, a video-native multimodal model that matches or exceeds frontier models from Google and Alibaba on video and image understanding at a fraction of their inference cost. He’ll walk through the capabilities that move the needle for real video workloads: temporal grounding to clip precise events from long streams, egocentric reasoning for first-person and wearable contexts, and structured “thinking traces” that reason over motion and physical space. He’ll also cover the image-side advances production perception teams care about: reliable pointing, point-by-example one-shot visual search, dense counting, dial/gauge/clock reading, and structured document extraction.\n\n*About the Speaker*\n\n[Akshat Shrivastava](https://www.linkedin.com/in/akshatsh/) is the CTO and co-founder of Perceptron, previously leading AR On-Device at Meta and conducting research at UW.\n\n**Getting Started with Perceptron AI in FiftyOne**\n\nIn the second half of the session, Harpreet Sahota will walk through how to get started using Perceptron’s video-native multimodal model within FiftyOne for real-world video understanding workflows. He’ll demonstrate how to connect to the API, explore multimodal outputs inside FiftyOne, and build practical workflows for tasks like temporal event analysis, visual search, and video dataset inspection. Attendees will leave with a hands-on understanding of how to integrate state-of-the-art video perception models into their existing computer vision pipelines.\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in VLMs, Visual Agents, Document AI, and Physical AI.",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314738082/",
@@ -4135,6 +4149,37 @@
       "city_code": "",
       "address": "",
       "hash_key": "may 27 perceptron ai and fiftyone for vi_2026-05-27T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-27/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-27/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-27T20:00:00-06:00",
+      "dtend": "2026-05-27T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-05-28T02:00:00+00:00"
     },
     {
       "title": "AWS User Group Jalisco|🔐 Security & Compliance in the AI Era|Online",
@@ -4199,6 +4244,36 @@
       "hash_key": "test please ignore_2026-06-01T18:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-01/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-01/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-01T20:00:00-06:00",
+      "dtend": "2026-06-01T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-02T02:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Predictive Neurotechnologies, Criminal Risk and the Future of the Presumption of Innocence|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-gl-6-3\n\nHosted by The AI Collective & 4 others",
       "url": "https://luma.com/aic-gl-6-3",
@@ -4226,6 +4301,67 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-CORCUTzJrvpRzSw",
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-03/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-03/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-03T20:00:00-06:00",
+      "dtend": "2026-06-03T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-04T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-08T20:00:00-06:00",
+      "dtend": "2026-06-08T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-09T02:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 9 - Visual AI in Healthcare: Ground Truth in the Foundation-Model Era|Online",
@@ -4257,6 +4393,67 @@
       "city_code": "",
       "address": "",
       "hash_key": "june 9 visual ai in healthcare ground tr_2026-06-09T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-10/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-10/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-10T20:00:00-06:00",
+      "dtend": "2026-06-10T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-11T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-15/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-15/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-15T20:00:00-06:00",
+      "dtend": "2026-06-15T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-16T02:00:00+00:00"
     },
     {
       "title": "Agility Talks|Evolución de Prácticas de Entrega Continua en tiempos de IA|Online",
@@ -4320,6 +4517,37 @@
       "hash_key": "june 17 how to build vision data agents _2026-06-17T16:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-17/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-17/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-17T20:00:00-06:00",
+      "dtend": "2026-06-17T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-18T02:00:00+00:00"
+    },
+    {
       "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
       "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/vhwcyvjr",
@@ -4347,6 +4575,36 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-18T22:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-22/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-22/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-22T20:00:00-06:00",
+      "dtend": "2026-06-22T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-23T02:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 24 - Building Composable Vision Workflows in FiftyOne|Online",
@@ -4381,6 +4639,193 @@
       "city_code": "",
       "address": "",
       "hash_key": "june 24 building composable vision workf_2026-06-24T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-24/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-24/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-24T20:00:00-06:00",
+      "dtend": "2026-06-24T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-25T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-29T20:00:00-06:00",
+      "dtend": "2026-06-29T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-30T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-01/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-01/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-07-01T20:00:00-06:00",
+      "dtend": "2026-07-01T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-07-02T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-07-06/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-07-06/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-07-06T20:00:00-06:00",
+      "dtend": "2026-07-06T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-07-07T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-08/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-08/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-07-08T20:00:00-06:00",
+      "dtend": "2026-07-08T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-07-09T02:00:00+00:00"
+    },
+    {
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|July 23 - AI, ML, and Computer Vision Meetup|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nJul 23, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-july-23-2026)**\n\n**Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive Creativity**\n\nThe domain of automatic video trailer generation is currently undergoing a profound paradigm shift, transitioning from heuristicbased extraction methods to deep generative synthesis. While early methodologies relied heavily on low-level feature engineering, visual saliency, and rule-based heuristics to select representative shots, recent advancements in Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and diffusion-based video synthesis have enabled systems that not only identify key moments but also construct coherent, emotionally resonant narratives.\n\nThis survey provides a comprehensive technical review of this evolution, with a specific focus on generative techniques including autoregressive Transformers, LLM-orchestrated pipelines, and text-to-video foundation models like OpenAI's Sora and Google's Veo. We analyze the architectural progression from Graph Convolutional Networks (GCNs) to Trailer Generation Transformers (TGT), evaluate the economic implications of automated content velocity on User-Generated Content (UGC) platforms, and discuss the ethical challenges posed by high-fidelity neural synthesis.\n\nBy synthesizing insights from recent literature, this report establishes a new taxonomy for AI-driven trailer generation in the era of foundation models, suggesting that future promotional video systems will move beyond extractive selection toward controllable generative editing and semantic reconstruction of trailers.\n\n*About the Speaker*\n\n[Abhishek Dharmaratnakar](https://www.linkedin.com/in/abhid95/?isSelfProfile=false) is an Engineering Leader at Google leading YouTube Premium. His work focuses on the intersection of hyperscale media infrastructure and generative artificial intelligence, directing cross-functional engineering organizations to redefine how billions of users consume and create content\n\n**Making Agent Systems Observable, Reliable, and Testable**\n\nIn this talk, I’ll share practical lessons from building real agent systems in computer vision workflows, focusing on how to design evaluation loops, observability pipelines, and sandboxed environments that make agents reliable in practice. We’ll explore how to measure behavior end-to-end, test components independently, and build feedback loops that help agents improve over time, even as tools, models, and pipelines evolve. This talk is for engineers and builders who want to move beyond demos and learn how to make agent systems production-ready.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel at Voxel51\\. With over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV\\.\n\n**Training-Free Object and Associated Effect Removal in Videos**\n\nI will be presenting our recent work, Object-WIPER, which focuses on removing objects and their associated effects from videos. Instead of fine-tuning models for each editing task, our method reuses the priors of pre-trained text-to-video models to perform object and effect removal in a training-free manner. We also curate a real world associated-effect benchmark and evaluation metric for more realistic assessment of video object removal.\n\n*About the Speaker*\n\n[Saksham Singh Kushwaha](https://www.linkedin.com/in/saksham-singh-kushwaha/) is a candidate at UT Dallas, with research interests in audio-visual learning, spatial audio, and computer vision. I received my master’s degree from NYU and bachelor’s degree from IIT Delhi.\n\n**Turning Models into Systems: AI Architecture That Works**\n\nThis talk explores what it really takes to make \"intelligent systems\" work in the messy, high-stakes reality of production environments – not just in demos or pilots. Most AI initiatives do not fail because the algorithms are weak, but because the surrounding system is not designed to handle uncertainty, change, and operational demands.\n\nThe session shows how to separate the concerns of building and improving models from their use in daily operations, and how to create a stable core of rules, safety, and business meaning around which smarter components can evolve.\n\nInstead of treating AI as a magic add-on, the talk frames it as a capability that must be grounded in the organization's language, workflows, and responsibilities. It demonstrates how to design that core so that new models, tools, and data sources can be plugged in, compared, and replaced without breaking trust.\n\nAttendees will leave with a clear mental model and a set of practical design ideas for turning clever prototypes into robust, understandable, and adaptable intelligent systems that people on the ground are willing to rely on.\n\n*About the Speaker*\n\n[Dr. Nikita Golovko](https://www.linkedin.com/in/dr-nikita-golovko/) is a seasoned Solution Architect with over 16 years of experience in designing scalable, secure, and cost-effective software architectures for industrial and business-critical systems.",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314662548/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314662548/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+      "dtstart": "2026-07-23T10:00:00-06:00",
+      "dtend": "2026-07-23T12:00:00-06:00",
+      "tags": [
+        "ai",
+        "backend",
+        "data",
+        "devops",
+        "frontend",
+        "security"
+      ],
+      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "july 23 ai ml and computer vision meetup_2026-07-23T16:00:00+00:00"
     },
     {
       "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",

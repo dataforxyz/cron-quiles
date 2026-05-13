@@ -402,38 +402,6 @@ LOCATION:https://luma.com/event/evt-PrP4i8wg2oKljAl
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-PrP4i8wg2oKljAl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|TechLab: Workshop Manipulación de datos de Pytho
- n|México|
-DTSTART:20241025T213000Z
-CATEGORIES:python
-DESCRIPTION:Get up-to-date information at: https://luma.com/nzb89n7y\n\nAd
- dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
-LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX
-X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
- e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
-X-CRONQUILES-CITY:Ciudad de México
-X-CRONQUILES-CITY-CODE:ciudaddemexico
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|
-DTSTART:20241025T213000Z
-DESCRIPTION:Get up-to-date information at: https://luma.com/8dtqdfok\n\nAd
- dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
-LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
- xico\, CDMX
-X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
- e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
-X-CRONQUILES-CITY:Ciudad de México
-X-CRONQUILES-CITY-CODE:ciudaddemexico
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Disconnect to connect con Tally|México|
 DTSTART:20241026T140000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/lq8qr9ji\n\nAd
@@ -1142,99 +1110,6 @@ X-CRONQUILES-ADDRESS:https://luma.com/event/evt-JKP1msvFEFrIVYP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
- 12 - Best of 3DV 2026|Online
-DTSTART:20260512T120000
-CATEGORIES:ai,backend,data,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nWelcome to the Best of 3DV series\, your virtual pass to some of the grou
- ndbreaking research\, insights\, and innovations that defined this year’
- s conference. Live streaming from the authors to you.\n\n**Date\, Time and
-  Location**\n\nMay 12\, 2026\n9AM Pacific\nOnline. **[Register for Zoom!](
- https://voxel51.com/events/best-of-3dv-2026-may-12-2026)**\n\n**Precise li
- ghting control in diffusion models by drawing shadows**\n\nDiffusion model
- s can now be used as powerful neural rendering engines that can be leverag
- ed for realistically inserting virtual objects into images. However\, unli
- ke traditional 3D rendering engines (e.g.\, Blender)\, they lack precise c
- ontrol over the lighting\, an essential requirement in an artistic workflo
- w. We demonstrate that fine-grained lighting control can be achieved for o
- bject relighting simply by specifying the desired shadow of the object and
-  injecting it into the diffusion denoising process. The model then produce
- s a realistic relighting of the object consistent with the input shadow di
- rection.\n\n*About the Speaker*\n\n[Frédéric Fortier-Chouinard](https://
- www.linkedin.com/in/lefreud/) is a PhD student at Laval University\, advis
- ed by Prof. Jean-François Lalonde. His research focuses on adding precise
-  physical controls to diffusion-based image and video generation methods\,
-  in particular lighting and camera control.\n\n**SmokeSeer: 3D Gaussian Sp
- latting for Smoke Removal and Scene Reconstruction**\n\nSmoke in real-worl
- d scenes can severely degrade image quality and hamper visibility. Recent 
- image restoration methods either rely on data-driven priors that are susce
- ptible to hallucinations\, or are limited to static low-density smoke. We 
- introduce SmokeSeer\, a method for simultaneous 3D scene reconstruction an
- d smoke removal from multi-view video sequences. Our method uses thermal a
- nd RGB images\, leveraging the reduced scattering in thermal images to see
-  through smoke. We build upon 3D Gaussian splatting to fuse information fr
- om the two image modalities\, and decompose the scene into smoke and non-s
- moke components. Unlike prior work\, SmokeSeer handles a broad range of sm
- oke densities and adapts to temporally varying smoke. We validate our meth
- od on synthetic data and a new real-world smoke dataset with RGB and therm
- al images.\n\n*About the Speaker*\n\n[Neham Jain](https://www.linkedin.com
- /in/neham-jain/) is a Research Scientist at Meshy AI focused on 3D generat
- ive models and multimodal learning. He holds an M.S. in Robotics from Carn
- egie Mellon University and works at the intersection of 3D vision\, neural
-  rendering\, and scalable AI systems.\n\n**Online Video Depth Anything: Te
- mporally-Consistent Depth Prediction with Low Memory Consumption**\n\nDept
- h estimation from monocular video has become a key component of many real-
- world computer vision systems. Recently\, Video Depth Anything (VDA) has d
- emonstrated strong performance on long video sequences. However\, it relie
- s on batch-processing which prohibits its use in an online setting. In thi
- s work\, we overcome this limitation and introduce online VDA (oVDA). The 
- key innovation is to employ techniques from Large Language Models (LLMs)\,
-  namely\, caching latent features during inference and masking frames at t
- raining. Our oVDA method outperforms all competing online video depth esti
- mation methods in both accuracy and VRAM usage. Low VRAM usage is particul
- arly important for deployment on edge devices. We demonstrate that oVDA ru
- ns at 42 FPS on an NVIDIA A100 and at 20 FPS on an NVIDIA Jetson edge devi
- ce.\n\n*About the Speaker*\n\n[Johann-Friedrich Feiden](https://www.linked
- in.com/in/johann-friedrich-feiden-b9120329a/) is a PhD student at Universi
- tät Heidelberg specializing in computer vision and machine learning. Duri
- ng my bachelor's\, I focused on self-supervised representations\, while du
- ring my master's\, I shifted my focus towards computer vision.\n\n**Broade
- ning View Synthesis of Dynamic Scenes from Constrained Monocular Videos**\
- n\nNovel view synthesis of dynamic scenes from monocular video tends to br
- eak down once the camera deviates far from the training trajectory\, leavi
- ng applications in mixed reality\, autonomous driving\, and immersive medi
- a without reliable wide-angle renderings. We present ExpanDyNeRF\, a dynam
- ic NeRF that broadens the reliable synthesis range to large-angle rotation
- s by leveraging Gaussian splatting priors as pseudo ground truth to jointl
- y refine density and color at novel viewpoints. To benchmark side-view fid
- elity\, an axis largely missing from prior datasets\, we introduce SynDM\,
-  the first synthetic dynamic multi-view dataset with paired primary and ro
- tated views\, built on a custom GTA V pipeline. Across SynDM\, DyNeRF\, an
- d NVIDIA\, ExpanDyNeRF substantially outperforms prior dynamic NeRF and Ga
- ussian methods under extreme viewpoint shifts.\n\nWe close by previewing P
- anoWorld\, our follow-up that pushes view expansion to its natural limit\,
-  namely geometry-consistent 360° panoramic video generation from a single
-  image and text prompt.\n\n*About the Speaker*\n\n[Le Jiang](https://www.l
- inkedin.com/in/lejiang999/) is a [Ph.D. student] in the Augmented Cognitio
- n Lab (ACLab) at Northeastern University\, advised by Prof. Sarah Ostadabb
- as. His research centers on 3D scene reconstruction and novel view synthes
- is for dynamic scenes\, with recent work extending dynamic NeRFs to large-
- angle viewpoints and pushing view synthesis toward geometry-consistent 360
- ° panoramic video world models.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Vibe Hours v3: Unhinged Builds in Claude Design|
- Online
-DTSTART:20260513T000000Z
-CATEGORIES:ai,frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/3dcegc6j\n\nHo
- sted by Abraham\, Alexandria Hamilton & The AI Collective
-LOCATION:https://luma.com/event/evt-1n6rmlkPcOH7PFK
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-1n6rmlkPcOH7PFK
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
  13 - Best of 3DV 2026|Online
 DTSTART:20260513T100000
 CATEGORIES:ai,backend,cloud,frontend,mobile,security
@@ -1306,6 +1181,18 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  tive modelling to enable the generation of more realistic and efficient 3D
   assets.
 LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260513T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
@@ -1440,6 +1327,17 @@ DESCRIPTION:Pythonista®\n# 🛡️ CI/CD endurecido para aplicaciones en
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260518T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data\, Cloud and AI in Mexico City|IBM Tech Summit Monterrey 2026|
  México|
 DTSTART:20260519T123000
@@ -1502,6 +1400,18 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/2uyzceoo\n\nHo
  sted by Abraham & 3 others
 LOCATION:https://luma.com/event/evt-juNiYiKaeEVT857
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-juNiYiKaeEVT857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260520T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kong Mexico City|Agentic AI Cost Control for the CFO: Attribution 
@@ -1653,6 +1563,17 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260525T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
  27 - Perceptron AI and FiftyOne for Video Understanding Workshop|Online
 DTSTART:20260527T100000
@@ -1693,6 +1614,18 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260527T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AWS User Group Jalisco|🔐 Security & Compliance in the AI Era|On
  line
 DTSTART:20260528T190000
@@ -1728,6 +1661,17 @@ LOCATION:https://luma.com/event/evt-Gy4ZAxJMzAFTm1N
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-Gy4ZAxJMzAFTm1N
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260601T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Predictive Neurotechnologies\, Criminal Risk and
   the Future of the Presumption of Innocence|Online
 DTSTART:20260603T060000Z
@@ -1736,6 +1680,29 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-6-3\n\n
  Hosted by The AI Collective & 4 others
 LOCATION:https://luma.com/event/evt-CORCUTzJrvpRzSw
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-CORCUTzJrvpRzSw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260603T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260608T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|June
@@ -1772,6 +1739,29 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  ons teams\n* Clinical AI and digital pathology leads\n* Regulatory and qua
  lity leads
 LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260610T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260615T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agility Talks|Evolución de Prácticas de Entrega Continua en tiem
@@ -1848,6 +1838,18 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260617T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voic
  ebots|Online
 DTSTART:20260618T230000Z
@@ -1856,6 +1858,17 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHo
  sted by Javier Rivero\, Ben Kim & Ricardo García
 LOCATION:https://luma.com/event/evt-PwXKYGUxITnF5Ku
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-PwXKYGUxITnF5Ku
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260622T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|June
@@ -1886,6 +1899,147 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  onnectors for external vector stores to enable semantic search across larg
  e sample datasets.\n* **Package and share plugins**. Distribute your exten
  sions internally and externally
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260624T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260629T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260701T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online
+DTSTART:20260706T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
+ II|Online
+DTSTART:20260708T200000
+CATEGORIES:Build with AI,Career Development,python
+DESCRIPTION:Únete a nosotros para la segunda parte de nuestro grupo de es
+ tudio enfocado en potenciar tus habilidades en el Lenguaje ...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|July
+  23 - AI\, ML\, and Computer Vision Meetup|Online
+DTSTART:20260723T100000
+CATEGORIES:ai,backend,data,devops,frontend,security
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup to hear talks from experts on cutting-edge topics
+  across AI\, ML\, and computer vision.\n\n**Date\, Time and Location**\n\n
+ Jul 23\, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for the Zoom!](
+ https://voxel51.com/events/ai-ml-and-computer-vision-meetup-july-23-2026)*
+ *\n\n**Generative AI for Video Trailer Synthesis: From Extractive Heuristi
+ cs to Autoregressive Creativity**\n\nThe domain of automatic video trailer
+  generation is currently undergoing a profound paradigm shift\, transition
+ ing from heuristicbased extraction methods to deep generative synthesis. W
+ hile early methodologies relied heavily on low-level feature engineering\,
+  visual saliency\, and rule-based heuristics to select representative shot
+ s\, recent advancements in Large Language Models (LLMs)\, Multimodal Large
+  Language Models (MLLMs)\, and diffusion-based video synthesis have enable
+ d systems that not only identify key moments but also construct coherent\,
+  emotionally resonant narratives.\n\nThis survey provides a comprehensive 
+ technical review of this evolution\, with a specific focus on generative t
+ echniques including autoregressive Transformers\, LLM-orchestrated pipelin
+ es\, and text-to-video foundation models like OpenAI's Sora and Google's V
+ eo. We analyze the architectural progression from Graph Convolutional Netw
+ orks (GCNs) to Trailer Generation Transformers (TGT)\, evaluate the econom
+ ic implications of automated content velocity on User-Generated Content (U
+ GC) platforms\, and discuss the ethical challenges posed by high-fidelity 
+ neural synthesis.\n\nBy synthesizing insights from recent literature\, thi
+ s report establishes a new taxonomy for AI-driven trailer generation in th
+ e era of foundation models\, suggesting that future promotional video syst
+ ems will move beyond extractive selection toward controllable generative e
+ diting and semantic reconstruction of trailers.\n\n*About the Speaker*\n\n
+ [Abhishek Dharmaratnakar](https://www.linkedin.com/in/abhid95/?isSelfProfi
+ le=false) is an Engineering Leader at Google leading YouTube Premium. His 
+ work focuses on the intersection of hyperscale media infrastructure and ge
+ nerative artificial intelligence\, directing cross-functional engineering 
+ organizations to redefine how billions of users consume and create content
+ \n\n**Making Agent Systems Observable\, Reliable\, and Testable**\n\nIn th
+ is talk\, I’ll share practical lessons from building real agent systems 
+ in computer vision workflows\, focusing on how to design evaluation loops\
+ , observability pipelines\, and sandboxed environments that make agents re
+ liable in practice. We’ll explore how to measure behavior end-to-end\, t
+ est components independently\, and build feedback loops that help agents i
+ mprove over time\, even as tools\, models\, and pipelines evolve. This tal
+ k is for engineers and builders who want to move beyond demos and learn ho
+ w to make agent systems production-ready.\n\n*About the Speaker*\n\n[Adona
+ i Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Eng
+ ineer & DevRel at Voxel51\\. With over 7 years of experience building comp
+ uter vision and machine learning models using TensorFlow\, Docker\, and Op
+ enCV\\.\n\n**Training-Free Object and Associated Effect Removal in Videos*
+ *\n\nI will be presenting our recent work\, Object-WIPER\, which focuses o
+ n removing objects and their associated effects from videos. Instead of fi
+ ne-tuning models for each editing task\, our method reuses the priors of p
+ re-trained text-to-video models to perform object and effect removal in a 
+ training-free manner. We also curate a real world associated-effect benchm
+ ark and evaluation metric for more realistic assessment of video object re
+ moval.\n\n*About the Speaker*\n\n[Saksham Singh Kushwaha](https://www.link
+ edin.com/in/saksham-singh-kushwaha/) is a candidate at UT Dallas\, with re
+ search interests in audio-visual learning\, spatial audio\, and computer v
+ ision. I received my master’s degree from NYU and bachelor’s degree fr
+ om IIT Delhi.\n\n**Turning Models into Systems: AI Architecture That Works
+ **\n\nThis talk explores what it really takes to make "intelligent systems
+ " work in the messy\, high-stakes reality of production environments – n
+ ot just in demos or pilots. Most AI initiatives do not fail because the al
+ gorithms are weak\, but because the surrounding system is not designed to 
+ handle uncertainty\, change\, and operational demands.\n\nThe session show
+ s how to separate the concerns of building and improving models from their
+  use in daily operations\, and how to create a stable core of rules\, safe
+ ty\, and business meaning around which smarter components can evolve.\n\nI
+ nstead of treating AI as a magic add-on\, the talk frames it as a capabili
+ ty that must be grounded in the organization's language\, workflows\, and 
+ responsibilities. It demonstrates how to design that core so that new mode
+ ls\, tools\, and data sources can be plugged in\, compared\, and replaced 
+ without breaking trust.\n\nAttendees will leave with a clear mental model 
+ and a set of practical design ideas for turning clever prototypes into rob
+ ust\, understandable\, and adaptable intelligent systems that people on th
+ e ground are willing to rely on.\n\n*About the Speaker*\n\n[Dr. Nikita Gol
+ ovko](https://www.linkedin.com/in/dr-nikita-golovko/) is a seasoned Soluti
+ on Architect with over 16 years of experience in designing scalable\, secu
+ re\, and cost-effective software architectures for industrial and business
+ -critical systems.
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
