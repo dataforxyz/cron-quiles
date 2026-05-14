@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T13:22:06.214360+00:00",
-  "total_events": 180,
+  "generated_at": "2026-05-14T19:21:59.687264+00:00",
+  "total_events": 181,
   "city": "Online",
   "communities": [
     {
@@ -3654,41 +3654,6 @@
       "hash_key": "cumplir sin frenar el negocio by iqsec_2026-05-08T00:00:00+00:00"
     },
     {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|May 14 - AI, ML and Computer Vision Meetup|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Day, Time, Location**\n\nMay 14, 2026\n9:00-11:00 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-may-14-2026)**\n\n**Concept-Aware Batch Sampling Improves Language-Image Pretraining**\n\nWhat data should a vision-language model be trained on, and who gets to decide what “good data” even means? Most existing curation pipelines are limited because they are offline (they produce a static dataset from a set of predetermined filtering criteria) and concept-agnostic (they rely on model-based scores that can silently introduce new biases in what concepts the model sees). In this talk, I will discuss our new work CABS that tackles both these problems with large-scale sample-level concept annotations and flexible online batch sampling.\n\nFirst, we construct DataConcept, a 128M web-crawled image–text collection annotated with fine-grained concept composition, and show how this enables Concept-Aware Batch Sampling (CABS)—a simple online method that constructs training batches on-the-fly to match target concept distributions. We develop two variants, CABS-DM for maximizing concept coverage and CABS-FM for prioritizing high object multiplicity, and demonstrate consistent gains for CLIP/SigLIP-style models across 28 benchmarks.\n\nFinally, I’ll show that these improvements translate into strong vision encoders for training generative multimodal models, including autoregressive systems like LLaVA, where the encoder quality materially affects downstream capability.\n\n*About the Speaker*\n\n[Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/) is a first year ELLIS PhD student, working with Matthias Bethge at The University of Tübingen. He completed his undergraduate degree in Electrical and Electronics Engineering jointly at the Manipal Institute of Technology and SMU Singapore from 2016 to 2020, and his masters in Machine Learning at The University of Tübingen from 2022 to 2024.\n\n**Do Your Agents Actually Work? Measuring Skills and MCP in Practice**\n\nThis talk shows how to evaluate agent performance in real scenarios using FiftyOne Skills and MCP. We will cover practical ways to design scenarios, run agents, and measure how they use tools, including signals like latency, token usage, and output quality. The goal is to move beyond final outputs and better understand agent behavior, helping teams build more reliable and measurable agent systems.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel at Voxel51\\. With over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV\\.\n\n**The last mile of OCR [in 2026]**\n\nOCR is nailing it in benchmarks but the real work lies in The Long Tail of IDP. Large tables, old scans, mixed-language docs, handwriting, complex layouts is where most enterprise and real-world document work happens. This is where the best benchmarked models still struggle. In this talk, we will go through how LandingAI’s Agentic Document Extraction (ADE) goes beyond OCR and Parsing to enable real-world document AI use cases and workloads.\n\nWe'll cover:\n\n* The pillars of Agentic Document Extraction\n* Building document processing pipelines with ADE API/SDK\n* Using Skills to have Coding Agents build for you\n* How ADE gives LLMs the last mile - Analysing LLM performance on large table, scanned docs, complex layouts and enabling them with the structured output from ADE\n\n*About the Speaker*\n\n[Ankit Khare](https://www.linkedin.com/in/deeplearnerak) has been building Developer Relations function at high-growth startups like Rockset (a world-class retrieval system, later acquired by OpenAI), Twelve Labs (a video intelligence startup backed by Index Ventures, Radical Ventures, and NEA), and Abacus.AI (an AI Super Assistant backed by Index Ventures, Eric Schmidt, and Ram Shriram). Before that, he was an AI engineer at third insight and an AI researcher at the LEARN Lab at UT-Arlington, working on visual scene understanding and image captioning agents.\n\n**The Energy Layer of AI: Powering the Next Wave of Inference**\n\nThe talk explores how inference cost fundamentally ties to energy at scale, especially as the AI industry shifts toward always-on, agent-driven workloads, and the focus moved from training to inference economics. Medi will share lessons and observations from his team's R&D efforts in making AI workloads grid-aware, energy-intelligent, and dynamically optimized in real time.\n\n*About the Speaker*\n\n[Medi Naseri](https://www.linkedin.com/in/mnaserim/) is the Founder and CEO of LōD Technologies, where he leads the development of energy-intelligent infrastructure for flexible data centers and the broader compute ecosystem.\nWith a PhD in Electrical Engineering specializing in control and power systems, Medi brings deep technical expertise to the challenge of scaling AI within real-time grid constraints.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313914894/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/313914894/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-05-14T10:00:00-06:00",
-      "dtend": "2026-05-14T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "data",
-        "devops",
-        "frontend",
-        "mobile",
-        "web"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "may 14 ai ml and computer vision meetup_2026-05-14T16:00:00+00:00"
-    },
-    {
       "title": "FinTech México|FrameIQ: Hacia una banca impulsada por inteligencia transaccional by 2innovate|Online",
       "description": "Get up-to-date information at: https://luma.com/j4rrr5lp\n\nHosted by FinTech México",
       "url": "https://luma.com/j4rrr5lp",
@@ -3841,6 +3806,35 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "club de estudio fundamentos matemticos d_2026-05-20T02:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|All The Things: IT & AI In Action|Online",
+      "description": "Get up-to-date information at: https://luma.com/it_ai_action\n\nHosted by AJ Bustamante | NWCSI | Your Managed IT Department & 3 others",
+      "url": "https://luma.com/it_ai_action",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/it_ai_action",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-GYAIu8AsLQQDwmP",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-05-20T17:00:00+00:00",
+      "dtend": "2026-05-20T18:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-GYAIu8AsLQQDwmP",
+      "hash_key": "all the things it ai in action_2026-05-20T16:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 20 - Getting Started with FiftyOne|Online",
@@ -5170,6 +5164,36 @@
       "city_code": "",
       "address": "",
       "hash_key": "aug 20 cold pool to hot queue annotation_2026-08-20T16:00:00+00:00"
+    },
+    {
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|Sept 2 - Document Visual AI Workshop|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nIn this hands-on workshop, you'll use [FiftyOne](https://docs.voxel51.com/) and the High Quality Invoice Images for OCR dataset to run the full data-centric loop end-to-end: embed invoices with a modern visual document model, cluster them by structure, run LightOnOCR as your base model, and use per-sample evaluation scores layered onto embedding space to find \\*where\\* and \\*why\\* it fails.\n\n**Time, Date and Location**\n\nSep 02, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/document-visual-ai-workshop-september-2-2026)**\n\n**What You'll Walk Away With**\n\n* A working FiftyOne pipeline for any document collection you own\n* A repeatable curation query that combines evaluation + embedding signals\n* A fine-tuned LightOnOCR checkpoint that demonstrably outperforms the base model on your invoices\n* The mental model that data curation — not architecture or hyperparameters — is the highest-leverage thing you can do to improve a document AI system",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739585/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739585/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+      "dtstart": "2026-09-02T10:00:00-06:00",
+      "dtend": "2026-09-02T12:00:00-06:00",
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "sept 2 document visual ai workshop_2026-09-02T16:00:00+00:00"
     },
     {
       "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
