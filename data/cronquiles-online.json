@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T13:21:38.809866+00:00",
-  "total_events": 180,
+  "generated_at": "2026-05-15T19:15:09.629837+00:00",
+  "total_events": 174,
   "city": "Online",
   "communities": [
     {
@@ -65,11 +65,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -130,11 +130,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -1458,6 +1458,62 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/nzb89n7y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nzb89n7y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/8dtqdfok",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8dtqdfok",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "Ciudad de México",
+      "city_code": "ciudaddemexico",
+      "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -2882,7 +2938,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3046,7 +3102,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3614,7 +3670,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3641,7 +3697,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3747,36 +3803,6 @@
       "city_code": "",
       "address": "",
       "hash_key": "ibm tech summit monterrey 2026_2026-05-19T18:00:00+00:00"
-    },
-    {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-05-19/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-05-19/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-05-19T20:00:00-06:00",
-      "dtend": "2026-05-19T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-05-20T02:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|All The Things: IT & AI In Action|Online",
@@ -4140,36 +4166,6 @@
       "hash_key": "grupo de estudio estructuras de control _2026-05-26T02:00:00+00:00"
     },
     {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-05-26/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-05-26/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-05-26T20:00:00-06:00",
-      "dtend": "2026-05-26T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-05-27T02:00:00+00:00"
-    },
-    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 27 - Perceptron AI and FiftyOne for Video Understanding Workshop|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for a hands-on virtual session on May 27 exploring video-native multimodal AI and how to integrate cutting-edge video understanding models into your computer vision workflows.\n\n**Date, Time and Location**\n\nMay 27, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for Zoom!](https://voxel51.com/events/getting-started-perceptron-ai-fiftyone-video-understanding-may-27-2026)**\n\n**Video-Native Multimodal Models for Video and Image Understanding**\n\nIn this 20-minute talk, Akshat will introduce Perceptron’s latest release, a video-native multimodal model that matches or exceeds frontier models from Google and Alibaba on video and image understanding at a fraction of their inference cost. He’ll walk through the capabilities that move the needle for real video workloads: temporal grounding to clip precise events from long streams, egocentric reasoning for first-person and wearable contexts, and structured “thinking traces” that reason over motion and physical space. He’ll also cover the image-side advances production perception teams care about: reliable pointing, point-by-example one-shot visual search, dense counting, dial/gauge/clock reading, and structured document extraction.\n\n*About the Speaker*\n\n[Akshat Shrivastava](https://www.linkedin.com/in/akshatsh/) is the CTO and co-founder of Perceptron, previously leading AR On-Device at Meta and conducting research at UW.\n\n**Getting Started with Perceptron AI in FiftyOne**\n\nIn the second half of the session, Harpreet Sahota will walk through how to get started using Perceptron’s video-native multimodal model within FiftyOne for real-world video understanding workflows. He’ll demonstrate how to connect to the API, explore multimodal outputs inside FiftyOne, and build practical workflows for tasks like temporal event analysis, visual search, and video dataset inspection. Attendees will leave with a hands-on understanding of how to integrate state-of-the-art video perception models into their existing computer vision pipelines.\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in VLMs, Visual Agents, Document AI, and Physical AI.",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314738082/",
@@ -4358,38 +4354,8 @@
       "hash_key": "grupo de estudio estructuras de control _2026-06-02T02:00:00+00:00"
     },
     {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-02/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-02/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-06-02T20:00:00-06:00",
-      "dtend": "2026-06-02T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-06-03T02:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|Predictive Neurotechnologies, Criminal Risk and the Future of the Presumption of Innocence|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-gl-6-3\n\nHosted by The AI Collective & 4 others",
+      "description": "Get up-to-date information at: https://luma.com/aic-gl-6-3\n\nHosted by The AI Collective & 5 others",
       "url": "https://luma.com/aic-gl-6-3",
       "sources": [
         {
@@ -4512,36 +4478,6 @@
       "hash_key": "june 9 visual ai in healthcare ground tr_2026-06-09T16:00:00+00:00"
     },
     {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-09/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-09/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-06-09T20:00:00-06:00",
-      "dtend": "2026-06-09T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-06-10T02:00:00+00:00"
-    },
-    {
       "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-10/",
@@ -4630,36 +4566,6 @@
       "city_code": "",
       "address": "",
       "hash_key": "evolucin de prcticas de entrega continua_2026-06-17T00:00:00+00:00"
-    },
-    {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-16/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-16/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-06-16T20:00:00-06:00",
-      "dtend": "2026-06-16T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-06-17T02:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 17 - How to Build Vision Data Agents with Tools, Skills, and MCP Workshop|Online",
@@ -4784,36 +4690,6 @@
       "hash_key": "grupo de estudio estructuras de control _2026-06-23T02:00:00+00:00"
     },
     {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-23/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-23/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-06-23T20:00:00-06:00",
-      "dtend": "2026-06-23T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-06-24T02:00:00+00:00"
-    },
-    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 24 - Building Composable Vision Workflows in FiftyOne|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis workshop explores the [FiftyOne plugin framework](https://docs.voxel51.com/plugins/index.html) to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Time, Date and Location**\n\nJun 24, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-june-24-2026)**\n\n**What you'll learn:**\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution**. Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations**. Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins**. Distribute your extensions internally and externally",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739717/",
@@ -4915,36 +4791,6 @@
       "hash_key": "grupo de estudio estructuras de control _2026-06-30T02:00:00+00:00"
     },
     {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-30/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-06-30/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-06-30T20:00:00-06:00",
-      "dtend": "2026-06-30T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-07-01T02:00:00+00:00"
-    },
-    {
       "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-01/",
@@ -5007,36 +4853,6 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "grupo de estudio estructuras de control _2026-07-07T02:00:00+00:00"
-    },
-    {
-      "title": "GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligencia Artificial|Online",
-      "description": " Les invitamos a participar en un taller excepcionalmente interesante titulado \"Club de estudio: Fundamentos Matemáticos...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-07-07/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-estudio-fundamentos-matematicos-de-la-inteligencia-artificial-2026-07-07/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-07-07T20:00:00-06:00",
-      "dtend": "2026-07-07T21:30:00-06:00",
-      "tags": [
-        "Build with AI",
-        "Career Development"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "club de estudio fundamentos matemticos d_2026-07-08T02:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
@@ -5442,7 +5258,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",

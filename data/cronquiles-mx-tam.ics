@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Tamaulipas\, México
+X-WR-CALNAME:Eventos Tech Tamaulipas - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:GDG Cloud Mexico City|Coloquio de Investigación 2026: Innovación
+  para la Sociedad 5.0|México|Tamaulipas
+DTSTART:20260518T160010
+CATEGORIES:AI,Community Building,Conference,Networking,Tech Talk / Meetup,
+ cloud,frontend
+DESCRIPTION:Sintoniza el Coloquio de Investigación 2026 de la Facultad de
+  Ingeniería del ICEST. Descubre los proyectos científicos y tecnológico
+ s que están modelando el futuro. ¡Transmisión en vivo!
+LOCATION:Campus Tampico ICEST 2000\, 1014 Agua Dulce\, Tampico
+X-CRONQUILES-ADDRESS:Calle Agua Dulce\, Tampico\, Tamaulipas\, 89100\, Mé
+ xico
+X-CRONQUILES-CITY:Tampico
+X-CRONQUILES-CITY-CODE:tampico
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Tamaulipas
+X-CRONQUILES-STATE-CODE:MX-TAM
+END:VEVENT
+END:VCALENDAR
