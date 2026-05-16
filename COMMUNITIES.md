@@ -20,7 +20,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🟢 [**AWS User Group Jalisco**](https://www.meetup.com/amazon-web-services-jalisco) | Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**CHIDAS TECH**](https://luma.com/nc2fac44) | Comunidad tech. Eventos sobre redes, infraestructura y desarrollo. | Online |
-| 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México, Colima, Nuevo León, Quintana Roo, Sonora, Tabasco, Yucatán |
+| 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México, Colima, Nuevo León, Quintana Roo, Sonora, Tabasco, Veracruz, Yucatán |
 | 🟢 [**Data, Cloud and AI in Mexico City**](https://www.meetup.com/big-data-developers-in-mexico-city) | IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts. | Online |
 | 🔴 [**Desarrollo de Aplicaciones Móviles México**](https://www.meetup.com/mobile-development-mexico) | Bienvenidos a la comunidad de desarrolladores móviles en iOS y Android, un espacio donde la innovación, la colaboración y el aprendizaje son clave. | Online |
 | 🔴 [**DevOps Workshop**](https://www.meetup.com/devops-workshop) | Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos. | Online |
@@ -60,11 +60,11 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**PHP Mexico**](https://www.meetup.com/php-the-right-way) | ¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP. | Online |
 | 🔴 [**PostgreSQL México**](https://www.meetup.com/postgresql-mexico) | Usuarios y administradores de bases de datos PostgreSQL. | Online |
 | 🟢 [**PyTalavera**](https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl) | Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región. | Puebla |
-| 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México |
+| 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México, México |
 | 🔴 [**Python Monterrey**](https://www.meetup.com/pythonmty) | Comunidad de Python en la ciudad de Monterrey. | Online |
 | 🔴 [**Python Puebla**](https://www.meetup.com/grupo-de-python-en-puebla) | Comunidad de Python en el estado de Puebla. Charlas y talleres. | Online |
 | 🟢 [**Pythonista**](https://www.meetup.com/pythonista) | Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles. | Online |
-| 🟢 [**Pythonistas GDL**](https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl) | Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking. | Jalisco |
+| 🟢 [**Pythonistas GDL**](https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl) | Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking. | Jalisco, México |
 | 🔴 [**Red Hat User Group**](https://www.meetup.com/red-hat-user-group-mexico) | Tecnologías Red Hat, Linux Enterprise y OpenShift. | Online |
 | 🔴 [**Rust MX**](https://www.meetup.com/rust-mx) | Comunidad dedicada al lenguaje Rust. Enfoque en seguridad, velocidad y concurrencia. | Online |
 | 🔴 [**Scala & FP CDMX**](https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote) | Programación funcional y lenguaje Scala. | Online |
