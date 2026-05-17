@@ -12,7 +12,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | :--- | :--- | :--- |
 | 🔴 [**330ohms**](https://www.meetup.com/330ohms) | Comunidad enfocada en hardware, electrónica e Internet de las Cosas (IoT). | Online |
 | 🟢 [**Agility Talks**](https://www.meetup.com/agilility-talks) | Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital. | Online |
-| 🟢 [**AI/IA CDMX**](https://www.meetup.com/ai-cdmx) | Canal de Meetup de la comunidad de IA en Ciudad de México. | Ciudad de México |
+| 🟢 [**AI/IA CDMX**](https://www.meetup.com/ai-cdmx) | Canal de Meetup de la comunidad de IA en Ciudad de México. | Ciudad de México, México |
 | 🔴 [**Ajolotes en la Nube**](https://www.meetup.com/ajolotesenlanube) | Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube. | Online |
 | 🔴 [**Apache Spark Mexico City**](https://www.meetup.com/apache-spark-mexicocity) | Grupo dedicado a Apache Spark y el ecosistema de procesamiento de Big Data. | Online |
 | 🔴 [**AWS Ajolotes Ciudad de México**](https://www.meetup.com/aws-cdmx) | User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon. | Online |
@@ -64,7 +64,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Python Monterrey**](https://www.meetup.com/pythonmty) | Comunidad de Python en la ciudad de Monterrey. | Online |
 | 🔴 [**Python Puebla**](https://www.meetup.com/grupo-de-python-en-puebla) | Comunidad de Python en el estado de Puebla. Charlas y talleres. | Online |
 | 🟢 [**Pythonista**](https://www.meetup.com/pythonista) | Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles. | Online |
-| 🟢 [**Pythonistas GDL**](https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl) | Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking. | Jalisco, México |
+| 🟢 [**Pythonistas GDL**](https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl) | Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking. | Jalisco |
 | 🔴 [**Red Hat User Group**](https://www.meetup.com/red-hat-user-group-mexico) | Tecnologías Red Hat, Linux Enterprise y OpenShift. | Online |
 | 🔴 [**Rust MX**](https://www.meetup.com/rust-mx) | Comunidad dedicada al lenguaje Rust. Enfoque en seguridad, velocidad y concurrencia. | Online |
 | 🔴 [**Scala & FP CDMX**](https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote) | Programación funcional y lenguaje Scala. | Online |
