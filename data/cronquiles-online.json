@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T14:02:48.519716+00:00",
-  "total_events": 156,
+  "generated_at": "2026-05-18T19:19:08.598692+00:00",
+  "total_events": 174,
   "city": "Online",
   "communities": [
     {
@@ -130,11 +130,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -167,12 +167,45 @@
       ]
     },
     {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Cloud Mexico City",
       "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Heroica Veracruz",
+      "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG San Francisco de Campeche",
+      "description": "El Grupo de Desarrolladores de Google (GDG) en San Francisco de Campeche es un colectivo de entusiastas de la tecnología dedicado a fomentar el aprendizaje, la colaboración y la productividad entre los desarrolladores en Campeche y sus alrededores. Fundado en mayo de 2019, nuestra comunidad es un hervidero de innovación y creatividad tecnológica.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
           "label": "Sitio web"
         }
       ]
@@ -2916,7 +2949,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3080,7 +3113,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3691,6 +3724,39 @@
       "hash_key": "ci cd endurecido para aplicaciones en py_2026-05-19T00:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-18/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-18/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-18T20:00:00-06:00",
+      "dtend": "2026-05-18T21:30:00-06:00",
+      "tags": [
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Google Cloud",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-05-19T02:00:00+00:00"
+    },
+    {
       "title": "Data, Cloud and AI in Mexico City|IBM Tech Summit Monterrey 2026|México|",
       "description": "Data, Cloud and AI in Mexico City\nEl partido ya empezó.\nY hoy, quienes destacan no solo reaccionan… juegan con estrategia.\nEn un entorno que no se detiene, la ventaja está en anticiparse, innovar y ejecutar mejor con Inteligencia Artificial, Nube Híbrida y Automatización.\nEste es el espacio donde la estrategia cobra vida:\n4 Tech Tracks\n+25 speakers\n+20 sesiones\nDemos en vivo\nPorque las grandes estrategias comienzan con una visión clara… y el momento de actuar es ahora.\nInvita a todo tu equipo de trabajo al evento y separen su lugar / cupo limitado\n[https://techsummitmx.com/?inv=ibm](https://techsummitmx.com/?inv=ibm)",
       "url": "https://www.meetup.com/big-data-developers-in-mexico-city/events/314699690/",
@@ -3812,6 +3878,37 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-juNiYiKaeEVT857",
       "hash_key": "founder showdown signal or noise_2026-05-20T18:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-20/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-20/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-20T20:00:00-06:00",
+      "dtend": "2026-05-20T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-05-21T02:00:00+00:00"
     },
     {
       "title": "Kong Mexico City|Agentic AI Cost Control for the CFO: Attribution & Visibility|Online",
@@ -3940,6 +4037,43 @@
       "hash_key": "papo de founders dilson da certiface enc_2026-05-21T22:00:00+00:00"
     },
     {
+      "title": "GDG Heroica Veracruz|[Hands on] Build with AI: De la curiosidad con Gemini App a construir con Google AI Studio|Online",
+      "description": "Una introducción diseñada para aprender a integrar los modelos de AI de Google en tus apps y productos. Iniciaremos expl...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-hands-on-build-with-ai-de-la-curiosidad-con-gemini-app-a-construir-con-google-ai-studio/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-hands-on-build-with-ai-de-la-curiosidad-con-gemini-app-a-construir-con-google-ai-studio/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG Heroica Veracruz",
+      "dtstart": "2026-05-21T18:30:00-06:00",
+      "dtend": "2026-05-21T20:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Community Building",
+        "Google Cloud",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "hands on build with ai de la curiosidad _2026-05-22T00:00:00+00:00"
+    },
+    {
       "title": "GDG Cloud Mexico City|Build with AI Week: Gira Universitaria Sur de Tamaulipas 2026|México|",
       "description": "¡La IA de Google aterriza en el sur de Tamaulipas! 🚀¡La gira tecnológica que estabas esperando ya está aquí! Build with ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-build-with-ai-week-gira-universitaria-sur-de-tamaulipas-2026/",
@@ -3983,6 +4117,39 @@
       "hash_key": "build with ai week gira universitaria su_2026-05-25T14:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-25/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-05-25/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-25T20:00:00-06:00",
+      "dtend": "2026-05-25T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-05-26T02:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|May 27 - Perceptron AI and FiftyOne for Video Understanding Workshop|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for a hands-on virtual session on May 27 exploring video-native multimodal AI and how to integrate cutting-edge video understanding models into your computer vision workflows.\n\n**Date, Time and Location**\n\nMay 27, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for Zoom!](https://voxel51.com/events/getting-started-perceptron-ai-fiftyone-video-understanding-may-27-2026)**\n\n**Video-Native Multimodal Models for Video and Image Understanding**\n\nIn this 20-minute talk, Akshat will introduce Perceptron’s latest release, a video-native multimodal model that matches or exceeds frontier models from Google and Alibaba on video and image understanding at a fraction of their inference cost. He’ll walk through the capabilities that move the needle for real video workloads: temporal grounding to clip precise events from long streams, egocentric reasoning for first-person and wearable contexts, and structured “thinking traces” that reason over motion and physical space. He’ll also cover the image-side advances production perception teams care about: reliable pointing, point-by-example one-shot visual search, dense counting, dial/gauge/clock reading, and structured document extraction.\n\n*About the Speaker*\n\n[Akshat Shrivastava](https://www.linkedin.com/in/akshatsh/) is the CTO and co-founder of Perceptron, previously leading AR On-Device at Meta and conducting research at UW.\n\n**Getting Started with Perceptron AI in FiftyOne**\n\nIn the second half of the session, Harpreet Sahota will walk through how to get started using Perceptron’s video-native multimodal model within FiftyOne for real-world video understanding workflows. He’ll demonstrate how to connect to the API, explore multimodal outputs inside FiftyOne, and build practical workflows for tasks like temporal event analysis, visual search, and video dataset inspection. Attendees will leave with a hands-on understanding of how to integrate state-of-the-art video perception models into their existing computer vision pipelines.\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in VLMs, Visual Agents, Document AI, and Physical AI.",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314738082/",
@@ -4014,6 +4181,37 @@
       "city_code": "",
       "address": "",
       "hash_key": "may 27 perceptron ai and fiftyone for vi_2026-05-27T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-27/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-05-27/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-05-27T20:00:00-06:00",
+      "dtend": "2026-05-27T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-05-28T02:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|IA para Gerar Criativos que Vendem — Workshop Prático com Caio Cruz · The AI Collective Rio|Online",
@@ -4078,6 +4276,35 @@
       "hash_key": "security compliance in the ai era_2026-05-29T00:00:00+00:00"
     },
     {
+      "title": "GDG San Francisco de Campeche|Explorando el Futuro: LLM, Modelos, Tokens, Agentes y Más|Online",
+      "description": "Únete a nosotros para un emocionante evento titulado \"Explorando el Futuro: LLM, Modelos, Tokens, Agentes y Más\", donde ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-explorando-el-futuro-llm-modelos-tokens-agentes-y-mas/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-explorando-el-futuro-llm-modelos-tokens-agentes-y-mas/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG San Francisco de Campeche",
+      "dtstart": "2026-05-28T19:30:00-06:00",
+      "dtend": "2026-05-28T20:30:00-06:00",
+      "tags": [
+        "AI - Gemini"
+      ],
+      "source": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "explorando el futuro llm modelos tokens _2026-05-29T00:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|TEST - please ignore|Online",
       "description": "Get up-to-date information at: https://luma.com/21goc39i\n\nHosted by The AI Collective",
       "url": "https://luma.com/21goc39i",
@@ -4105,6 +4332,39 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-Gy4ZAxJMzAFTm1N",
       "hash_key": "test please ignore_2026-06-01T18:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-01/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-01/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-01T20:00:00-06:00",
+      "dtend": "2026-06-01T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-02T02:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Predictive Neurotechnologies, Criminal Risk and the Future of the Presumption of Innocence|Online",
@@ -4136,6 +4396,70 @@
       "hash_key": "predictive neurotechnologies criminal ri_2026-06-03T06:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-03/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-03/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-03T20:00:00-06:00",
+      "dtend": "2026-06-03T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-04T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-08T20:00:00-06:00",
+      "dtend": "2026-06-08T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-09T02:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 9 - Visual AI in Healthcare: Ground Truth in the Foundation-Model Era|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nLearn how to handle expert label disagreement and build high performing fine-tuned medical foundation models for clinical imaging tasks.\n\n**Date, Time and Location**\n\nJun 09, 2026\n9:00 AM – 10:30 AM PST\n**[Online. Register for the Zoom!](https://voxel51.com/events/visual-ai-in-healthcare-ground-truth-in-the-foundation-model-era-june-9-2026)**\n\nMedical imaging teams are increasingly fine-tuning foundation models like UNI, MedSAM2, and BiomedCLIP on small in-house datasets. At that scale, label disagreement is a dominant cause of model failures, and the disputed ground truth is what regulators will ask you to defend. We'll build a medical imaging dataset in [FiftyOne](https://docs.voxel51.com/), surfacing and analyzing the cases where reviewers disagree. From there, we'll fine-tune a foundation model on cleaned data and use FiftyOne to evaluate where our model succeeds and fails, and which data is needed to move the model’s performance forward.\n\n**You’ll learn how to:**\n\n* Build a medical imaging dataset that preserves multiple expert annotations as first-class fields\n* Use FiftyOne views, embedding similarity, and confidence-disagreement signals to find the samples where reviewers split.\n* Run label-quality screens, near-duplicate detection, and active-learning sample selection using foundation model embeddings\n* Fine-tune a medical foundation model on a defensible dataset, with auditable and versioned experiment tracking\n* Filter and slice evaluation for regulatory and clinical readiness\n* Drive the pipeline with natural-language agents using the FiftyOne MCP Server and Skills to run the same curation, evaluation, and review workflows from your favorite AI tool\n\n**Who This Is For**\n\n* ML and computer-vision engineers in the medical imaging space\n* Data and annotation operations teams\n* Clinical AI and digital pathology leads\n* Regulatory and quality leads",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314665898/",
@@ -4165,6 +4489,67 @@
       "city_code": "",
       "address": "",
       "hash_key": "june 9 visual ai in healthcare ground tr_2026-06-09T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-10/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-10/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-10T20:00:00-06:00",
+      "dtend": "2026-06-10T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-11T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-15/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-15/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-15T20:00:00-06:00",
+      "dtend": "2026-06-15T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-16T02:00:00+00:00"
     },
     {
       "title": "Agility Talks|Evolución de Prácticas de Entrega Continua en tiempos de IA|Online",
@@ -4228,6 +4613,37 @@
       "hash_key": "june 17 how to build vision data agents _2026-06-17T16:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-17/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-17/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-17T20:00:00-06:00",
+      "dtend": "2026-06-17T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-18T02:00:00+00:00"
+    },
+    {
       "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
       "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/vhwcyvjr",
@@ -4255,6 +4671,36 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-18T22:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-22/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-22/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-22T20:00:00-06:00",
+      "dtend": "2026-06-22T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-23T02:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 24 - Building Composable Vision Workflows in FiftyOne|Online",
@@ -4291,6 +4737,73 @@
       "hash_key": "june 24 building composable vision workf_2026-06-24T16:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-24/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-06-24/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-24T20:00:00-06:00",
+      "dtend": "2026-06-24T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-06-25T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-06-29T20:00:00-06:00",
+      "dtend": "2026-06-29T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-06-30T02:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 30 - Beyond Annotation Tools: Building a Complete Physical AI Data Engine|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nIn this workshop we’ll demonstrate workflows for image and video annotation, instance segmentation, polylines, QA and review, collaborative labeling operations in [FiftyOne](https://docs.voxel51.com/), and smart data selection strategies that help teams reduce wasted labeling spend.\n\n**Date, Time and Location**\n\nJun 30, 2026\n9 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/beyond-annotation-tools-building-a-complete-physical-ai-data-engine-with-fiftyone-june-30-2026)**\n\nAnnotation is no longer just about drawing boxes. Modern physical AI teams need an end-to-end system for labeling, QA, dataset curation, project management, auto-labeling, and video understanding — all tightly integrated into the workflows where models are actually built and evaluated.\n\nYou’ll also get an early look at new agentic labeling workflows powered by “Labeling Agents” — intelligent systems that can learn from text prompts and visual examples to automatically label datasets at scale. We’ll walk through how teams can rapidly create reusable labeling agents, validate outputs, and apply them across large datasets as background tasks.\n\nWhether you’re building computer vision models for robotics, autonomous systems, manufacturing, retail, or multimodal AI applications, this session will show how integrated annotation and data-centric workflows can dramatically accelerate iteration speed while improving dataset quality.\n\n**What You’ll Learn**\n\n* How smart data selection strategies reduce annotation costs and improve model performance\n* Why integrated annotation is becoming a core requirement for modern physical AI platforms\n* How to unify data curation, annotation, evaluation, and model iteration inside a single workflow\n* How FiftyOne supports annotation workflows for Classification, Object detection, Instance segmentation, Polylines, Video detection and tracking\n* How to create, edit, QA, and manage 2D and 3D labels directly in context\n* How annotation project management workflows help coordinate labeling teams and reviews\n* How SAM2-powered click-to-segment workflows enable fast browser-based segmentation\n* How agentic labeling works, including training reusable “Labeling Agents”, prompting with text + visual examples, iterating on outputs before deployment and running large-scale auto-labeling workflows",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314807274/",
@@ -4321,6 +4834,104 @@
       "city_code": "",
       "address": "",
       "hash_key": "june 30 beyond annotation tools building_2026-06-30T16:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-01/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-01/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-07-01T20:00:00-06:00",
+      "dtend": "2026-07-01T21:30:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-07-02T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-07-06/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-07-06/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-07-06T20:00:00-06:00",
+      "dtend": "2026-07-06T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio estructuras de control _2026-07-07T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
+      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-08/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-08/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-07-08T20:00:00-06:00",
+      "dtend": "2026-07-08T21:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "grupo de estudio lenguaje de programacin_2026-07-09T02:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|July 23 - AI, ML, and Computer Vision Meetup|Online",
@@ -4662,7 +5273,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
