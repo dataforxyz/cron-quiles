@@ -5395,10 +5395,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/8wwwg9vy\n\nAd
  Hernandez
 LOCATION:Ventura Café\, Av San Francisco 3205\, Chapalita\, 44500 Guadala
  jara\, Jal.\, Mexico
-X-CRONQUILES-ADDRESS:Avenida San Francisco\, Jardines de Los Arcos\, Guada
- lajara\, Región Centro\, Jalisco\, 44500\, México
-X-CRONQUILES-CITY:Guadalajara
-X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-ADDRESS:Jalisco\, México
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Jalisco
@@ -5915,8 +5912,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/31qel456\n\nAd
   by Nico Di Pace & 6 others
 LOCATION:Torre BBVA Bancomer\, Av. P.º de la Reforma 506\, Cuauhtémoc\, 
  06600 Juárez\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Juárez\, Roma\, Ciudad
-  de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Juárez\, Condesa\, Ciu
+ dad de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6224,9 +6221,9 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/64grz37k\n\nAd
  an Eduardo Vega Ortega & AWS Cloud Club UNAM
 LOCATION:Universidad Nacional Autónoma de México\, Ciudad de México\, M
  éxico
-X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Circuito 
- Zona Deportiva\, Jardines del Pedregal\, Ciudad de México\, Coyoacán\, C
- iudad de México\, 04510\, México
+X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Calle Fue
+ go\, Jardines del Pedregal\, San Ángel\, Ciudad de México\, Álvaro Obre
+ gón\, Ciudad de México\, 01900\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6244,8 +6241,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/1dl2uihj\n\nAd
  co\nMexico\n\nHosted by PythonCDMX
 LOCATION:Londres 61\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, CD
  MX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Londres\, Juárez\, Condesa\, Ciudad de México
- \, Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-ADDRESS:Calle Londres\, Juárez\, Roma\, Ciudad de México\, 
+ Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6930,59 +6927,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rust-AICollective|All The Things: IT & AI In Action|Online
-DTSTART:20260520T170000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/it_ai_action\n
- \nHosted by AJ Bustamante | NWCSI | Your Managed IT Department & 3 others
-LOCATION:https://luma.com/event/evt-GYAIu8AsLQQDwmP
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-GYAIu8AsLQQDwmP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|May 
- 20 - Getting Started with FiftyOne|Online
-DTSTART:20260520T110000
-CATEGORIES:ai,cloud,data,frontend,python
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nThis workshop provides a technical foundation for managing large scale co
- mputer vision datasets. You will learn to curate\, visualize\, and evaluat
- e models using the [open source FiftyOne app](https://docs.voxel51.com/).\
- n\n**Date\, Time and Location**\n\nMay 20\, 2026\n10 AM PST - 11 AM Pacifi
- c\nOnline. **[Register for the Zoom!](https://voxel51.com/events/getting-s
- tarted-with-fiftyone-may-20-2026)**\n\nThe session covers data ingestion\,
-  embedding visualization\, and model failure analysis. You will build work
- flows to identify dataset bias\, find annotation errors\, and select infor
- mative samples for training. Attendees leave with a framework for data cen
- tric AI for research and production pipelines\, prioritizing data quality 
- over pure model iteration.\n\nWhat you'll learn\n\n* **Structure unstructu
- red data.** Map data and metadata into a queryable schema for images\, vid
- eos\, and point clouds.\n* **Query datasets with the FiftyOne SDK**. Creat
- e complex views based on model predictions\, labels\, and custom tags. Use
-  the FiftyOne to filter data based on logical conditions and confidence sc
- ores.\n* **Visualize high dimensional embeddings**. Project features into 
- lower dimensions to find clusters of similar samples. Identify data gaps a
- nd outliers using FiftyOne Brain.\n* **Automate data curation.** Implement
-  algorithmic measures to select diverse subsets for training. Reduce label
- ing costs by prioritizing high entropy samples.\n* **Debug model performan
- ce.** Run evaluation routines to generate confusion matrices and precision
-  recall curves. Visualize false positives and false negatives directly in 
- the App to understand model failures.\n* **Customize FiftyOne**. Build cus
- tom dashboards and interactive panels. Create specialized views for domain
-  specific tasks.\n\n**Prerequisites:**\n\n* Working knowledge of Python an
- d machine learning and/or computer vision fundamentals.\n* All attendees w
- ill get access to the tutorials and code examples used in the workshop.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Founder Showdown: Signal or Noise?|Online
-DTSTART:20260520T180000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/2uyzceoo\n\nHo
- sted by Abraham & 4 others
-LOCATION:https://luma.com/event/evt-juNiYiKaeEVT857
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-juNiYiKaeEVT857
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte 
  II|Online
 DTSTART:20260520T200000
@@ -7313,8 +7257,8 @@ CATEGORIES:AI,AI - Gemini,AI - Gemma,Build with AI,Firebase,Google Cloud,H
 DESCRIPTION:BUILD WITH AI - HACKFOX 2026 es el hackathon más emocionante 
  de Tijuana. ¡Crea\, innova y programa durante 26 horas para ...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7330,8 +7274,8 @@ CATEGORIES:AI,AI - Gemini,Build with AI,Google Cloud,Web,ai,frontend
 DESCRIPTION:¡Únase a nosotros en un emocionante taller práctico donde a
  prenderá a crear su propio chatbot con tecnología de intelige...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7347,8 +7291,8 @@ CATEGORIES:Build with AI,Google Cloud,Web,ai,backend,data,frontend
 DESCRIPTION:Aprende a utilizar la YouTube Data API de Google para buscar\,
   filtrar y analizar videos de manera automatizada. En esta ...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7365,8 +7309,8 @@ CATEGORIES:Build with AI,Google Cloud,Google Maps Platform,Web,Workshop /
 DESCRIPTION:Descubre cómo desarrollar soluciones innovadoras utilizando l
  as APIs de Google Maps Platform de Google. Durante esta cha...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7386,8 +7330,8 @@ DESCRIPTION:El desarrollo ha evolucionado y la IA es hoy nuestra mejor ali
  sar IA para pulir el diseño del sistema y desplegar a producción. Una ex
  periencia inmersiva para dominar el arte de crear software inteligente.
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7915,6 +7859,35 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
   labeling works\, including training reusable “Labeling Agents”\, prom
  pting with text + visual examples\, iterating on outputs before deployment
   and running large-scale auto-labeling workflows
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|July
+  1 - Getting Started with FiftyOne|Online
+DTSTART:20260701T100000
+CATEGORIES:ai,cloud,data,frontend,python
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nhis workshop is part of our Getting Started with FiftyOne monthly series 
+ — a recurring session designed to help you build a strong foundation in 
+ data-centric AI workflows.This workshop is part of our Getting Started wit
+ h FiftyOne monthly series — a recurring session designed to help you bui
+ ld a strong foundation in data-centric AI workflows.\n\n**Time\, Place and
+  Location**\n\nJuly 1\, 2026\n9 AM PST - 10 AM PST\nOnline. **[Register fo
+ r the Zoom!](https://voxel51.com/events/getting-started-with-fiftyone-july
+ -1-2026)**\n\nIn this session\, you’ll learn how to manage large-scale c
+ omputer vision datasets using open source FiftyOne. We’ll cover how to c
+ urate\, visualize\, and evaluate your data and models — with a focus on 
+ improving data quality over brute-force model iteration.\n\nYou’ll walk 
+ away with a repeatable framework for building data-centric AI pipelines ac
+ ross research and production.\n\n**What you’ll learn:**\n\n* Structure u
+ nstructured data into queryable schemas (images\, video\, point clouds)\n*
+  Query datasets using the FiftyOne SDK with filters\, tags\, and confidenc
+ e thresholds\n* Visualize high-dimensional embeddings to identify clusters
+ \, gaps\, and outliers\n* Automate data curation and prioritize high-value
+  samples for labeling\n* Debug model performance using evaluation tools (c
+ onfusion matrices\, PR curves)\n* Customize FiftyOne with dashboards and i
+ nteractive panels\n\n**Prerequisites:**\n\n* Working knowledge of Python\n
+ * Familiarity with machine learning and/or computer vision fundamentals
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
