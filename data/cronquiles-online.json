@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T01:46:25.667168+00:00",
+  "generated_at": "2026-05-20T08:01:53.091517+00:00",
   "total_events": 170,
   "city": "Online",
   "communities": [
@@ -53,23 +53,12 @@
       ]
     },
     {
-      "name": "Data, Cloud and AI in Mexico City",
-      "description": "IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts.",
-      "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/big-data-developers-in-mexico-city",
-          "label": "Meetup"
-        }
-      ]
-    },
-    {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -173,6 +162,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Heroica Veracruz",
+      "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
           "label": "Sitio web"
         }
       ]
@@ -3576,7 +3576,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3603,7 +3603,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3612,38 +3612,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-b08xpdnvWOYi4Os",
       "hash_key": "frameiq hacia una banca impulsada por in_2026-05-15T00:00:00+00:00"
-    },
-    {
-      "title": "Data, Cloud and AI in Mexico City|IBM Tech Summit Monterrey 2026|México|",
-      "description": "Data, Cloud and AI in Mexico City\nEl partido ya empezó.\nY hoy, quienes destacan no solo reaccionan… juegan con estrategia.\nEn un entorno que no se detiene, la ventaja está en anticiparse, innovar y ejecutar mejor con Inteligencia Artificial, Nube Híbrida y Automatización.\nEste es el espacio donde la estrategia cobra vida:\n4 Tech Tracks\n+25 speakers\n+20 sesiones\nDemos en vivo\nPorque las grandes estrategias comienzan con una visión clara… y el momento de actuar es ahora.\nInvita a todo tu equipo de trabajo al evento y separen su lugar / cupo limitado\n[https://techsummitmx.com/?inv=ibm](https://techsummitmx.com/?inv=ibm)",
-      "url": "https://www.meetup.com/big-data-developers-in-mexico-city/events/314699690/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/big-data-developers-in-mexico-city/events/314699690/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Cintermex, Av. Fundidora No. 501 - Col. Obrera - Monterrey, N.L., México - C.P. 64010",
-      "online": false,
-      "organizer": "Data, Cloud and AI in Mexico City",
-      "dtstart": "2026-05-19T12:30:00-06:00",
-      "dtend": "2026-05-19T20:30:00-06:00",
-      "tags": [
-        "ai",
-        "cloud",
-        "data",
-        "frontend"
-      ],
-      "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "ibm tech summit monterrey 2026_2026-05-19T18:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|All The Things: IT & AI In Action|Online",
@@ -3892,6 +3860,43 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-5vkWHGOMiVuCCXT",
       "hash_key": "papo de founders dilson da certiface enc_2026-05-21T22:00:00+00:00"
+    },
+    {
+      "title": "GDG Heroica Veracruz|[Hands on] Build with AI: De la curiosidad con Gemini App a construir con Google AI Studio|Online",
+      "description": "Una introducción diseñada para aprender a integrar los modelos de AI de Google en tus apps y productos. Iniciaremos expl...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-hands-on-build-with-ai-de-la-curiosidad-con-gemini-app-a-construir-con-google-ai-studio/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-hands-on-build-with-ai-de-la-curiosidad-con-gemini-app-a-construir-con-google-ai-studio/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG Heroica Veracruz",
+      "dtstart": "2026-05-21T18:30:00-06:00",
+      "dtend": "2026-05-21T20:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Community Building",
+        "Google Cloud",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "hands on build with ai de la curiosidad _2026-05-22T00:00:00+00:00"
     },
     {
       "title": "GDG Cloud Mexico City|Build with AI Week: Gira Universitaria Sur de Tamaulipas 2026|México|",
