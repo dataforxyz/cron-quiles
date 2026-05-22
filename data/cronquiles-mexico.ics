@@ -2520,8 +2520,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/hilosmxtw\n\nA
  e México\nMexico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Av. P.º de la Reforma 180-piso 29\, Juárez\, Cuauhtémoc\, 0660
  0 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
- e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
+X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Ciudad de Méxi
+ co\, Cuauhtémoc\, Ciudad de México\, 06050\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6946,26 +6946,6 @@ X-CRONQUILES-STATE:Tolima
 X-CRONQUILES-STATE-CODE:CO-TOL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rust-AICollective|AI Collective × Descript: How leaders make Link
- edin video in less than an hour|Online
-DTSTART:20260521T190000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-4-30\n\
- nHosted by Eileen Wu & 3 others
-LOCATION:https://luma.com/event/evt-UwmVlsfq54OZNGj
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-UwmVlsfq54OZNGj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Papo de Founders - Dilson\, da CertiFace - Encon
- tro #11 AI Collective São Paulo|Online
-DTSTART:20260521T220000Z
-CATEGORIES:ai,frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sa-5-21\n\
- nHosted by The AI Collective\, Alexandre Mandl & Luiz Real
-LOCATION:https://luma.com/event/evt-5vkWHGOMiVuCCXT
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-5vkWHGOMiVuCCXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG Heroica Veracruz|[Hands on] Build with AI: De la curiosidad co
  n Gemini App a construir con Google AI Studio|Online
 DTSTART:20260521T183000
@@ -6973,6 +6953,18 @@ CATEGORIES:AI,AI - Gemini,Build with AI,Community Building,Google Cloud,Wo
  rkshop / hands-on session,ai,frontend,mobile
 DESCRIPTION:Una introducción diseñada para aprender a integrar los model
  os de AI de Google en tus apps y productos. Iniciaremos expl...
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Club de estudio: Fundamentos Matemáticos de la Inteligen
+ cia Artificial|Online
+DTSTART:20260521T200000
+CATEGORIES:Build with AI,Career Development
+DESCRIPTION:Les invitamos a participar en un taller excepcionalmente inter
+ esante titulado "Club de estudio: Fundamentos Matemáticos...
 LOCATION:Online
 X-CRONQUILES-ADDRESS:Online
 X-CRONQUILES-COUNTRY:México
@@ -7083,8 +7075,8 @@ CATEGORIES:AI,AI - Gemini,AI - Gemma,Build with AI,Firebase,Google Cloud,H
 DESCRIPTION:BUILD WITH AI - HACKFOX 2026 es el hackathon más emocionante 
  de Tijuana. ¡Crea\, innova y programa durante 26 horas para ...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7100,8 +7092,8 @@ CATEGORIES:AI,AI - Gemini,Build with AI,Google Cloud,Web,ai,frontend
 DESCRIPTION:¡Únase a nosotros en un emocionante taller práctico donde a
  prenderá a crear su propio chatbot con tecnología de intelige...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7117,8 +7109,8 @@ CATEGORIES:Build with AI,Google Cloud,Web,ai,backend,data,frontend
 DESCRIPTION:Aprende a utilizar la YouTube Data API de Google para buscar\,
   filtrar y analizar videos de manera automatizada. En esta ...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7135,8 +7127,8 @@ CATEGORIES:Build with AI,Google Cloud,Google Maps Platform,Web,Workshop /
 DESCRIPTION:Descubre cómo desarrollar soluciones innovadoras utilizando l
  as APIs de Google Maps Platform de Google. Durante esta cha...
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7156,8 +7148,8 @@ DESCRIPTION:El desarrollo ha evolucionado y la IA es hoy nuestra mejor ali
  sar IA para pulir el diseño del sistema y desplegar a producción. Una ex
  periencia inmersiva para dominar el arte de crear software inteligente.
 LOCATION:Pixeland Arcade\, 1120 Avenida Revolución\, Tijuana
-X-CRONQUILES-ADDRESS:Avenida A\, Zona Río\, Del. Centro\, Tijuana\, Munic
- ipio de Tijuana\, Baja California\, 22050\, México
+X-CRONQUILES-ADDRESS:Avenida Revolución\, Del. Centro\, Tijuana\, Municip
+ io de Tijuana\, Baja California\, 22050\, México
 X-CRONQUILES-CITY:Tijuana
 X-CRONQUILES-CITY-CODE:tijuana
 X-CRONQUILES-COUNTRY:México
@@ -7322,6 +7314,24 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Campeche
 X-CRONQUILES-STATE-CODE:MX-CAM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claude Community|Mexico City  -  Claude Meetup For Education|Méxi
+ co|Ciudad de México
+DTSTART:20260602T233000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/lerwgp43\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la
+  Vega\, Joaquin Ruales & Platzi Team
+LOCATION:Cuauhtémoc\, Ciudad de México\, México
+X-CRONQUILES-ADDRESS:Ciudad de México\, Cuauhtémoc\, Ciudad de México\,
+  México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Predictive Neurotechnologies\, Criminal Risk and
