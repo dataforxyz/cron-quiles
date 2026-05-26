@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 517,
-    "future_event_count": 47,
+    "event_count": 522,
+    "future_event_count": 48,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -85,7 +85,7 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 302,
+    "event_count": 303,
     "future_event_count": 4,
     "active_months": [
       "2024-09",
@@ -153,10 +153,11 @@
     "code": "MX-NLE",
     "name": "Nuevo León",
     "slug": "mx-nle",
-    "event_count": 2,
+    "event_count": 3,
     "future_event_count": 1,
     "active_months": [
       "2025-11",
+      "2026-03",
       "2026-05"
     ],
     "emoji": "🏔️"
@@ -165,8 +166,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 163,
-    "future_event_count": 31,
+    "event_count": 164,
+    "future_event_count": 32,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -236,6 +237,17 @@
     "emoji": "🌋"
   },
   {
+    "code": "MX-ROO",
+    "name": "Quintana Roo",
+    "slug": "mx-roo",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2026-03"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-SON",
     "name": "Sonora",
     "slug": "mx-son",
@@ -272,9 +284,11 @@
     "code": "MX-YUC",
     "name": "Yucatán",
     "slug": "mx-yuc",
-    "event_count": 1,
+    "event_count": 2,
     "future_event_count": 0,
-    "active_months": [],
+    "active_months": [
+      "2026-03"
+    ],
     "emoji": "🏖️"
   }
 ]
