@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T01:42:53.695530+00:00",
-  "total_events": 3,
+  "generated_at": "2026-05-26T08:00:33.470025+00:00",
+  "total_events": 2,
   "city": "Nuevo León",
   "communities": [
     {
@@ -13,11 +13,6 @@
           "label": "Luma"
         }
       ]
-    },
-    {
-      "name": "Claude Community",
-      "description": "Eventos de la comunidad de Claude AI.",
-      "links": []
     },
     {
       "name": "GDG Monterrey",
@@ -62,35 +57,6 @@
       "hash_key": "monterrey tech week early stage pitch co_2025-11-06T22:00:00+00:00"
     },
     {
-      "title": "Claude Community|Monterrey  -  Claude Code for Everyone|México|Nuevo León",
-      "description": "Get up-to-date information at: https://luma.com/claudemonterrey\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la Vega, Sebastián Marines & Erik Porroa",
-      "url": "https://luma.com/claudemonterrey",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/claudemonterrey",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Sin Nombre 34, Monterrey, Nuevo León, México",
-      "online": false,
-      "organizer": "Claude Community",
-      "dtstart": "2026-03-20T23:30:00+00:00",
-      "dtend": "2026-03-21T03:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Nuevo León",
-      "state_code": "MX-NLE",
-      "city": "Monterrey",
-      "city_code": "monterrey",
-      "address": "Monterrey, Nuevo León, 64490, México",
-      "hash_key": "monterrey claude code for everyone_2026-03-20T22:00:00+00:00"
-    },
-    {
       "title": "GDG Monterrey|Build with AI Monterrey|México|Nuevo León",
       "description": "Únete a nuestro evento comunitario Build with AI el 28 de mayo en Apex Systems. Este meetup está diseñado para desarroll...",
       "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-build-with-ai-monterrey/",
@@ -122,7 +88,7 @@
       "state_code": "MX-NLE",
       "city": "Monterrey",
       "city_code": "monterrey",
-      "address": "Calzada San Jerónimo, San Jerónimo, Monterrey, Nuevo León, 64640, México",
+      "address": "Avenida San Jerónimo, San Jerónimo, Monterrey, Nuevo León, 64650, México",
       "hash_key": "build with ai monterrey_2026-05-29T00:00:00+00:00"
     }
   ]
