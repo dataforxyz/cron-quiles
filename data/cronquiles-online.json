@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T08:14:10.258656+00:00",
-  "total_events": 168,
+  "generated_at": "2026-05-27T14:14:39.507665+00:00",
+  "total_events": 177,
   "city": "Online",
   "communities": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -167,12 +167,45 @@
       ]
     },
     {
+      "name": "GDG Monterrey",
+      "description": "Disclaimer: GDG Monterrey is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-monterrey/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG San Francisco de Campeche",
       "description": "El Grupo de Desarrolladores de Google (GDG) en San Francisco de Campeche es un colectivo de entusiastas de la tecnología dedicado a fomentar el aprendizaje, la colaboración y la productividad entre los desarrolladores en Campeche y sus alrededores. Fundado en mayo de 2019, nuestra comunidad es un hervidero de innovación y creatividad tecnológica.",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Tijuana",
+      "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-tijuana/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Villahermosa",
+      "description": "Somos una comunidad que busca desarrollar e impulsar al talento local, mediante actividades constantes y mentorias. Este programa está dedicado a ayudar a los organizadores individuales de comunidades activas de desarrolladores móviles, web, en la nube y de inteligencia artificial en su viaje, liderando grupos exitosos y comprometidos a través de capacitación en línea, materiales de reunión, oportunidades de redes y más.\nIniciada en 2014 por desarrolladores locales.\nDescargo de responsabilidad: GDG Villahermosa es un grupo independiente; Nuestras actividades y las opiniones expresadas aquí no deben estar vinculadas de ninguna manera a Google, la corporación. Para obtener más información sobre el programa GDG, visite https://developers.google.com/community/gdg/",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-villahermosa/",
           "label": "Sitio web"
         }
       ]
@@ -1436,6 +1469,62 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/nzb89n7y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nzb89n7y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/8dtqdfok",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8dtqdfok",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -3565,7 +3654,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3592,7 +3681,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3710,6 +3799,221 @@
       "hash_key": "grupo de estudio lenguaje de programacin_2026-05-28T02:00:00+00:00"
     },
     {
+      "title": "GDG Villahermosa|Build with AI Sureste de México MiPyMES|México|",
+      "description": "Bienvenidas todas las MiPyMES de la región SuresteTendrás acceso a herramientas de vanguardia, como Gemini CLI y Google ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-build-with-ai-sureste-de-mexico-mipymes/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-build-with-ai-sureste-de-mexico-mipymes/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Villahermosa, Villahermosa, Villahermosa",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-05-28T09:00:00-06:00",
+      "dtend": "2026-05-28T12:00:53-06:00",
+      "tags": [
+        "Build with AI",
+        "ai",
+        "backend",
+        "frontend",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Villahermosa, Villahermosa, Villahermosa",
+      "hash_key": "build with ai sureste de mxico mipymes_2026-05-28T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|BUILD WITH AI - HACKFOX 2026|México|",
+      "description": "BUILD WITH AI - HACKFOX 2026 es el hackathon más emocionante de Tijuana. ¡Crea, innova y programa durante 26 horas para ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-hackfox-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-hackfox-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "online": false,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-05-28T08:00:00-07:00",
+      "dtend": "2026-05-29T14:00:00-07:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "AI - Gemma",
+        "Build with AI",
+        "Firebase",
+        "Google Cloud",
+        "Hackathon",
+        "Networking",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "hash_key": "build with ai hackfox 2026_2026-05-28T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|BUILD WITH AI - Crea tu propio chatbot con vertex AI|México|",
+      "description": "¡Únase a nosotros en un emocionante taller práctico donde aprenderá a crear su propio chatbot con tecnología de intelige...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-crea-tu-propio-chatbot-con-vertex-ai/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-crea-tu-propio-chatbot-con-vertex-ai/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "online": false,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-05-28T09:00:00-07:00",
+      "dtend": "2026-05-28T14:00:00-07:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Google Cloud",
+        "Web",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "hash_key": "build with ai crea tu propio chatbot con_2026-05-28T16:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|BUILD WITH AI - Filtrado Inteligente de Videos con la API de YouTube|México|",
+      "description": "Aprende a utilizar la YouTube Data API de Google para buscar, filtrar y analizar videos de manera automatizada. En esta ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-filtrado-inteligente-de-videos-con-la-api-de-youtube/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-filtrado-inteligente-de-videos-con-la-api-de-youtube/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "online": false,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-05-28T09:00:00-07:00",
+      "dtend": "2026-05-29T14:30:00-07:00",
+      "tags": [
+        "Build with AI",
+        "Google Cloud",
+        "Web",
+        "ai",
+        "backend",
+        "data",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "hash_key": "build with ai filtrado inteligente de vi_2026-05-28T16:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|BUILD WITH AI - Aplicaciones Inteligentes con Google Maps|México|",
+      "description": "Descubre cómo desarrollar soluciones innovadoras utilizando las APIs de Google Maps Platform de Google. Durante esta cha...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-aplicaciones-inteligentes-con-google-maps/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-aplicaciones-inteligentes-con-google-maps/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "online": false,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-05-28T09:00:00-07:00",
+      "dtend": "2026-05-29T14:30:00-07:00",
+      "tags": [
+        "Build with AI",
+        "Google Cloud",
+        "Google Maps Platform",
+        "Web",
+        "Workshop / hands-on session",
+        "ai",
+        "backend",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "hash_key": "build with ai aplicaciones inteligentes _2026-05-28T16:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|Build with AI: Construye tu primer app con IA: De la Idea a Producción|México|",
+      "description": "El desarrollo ha evolucionado y la IA es hoy nuestra mejor aliada. Acompáñame a construir una web app de principio a fin. Exploraremos metodologías reales de producto: aprenderás a definir restricciones, usar IA para pulir el diseño del sistema y desplegar a producción. Una experiencia inmersiva para dominar el arte de crear software inteligente.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-construye-tu-primer-app-con-ia-de-la-idea-a-produccion/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-construye-tu-primer-app-con-ia-de-la-idea-a-produccion/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "online": false,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-05-28T09:30:00-07:00",
+      "dtend": "2026-05-28T10:30:00-07:00",
+      "tags": [
+        "AI - Gemini",
+        "Build with AI",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "ai",
+        "backend",
+        "frontend",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+      "hash_key": "build with ai construye tu primer app co_2026-05-28T16:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|IA para Gerar Criativos que Vendem — Workshop Prático com Caio Cruz · The AI Collective Rio|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-ri-5-28\n\nHosted by The AI Collective, Ahnis Fraga do Nascimento & Éridan Lengruber",
       "url": "https://luma.com/aic-ri-5-28",
@@ -3737,6 +4041,41 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-fsuBfwrwqtND7ue",
       "hash_key": "ia para gerar criativos que vendem works_2026-05-28T22:00:00+00:00"
+    },
+    {
+      "title": "GDG Monterrey|Build with AI Monterrey|México|",
+      "description": "Únete a nuestro evento comunitario Build with AI el 28 de mayo en Apex Systems. Este meetup está diseñado para desarroll...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-build-with-ai-monterrey/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-build-with-ai-monterrey/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Apex Systems Helice, 1104 Avenida San Jerónimo, Monterrey",
+      "online": false,
+      "organizer": "GDG Monterrey",
+      "dtstart": "2026-05-28T18:00:00-06:00",
+      "dtend": "2026-05-28T21:00:00-06:00",
+      "tags": [
+        "AI - Gemini",
+        "Build with AI",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-monterrey/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Apex Systems Helice, 1104 Avenida San Jerónimo, Monterrey",
+      "hash_key": "build with ai monterrey_2026-05-29T00:00:00+00:00"
     },
     {
       "title": "AWS User Group Jalisco|🔐 Security & Compliance in the AI Era|Online",
