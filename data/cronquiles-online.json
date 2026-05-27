@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T19:31:06.193759+00:00",
-  "total_events": 164,
+  "generated_at": "2026-05-27T01:46:37.715363+00:00",
+  "total_events": 167,
   "city": "Online",
   "communities": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -71,6 +71,17 @@
           "platform": "luma",
           "url": "https://luma.com/FFMexico2026",
           "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "Kong Mexico City",
+      "description": "Eventos sobre APIs, Microservicios, Service Mesh e Insomnia.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/kong-mexico-city",
+          "label": "Meetup"
         }
       ]
     },
@@ -3554,7 +3565,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3581,7 +3592,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3882,6 +3893,35 @@
       "hash_key": "grupo de estudio estructuras de control _2026-06-02T02:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|The AI Collective New Zealand  -  Humans in AI Week|Online",
+      "description": "Get up-to-date information at: https://luma.com/the-ai-collective-new-zealand-humans-in-a-50433491\n\nHosted by The AI Collective & Andeed Ma",
+      "url": "https://luma.com/the-ai-collective-new-zealand-humans-in-a-50433491",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/the-ai-collective-new-zealand-humans-in-a-50433491",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-FILKdUtQxOEX4gy",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-06-02T05:30:00+00:00",
+      "dtend": "2026-06-02T07:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-FILKdUtQxOEX4gy",
+      "hash_key": "the ai collective new zealand humans in _2026-06-02T04:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|The AI Collective Manila  -  Humans in AI Week|Online",
       "description": "Get up-to-date information at: https://luma.com/the-ai-collective-manila-humans-in-ai-wee-58de9564\n\nHosted by The AI Collective & 4 others",
       "url": "https://luma.com/the-ai-collective-manila-humans-in-ai-wee-58de9564",
@@ -3909,6 +3949,35 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-eAa5RcvDHagYDVg",
       "hash_key": "the ai collective manila humans in ai we_2026-06-02T08:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|Workshop: Codex for Humans  -  Humans in AI Week 2026|Online",
+      "description": "Get up-to-date information at: https://luma.com/xsv8o9yx\n\nHosted by Abraham, The AI Collective & Daniel Green",
+      "url": "https://luma.com/xsv8o9yx",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/xsv8o9yx",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-hMOL4KEGzaYApay",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-06-02T18:00:00+00:00",
+      "dtend": "2026-06-02T19:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-hMOL4KEGzaYApay",
+      "hash_key": "workshop codex for humans humans in ai w_2026-06-02T18:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Predictive Neurotechnologies, Criminal Risk and the Future of the Presumption of Innocence|Online",
@@ -4031,6 +4100,38 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "grupo de estudio estructuras de control _2026-06-09T02:00:00+00:00"
+    },
+    {
+      "title": "Kong Mexico City|Building AI Chargeback: From Metering to Billing|Online",
+      "description": "Kong/MEXICO-CITY\nYour AI platform is running. Teams are using it. Someone from Finance just asked how much each team is actually spending and you don't have a clean answer.\n\nThat's the chargeback problem. It sounds like a billing question, but it's really an infrastructure question. Token consumption, model selection, request volume, latency tiers. None of that maps cleanly to a cost center without the right plumbing in place.\n\nIn this session, we'll walk through what it actually takes to build AI chargeback from the ground up: how to meter AI traffic at the gateway layer, how to aggregate usage data by team, product, or application, and how to turn raw consumption metrics into something Finance can act on.\n\nWe'll cover:\n\n* **Metering at the source** — capturing token usage, model calls, and latency without instrumenting every app\n* **Usage attribution** — tagging requests to cost centers, teams, or tenants at the API layer\n* **Aggregation and reporting** — turning per-request data into monthly cost summaries\n* **Chargeback vs. showback** — when to bill internally, when to just make usage visible, and why the distinction matters",
+      "url": "https://www.meetup.com/kong-mexico-city/events/314967061/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/kong-mexico-city/events/314967061/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "Kong Mexico City",
+      "dtstart": "2026-06-09T09:00:00-06:00",
+      "dtend": "2026-06-09T10:00:00-06:00",
+      "tags": [
+        "ai",
+        "backend",
+        "data",
+        "frontend"
+      ],
+      "source": "https://www.meetup.com/kong-mexico-city/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "building ai chargeback from metering to _2026-06-09T14:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 9 - Visual AI in Healthcare: Ground Truth in the Foundation-Model Era|Online",
