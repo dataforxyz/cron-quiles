@@ -95,6 +95,39 @@
     "hash_key": "july 10 best of cvpr day 3_2026-07-10T16:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|July 9 - Best of CVPR (Day 2)|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nThe Best of CVPR is a three-day virtual meetup series featuring researchers presenting their accepted papers from the 2026 Conference on Computer Vision and Pattern Recognition (CVPR).\n\n**Date, Time and Location**\n\nJul 09, 2026\n9 AM - 11 AM PT\nOnline. **[Register for Zoom!](https://voxel51.com/events/best-of-cvpr-july-9-2026)**\n\n**Efficient Representation and Coding of Dynamic Light Fields**\n\nThis talk presents a data-driven approach that integrates aperture and pixel-wise exposure coding with Dynamic Mode Decomposition (DMD) to achieve compact representation of dynamic light fields. By modeling them as mathematical dynamical systems, the framework captures coherent structures across all dimensions and achieves scalable compression, bitrate savings, and high-quality reconstructions.\n\n*About the Speaker*\n\n[Joshitha Ravishanker](https://www.linkedin.com/in/joshitharavishanker/) is a PhD scholar in the Department of Electrical Engineering at IIT Madras, supervised by Dr. Mansi Sharma and Dr. Kaushik Mitra. She is a Prime Minister's Research Fellow and her doctoral research focuses on the efficient representation and compression of light fields for display applications.\n\n**PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics**\n\nRecent video generation models can produce visually striking results, but they often fail to capture the physical dynamics that govern how real-world scenes evolve. In this talk, I will present PHANTOM, a physics-infused video generation model that jointly predicts visual content and latent physical dynamics. PHANTOM uses a physics-aware video representation to guide generation toward videos that are both visually realistic and physically consistent, without requiring explicit simulator-based physical specifications. I will discuss the model design, key results on standard and physics-aware video generation benchmarks, and how this work supports broader progress toward multimodal world models for physical AI and embodied reasoning.\n\n*About the Speaker*\n\n[Ismini Lourentzou](https://www.linkedin.com/in/isminilourentzou) is an Assistant Professor at the University of Illinois Urbana-Champaign and Director of the Perception and LANguage Lab. Her research focuses on multimodal machine learning, vision-language models, generative modeling, and embodied AI, with applications in physical reasoning, robotics, healthcare, and trustworthy AI.\n\n**LoST: Level of Semantics Tokenization for 3D Shapes**\n\nTokenization is fundamental to generative modeling and especially important for autoregressive 3D generation. However, current 3D shape tokenizers rely on geometric level-of-detail hierarchies that are token-inefficient and poorly aligned with semantic structure. We propose Level-of-Semantics Tokenization (LoST), which orders tokens by semantic salience so early tokens produce complete, plausible shapes and later tokens refine detailed geometry and semantics.\n\nLoST is trained with Relational Inter-Distance Alignment (RIDA), a semantic alignment loss that matches relationships in 3D shape latent space to those in DINO feature space. Experiments show that LoST achieves state-of-the-art reconstruction and efficient high-quality AR 3D generation while using only 0.1%–10% of the tokens required by prior methods.\n\n*About the Speaker*\n\n[Niladri Dutt](https://www.linkedin.com/in/niladridutt) is an ELLIS PhD student at University College London (UCL), sponsored by Adobe Research. He is advised by Prof Niloy Mitra (UCL) and Duygu Ceylan (Adobe). His research interests are in representation learning for 3D and multimodal learning.\n\n**3D Reconstruction Improves Weakly-Supervised Semantic Segmentation**\n\nSemantic segmentation typically requires expensive, dense annotations, making large-scale training a significant bottleneck. We address this by introducing a framework that leverages recent advances in feed-forward 3D reconstruction to improve weakly supervised semantic segmentation on 2D images, using only sparse labels such as points, scribbles, or coarse masks.\n\nOur core insight is that 3D geometric structure recovered directly from casual 2D video sequences provides powerful cross-view consistency constraints that can propagate sparse annotations across entire scenes. A dual student-teacher architecture enforces semantic consistency between 2D images and reconstructed 3D point clouds, injecting geometric supervision into the learning process while keeping inference purely 2D. Our solution achieves state-of-the-art performance, outperforming existing methods by 2–7% across a range of datasets and annotation types, without requiring additional labels or inference overhead.\n\n*About the Speaker*\n\n[Wolfgang Boettcher](https://www.linkedin.com/in/wolfgang-boettcher/) is an ELLIS doctoral researcher in the Computer Vision and Machine Learning group at the Max Planck Institute for Informatics. Since his master's degree at ETH Zurich, his research focuses on visual perception, semantic scene understanding, and dynamic 3D reconstruction. He is particularly interested in models that can reason about the physical environment for applications in autonomous systems and robotics.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314981974/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314981974/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-07-09T10:00:00-06:00",
+    "dtend": "2026-07-09T12:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "frontend"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "july 9 best of cvpr day 2_2026-07-09T16:00:00+00:00"
+  },
+  {
     "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
     "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
     "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-08/",
@@ -325,7 +358,7 @@
     "hash_key": "grupo de estudio estructuras de control _2026-06-30T02:00:00+00:00"
   },
   {
-    "title": "Product Management Society | CDMX Chapter| CDMX Chapter|México|México",
+    "title": "Product Management Society | CDMX Chapter| CDMX Chapter|México|Ciudad de México",
     "description": "Product Management Society | CDMX Chapter\n**Llamando a toda la comunidad de Producto!** Estamos reuniendo a PMs, founders, diseñadores, mercadólogos e ingenieros para una tarde relajada de networking. Si estás en el mundo del producto o quieres empezar en él, ¡ven a conectar con tu comunidad!\n\n**¿Qué puedes esperar?**\n**Dinámicas rompehielos:** Te ayudaremos a saltarte las típicas pláticas incómodas para empezar conversaciones interesantes y valiosas sin esfuerzo. **Networking relajado:** Un formato sin presiones para convivir, compartir ideas y hacer crecer tu red de contactos. **Un ambiente súper amigable:** ¡Cualquiera con interés en Producto es bienvenido! Habrá una gran mezcla de perfiles y asistentes que hablan tanto inglés como español. :)\n\n* **Síguenos en LinkedIn:** [https://www.linkedin.com/company/product-management-society/](https://www.linkedin.com/company/product-management-society/)\n* **Únete a nuestro canal de Slack:** [https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg](https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg)\n* **Suscríbete a nuestro blog:** [https://blog.productmanagementsociety.com/](https://blog.productmanagementsociety.com/)\n* **Conecta con la fundadora:** [https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb](https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb)\n\n***\n\n**Calling all Product People!** We're bringing together PMs, founders, designers, marketers, and engineers for a relaxed evening of networking. If you're in the product world or want to be, come connect with your community!\n\n**What to expect:**\n**Interactive Icebreakers:** We’ll help you bypass the awkward small talk and start meaningful conversations effortlessly. **Relaxed Networking:** A low-pressure format to mingle, share ideas, and build your network. **A Welcoming Crowd:** Anyone interested in Product is welcome! Expect a great mix of roles and both English and Spanish speakers. :)\n\n* **Follow us on LinkedIn:** [https://www.linkedin.com/company/product-management-society/](https://www.linkedin.com/company/product-management-society/)\n* **Join our Slack channel:** [https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg](https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg)\n* **Subscribe to our blog:** [https://blog.productmanagementsociety.com/](https://blog.productmanagementsociety.com/)\n* **Connect with the Founder:** [https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb](https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb)",
     "url": "https://www.meetup.com/product-management-society-cdmx-chapter/events/314767750/",
     "sources": [
@@ -348,11 +381,11 @@
     "source": "https://www.meetup.com/product-management-society-cdmx-chapter/events/ical",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "cdmx chapter_2026-06-26T00:00:00+00:00"
   },
   {
@@ -666,7 +699,7 @@
     "hash_key": "python desde cero_2026-06-13T16:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Café|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/hd172ds2\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy, Rogelio Hernandez & Robin",
     "url": "https://luma.com/hd172ds2",
     "sources": [
@@ -685,11 +718,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding caf_2026-06-12T22:00:00+00:00"
   },
   {
@@ -871,7 +904,7 @@
     "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Workósfera Coworking @ Cerro de La Paz, Puebla, Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python meetup puebla junio 2026_2026-06-05T00:00:00+00:00"
   },
   {
@@ -997,6 +1030,35 @@
     "hash_key": "mexico city claude meetup for education_2026-06-02T22:00:00+00:00"
   },
   {
+    "title": "Rust-AICollective|Micro Meetup Women Brazil AIC (w/ The AI Collective)|Online",
+    "description": "Get up-to-date information at: https://luma.com/aic-be-6-2\n\nHosted by The AI Collective & Priscila",
+    "url": "https://luma.com/aic-be-6-2",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/aic-be-6-2",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-mE1iWVSlHn2AJs5",
+    "online": true,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-06-02T22:30:00+00:00",
+    "dtend": "2026-06-03T00:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-mE1iWVSlHn2AJs5",
+    "hash_key": "micro meetup women brazil aic w the ai c_2026-06-02T22:00:00+00:00"
+  },
+  {
     "title": "Rust-AICollective|Workshop: Codex for Humans  -  Humans in AI Week 2026|Online",
     "description": "Get up-to-date information at: https://luma.com/xsv8o9yx\n\nHosted by Abraham, The AI Collective & Daniel Green",
     "url": "https://luma.com/xsv8o9yx",
@@ -1049,9 +1111,9 @@
     "country_code": "MX",
     "state": "Campeche",
     "state_code": "MX-CAM",
-    "city": "",
-    "city_code": "",
-    "address": "Petrolera, Ciudad del Carmen, Campeche, México",
+    "city": "Ciudad del Carmen",
+    "city_code": "ciudaddelcarmen",
+    "address": "COL. PETROLERA, Ciudad del Carmen, Carmen, Campeche, 24100, México",
     "hash_key": "the ai collective campeche humans in ai _2026-06-02T16:00:00+00:00"
   },
   {
@@ -1204,7 +1266,7 @@
     "hash_key": "mayo odoo workflows_2026-05-30T00:00:00+00:00"
   },
   {
-    "title": "Claude Community|Xalapa  -  Claude Workshop For Students|México|Veracruz de Ignacio de la Llave",
+    "title": "Claude Community|Xalapa  -  Claude Workshop For Students|México|Veracruz",
     "description": "Get up-to-date information at: https://luma.com/wxlb908s\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la Vega & Joel Humberto Gomez Paredes",
     "url": "https://luma.com/wxlb908s",
     "sources": [
@@ -1225,11 +1287,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
     "country": "México",
     "country_code": "MX",
-    "state": "Veracruz de Ignacio de la Llave",
+    "state": "Veracruz",
     "state_code": "MX-VER",
-    "city": "",
-    "city_code": "",
-    "address": "Obrero Campesina, Xalapa-Enríquez, Veracruz, México",
+    "city": "Xalapa-Enríquez",
+    "city_code": "xalapaenriquez",
+    "address": "Obrero Campesina, Xalapa-Enríquez, Xalapa, Veracruz, 91020, México",
     "hash_key": "xalapa claude workshop for students_2026-05-29T16:00:00+00:00"
   },
   {
@@ -1354,7 +1416,7 @@
     "hash_key": "security compliance in the ai era_2026-05-29T00:00:00+00:00"
   },
   {
-    "title": "GDG Monterrey|Build with AI Monterrey|México|",
+    "title": "GDG Monterrey|Build with AI Monterrey|México|Nuevo León",
     "description": "Únete a nuestro evento comunitario Build with AI el 28 de mayo en Apex Systems. Este meetup está diseñado para desarroll...",
     "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-build-with-ai-monterrey/",
     "sources": [
@@ -1381,15 +1443,15 @@
     "source": "https://gdg.community.dev/gdg-monterrey/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Apex Systems Helice, 1104 Avenida San Jerónimo, Monterrey",
+    "state": "Nuevo León",
+    "state_code": "MX-NLE",
+    "city": "Monterrey",
+    "city_code": "monterrey",
+    "address": "Avenida San Jerónimo, San Jerónimo, Monterrey, Nuevo León, 64650, México",
     "hash_key": "build with ai monterrey_2026-05-29T00:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|Build with AI: Construye tu primer app con IA: De la Idea a Producción|México|",
+    "title": "GDG Tijuana|Build with AI: Construye tu primer app con IA: De la Idea a Producción|México|Baja California",
     "description": "El desarrollo ha evolucionado y la IA es hoy nuestra mejor aliada. Acompáñame a construir una web app de principio a fin. Exploraremos metodologías reales de producto: aprenderás a definir restricciones, usar IA para pulir el diseño del sistema y desplegar a producción. Una experiencia inmersiva para dominar el arte de crear software inteligente.",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-construye-tu-primer-app-con-ia-de-la-idea-a-produccion/",
     "sources": [
@@ -1418,15 +1480,15 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+    "state": "Baja California",
+    "state_code": "MX-BCN",
+    "city": "Tijuana",
+    "city_code": "tijuana",
+    "address": "Avenida A, Zona Río, Del. Centro, Tijuana, Municipio de Tijuana, Baja California, 22050, México",
     "hash_key": "build with ai construye tu primer app co_2026-05-28T16:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|BUILD WITH AI - Crea tu propio chatbot con vertex AI|México|",
+    "title": "GDG Tijuana|BUILD WITH AI - Crea tu propio chatbot con vertex AI|México|Baja California",
     "description": "¡Únase a nosotros en un emocionante taller práctico donde aprenderá a crear su propio chatbot con tecnología de intelige...",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-crea-tu-propio-chatbot-con-vertex-ai/",
     "sources": [
@@ -1453,15 +1515,15 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+    "state": "Baja California",
+    "state_code": "MX-BCN",
+    "city": "Tijuana",
+    "city_code": "tijuana",
+    "address": "Avenida A, Zona Río, Del. Centro, Tijuana, Municipio de Tijuana, Baja California, 22050, México",
     "hash_key": "build with ai crea tu propio chatbot con_2026-05-28T16:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|BUILD WITH AI - Filtrado Inteligente de Videos con la API de YouTube|México|",
+    "title": "GDG Tijuana|BUILD WITH AI - Filtrado Inteligente de Videos con la API de YouTube|México|Baja California",
     "description": "Aprende a utilizar la YouTube Data API de Google para buscar, filtrar y analizar videos de manera automatizada. En esta ...",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-filtrado-inteligente-de-videos-con-la-api-de-youtube/",
     "sources": [
@@ -1488,15 +1550,15 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+    "state": "Baja California",
+    "state_code": "MX-BCN",
+    "city": "Tijuana",
+    "city_code": "tijuana",
+    "address": "Avenida A, Zona Río, Del. Centro, Tijuana, Municipio de Tijuana, Baja California, 22050, México",
     "hash_key": "build with ai filtrado inteligente de vi_2026-05-28T16:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|BUILD WITH AI - Aplicaciones Inteligentes con Google Maps|México|",
+    "title": "GDG Tijuana|BUILD WITH AI - Aplicaciones Inteligentes con Google Maps|México|Baja California",
     "description": "Descubre cómo desarrollar soluciones innovadoras utilizando las APIs de Google Maps Platform de Google. Durante esta cha...",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-aplicaciones-inteligentes-con-google-maps/",
     "sources": [
@@ -1524,15 +1586,15 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+    "state": "Baja California",
+    "state_code": "MX-BCN",
+    "city": "Tijuana",
+    "city_code": "tijuana",
+    "address": "Avenida A, Zona Río, Del. Centro, Tijuana, Municipio de Tijuana, Baja California, 22050, México",
     "hash_key": "build with ai aplicaciones inteligentes _2026-05-28T16:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|Build with AI Sureste de México MiPyMES|México|",
+    "title": "GDG Villahermosa|Build with AI Sureste de México MiPyMES|Colombia|Tolima",
     "description": "Bienvenidas todas las MiPyMES de la región SuresteTendrás acceso a herramientas de vanguardia, como Gemini CLI y Google ...",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-build-with-ai-sureste-de-mexico-mipymes/",
     "sources": [
@@ -1555,17 +1617,17 @@
       "python"
     ],
     "source": "https://gdg.community.dev/gdg-villahermosa/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Villahermosa, Villahermosa, Villahermosa",
+    "country": "Colombia",
+    "country_code": "CO",
+    "state": "Tolima",
+    "state_code": "CO-TOL",
+    "city": "Villahermosa",
+    "city_code": "villahermosa",
+    "address": "Villahermosa, Nevados, Tolima, RAP (Especial) Central, Colombia",
     "hash_key": "build with ai sureste de mxico mipymes_2026-05-28T14:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|BUILD WITH AI - HACKFOX 2026|México|",
+    "title": "GDG Tijuana|BUILD WITH AI - HACKFOX 2026|México|Baja California",
     "description": "BUILD WITH AI - HACKFOX 2026 es el hackathon más emocionante de Tijuana. ¡Crea, innova y programa durante 26 horas para ...",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-build-with-ai-hackfox-2026/",
     "sources": [
@@ -1596,11 +1658,11 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Pixeland Arcade, 1120 Avenida Revolución, Tijuana",
+    "state": "Baja California",
+    "state_code": "MX-BCN",
+    "city": "Tijuana",
+    "city_code": "tijuana",
+    "address": "Avenida A, Zona Río, Del. Centro, Tijuana, Municipio de Tijuana, Baja California, 22050, México",
     "hash_key": "build with ai hackfox 2026_2026-05-28T14:00:00+00:00"
   },
   {
@@ -1633,39 +1695,6 @@
     "city_code": "",
     "address": "Online",
     "hash_key": "grupo de estudio lenguaje de programacin_2026-05-28T02:00:00+00:00"
-  },
-  {
-    "title": "México City AI, Machine Learning and Computer Vision Meetup|May 27 - Perceptron AI and FiftyOne for Video Understanding Workshop|Online",
-    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for a hands-on virtual session on May 27 exploring video-native multimodal AI and how to integrate cutting-edge video understanding models into your computer vision workflows.\n\n**Date, Time and Location**\n\nMay 27, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for Zoom!](https://voxel51.com/events/getting-started-perceptron-ai-fiftyone-video-understanding-may-27-2026)**\n\n**Video-Native Multimodal Models for Video and Image Understanding**\n\nIn this 20-minute talk, Akshat will introduce Perceptron’s latest release, a video-native multimodal model that matches or exceeds frontier models from Google and Alibaba on video and image understanding at a fraction of their inference cost. He’ll walk through the capabilities that move the needle for real video workloads: temporal grounding to clip precise events from long streams, egocentric reasoning for first-person and wearable contexts, and structured “thinking traces” that reason over motion and physical space. He’ll also cover the image-side advances production perception teams care about: reliable pointing, point-by-example one-shot visual search, dense counting, dial/gauge/clock reading, and structured document extraction.\n\n*About the Speaker*\n\n[Akshat Shrivastava](https://www.linkedin.com/in/akshatsh/) is the CTO and co-founder of Perceptron, previously leading AR On-Device at Meta and conducting research at UW.\n\n**Getting Started with Perceptron AI in FiftyOne**\n\nIn the second half of the session, Harpreet Sahota will walk through how to get started using Perceptron’s video-native multimodal model within FiftyOne for real-world video understanding workflows. He’ll demonstrate how to connect to the API, explore multimodal outputs inside FiftyOne, and build practical workflows for tasks like temporal event analysis, visual search, and video dataset inspection. Attendees will leave with a hands-on understanding of how to integrate state-of-the-art video perception models into their existing computer vision pipelines.\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in VLMs, Visual Agents, Document AI, and Physical AI.",
-    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314738082/",
-    "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314738082/",
-        "label": "Ver en Meetup"
-      }
-    ],
-    "location": "Online event,",
-    "online": true,
-    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-    "dtstart": "2026-05-27T10:00:00-06:00",
-    "dtend": "2026-05-27T12:00:00-06:00",
-    "tags": [
-      "ai",
-      "backend",
-      "data",
-      "frontend",
-      "security"
-    ],
-    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "",
-    "hash_key": "may 27 perceptron ai and fiftyone for vi_2026-05-27T16:00:00+00:00"
   },
   {
     "title": "GDG Cloud Mexico City|Build with AI Week: Gira Universitaria Sur de Tamaulipas 2026|México|",
@@ -1756,7 +1785,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1767,7 +1796,7 @@
     "hash_key": "frameiq hacia una banca impulsada por in_2026-05-15T00:00:00+00:00"
   },
   {
-    "title": "Python CDMX|Meetup Mayo 2026  -  PythonCDMX|México|México",
+    "title": "Python CDMX|Meetup Mayo 2026  -  PythonCDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/80ofl0bj\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Mexico\n\nHosted by PythonCDMX",
     "url": "https://luma.com/80ofl0bj",
     "sources": [
@@ -1788,15 +1817,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-f8GxWvNMvBvvuLb",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "meetup mayo 2026 pythoncdmx_2026-05-13T00:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Café|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/dre99mrd\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/dre99mrd",
     "sources": [
@@ -1815,11 +1844,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding caf_2026-05-08T22:00:00+00:00"
   },
   {
@@ -1841,7 +1870,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1882,7 +1911,7 @@
     "hash_key": "who pressed enter quin apret enter_2026-05-07T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #15|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #15|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/h9wl63gl\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Mexico\n\nHosted by Frutero",
     "url": "https://luma.com/h9wl63gl",
     "sources": [
@@ -1901,11 +1930,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 15_2026-04-29T16:00:00+00:00"
   },
   {
@@ -1961,9 +1990,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "",
+    "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Polanco, Ciudad de México, México",
+    "address": "Polanco, Calle Arquímedes, Polanco 4ª Sección, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11550, México",
     "hash_key": "zero to agent mexico city_2026-04-25T14:00:00+00:00"
   },
   {
@@ -1999,7 +2028,7 @@
     "hash_key": "interfaz web y agentes autnomos_2026-04-25T00:00:00+00:00"
   },
   {
-    "title": "Sudo FCiencias|compufest[1] - Charlas & Talleres|México|México",
+    "title": "Sudo FCiencias|compufest[1] - Charlas & Talleres|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/nlyxj7sm\n\nAddress:\nUNAM - Facultad De Ciencias\nAuditorio Barajas Celis + Por Definir\nCiudad de México, Mexico\n\nHosted by Sudo FCiencias & 4 others",
     "url": "https://luma.com/nlyxj7sm",
     "sources": [
@@ -2018,11 +2047,11 @@
     "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
     "hash_key": "compufest 1 charlas talleres_2026-04-24T14:00:00+00:00"
   },
   {
@@ -2145,7 +2174,7 @@
     "hash_key": "mexico city claude for finance_2026-04-18T00:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibecoding Café|México|México",
+    "title": "Vive Codding Cafe|Vibecoding Café|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/sn64suda\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/sn64suda",
     "sources": [
@@ -2164,11 +2193,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibecoding caf_2026-04-17T22:00:00+00:00"
   },
   {
@@ -2195,9 +2224,9 @@
     "country_code": "MX",
     "state": "Sonora",
     "state_code": "MX-SON",
-    "city": "",
-    "city_code": "",
-    "address": "El Centenario, Hermosillo, Sonora, México",
+    "city": "Hermosillo",
+    "city_code": "hermosillo",
+    "address": "Hermosillo, Sonora, 83140, México",
     "hash_key": "hermosillo claude code for everyone_2026-04-17T00:00:00+00:00"
   },
   {
@@ -2259,7 +2288,7 @@
     "hash_key": "how bolt new went from failure to 40 mil_2026-04-16T18:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Puebla Meetup Abril|México|México",
+    "title": "PyTalavera|Python Puebla Meetup Abril|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/cxensxrh\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/cxensxrh",
     "sources": [
@@ -2280,15 +2309,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python puebla meetup abril_2026-04-16T00:00:00+00:00"
   },
   {
-    "title": "Python CDMX|Meetup Abril 2026  -  PythonCDMX|México|México",
+    "title": "Python CDMX|Meetup Abril 2026  -  PythonCDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/wzwaau42\n\nAddress:\nTecNM Instituto Tecnológico de Gustavo A. Madero\nCiudad de México, Ciudad de México\nMexico\n\nHosted by PythonCDMX",
     "url": "https://luma.com/wzwaau42",
     "sources": [
@@ -2309,11 +2338,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-f8GxWvNMvBvvuLb",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "TecNM Instituto Tecnológico de Gustavo A. Madero, Avenida 608 y Avenida 412 300, Zoológico de San Juan de Aragón, Gustavo A. Madero, 07470 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "meetup abril 2026 pythoncdmx_2026-04-15T00:00:00+00:00"
   },
   {
@@ -2342,11 +2371,11 @@
     "state_code": "MX-TAB",
     "city": "",
     "city_code": "",
-    "address": "18,-92.9425, Oropeza, Villahermosa, Tabasco, México",
+    "address": "Tabasco, México",
     "hash_key": "villahermosa claude code para todos_2026-04-14T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Meetups Frutales Q1 2026: ¡Bienvenidos a Ethereum! Puebla|México|México",
+    "title": "Frutero Club|Meetups Frutales Q1 2026: ¡Bienvenidos a Ethereum! Puebla|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/aanwxamq\n\nAddress:\nUniversidad de Oriente\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Frutero & ETH Cinco de Mayo",
     "url": "https://luma.com/aanwxamq",
     "sources": [
@@ -2365,11 +2394,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Universidad de Oriente, Av. 21 Ote. 1816, Zona Sin Asignación de Nombre de Col 39, Azcarate, 72501 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "meetups frutales q1 2026 bienvenidos a e_2026-04-13T16:00:00+00:00"
   },
   {
@@ -2396,13 +2425,13 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "",
-    "city_code": "",
-    "address": "Centro, Colima, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|OpenAI Codex – Mexico City|México|México",
+    "title": "v0 Prompt to Production Mexico City|OpenAI Codex – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/suipk589\n\nAddress:\nPlaza Carso\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/suipk589",
     "sources": [
@@ -2424,15 +2453,15 @@
     "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Plaza Carso, Pl. Carso, Amp Granada, 11529 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "openai codex mexico city_2026-04-08T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #14|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #14|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/jnnist79\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/jnnist79",
     "sources": [
@@ -2451,11 +2480,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
   },
   {
@@ -2488,7 +2517,7 @@
     "hash_key": "how i use ai 5 image manipulation_2026-04-01T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #13|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #13|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/obpf66cy\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/obpf66cy",
     "sources": [
@@ -2507,11 +2536,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
   },
   {
@@ -2598,13 +2627,13 @@
     "country_code": "MX",
     "state": "Quintana Roo",
     "state_code": "MX-ROO",
-    "city": "",
-    "city_code": "",
-    "address": "Universidad Anáhuac Cancún, Cancún, Quintana Roo, México",
+    "city": "Cancún",
+    "city_code": "cancun",
+    "address": "Universidad Anáhuac Cancun, Manzana 2 Lote 1, Boulevard Luis Donaldo Colosio, Lagos del Sol, Cancún, Benito Juárez, Quintana Roo, 77565, México",
     "hash_key": "cancn claude code for everyone_2026-03-26T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #12|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #12|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/m0m47xvx\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/m0m47xvx",
     "sources": [
@@ -2623,11 +2652,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
   },
   {
@@ -2654,9 +2683,9 @@
     "country_code": "MX",
     "state": "Yucatán",
     "state_code": "MX-YUC",
-    "city": "",
-    "city_code": "",
-    "address": "Fundura Montebello, Mérida, Yucatán, México",
+    "city": "Mérida",
+    "city_code": "merida",
+    "address": "Mérida, Yucatán, México",
     "hash_key": "mrida claude code for everyone_2026-03-25T00:00:00+00:00"
   },
   {
@@ -2713,13 +2742,13 @@
     "country_code": "MX",
     "state": "Nuevo León",
     "state_code": "MX-NLE",
-    "city": "",
-    "city_code": "",
-    "address": "Sin Nombre 34, Monterrey, Nuevo León, México",
+    "city": "Monterrey",
+    "city_code": "monterrey",
+    "address": "Monterrey, Nuevo León, 64490, México",
     "hash_key": "monterrey claude code for everyone_2026-03-20T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|AI & Agents IRL Building Session (Synthesis Hackathon)|México|México",
+    "title": "Frutero Club|AI & Agents IRL Building Session (Synthesis Hackathon)|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/sz21p1t8\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero & Nico Gallardo",
     "url": "https://luma.com/sz21p1t8",
     "sources": [
@@ -2741,11 +2770,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
   },
   {
@@ -2776,7 +2805,7 @@
     "hash_key": "small bets live angel investing 101 boot_2026-03-19T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #11 - Synthesis Hackathon CDMX|México|México",
+    "title": "Frutero Club|Coworking Frutal #11 - Synthesis Hackathon CDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/rd58a412\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/rd58a412",
     "sources": [
@@ -2795,11 +2824,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
   },
   {
@@ -2832,7 +2861,7 @@
     "hash_key": "sin specs no hay paraso no specs no para_2026-03-18T00:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Café — v0 Edition|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Café — v0 Edition|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/wwa2mpwd\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez, Ruy & Juan Martinez",
     "url": "https://luma.com/wwa2mpwd",
     "sources": [
@@ -2851,15 +2880,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding caf v0 edition_2026-03-13T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #10|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #10|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ozklutyc\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez",
     "url": "https://luma.com/ozklutyc",
     "sources": [
@@ -2878,15 +2907,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
   },
   {
-    "title": "Python CDMX|Meetup Marzo 2026  -  Payjoy & PythonCDMX|México|México",
+    "title": "Python CDMX|Meetup Marzo 2026  -  Payjoy & PythonCDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/1dl2uihj\n\nAddress:\nLondres 61\nPiso 13, Torre A\nCiudad de México, Ciudad de México\nMexico\n\nHosted by PythonCDMX",
     "url": "https://luma.com/1dl2uihj",
     "sources": [
@@ -2908,11 +2937,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-f8GxWvNMvBvvuLb",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Londres 61, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "meetup marzo 2026 payjoy pythoncdmx_2026-03-11T00:00:00+00:00"
   },
   {
@@ -2941,9 +2970,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "",
+    "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Ciudad de México, México",
+    "address": "Universidad Nacional Autónoma de México, Callejón de las Playas, Colonia Rinconada Las Playas INFONAVIT, Ciudad de México, Coyoacán, Ciudad de México, 04729, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -2976,7 +3005,7 @@
     "hash_key": "how i use ai 4 openclaw_2026-03-06T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #9|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #9|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/9plymler\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/9plymler",
     "sources": [
@@ -2997,11 +3026,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
   },
   {
@@ -3021,7 +3050,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3082,7 +3111,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3113,7 +3142,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3124,7 +3153,7 @@
     "hash_key": "lienzos de capital inversin y fundadores_2026-02-28T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal - Work and Chill #4|México|México",
+    "title": "Frutero Club|Coworking Frutal - Work and Chill #4|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/n9wukrtp\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/n9wukrtp",
     "sources": [
@@ -3143,11 +3172,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
   },
   {
@@ -3167,7 +3196,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3196,7 +3225,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3252,7 +3281,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3281,7 +3310,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3308,7 +3337,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3342,7 +3371,7 @@
     "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Workósfera Coworking @ Cerro de La Paz, Puebla, Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "kick off talavera valley hub el evento q_2026-02-26T00:00:00+00:00"
   },
   {
@@ -3364,7 +3393,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3391,7 +3420,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3420,7 +3449,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3449,7 +3478,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3478,7 +3507,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3508,7 +3537,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3519,7 +3548,7 @@
     "hash_key": "bbva spark brunch fintech insights 2026_2026-02-25T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #8|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #8|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mh6kbutb\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/mh6kbutb",
     "sources": [
@@ -3538,11 +3567,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
   },
   {
@@ -3562,7 +3591,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3591,7 +3620,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3620,7 +3649,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3649,7 +3678,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3707,7 +3736,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3736,7 +3765,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3765,7 +3794,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3795,7 +3824,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3824,7 +3853,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3854,7 +3883,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3884,7 +3913,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3913,7 +3942,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3940,14 +3969,14 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -3969,7 +3998,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3996,7 +4025,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4025,7 +4054,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4055,7 +4084,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4085,7 +4114,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4112,7 +4141,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4139,7 +4168,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4166,7 +4195,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4196,7 +4225,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4236,7 +4265,7 @@
     "hash_key": "monad blitz ciudad de mxico_2026-02-21T14:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal - Work and Chill #3|México|México",
+    "title": "Frutero Club|Coworking Frutal - Work and Chill #3|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/rg30j7cd\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/rg30j7cd",
     "sources": [
@@ -4255,11 +4284,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
@@ -4292,7 +4321,7 @@
     "hash_key": "how i use ai 3 midjourney_2026-02-19T22:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Codeworking day|México|México",
+    "title": "Vive Codding Cafe|Codeworking day|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/8wwwg9vy\n\nAddress:\nVentura Café\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez",
     "url": "https://luma.com/8wwwg9vy",
     "sources": [
@@ -4311,15 +4340,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "Ventura Café, Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "codeworking day_2026-02-18T18:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #7|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #7|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/asxxex3y\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/asxxex3y",
     "sources": [
@@ -4338,11 +4367,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
   },
   {
@@ -4375,7 +4404,7 @@
     "hash_key": "campen peso ligero ia para la salud ligh_2026-02-18T00:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe coding Café|México|México",
+    "title": "Vive Codding Cafe|Vibe coding Café|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/qfsgwxrg\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/qfsgwxrg",
     "sources": [
@@ -4394,15 +4423,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding caf_2026-02-13T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal - Work and Chill #2|México|México",
+    "title": "Frutero Club|Coworking Frutal - Work and Chill #2|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ew6147x6\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/ew6147x6",
     "sources": [
@@ -4421,11 +4450,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
@@ -4458,7 +4487,7 @@
     "hash_key": "how i use ai vol 2_2026-02-13T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #6|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #6|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/0nllzrl7\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/0nllzrl7",
     "sources": [
@@ -4477,11 +4506,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
   },
   {
@@ -4520,7 +4549,7 @@
     "hash_key": "coding sessions mdc x linuxeros zapopan_2026-02-07T16:00:00+00:00"
   },
   {
-    "title": "Sudo FCiencias|Bases de datos no relacionales, ¿qué es eso?|México|México",
+    "title": "Sudo FCiencias|Bases de datos no relacionales, ¿qué es eso?|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/e17fbtoo\n\nAddress:\nUNAM - Facultad De Ciencias\nLaboratorio de Ciencias de la Computación 1, Edificio Tlahuizcalpan\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias",
     "url": "https://luma.com/e17fbtoo",
     "sources": [
@@ -4541,15 +4570,15 @@
     "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
     "hash_key": "bases de datos no relacionales qu es eso_2026-02-06T20:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Meetup Puebla + Tamaliza|México|México",
+    "title": "PyTalavera|Python Meetup Puebla + Tamaliza|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/f2up8h4n\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/f2up8h4n",
     "sources": [
@@ -4570,11 +4599,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python meetup puebla tamaliza_2026-02-06T00:00:00+00:00"
   },
   {
@@ -4661,7 +4690,7 @@
     "hash_key": "founder friends mexico_2026-02-04T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #5|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #5|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/uh5wt1t4\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/uh5wt1t4",
     "sources": [
@@ -4680,11 +4709,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
   },
   {
@@ -4711,9 +4740,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "",
+    "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Extremadura Insurgentes, Ciudad de México, México",
+    "address": "Extremadura Insurgentes, San Juan Malinaltongo, Ciudad de México, Benito Juárez, Ciudad de México, 03740, México",
     "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
   },
   {
@@ -4775,7 +4804,7 @@
     "hash_key": "personalizacin de llms y clis en python_2026-01-31T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal - Work and Chill #1|México|México",
+    "title": "Frutero Club|Coworking Frutal - Work and Chill #1|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/y2araht0\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/y2araht0",
     "sources": [
@@ -4794,11 +4823,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
   },
   {
@@ -4860,7 +4889,7 @@
     "hash_key": "disea usando ai_2026-01-28T22:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #4|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #4|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/us0gg0x0\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/us0gg0x0",
     "sources": [
@@ -4879,11 +4908,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
@@ -4949,7 +4978,7 @@
     "hash_key": "primer meetup retos de la posada de cdig_2026-01-28T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #3|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #3|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ql22e7vg\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/ql22e7vg",
     "sources": [
@@ -4968,11 +4997,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
   },
   {
@@ -5038,7 +5067,7 @@
     "hash_key": "tech talk building scalable applications_2026-01-21T00:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Cafe ☕️|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Cafe ☕️|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/xng8uaz0\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/xng8uaz0",
     "sources": [
@@ -5057,15 +5086,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding cafe_2026-01-16T22:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Meetup Enero Python Puebla|México|México",
+    "title": "PyTalavera|Meetup Enero Python Puebla|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/lkjf5ejr\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/lkjf5ejr",
     "sources": [
@@ -5086,15 +5115,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "meetup enero python puebla_2026-01-16T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Casa Frutero - Coworking Frutal #2|México|México",
+    "title": "Frutero Club|Casa Frutero - Coworking Frutal #2|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/qq2u3tf6\n\nAddress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/qq2u3tf6",
     "sources": [
@@ -5113,15 +5142,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. Insurgentes Sur 1877, Guadalupe Inn, Álvaro Obregón, 01020 Álvaro Obregón, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
   },
   {
-    "title": "Python CDMX|Meetup Enero 2026  -  Pinterest & PythonCDMX|México|México",
+    "title": "Python CDMX|Meetup Enero 2026  -  Pinterest & PythonCDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/cciyzwk2\n\nAddress:\nPinterest México\nCiudad de México, Ciudad de México\nMexico\n\nHosted by PythonCDMX",
     "url": "https://luma.com/cciyzwk2",
     "sources": [
@@ -5143,11 +5172,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-f8GxWvNMvBvvuLb",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Pinterest México, Av. P.º de la Reforma 509, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "The Ritz-Carlton, Mexico City, 509, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "meetup enero 2026 pinterest pythoncdmx_2026-01-14T00:00:00+00:00"
   },
   {
@@ -5174,9 +5203,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "",
+    "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Tlacoquemecatl del Valle, Ciudad de México, México",
+    "address": "Tlacoquemecatl del Valle, San Lorenzo Xochimanca, Ciudad de México, Benito Juárez, Ciudad de México, 03200, México",
     "hash_key": "coworking frutal 29_2026-01-07T16:00:00+00:00"
   },
   {
@@ -5207,7 +5236,7 @@
     "hash_key": "coworking frutal 28 fin de ao gather edi_2025-12-31T16:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Cafe CDMX|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Cafe CDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/anw1u4qj\n\nAddress:\nBlend Station\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Rogelio Hernandez",
     "url": "https://luma.com/anw1u4qj",
     "sources": [
@@ -5226,11 +5255,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Blend Station, Avenida Tamaulipas 60 , Col. Condesa C.P06140, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "vibe coding cafe cdmx_2025-12-27T16:00:00+00:00"
   },
   {
@@ -5315,7 +5344,7 @@
     "hash_key": "coworking frutal 26 gather edition_2025-12-17T16:00:00+00:00"
   },
   {
-    "title": "PyTalavera|PyTalavera + Mixtli Posada|México|México",
+    "title": "PyTalavera|PyTalavera + Mixtli Posada|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/s3rpjdgx\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/s3rpjdgx",
     "sources": [
@@ -5336,15 +5365,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "pytalavera mixtli posada_2025-12-13T22:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Cafe ☕️ + Posada 🎄|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Cafe ☕️ + Posada 🎄|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/ug5puv9h\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/ug5puv9h",
     "sources": [
@@ -5363,11 +5392,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding cafe posada_2025-12-12T22:00:00+00:00"
   },
   {
@@ -5513,7 +5542,7 @@
     "hash_key": "cucumber y bdd en el mundo java ms all d_2025-12-04T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #24🍇|México|México",
+    "title": "Frutero Club|Coworking Frutal #24🍇|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/853fahdd\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Frutero",
     "url": "https://luma.com/853fahdd",
     "sources": [
@@ -5532,11 +5561,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. Insurgentes Centro 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Porfirio Díaz, Colonia Insurgentes San Borja, Del Valle, Ciudad de México, Benito Juárez, Ciudad de México, 03100, México",
     "hash_key": "coworking frutal 24_2025-12-03T16:00:00+00:00"
   },
   {
@@ -5639,7 +5668,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5819,7 +5848,7 @@
     "hash_key": "10 minute blitz with ann miura ko patter_2025-10-24T18:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #17🍑|México|México",
+    "title": "Frutero Club|Coworking Frutal #17🍑|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/twuyq6ev\n\nAddress:\nFlemish Pixel\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez",
     "url": "https://luma.com/twuyq6ev",
     "sources": [
@@ -5838,11 +5867,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Flemish Pixel, FlemishPixel, Av. Ejército Nacional Mexicano 6, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 17_2025-10-22T16:00:00+00:00"
   },
   {
@@ -5992,7 +6021,7 @@
     "hash_key": "casa de la comunidades clara y aws pytho_2025-10-21T00:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Scale & Sip: Unit Economics + Happy Hour|México|México",
+    "title": "Mexico Tech Week|Scale & Sip: Unit Economics + Happy Hour|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/n58rer3m\n\nAddress:\nSierra Nevada 130\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 5 others",
     "url": "https://luma.com/n58rer3m",
     "sources": [
@@ -6013,11 +6042,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Sierra Nevada 130, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "scale sip unit economics happy hour_2025-10-20T22:00:00+00:00"
   },
   {
@@ -6048,7 +6077,7 @@
     "hash_key": "tesoreras de bitcoin para startups bitco_2025-10-20T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|GBM  -  Investing Beyond Fintech & SaaS|México|México",
+    "title": "Mexico Tech Week|GBM  -  Investing Beyond Fintech & SaaS|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/vv4kpbri\n\nAddress:\nTorre I\nForo GBM\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 5 others",
     "url": "https://luma.com/vv4kpbri",
     "sources": [
@@ -6067,11 +6096,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Torre I, Av. Javier Barros Sierra 540, Santa Fe, Lomas de Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "gbm investing beyond fintech saas_2025-10-20T22:00:00+00:00"
   },
   {
@@ -6192,7 +6221,7 @@
     "hash_key": "the future of human identity in the age _2025-10-20T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Tu primer empleo en el mundo Cloud: lo que nadie te dice|México|México",
+    "title": "Mexico Tech Week|Tu primer empleo en el mundo Cloud: lo que nadie te dice|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/h5xk6j2e\n\nAddress:\nRackspace\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Elba Torres Ornelas & Host Team",
     "url": "https://luma.com/h5xk6j2e",
     "sources": [
@@ -6213,11 +6242,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Rackspace, C. Lago Zurich 219-Piso 11, Amp Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "tu primer empleo en el mundo cloud lo qu_2025-10-20T22:00:00+00:00"
   },
   {
@@ -6251,7 +6280,7 @@
     "hash_key": "founders investors speed dating with pyg_2025-10-20T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Unlocking Global Growth: The Role of EOR Solutions in Scaling Tech Companies|México|México",
+    "title": "Mexico Tech Week|Unlocking Global Growth: The Role of EOR Solutions in Scaling Tech Companies|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/u1abgg73\n\nAddress:\nTorre Médica Metropolitana Sucursal Condesa\nTorre Medica Metropolitana Sucursal Condesa (Tampico 8, Cuauhtémoc, 06700, CDMX, MX\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Koren Eloul & Host Team",
     "url": "https://luma.com/u1abgg73",
     "sources": [
@@ -6270,15 +6299,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Torre Médica Metropolitana Sucursal Condesa, Tampico 8, Colonia Condesa, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "8, Calle Tampico, Roma Norte, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
     "hash_key": "unlocking global growth the role of eor _2025-10-20T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Factorial One AI Launch|México|México",
+    "title": "Mexico Tech Week|Factorial One AI Launch|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/7scxlyn9\n\nAddress:\nPedregal 55\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/7scxlyn9",
     "sources": [
@@ -6299,15 +6328,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Pedregal 55, Lomas - Virreyes, Lomas de Chapultepec IV Secc, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "factorial one ai launch_2025-10-20T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Emprelatam Connect Day México|México|México",
+    "title": "Mexico Tech Week|Emprelatam Connect Day México|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/1uylfgn1\n\nAddress:\nAv. P.º de la Reforma 180\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 6 others",
     "url": "https://luma.com/1uylfgn1",
     "sources": [
@@ -6326,15 +6355,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. P.º de la Reforma 180, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Torre Punta Reforma, 180, Avenida Paseo de la Reforma, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "emprelatam connect day mxico_2025-10-20T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Build Your First AI Dashboard in 90 Minutes: Danu and AWS Experts Show the Full Process|México|México",
+    "title": "Mexico Tech Week|Build Your First AI Dashboard in 90 Minutes: Danu and AWS Experts Show the Full Process|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/jns5acew\n\nAddress:\nPeriférico Blvrd Manuel Ávila Camacho 261\nAWS Offices Puerta Polanco. Piso 5\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 6 others",
     "url": "https://luma.com/jns5acew",
     "sources": [
@@ -6357,11 +6386,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Periférico Blvrd Manuel Ávila Camacho 261, Polanco, Polanco I Secc, Miguel Hidalgo, 11510 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "build your first ai dashboard in 90 minu_2025-10-20T20:00:00+00:00"
   },
   {
@@ -6424,7 +6453,7 @@
     "hash_key": "fintech luncheon vol 2 with pygma mofo g_2025-10-20T18:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|From Lab to Life: BioWit’s HPV Detection Platform|México|México",
+    "title": "Mexico Tech Week|From Lab to Life: BioWit’s HPV Detection Platform|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ffozzgt9\n\nAddress:\nYelizcalli\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Fiordelisio Tatiana & Host Team",
     "url": "https://luma.com/ffozzgt9",
     "sources": [
@@ -6443,11 +6472,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Yelizcalli, Cto. Bicipuma, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "from lab to life biowits hpv detection p_2025-10-20T18:00:00+00:00"
   },
   {
@@ -6480,7 +6509,7 @@
     "hash_key": "energize your empire breathwork kundalin_2025-10-20T18:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Zero to One: Building a Tech Company in Mexico|México|México",
+    "title": "Mexico Tech Week|Zero to One: Building a Tech Company in Mexico|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/2um65vk3\n\nAddress:\nPerif. Blvd. Manuel Ávila Camacho 261\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 4 others",
     "url": "https://luma.com/2um65vk3",
     "sources": [
@@ -6501,15 +6530,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Perif. Blvd. Manuel Ávila Camacho 261, Polanco, Militar, Miguel Hidalgo, 11510 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "zero to one building a tech company in m_2025-10-20T18:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Monday Brunch Breaks by Pluria: Tech That Brings People Together|México|México",
+    "title": "Mexico Tech Week|Monday Brunch Breaks by Pluria: Tech That Brings People Together|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/w5b8uzk7\n\nAddress:\nCoffeefy Workafe - Juárez\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 5 others",
     "url": "https://luma.com/w5b8uzk7",
     "sources": [
@@ -6528,15 +6557,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Coffeefy Workafe - Juárez, Liverpool 69, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "69, Calle Liverpool, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "monday brunch breaks by pluria tech that_2025-10-20T16:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|AI: Governance & Responsibilities|México|México",
+    "title": "Mexico Tech Week|AI: Governance & Responsibilities|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/v1csyri8\n\nAddress:\nCórdoba 42\nPiso 5 - Suite B, viene a MIRAI\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 6 others",
     "url": "https://luma.com/v1csyri8",
     "sources": [
@@ -6558,11 +6587,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Córdoba 42, Centro Urbano Pdte. Juárez, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "ai governance responsibilities_2025-10-20T16:00:00+00:00"
   },
   {
@@ -6653,7 +6682,7 @@
     "hash_key": "deloitte mclaren trackside talks from si_2025-10-20T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Startups Festival - México|México|México",
+    "title": "Mexico Tech Week|Startups Festival - México|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/yg5ruli0\n\nAddress:\nLago Alberto 375\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/yg5ruli0",
     "sources": [
@@ -6672,11 +6701,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Lago Alberto 375, Juárez, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "startups festival mxico_2025-10-20T14:00:00+00:00"
   },
   {
@@ -6911,7 +6940,7 @@
     "hash_key": "startup grind x google pitch and run_2025-10-20T12:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|HYROX - HYBRID CLASS @CARPE|México|México",
+    "title": "Mexico Tech Week|HYROX - HYBRID CLASS @CARPE|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAddress:\nCalz. Gral. Mariano Escobedo 726\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/lq1rnyo7",
     "sources": [
@@ -6930,11 +6959,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Calz. Gral. Mariano Escobedo 726, Polanco, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
   },
   {
@@ -6967,7 +6996,7 @@
     "hash_key": "parrilla con amigos by lazo cathay_2025-10-19T18:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Mega Clase Gratuita de Inteligencia  Artifical|México|México",
+    "title": "Mexico Tech Week|Mega Clase Gratuita de Inteligencia  Artifical|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/6de4zsvg\n\nAddress:\nParque Tezozómoc Azcapotzalco\nMexico City, Mexico City\nMexico\n\nHosted by Geraldine Masso, Mexico Tech Week & Host Team",
     "url": "https://luma.com/6de4zsvg",
     "sources": [
@@ -6988,11 +7017,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Parque Tezozómoc Azcapotzalco, Hacienda del Rosario, Ex el Rosario, 02420 Mexico City, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "mega clase gratuita de inteligencia arti_2025-10-19T16:00:00+00:00"
   },
   {
@@ -7025,7 +7054,7 @@
     "hash_key": "invite only xochimilco emprelatam founde_2025-10-18T16:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Café ☕️|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Café ☕️|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/zh5173b0\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/zh5173b0",
     "sources": [
@@ -7044,11 +7073,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding caf_2025-10-17T22:00:00+00:00"
   },
   {
@@ -7102,9 +7131,9 @@
     "country_code": "MX",
     "state": "Jalisco",
     "state_code": "MX-JAL",
-    "city": "",
-    "city_code": "",
-    "address": "Guadalajara, Jalisco, Mexico",
+    "city": "Guadalajara",
+    "city_code": "guadalajara",
+    "address": "Guadalajara, Región Centro, Jalisco, 44450, México",
     "hash_key": "torneo de mario kart y smash_2025-10-15T00:00:00+00:00"
   },
   {
@@ -7222,7 +7251,7 @@
     "hash_key": "batter up regional pitch competition 202_2025-10-06T16:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|México",
+    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/cqpf8mm0\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/cqpf8mm0",
     "sources": [
@@ -7243,11 +7272,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python charlas en puebla networking_2025-10-03T00:00:00+00:00"
   },
   {
@@ -7281,7 +7310,7 @@
     "hash_key": "byldd x angel squad present the 5 most e_2025-10-02T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #15 🍊|México|México",
+    "title": "Frutero Club|Coworking Frutal #15 🍊|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/5m8k24yw\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez",
     "url": "https://luma.com/5m8k24yw",
     "sources": [
@@ -7300,11 +7329,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 15_2025-10-01T16:00:00+00:00"
   },
   {
@@ -7324,7 +7353,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7335,7 +7364,7 @@
     "hash_key": "soft landing en espaa puerta a europa_2025-09-29T18:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #14 🍓|México|México",
+    "title": "Frutero Club|Coworking Frutal #14 🍓|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ah7we3xm\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez & Myosin.xyz",
     "url": "https://luma.com/ah7we3xm",
     "sources": [
@@ -7354,15 +7383,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 14_2025-09-24T16:00:00+00:00"
   },
   {
-    "title": "Sudo FCiencias|Charla: Aprendizajes y Perspectivas Actuales sobre la Déuda Técnica|México|México",
+    "title": "Sudo FCiencias|Charla: Aprendizajes y Perspectivas Actuales sobre la Déuda Técnica|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/9hu9w8j7\n\nAddress:\nUNAM - Facultad De Ciencias\nAnfiteatro Alfredo Barrera, Edificio Amoxcalli.\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Sudo FCiencias",
     "url": "https://luma.com/9hu9w8j7",
     "sources": [
@@ -7381,11 +7410,11 @@
     "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "UNAM - Facultad De Ciencias, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Coordinación de la Investigación Científica, Calle Jade, Colonia Copilco El Alto, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
     "hash_key": "charla aprendizajes y perspectivas actua_2025-09-19T22:00:00+00:00"
   },
   {
@@ -7418,7 +7447,7 @@
     "hash_key": "ai after brunch tech chill night_2025-09-19T02:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #13 🍏|México|México",
+    "title": "Frutero Club|Coworking Frutal #13 🍏|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/lzug9x8c\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez",
     "url": "https://luma.com/lzug9x8c",
     "sources": [
@@ -7437,15 +7466,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 13_2025-09-17T16:00:00+00:00"
   },
   {
-    "title": "Vive Codding Cafe|Vibe Coding Café @HackerGarage|México|México",
+    "title": "Vive Codding Cafe|Vibe Coding Café @HackerGarage|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/jqsicipx\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
     "url": "https://luma.com/jqsicipx",
     "sources": [
@@ -7464,11 +7493,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
     "city": "",
     "city_code": "",
-    "address": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+    "address": "Jalisco, México",
     "hash_key": "vibe coding caf hackergarage_2025-09-12T22:00:00+00:00"
   },
   {
@@ -7557,7 +7586,7 @@
     "hash_key": "10 minute blitz with nicole detommaso ho_2025-09-10T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #12​​🍇|México|México",
+    "title": "Frutero Club|Coworking Frutal #12​​🍇|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ljvkhn2v\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Emmanuel Martínez",
     "url": "https://luma.com/ljvkhn2v",
     "sources": [
@@ -7576,15 +7605,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 12_2025-09-10T16:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|México",
+    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/0oejo0zg\n\nAddress:\nJobs Coworking Cholula | Gran Pirámide Plaza\nÚltimo piso de la plaza\nSan Andrés Cholula, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/0oejo0zg",
     "sources": [
@@ -7605,15 +7634,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Jobs Coworking Cholula | Gran Pirámide Plaza, C. 14 Pte. 111-Local 11, San Juan Aquiahuac, 72810 San Andrés Cholula, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python charlas en puebla networking_2025-09-05T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #11🍎|México|México",
+    "title": "Frutero Club|Coworking Frutal #11🍎|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/11lsuxdy\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Frutero Club",
     "url": "https://luma.com/11lsuxdy",
     "sources": [
@@ -7634,11 +7663,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 11_2025-09-03T16:00:00+00:00"
   },
   {
@@ -7784,7 +7813,7 @@
     "hash_key": "venture bites why product leaders make g_2025-08-14T18:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #10🍇|México|México",
+    "title": "Frutero Club|Coworking Frutal #10🍇|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/ipyrqici\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Frutero Club",
     "url": "https://luma.com/ipyrqici",
     "sources": [
@@ -7805,15 +7834,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 10_2025-08-13T16:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Aprende Serverless con Python (Taller + Networking Gratis)|México|México",
+    "title": "PyTalavera|Aprende Serverless con Python (Taller + Networking Gratis)|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/htiova91\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/htiova91",
     "sources": [
@@ -7835,15 +7864,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "aprende serverless con python taller net_2025-08-08T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #9🥑|México|México",
+    "title": "Frutero Club|Coworking Frutal #9🥑|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/28h8jcg9\n\nAddress:\nSan Francisco 1845\nCiudad de México, Ciudad de México\nMexico\n\nHosted by René Hernández & 3 others",
     "url": "https://luma.com/28h8jcg9",
     "sources": [
@@ -7862,11 +7891,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "San Francisco 1845, Actipan, Benito Juárez, 03230 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Calle San Francisco, Actipan, Santo Tomás Actipan, Ciudad de México, Benito Juárez, Ciudad de México, 03240, México",
     "hash_key": "coworking frutal 9_2025-08-06T16:00:00+00:00"
   },
   {
@@ -7957,7 +7986,7 @@
     "hash_key": "coworking frutal 8_2025-07-23T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #7|México|México",
+    "title": "Frutero Club|Coworking Frutal #7|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/pzp6tc9w\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by René Hernández, mel & Anthony Morales",
     "url": "https://luma.com/pzp6tc9w",
     "sources": [
@@ -7976,11 +8005,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 7_2025-07-16T16:00:00+00:00"
   },
   {
@@ -8040,7 +8069,7 @@
     "hash_key": "bienvenidos a la revolucin ia x web3_2025-07-15T16:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|México",
+    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/uzfazudt\n\nAddress:\nJobs Coworking Cholula | Gran Pirámide Plaza\nÚltimo piso de plaza Gran Pirámide\nSan Andrés Cholula, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/uzfazudt",
     "sources": [
@@ -8061,11 +8090,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Jobs Coworking Cholula | Gran Pirámide Plaza, C. 14 Pte. 111-Local 11, San Juan Aquiahuac, 72810 San Andrés Cholula, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python charlas en puebla networking_2025-07-11T00:00:00+00:00"
   },
   {
@@ -8181,7 +8210,7 @@
     "hash_key": "sesin 6 uniswap lab con frutero club_2025-07-01T00:00:00+00:00"
   },
   {
-    "title": "PyTalavera|PyTalavera Fest: 1er Aniversario|México|México",
+    "title": "PyTalavera|PyTalavera Fest: 1er Aniversario|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/kfjqxz64\n\nAddress:\nCervecería Cholula\nCholula de Rivadavia, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/kfjqxz64",
     "sources": [
@@ -8202,11 +8231,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Cervecería Cholula, Av. 13 Ote. 412, San Pablo Tecamac, 72760 Cholula de Rivadavia, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "pytalavera fest 1er aniversario_2025-06-27T00:00:00+00:00"
   },
   {
@@ -8264,7 +8293,7 @@
     "hash_key": "venture bites behind the scenes of hustl_2025-06-25T16:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #4|México|México",
+    "title": "Frutero Club|Coworking Frutal #4|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/rhoz6d8c\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by René Hernández, mel & Anthony Morales",
     "url": "https://luma.com/rhoz6d8c",
     "sources": [
@@ -8283,11 +8312,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Chez Vous #Timecafé, Av. de los Insurgentes Sur 1188, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "coworking frutal 4_2025-06-25T16:00:00+00:00"
   },
   {
@@ -8515,36 +8544,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "ai collective mxico launch party_2025-06-04T00:00:00+00:00"
-  },
-  {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
-    "description": "Get up-to-date information at: https://luma.com/x9gk52xh\n\nAddress:\nCheck event page for more details.\n\nHosted by Gabriel Gómez Téllez",
-    "url": "https://luma.com/x9gk52xh",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/x9gk52xh",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Heroica Puebla de Zaragoza, Puebla, Mexico",
-    "online": false,
-    "organizer": "PyTalavera",
-    "dtstart": "2025-05-09T00:30:00+00:00",
-    "dtend": "2025-05-09T04:00:00+00:00",
-    "tags": [
-      "ai",
-      "python"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Puebla",
-    "state_code": "MX-PUE",
-    "city": "",
-    "city_code": "",
-    "address": "Heroica Puebla de Zaragoza, Puebla, Mexico",
-    "hash_key": "python charlas en puebla networking_2025-05-09T00:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|AI Fireside Chat 🧠 GenAI Collective x Brett Berhoff 🧠|Online",
@@ -8860,7 +8859,7 @@
     "hash_key": "frutero talk 011 vali la pena no ir a et_2025-04-08T22:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|México",
+    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/nkujln8w\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/nkujln8w",
     "sources": [
@@ -8881,11 +8880,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python charlas en puebla networking_2025-04-04T00:00:00+00:00"
   },
   {
@@ -9003,7 +9002,7 @@
     "hash_key": "frutero talk 009 the graph todo lo que n_2025-03-18T22:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|México",
+    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/hy7epq9i\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/hy7epq9i",
     "sources": [
@@ -9024,11 +9023,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python charlas en puebla networking_2025-03-07T00:00:00+00:00"
   },
   {
@@ -9256,7 +9255,7 @@
     "hash_key": "second opinion live podcast_2025-02-11T18:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|México",
+    "title": "PyTalavera|Python Charlas en Puebla + Networking|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/jrsatymc\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/jrsatymc",
     "sources": [
@@ -9277,11 +9276,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "python charlas en puebla networking_2025-02-07T00:00:00+00:00"
   },
   {
@@ -9368,7 +9367,7 @@
     "hash_key": "online genai collective ai tools hacks_2025-01-16T00:00:00+00:00"
   },
   {
-    "title": "PyTalavera|Charlas de Python y partida de Rosca|México|México",
+    "title": "PyTalavera|Charlas de Python y partida de Rosca|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/t2ns9s7l\n\nAddress:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMexico\n\nHosted by Gabriel Gómez Téllez",
     "url": "https://luma.com/t2ns9s7l",
     "sources": [
@@ -9389,11 +9388,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
     "city": "",
     "city_code": "",
-    "address": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., Mexico",
+    "address": "Puebla, México",
     "hash_key": "charlas de python y partida de rosca_2025-01-10T00:00:00+00:00"
   },
   {
@@ -9570,7 +9569,7 @@
     "hash_key": "empremafia mxico_2024-10-27T02:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Latinos in Mexico Closing Rooftop Party #MexicoTechWeek|México|México",
+    "title": "Mexico Tech Week|Latinos in Mexico Closing Rooftop Party #MexicoTechWeek|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/or2e93ua\n\nAddress:\nFiesta Inn Insurgentes Viaducto\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Guillermo Vizcaino & Gerardo Ramirez",
     "url": "https://luma.com/or2e93ua",
     "sources": [
@@ -9592,15 +9591,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Fiesta Inn Insurgentes Viaducto, Av. Insurgentes Sur 553, Escandón II Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "latinos in mexico closing rooftop party _2024-10-26T20:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Más allá del Go-to-Market: Escalamiento Acelerado y Sostenible|México|México",
+    "title": "Mexico Tech Week|Más allá del Go-to-Market: Escalamiento Acelerado y Sostenible|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/lzcktkgq\n\nAddress:\nSheraton Mexico City Maria Isabel Hotel\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & André Torres",
     "url": "https://luma.com/lzcktkgq",
     "sources": [
@@ -9619,11 +9618,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Sheraton Mexico City Maria Isabel Hotel, Av. P.º de la Reforma 325, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Sheraton María Isabel, 325, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "ms all del go to market escalamiento ace_2024-10-26T16:00:00+00:00"
   },
   {
@@ -9679,9 +9678,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "",
+    "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Cuauhtémoc, Ciudad de México, Mexico",
+    "address": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
     "hash_key": "brunch for stanford alumni during mexico_2024-10-26T16:00:00+00:00"
   },
   {
@@ -9706,9 +9705,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "",
+    "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Nápoles 47, Nápoles 47, Ciudad de México, Mexico",
+    "address": "47, Calle Nápoles, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "wellness tech pilates class brunch_2024-10-26T16:00:00+00:00"
   },
   {
@@ -9827,7 +9826,7 @@
     "hash_key": "disconnect to connect con tally_2024-10-26T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Disconnect to Reconnect: A hike by Aire Libre|México|México",
+    "title": "Mexico Tech Week|Disconnect to Reconnect: A hike by Aire Libre|México|Estado de México",
     "description": "Get up-to-date information at: https://luma.com/hikeAL_MXTW\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Gus Alvarez Moreno",
     "url": "https://luma.com/hikeAL_MXTW",
     "sources": [
@@ -9848,15 +9847,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
+    "state": "Estado de México",
     "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "State of Mexico, State of Mexico, Mexico",
+    "city": "Ecatepec de Morelos",
+    "city_code": "ecatepecdemorelos",
+    "address": "Avenida San Agustín, Colonia Faja de Oro, Santa Clara Coatitla, Ecatepec de Morelos, Atenco, Estado de México, 55130, México",
     "hash_key": "disconnect to reconnect a hike by aire l_2024-10-26T12:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Despecho night!|México|México",
+    "title": "Mexico Tech Week|Despecho night!|México|Estado de México",
     "description": "Get up-to-date information at: https://luma.com/pwl9jnw8\n\nAddress:\nDespecho Satélite\nSatélite, Estado de México\nMexico\n\nHosted by Mexico Tech Week, azalea & Héctor Cancela",
     "url": "https://luma.com/pwl9jnw8",
     "sources": [
@@ -9875,11 +9874,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
+    "state": "Estado de México",
     "state_code": "MX-MEX",
     "city": "",
     "city_code": "",
-    "address": "Despecho Satélite, Cto Centro Comercial 29, Cd. Satélite, Naucalpan de Juárez, Manzana 034, Cd. Satélite, 53100 Satélite, Méx., Mexico",
+    "address": "Estado de México, México",
     "hash_key": "despecho night_2024-10-26T02:00:00+00:00"
   },
   {
@@ -9941,7 +9940,7 @@
     "hash_key": "la chela de los founders by traund_2024-10-26T00:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Masterclass para cerrar clientes con Whatsapp|México|México",
+    "title": "Mexico Tech Week|Masterclass para cerrar clientes con Whatsapp|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/hilosmxtw\n\nAddress:\nAv. P.º de la Reforma 180-piso 29\nOficina de Stripe México: Reforma 180, piso 29, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX Stripe está en el piso 29 de Torre Punta Reforma. Necesitarás una identificación para registrarte en la recepción de la planta baja y pedir que te permitan subir a la oficina de Stripe.\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/hilosmxtw",
     "sources": [
@@ -9960,11 +9959,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Av. P.º de la Reforma 180-piso 29, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "hash_key": "masterclass para cerrar clientes con wha_2024-10-26T00:00:00+00:00"
   },
   {
@@ -10026,7 +10025,7 @@
     "hash_key": "trubit sati crypto night ideas networkin_2024-10-26T00:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Bridging Continents: Leveraging India and Mexico in Global Tech Strategies|México|México",
+    "title": "Mexico Tech Week|Bridging Continents: Leveraging India and Mexico in Global Tech Strategies|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/zulljvlj\n\nAddress:\nAv. Thiers 251\nSan Miguel, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Mario Beteta",
     "url": "https://luma.com/zulljvlj",
     "sources": [
@@ -10045,11 +10044,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
     "city": "",
-    "city_code": "",
-    "address": "Av. Thiers 251, Anzures, Miguel Hidalgo, 22235 San Miguel, CDMX, Mexico",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
     "hash_key": "bridging continents leveraging india and_2024-10-26T00:00:00+00:00"
   },
   {
@@ -10169,7 +10168,7 @@
     "hash_key": "aws startups softbank latam mtw closing _2024-10-25T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+    "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
     "url": "https://luma.com/nzb89n7y",
     "sources": [
@@ -10190,15 +10189,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+    "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
     "url": "https://luma.com/8dtqdfok",
     "sources": [
@@ -10217,15 +10216,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Conoce todo sobre Apple Intelligence y cómo utilizar AI/ML en tus apps|México|México",
+    "title": "Mexico Tech Week|Conoce todo sobre Apple Intelligence y cómo utilizar AI/ML en tus apps|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/h9qyyyjt\n\nAddress:\nApple Operations México\nTorre Reforma, Piso 41 (Av. P.º de la Reforma 483), si vienes en coche se recomienda buscar un lugar de parquímetro o algún estacionamiento cerca, ya que el de la torre es muy caro\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Jero Cosio",
     "url": "https://luma.com/h9qyyyjt",
     "sources": [
@@ -10246,15 +10245,15 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Apple Operations México, Av. P.º de la Reforma 483, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Torre Reforma, 483, Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "conoce todo sobre apple intelligence y c_2024-10-25T16:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Encuentro de Social Media: estrategia, contenido y Ads by Converzzo|México|México",
+    "title": "Mexico Tech Week|Encuentro de Social Media: estrategia, contenido y Ads by Converzzo|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/converzzoenmexico\n\nAddress:\nCto. Interior Melchor Ocampo 469\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Juan Tamayo",
     "url": "https://luma.com/converzzoenmexico",
     "sources": [
@@ -10273,11 +10272,11 @@
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
-    "state": "México",
-    "state_code": "MX-MEX",
-    "city": "",
-    "city_code": "",
-    "address": "Cto. Interior Melchor Ocampo 469, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Anzures, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "encuentro de social media estrategia con_2024-10-25T16:00:00+00:00"
   },
   {
@@ -15214,9 +15213,9 @@
     "country_code": "MX",
     "state": "Yucatán",
     "state_code": "MX-YUC",
-    "city": "",
-    "city_code": "",
-    "address": "Merida, Yucatan, Mexico",
+    "city": "Mérida",
+    "city_code": "merida",
+    "address": "Mérida, Yucatán, México",
     "hash_key": "xoc en ethereum mxico dinmica sep 11 a s_no_date"
   }
 ]

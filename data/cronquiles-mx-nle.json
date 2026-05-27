@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T14:14:39.629442+00:00",
-  "total_events": 2,
+  "generated_at": "2026-05-27T19:31:38.118685+00:00",
+  "total_events": 3,
   "city": "Nuevo León",
   "communities": [
     {
@@ -18,6 +18,17 @@
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
       "links": []
+    },
+    {
+      "name": "GDG Monterrey",
+      "description": "Disclaimer: GDG Monterrey is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-monterrey/",
+          "label": "Sitio web"
+        }
+      ]
     }
   ],
   "events": [
@@ -74,10 +85,45 @@
       "country_code": "MX",
       "state": "Nuevo León",
       "state_code": "MX-NLE",
-      "city": "",
-      "city_code": "",
-      "address": "Sin Nombre 34, Monterrey, Nuevo León, México",
+      "city": "Monterrey",
+      "city_code": "monterrey",
+      "address": "Monterrey, Nuevo León, 64490, México",
       "hash_key": "monterrey claude code for everyone_2026-03-20T22:00:00+00:00"
+    },
+    {
+      "title": "GDG Monterrey|Build with AI Monterrey|México|Nuevo León",
+      "description": "Únete a nuestro evento comunitario Build with AI el 28 de mayo en Apex Systems. Este meetup está diseñado para desarroll...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-build-with-ai-monterrey/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-build-with-ai-monterrey/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Apex Systems Helice, 1104 Avenida San Jerónimo, Monterrey",
+      "online": false,
+      "organizer": "GDG Monterrey",
+      "dtstart": "2026-05-28T18:00:00-06:00",
+      "dtend": "2026-05-28T21:00:00-06:00",
+      "tags": [
+        "AI - Gemini",
+        "Build with AI",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "ai",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-monterrey/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Nuevo León",
+      "state_code": "MX-NLE",
+      "city": "Monterrey",
+      "city_code": "monterrey",
+      "address": "Avenida San Jerónimo, San Jerónimo, Monterrey, Nuevo León, 64650, México",
+      "hash_key": "build with ai monterrey_2026-05-29T00:00:00+00:00"
     }
   ]
 }
