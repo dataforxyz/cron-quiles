@@ -12,7 +12,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | :--- | :--- | :--- |
 | 🔴 [**330ohms**](https://www.meetup.com/330ohms) | Comunidad enfocada en hardware, electrónica e Internet de las Cosas (IoT). | Online |
 | 🟢 [**Agility Talks**](https://www.meetup.com/agilility-talks) | Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital. | Online |
-| 🟢 [**AI/IA CDMX**](https://www.meetup.com/ai-cdmx) | Canal de Meetup de la comunidad de IA en Ciudad de México. | Ciudad de México, México |
+| 🟢 [**AI/IA CDMX**](https://www.meetup.com/ai-cdmx) | Canal de Meetup de la comunidad de IA en Ciudad de México. | Ciudad de México |
 | 🔴 [**Ajolotes en la Nube**](https://www.meetup.com/ajolotesenlanube) | Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube. | Online |
 | 🔴 [**Apache Spark Mexico City**](https://www.meetup.com/apache-spark-mexicocity) | Grupo dedicado a Apache Spark y el ecosistema de procesamiento de Big Data. | Online |
 | 🔴 [**AWS Ajolotes Ciudad de México**](https://www.meetup.com/aws-cdmx) | User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon. | Online |
@@ -51,7 +51,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Meetup México**](https://www.meetup.com/meetup-mexico) | Comunidad general de usuarios y organizadores de Meetup en México. | Online |
 | 🔴 [**MexAI - Comunidad de IA**](https://eb-to-ical.daylightpirates.org/eventbrite-organizer-ical) | Comunidad de IA en Guadalajara. Eventos sobre Inteligencia Artificial. | Online |
 | 🔴 [**Mexico City Apache Kafka**](https://www.meetup.com/mexico-kafka) | Mexico City Apache Kafka Meetup. | Online |
-| 🟢 [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, México, Online |
+| 🟢 [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, Estado de México, Online |
 | 🔴 [**Microsoft Fabric CDMX**](https://www.meetup.com/mexico-city-microsoft-fabric-group) | Grupo de usuarios de Microsoft Fabric y análisis de datos empresarial. | Online |
 | 🔴 [**México City Docker friends**](https://www.meetup.com/mexico-city-docker-friends) | Learn, Collaborate & Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker. | Online |
 | 🔴 [**NoTrustSec**](https://www.meetup.com/notrustsec) | Ciberseguridad, hacking ético y seguridad ofensiva/defensiva. | Online |
@@ -59,7 +59,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Open Infra CDMX**](https://www.meetup.com/openinfrastructurecdmx) | Infraestructura abierta, OpenStack y tecnologías de cloud open source. | Online |
 | 🔴 [**PHP Mexico**](https://www.meetup.com/php-the-right-way) | ¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP. | Online |
 | 🔴 [**PostgreSQL México**](https://www.meetup.com/postgresql-mexico) | Usuarios y administradores de bases de datos PostgreSQL. | Online |
-| 🟢 [**PyTalavera**](https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl) | Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región. | México, Puebla |
+| 🟢 [**PyTalavera**](https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl) | Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región. | Puebla |
 | 🟢 [**Python CDMX**](https://www.meetup.com/python-mexico) | Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles. | Ciudad de México |
 | 🔴 [**Python Monterrey**](https://www.meetup.com/pythonmty) | Comunidad de Python en la ciudad de Monterrey. | Online |
 | 🔴 [**Python Puebla**](https://www.meetup.com/grupo-de-python-en-puebla) | Comunidad de Python en el estado de Puebla. Charlas y talleres. | Online |
