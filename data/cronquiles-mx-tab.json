@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-28T14:19:49.333534+00:00",
+  "total_events": 1,
+  "city": "Tabasco",
+  "communities": [
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Claude Community|Villahermosa  -  Claude Code para Todos|México|Tabasco",
+      "description": "Get up-to-date information at: https://luma.com/claudevillahermosa\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la Vega, Cesar Méndez & Xpectre Labs",
+      "url": "https://luma.com/claudevillahermosa",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claudevillahermosa",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "18,-92.9425, Oropeza, Villahermosa, Tabasco, México",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-04-14T23:00:00+00:00",
+      "dtend": "2026-04-15T03:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Tabasco",
+      "state_code": "MX-TAB",
+      "city": "",
+      "city_code": "",
+      "address": "Tabasco, México",
+      "hash_key": "villahermosa claude code para todos_2026-04-14T22:00:00+00:00"
+    }
+  ]
+}

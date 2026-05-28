@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 525,
-    "future_event_count": 53,
+    "event_count": 395,
+    "future_event_count": 54,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -85,12 +85,11 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 303,
+    "event_count": 103,
     "future_event_count": 4,
     "active_months": [
       "2024-09",
       "2024-10",
-      "2024-11",
       "2025-06",
       "2025-07",
       "2025-08",
@@ -109,10 +108,21 @@
     "emoji": "🌮"
   },
   {
+    "code": "MX-COL",
+    "name": "Colima",
+    "slug": "mx-col",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2026-04"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-JAL",
     "name": "Jalisco",
     "slug": "mx-jal",
-    "event_count": 20,
+    "event_count": 19,
     "future_event_count": 3,
     "active_months": [
       "2025-09",
@@ -131,10 +141,18 @@
     "code": "MX-MEX",
     "name": "México",
     "slug": "mx-mex",
-    "event_count": 2,
+    "event_count": 77,
     "future_event_count": 0,
     "active_months": [
-      "2024-10"
+      "2024-10",
+      "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09"
     ],
     "emoji": "🌵"
   },
@@ -155,8 +173,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 168,
-    "future_event_count": 36,
+    "event_count": 171,
+    "future_event_count": 37,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -204,18 +222,9 @@
     "code": "MX-PUE",
     "name": "Puebla",
     "slug": "mx-pue",
-    "event_count": 17,
+    "event_count": 8,
     "future_event_count": 1,
     "active_months": [
-      "2025-01",
-      "2025-02",
-      "2025-03",
-      "2025-04",
-      "2025-05",
-      "2025-06",
-      "2025-07",
-      "2025-08",
-      "2025-09",
       "2025-10",
       "2025-12",
       "2026-01",
@@ -240,6 +249,17 @@
     "code": "MX-SON",
     "name": "Sonora",
     "slug": "mx-son",
+    "event_count": 1,
+    "future_event_count": 0,
+    "active_months": [
+      "2026-04"
+    ],
+    "emoji": "🌵"
+  },
+  {
+    "code": "MX-TAB",
+    "name": "Tabasco",
+    "slug": "mx-tab",
     "event_count": 1,
     "future_event_count": 0,
     "active_months": [
