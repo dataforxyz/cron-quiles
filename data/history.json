@@ -690,7 +690,7 @@
     "hash_key": "grupo de estudio estructuras de control _2026-06-23T02:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
+    "title": "AI Builders MX|How I Use AI #7: WhatsApp Voicebots|Online",
     "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/vhwcyvjr",
     "sources": [
@@ -702,13 +702,14 @@
     ],
     "location": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-06-18T23:00:00+00:00",
     "dtend": "2026-06-19T00:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1170,12 +1171,12 @@
   },
   {
     "title": "Rust-AICollective|The AI Collective London  -  Humans in AI Week|Online",
-    "description": "Get up-to-date information at: https://luma.com/the-ai-collective-london-humans-in-ai-wee-908dfc38\n\nHosted by The AI Collective & James Pimentel-Pinto",
-    "url": "https://luma.com/the-ai-collective-london-humans-in-ai-wee-908dfc38",
+    "description": "Get up-to-date information at: https://luma.com/the-ai-collective-london-humans-in-ai-week\n\nHosted by The AI Collective & James Pimentel-Pinto",
+    "url": "https://luma.com/the-ai-collective-london-humans-in-ai-week",
     "sources": [
       {
         "platform": "luma",
-        "url": "https://luma.com/the-ai-collective-london-humans-in-ai-wee-908dfc38",
+        "url": "https://luma.com/the-ai-collective-london-humans-in-ai-week",
         "label": "Ver en Luma"
       }
     ],
@@ -1225,6 +1226,35 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-WscOx0ORLP4hCaF",
     "hash_key": "workshop from capture to conversation w _2026-06-05T14:00:00+00:00"
+  },
+  {
+    "title": "Rust-AICollective|HIAI Week Virtual End of Week Celebration (w/ The AI Collective)|Online",
+    "description": "Get up-to-date information at: https://luma.com/hiai-kickoff\n\nHosted by The AI Collective, AJ Green & Catherine McMillan",
+    "url": "https://luma.com/hiai-kickoff",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/hiai-kickoff",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-HJBner1SZGlYQYc",
+    "online": true,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-06-05T15:00:00+00:00",
+    "dtend": "2026-06-05T15:30:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-HJBner1SZGlYQYc",
+    "hash_key": "hiai week virtual end of week celebratio_2026-06-05T14:00:00+00:00"
   },
   {
     "title": "PyTalavera|Python Meetup Puebla Junio 2026|México|Puebla",
@@ -1585,35 +1615,6 @@
     "hash_key": "test please ignore_2026-06-01T18:00:00+00:00"
   },
   {
-    "title": "Rust-AICollective|HIAI Week Virtual Kickoff Celebration (w/ The AI Collective)|Online",
-    "description": "Get up-to-date information at: https://luma.com/hiai-kickoff\n\nHosted by The AI Collective, AJ Green & Catherine McMillan",
-    "url": "https://luma.com/hiai-kickoff",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/hiai-kickoff",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-HJBner1SZGlYQYc",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-06-01T15:00:00+00:00",
-    "dtend": "2026-06-01T15:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-HJBner1SZGlYQYc",
-    "hash_key": "hiai week virtual kickoff celebration w _2026-06-01T14:00:00+00:00"
-  },
-  {
     "title": "Pythonistas GDL|Mayo: Odoo, Workflows|México|Jalisco",
     "description": "<p style=\"margin:0.5em 0px;\">Celebraremos nuestro primer aniversario haciendo lo que mas nos gusta: hablar de Python y compartir con las personas que han hecho posible este logro. </p><ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Python en un ERP <br /><em>Lo que nadie te cuenta de Odoo</em><br /><strong>Por Eliezer Solano Martinez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Temporal.io:<br /><em>Construye apps que nunca fallan</em><br /><strong>Por Vicente Esteban Bañuelos</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
     "url": "https://reuniones.pythonistas-gdl.org/event/5/mayo-odoo-workflows",
@@ -1870,7 +1871,7 @@
     "hash_key": "agreguemos mxico a legalize_2026-04-25T16:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|Zero to Agent: Mexico City|México|Ciudad de México",
+    "title": "AI Builders MX|Zero to Agent: Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/wp947zvj\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & 3 others",
     "url": "https://luma.com/wp947zvj",
     "sources": [
@@ -1882,13 +1883,14 @@
     ],
     "location": "Polanco, Ciudad de México, México",
     "online": false,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-04-25T15:00:00+00:00",
     "dtend": "2026-04-25T19:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2133,7 +2135,7 @@
     "hash_key": "hermosillo claude code for everyone_2026-04-17T00:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
+    "title": "AI Builders MX|How I Use AI #6: Scaling to 1M users|Online",
     "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/11fz6ef5",
     "sources": [
@@ -2145,13 +2147,14 @@
     ],
     "location": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-04-16T23:00:00+00:00",
     "dtend": "2026-04-17T00:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2334,7 +2337,7 @@
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|OpenAI Codex – Mexico City|México|Ciudad de México",
+    "title": "AI Builders MX|OpenAI Codex – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/suipk589\n\nAddress:\nPlaza Carso\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/suipk589",
     "sources": [
@@ -2346,14 +2349,14 @@
     ],
     "location": "Plaza Carso, Pl. Carso, Amp Granada, 11529 Ciudad de México, CDMX, Mexico",
     "online": false,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-04-08T23:00:00+00:00",
     "dtend": "2026-04-09T02:00:00+00:00",
     "tags": [
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2391,7 +2394,7 @@
     "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
+    "title": "AI Builders MX|How I Use AI #5: Image Manipulation|Online",
     "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/wsj293yt",
     "sources": [
@@ -2403,13 +2406,14 @@
     ],
     "location": "https://luma.com/event/evt-3QmmiVDsImuKFFB",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-04-01T23:00:00+00:00",
     "dtend": "2026-04-02T00:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2474,36 +2478,6 @@
     "city_code": "",
     "address": "Jalisco, México",
     "hash_key": "explorando datos y escalando cdigo_2026-03-28T00:00:00+00:00"
-  },
-  {
-    "title": "Java Mexico|Desarrollo de Aplicaciones Cloud Native usando Dapr y Testcontainers|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/0fk7og78\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Benek, Eduardo Zarate Mejia & Clara Community",
-    "url": "https://luma.com/0fk7og78",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/0fk7og78",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Roma Norte, Ciudad de México, México",
-    "online": false,
-    "organizer": "Java Mexico",
-    "dtstart": "2026-03-27T00:30:00+00:00",
-    "dtend": "2026-03-27T04:00:00+00:00",
-    "tags": [
-      "ai",
-      "cloud"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-0wqA0Q2KjW9OWbP",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
-    "hash_key": "desarrollo de aplicaciones cloud native _2026-03-27T00:00:00+00:00"
   },
   {
     "title": "Claude Community|Cancún  -  Claude Code for Everyone|México|Quintana Roo",
@@ -2844,7 +2818,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "address": "Calle Londres, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "meetup marzo 2026 payjoy pythoncdmx_2026-03-11T00:00:00+00:00"
   },
   {
@@ -2875,11 +2849,11 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Calle Miguel Ángel Asturias, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Callejón de las Playas, Colonia Rinconada Las Playas INFONAVIT, Ciudad de México, Coyoacán, Ciudad de México, 04729, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
+    "title": "AI Builders MX|How I Use AI #4: OpenClaw|Online",
     "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/5ivardas",
     "sources": [
@@ -2891,13 +2865,14 @@
     ],
     "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-03-06T00:00:00+00:00",
     "dtend": "2026-03-06T01:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3879,7 +3854,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -3996,36 +3971,6 @@
     "city_code": "cdmx",
     "address": "Roma Sur, La Piedad, Ciudad de México, Cuauhtémoc, Ciudad de México, 06760, México",
     "hash_key": "fintech founders vc s mixer by pygma lat_2026-02-23T22:00:00+00:00"
-  },
-  {
-    "title": "FinTech México|UK Market Entry  - by PYVITAL|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/kdptf37n\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México & Mariel Rabago Perez",
-    "url": "https://luma.com/kdptf37n",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/kdptf37n",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Juárez, Ciudad de México, México",
-    "online": false,
-    "organizer": "FinTech México",
-    "dtstart": "2026-02-23T22:00:00+00:00",
-    "dtend": "2026-02-24T01:00:00+00:00",
-    "tags": [
-      "ai",
-      "python"
-    ],
-    "source": "https://luma.com/eofagheq",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
-    "hash_key": "uk market entry by pyvital_2026-02-23T22:00:00+00:00"
   },
   {
     "title": "FinTech México|Sistemas Transaccionales para Escalar la Operación de una Fintech: Un Análisis Exhaustivo para FinTech México Week by DYCSI|México|Ciudad de México",
@@ -4195,7 +4140,7 @@
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|Online",
+    "title": "AI Builders MX|How I Use AI #3: Midjourney|Online",
     "description": "Get up-to-date information at: https://luma.com/d342anny\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/d342anny",
     "sources": [
@@ -4207,13 +4152,14 @@
     ],
     "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-02-19T23:30:00+00:00",
     "dtend": "2026-02-20T00:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4361,7 +4307,7 @@
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
+    "title": "AI Builders MX|How I Use AI – Vol 2|Online",
     "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero & 3 others",
     "url": "https://luma.com/lgd37763",
     "sources": [
@@ -4373,13 +4319,14 @@
     ],
     "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-02-13T00:00:00+00:00",
     "dtend": "2026-02-13T00:30:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4649,7 +4596,7 @@
     "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|v0 Prompt to Production – Mexico City|México|Ciudad de México",
+    "title": "AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/fdg8riz2\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & Ben Kim",
     "url": "https://luma.com/fdg8riz2",
     "sources": [
@@ -4661,13 +4608,14 @@
     ],
     "location": "Hipódromo, Ciudad de México, México",
     "online": false,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-01-31T15:00:00+00:00",
     "dtend": "2026-01-31T18:30:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4734,36 +4682,7 @@
     "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
   },
   {
-    "title": "Java Mexico|30 Años Programando: Lecciones Aprendidas  -  Por Enrique Zamudio|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/ksvsiu3v\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Benek & Eduardo Zarate Mejia",
-    "url": "https://luma.com/ksvsiu3v",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/ksvsiu3v",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Juárez, Ciudad de México, México",
-    "online": false,
-    "organizer": "Java Mexico",
-    "dtstart": "2026-01-29T00:30:00+00:00",
-    "dtend": "2026-01-29T04:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-0wqA0Q2KjW9OWbP",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
-    "hash_key": "30 aos programando lecciones aprendidas _2026-01-29T00:00:00+00:00"
-  },
-  {
-    "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
+    "title": "AI Builders MX|Diseña usando AI|Online",
     "description": "Get up-to-date information at: https://luma.com/5nq96pxw\n\nHosted by Javier Rivero",
     "url": "https://luma.com/5nq96pxw",
     "sources": [
@@ -4775,13 +4694,14 @@
     ],
     "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-01-28T23:00:00+00:00",
     "dtend": "2026-01-29T02:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4819,7 +4739,7 @@
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
+    "title": "AI Builders MX|Diseña usando AI|Online",
     "description": "Get up-to-date information at: https://luma.com/ubxd600w\n\nHosted by Javier Rivero",
     "url": "https://luma.com/ubxd600w",
     "sources": [
@@ -4831,13 +4751,14 @@
     ],
     "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2026-01-27T23:00:00+00:00",
     "dtend": "2026-01-28T02:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5637,35 +5558,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "sysadmin horror story historias de techr_2025-11-12T00:00:00+00:00"
-  },
-  {
-    "title": "Java Mexico|javaMéxico Meetup++; Doble charla 06 nov 👻🎃|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/l1sbcrs8\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Benek",
-    "url": "https://luma.com/l1sbcrs8",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/l1sbcrs8",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Java Mexico",
-    "dtstart": "2025-11-07T00:30:00+00:00",
-    "dtend": "2025-11-07T04:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-0wqA0Q2KjW9OWbP",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "javamxico meetup doble charla 06 nov_2025-11-07T00:00:00+00:00"
   },
   {
     "title": "Founder Friends Mexico|Monterrey Tech Week Early Stage Pitch Competition|México|Nuevo León",
@@ -7098,7 +6990,7 @@
     "hash_key": "coworking frutal 16_2025-10-08T16:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
+    "title": "AI Builders MX|How I Use AI – Vol 1|Online",
     "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
     "url": "https://luma.com/pi3ebsn2",
     "sources": [
@@ -7110,13 +7002,14 @@
     ],
     "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
     "online": true,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2025-10-07T22:00:00+00:00",
     "dtend": "2025-10-07T23:00:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7433,7 +7326,7 @@
     "hash_key": "build with claude code_2025-09-12T00:00:00+00:00"
   },
   {
-    "title": "v0 Prompt to Production Mexico City|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
+    "title": "AI Builders MX|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/r8rwqnn9\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero",
     "url": "https://luma.com/r8rwqnn9",
     "sources": [
@@ -7445,13 +7338,14 @@
     ],
     "location": "Ciudad de México, Mexico",
     "online": false,
-    "organizer": "v0 Prompt to Production Mexico City",
+    "organizer": "AI Builders MX",
     "dtstart": "2025-09-11T23:00:00+00:00",
     "dtend": "2025-09-12T02:30:00+00:00",
     "tags": [
-      "ai"
+      "ai",
+      "frontend"
     ],
-    "source": "https://luma.com/fdg8riz2",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7860,35 +7754,6 @@
     "hash_key": "arquitecturas modernas en java hacia ser_2025-07-30T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #8🫐|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/xehxr5bu\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández & 4 others",
-    "url": "https://luma.com/xehxr5bu",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/xehxr5bu",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-07-23T16:00:00+00:00",
-    "dtend": "2025-07-23T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 8_2025-07-23T16:00:00+00:00"
-  },
-  {
     "title": "Frutero Club|Coworking Frutal #7|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/pzp6tc9w\n\nAddress:\nChez Vous #Timecafé\nCiudad de México, Ciudad de México\nMexico\n\nHosted by René Hernández, mel & Anthony Morales",
     "url": "https://luma.com/pzp6tc9w",
@@ -8001,35 +7866,6 @@
     "hash_key": "python charlas en puebla networking_2025-07-11T00:00:00+00:00"
   },
   {
-    "title": "Frutero Club|Coworking Frutal #6|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/javb4g8b\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández & 3 others",
-    "url": "https://luma.com/javb4g8b",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/javb4g8b",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-07-09T16:00:00+00:00",
-    "dtend": "2025-07-09T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 6_2025-07-09T16:00:00+00:00"
-  },
-  {
     "title": "Frutero Club|Frutero Talk #17 con Mel|Online",
     "description": "Get up-to-date information at: https://luma.com/cpeixs8f\n\nHosted by René Hernández",
     "url": "https://luma.com/cpeixs8f",
@@ -8055,35 +7891,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-I1EDwiNNv575r4W",
     "hash_key": "frutero talk 17 con mel_2025-07-08T22:00:00+00:00"
-  },
-  {
-    "title": "Frutero Club|Coworking Frutal #5|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/2rjqt746\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández & 3 others",
-    "url": "https://luma.com/2rjqt746",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/2rjqt746",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-07-02T16:00:00+00:00",
-    "dtend": "2025-07-02T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 5_2025-07-02T16:00:00+00:00"
   },
   {
     "title": "Frutero Club|Sesión 6 - Uniswap Lab con Frutero Club|Online",
@@ -8331,35 +8138,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-4FtP8DvJ24YwAEK",
     "hash_key": "sesin 3 uniswap lab con frutero club_2025-06-20T00:00:00+00:00"
-  },
-  {
-    "title": "Frutero Club|Coworking Frutal 3|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/7dpb781y\n\nAddress:\nCheck event page for more details.\n\nHosted by René Hernández, mel & Anthony Morales",
-    "url": "https://luma.com/7dpb781y",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/7dpb781y",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2025-06-18T16:00:00+00:00",
-    "dtend": "2025-06-18T20:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "coworking frutal 3_2025-06-18T16:00:00+00:00"
   },
   {
     "title": "Mobil3|Mobil3 meetup: Camino a Devconnect|México|Ciudad de México",
@@ -10325,36 +10103,6 @@
     "hash_key": "leadgen 2 0 deep dive con meta neoperfor_2024-10-25T14:00:00+00:00"
   },
   {
-    "title": "AI/IA CDMX|AI For Hustlers|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/lxfgbzju\n\nAddress:\n#Hashtag Gallery Ltd\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Benjamin Ullrich & Gilberto Aguila Alamillo",
-    "url": "https://luma.com/lxfgbzju",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/lxfgbzju",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "#Hashtag Gallery Ltd, Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "AI/IA CDMX",
-    "dtstart": "2024-10-25T01:00:00+00:00",
-    "dtend": "2024-10-25T02:30:00+00:00",
-    "tags": [
-      "ai",
-      "frontend"
-    ],
-    "source": "https://luma.com/ai-cdmx",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Avenida Benjamín Franklin, Hipódromo Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 11850, México",
-    "hash_key": "ai for hustlers_2024-10-25T00:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|Tech 4 Mother Nature: Storytelling by Decididas & Savia Ventures|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/y3v84mev\n\nAddress:\nSoho House Mexico City\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/y3v84mev",
@@ -10497,6 +10245,36 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "startup cocktail lab by mauna_2024-10-25T00:00:00+00:00"
+  },
+  {
+    "title": "AI/IA CDMX|AI For Hustlers|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/lxfgbzju\n\nAddress:\n#Hashtag Gallery Ltd\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Benjamin Ullrich & Gilberto Aguila Alamillo",
+    "url": "https://luma.com/lxfgbzju",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/lxfgbzju",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "#Hashtag Gallery Ltd, Av. Benjamín Franklin 151-A, Hipódromo, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "AI/IA CDMX",
+    "dtstart": "2024-10-25T01:00:00+00:00",
+    "dtend": "2024-10-25T02:30:00+00:00",
+    "tags": [
+      "ai",
+      "frontend"
+    ],
+    "source": "https://luma.com/ai-cdmx",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Benjamín Franklin, Hipódromo Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 11850, México",
+    "hash_key": "ai for hustlers_2024-10-25T00:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|deep_strategies: Elevating Marketing with AI|México|Ciudad de México",
@@ -11449,7 +11227,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
@@ -13088,6 +12866,38 @@
     "hash_key": "ganas ventures coffee mexicotechweek_2024-10-22T16:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Aws y  Merlin Data Quality invitan a Desayuno presencial: ¿Cómo convertir datos en negocios rentables?|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/zw6btxfv\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 5 others",
+    "url": "https://luma.com/zw6btxfv",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/zw6btxfv",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Ciudad de México, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2024-10-22T15:00:00+00:00",
+    "dtend": "2024-10-22T17:00:00+00:00",
+    "tags": [
+      "ai",
+      "cloud",
+      "data",
+      "mobile"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "aws y merlin data quality invitan a desa_2024-10-22T14:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Desayuno Ejecutivo: Potencia tus Reportes de Sustentabilidad con AI|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/jbj63hw1\n\nAddress:\nCheck event page for more details.\n\nHosted by Luciana Reznik",
     "url": "https://luma.com/jbj63hw1",
@@ -13871,35 +13681,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-HZp5M0UnfCVBPNE",
     "hash_key": "sesiones co work lluvia de ideas_2024-09-27T00:00:00+00:00"
-  },
-  {
-    "title": "Frutero Club|Sesiones Co-work: Lluvia de Ideas|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/e3vnxjix\n\nAddress:\nCheck event page for more details.\n\nHosted by mel",
-    "url": "https://luma.com/e3vnxjix",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/e3vnxjix",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Frutero Club",
-    "dtstart": "2024-09-26T20:00:00+00:00",
-    "dtend": "2024-09-27T01:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-Mx4mOoMyOkMGEz0",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "sesiones co work lluvia de ideas_2024-09-26T20:00:00+00:00"
   },
   {
     "title": "Founder Friends Mexico|How to Get 70K+ Monthly Visits With SEO in Less Than 5 Months|Online",
@@ -14780,6 +14561,33 @@
     "hash_key": "sf gai meetup 2 9_2023-02-10T02:00:00+00:00"
   },
   {
+    "title": "Mobil3|Pre-Registro: Mobil3 Hackathon|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/3rpalo5b\n\nAddress:\nAv. P.º de la Reforma 333\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mobil3",
+    "url": "https://luma.com/3rpalo5b",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/3rpalo5b",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Av. P.º de la Reforma 333, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mobil3",
+    "dtstart": null,
+    "dtend": null,
+    "tags": [],
+    "source": "https://luma.com/mobil3",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "hash_key": "pre registro mobil3 hackathon_no_date"
+  },
+  {
     "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
     "description": "Get up-to-date information at: https://luma.com/nc2fac44\n\nHosted by CHIDAS TECH",
     "url": "https://luma.com/nc2fac44",
@@ -14805,6 +14613,33 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
     "hash_key": "networking 101 fundamentos de redes_no_date"
+  },
+  {
+    "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
+    "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
+    "url": "https://luma.com/jov35dwo",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/jov35dwo",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+    "online": true,
+    "organizer": "Sudo FCiencias",
+    "dtstart": null,
+    "dtend": null,
+    "tags": [],
+    "source": "https://luma.com/sudo_fciencias_2026",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+    "hash_key": "tics aprende a hackear con agentes de ia_no_date"
   },
   {
     "title": "Founder Friends Mexico|Singapore: Claim your 30 day Angel Squad Guest Pass|Online",
@@ -15037,60 +14872,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-O1E8LIYm2GaxY4U",
     "hash_key": "hustle fund angel squad claim your 30 da_no_date"
-  },
-  {
-    "title": "Mobil3|Pre-Registro: Mobil3 Hackathon|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/3rpalo5b\n\nAddress:\nAv. P.º de la Reforma 333\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mobil3",
-    "url": "https://luma.com/3rpalo5b",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/3rpalo5b",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Av. P.º de la Reforma 333, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Mobil3",
-    "dtstart": null,
-    "dtend": null,
-    "tags": [],
-    "source": "https://luma.com/mobil3",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
-    "hash_key": "pre registro mobil3 hackathon_no_date"
-  },
-  {
-    "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
-    "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
-    "url": "https://luma.com/jov35dwo",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/jov35dwo",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-    "online": true,
-    "organizer": "Sudo FCiencias",
-    "dtstart": null,
-    "dtend": null,
-    "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-    "hash_key": "tics aprende a hackear con agentes de ia_no_date"
   },
   {
     "title": "Frutero Club|$XOC en Ethereum México - Dinámica Sep 11 a Sep 16|México|Yucatán",
