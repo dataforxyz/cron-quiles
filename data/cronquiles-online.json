@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T14:05:16.329633+00:00",
-  "total_events": 173,
+  "generated_at": "2026-06-02T19:57:54.929790+00:00",
+  "total_events": 172,
   "city": "Online",
   "communities": [
     {
@@ -43,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -3532,7 +3532,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3559,7 +3559,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3568,35 +3568,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-b08xpdnvWOYi4Os",
       "hash_key": "frameiq hacia una banca impulsada por in_2026-05-15T00:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|Workshop: Codex for Humans  -  Humans in AI Week 2026|Online",
-      "description": "Get up-to-date information at: https://luma.com/xsv8o9yx\n\nHosted by Abraham, The AI Collective & Daniel Green",
-      "url": "https://luma.com/xsv8o9yx",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/xsv8o9yx",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-hMOL4KEGzaYApay",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-06-02T18:00:00+00:00",
-      "dtend": "2026-06-02T19:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-hMOL4KEGzaYApay",
-      "hash_key": "workshop codex for humans humans in ai w_2026-06-02T18:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Micro Meetup Women Brazil AIC (w/ The AI Collective)|Online",
@@ -3867,8 +3838,13 @@
     {
       "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08/",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08-1/",
       "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08-1/",
+          "label": "Ver sitio web"
+        },
         {
           "platform": "website",
           "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-08/",
@@ -3881,8 +3857,11 @@
       "dtstart": "2026-06-08T20:00:00-06:00",
       "dtend": "2026-06-08T21:30:00-06:00",
       "tags": [
+        "AI",
+        "AI - Gemini",
         "Build with AI",
-        "Career Development"
+        "Career Development",
+        "Workshop / hands-on session"
       ],
       "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
