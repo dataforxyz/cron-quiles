@@ -3905,10 +3905,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/6de4zsvg\n\nAd
  n\nHosted by Geraldine Masso\, Mexico Tech Week & Host Team
 LOCATION:Parque Tezozómoc Azcapotzalco\, Hacienda del Rosario\, Ex el Ros
  ario\, 02420 Mexico City\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Hacienda del Rosario\, Unidad Habitacional Fran
- cisco Villa\, San Juan Tlihuaca\, Ciudad de México\, Azcapotzalco\, Tlaln
- epantla de Baz\, Ciudad de México\, 02420\, México
-X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-ADDRESS:Ciudad de México\, México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
@@ -6224,9 +6221,9 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/64grz37k\n\nAd
  an Eduardo Vega Ortega & AWS Cloud Club UNAM
 LOCATION:Universidad Nacional Autónoma de México\, Ciudad de México\, M
  éxico
-X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Calle Mig
- uel Ángel Asturias\, Fraccionamiento Copilco Universidad\, Copilco\, Ciud
- ad de México\, Coyoacán\, Ciudad de México\, 04360\, México
+X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Calle Fue
+ go\, Jardines del Pedregal\, San Ángel\, Ciudad de México\, Álvaro Obre
+ gón\, Ciudad de México\, 01900\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6553,9 +6550,10 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/claudecolima\n
  \nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira d
  e la Vega\, Miguel Oceguera & WDT Colima
 LOCATION:Centro\, Colima\, México
-X-CRONQUILES-ADDRESS:Centro\, Coquimatlán\, Colima\, 28400\, México
-X-CRONQUILES-CITY:Coquimatlán
-X-CRONQUILES-CITY-CODE:coquimatlan
+X-CRONQUILES-ADDRESS:Centro\, Colima\, Municipio de Colima\, Colima\, 2800
+ 0\, México
+X-CRONQUILES-CITY:Colima
+X-CRONQUILES-CITY-CODE:colima
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Colima
@@ -8069,13 +8067,6 @@ LOCATION:https://luma.com/event/evt-tGBTfWbV3nhiOhc
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-tGBTfWbV3nhiOhc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online
-DESCRIPTION:Get up-to-date information at: https://luma.com/nc2fac44\n\nHo
- sted by CHIDAS TECH
-LOCATION:https://luma.com/event/evt-cegDtZZOBpe2Ah4
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-cegDtZZOBpe2Ah4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Founder Friends Mexico|Singapore: Claim your 30 day Angel Squad Gu
  est Pass|Online
 CATEGORIES:ai
@@ -8146,6 +8137,13 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/6ijtp2mp\n\nHo
  sted by Hustle Fund & Wael Jabir
 LOCATION:https://luma.com/event/evt-O1E8LIYm2GaxY4U
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-O1E8LIYm2GaxY4U
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online
+DESCRIPTION:Get up-to-date information at: https://luma.com/nc2fac44\n\nHo
+ sted by CHIDAS TECH
+LOCATION:https://luma.com/event/evt-cegDtZZOBpe2Ah4
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-cegDtZZOBpe2Ah4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mobil3|Pre-Registro: Mobil3 Hackathon|México|Ciudad de México
