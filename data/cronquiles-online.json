@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T14:34:04.957301+00:00",
-  "total_events": 166,
+  "generated_at": "2026-06-22T19:42:22.843044+00:00",
+  "total_events": 168,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -3532,7 +3532,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3559,7 +3559,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3656,6 +3656,35 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-esfcrszaKC1lTIf",
       "hash_key": "the copilot effect microsoft dynamics 36_2026-06-24T08:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|Break Frontier AI — In Your Language|Online",
+      "description": "Get up-to-date information at: https://luma.com/0y6e0344\n\nHosted by Abraham & 3 others",
+      "url": "https://luma.com/0y6e0344",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/0y6e0344",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-HdtjTr6lat7StGA",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-06-24T14:30:00+00:00",
+      "dtend": "2026-06-24T15:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-HdtjTr6lat7StGA",
+      "hash_key": "break frontier ai in your language_2026-06-24T14:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|June 24 - Building Composable Vision Workflows in FiftyOne|Online",
@@ -3755,6 +3784,36 @@
       "hash_key": "grupo de estudio lenguaje de programacin_2026-06-25T02:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|AI Education  -  Why We Built This: 3 Founders and Their Raw Decisions|Online",
+      "description": "Get up-to-date information at: https://luma.com/0cv4j9ba\n\nHosted by Abraham, Justin Henriksen & The AI Collective",
+      "url": "https://luma.com/0cv4j9ba",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/0cv4j9ba",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-KJRiSwthKqJIKzX",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-06-25T15:00:00+00:00",
+      "dtend": "2026-06-25T16:00:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-KJRiSwthKqJIKzX",
+      "hash_key": "ai education why we built this 3 founder_2026-06-25T14:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Lunch & Hack Online Series (Context Graphs for AI Agents) (w/ The AI Collective)|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-gl-6-25\n\nHosted by The AI Collective, Adelina Martiniuc & Ash Kumra",
       "url": "https://luma.com/aic-gl-6-25",
@@ -3785,7 +3844,7 @@
     },
     {
       "title": "GDG Cloud Mexico City|Build With AI: Del prototipo a producción, despliegue automático de Google AI Studio a Cloud Run|Online",
-      "description": "Aprende a transformar una idea en una aplicación web funcional usando Google AI Studio y despliegarla automáticamente en Cloud Run. Descubre cómo prototipar con IA y llevar tus proyectos a producción en minutos, sin preocuparte por la infraestructura.",
+      "description": "Aprende a crear aplicaciones web con Google AI Studio mediante prototipado asistido por IA y a desplegarlas automáticamente en Cloud Run. Conoce cómo pasar de una idea a una aplicación en producción en cuestión de minutos, aprovechando las capacidades de Google Cloud.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-build-with-ai-del-prototipo-a-produccion-despliegue-automatico-de-google-ai-studio-a-cloud-run/",
       "sources": [
         {
