@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T19:19:46.305944+00:00",
+  "generated_at": "2026-06-24T01:34:12.467872+00:00",
   "total_events": 169,
   "city": "Online",
   "communities": [
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -96,15 +96,9 @@
       ]
     },
     {
-      "name": "v0 Prompt to Production Mexico City",
-      "description": "Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. Hosted by aibuilders.mx (Ciudad de México).",
-      "links": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/fdg8riz2",
-          "label": "Luma"
-        }
-      ]
+      "name": "AI Builders MX",
+      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
+      "links": []
     },
     {
       "name": "Frutero Club",
@@ -2791,7 +2785,7 @@
       "hash_key": "batter up regional pitch competition 202_2025-10-06T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
+      "title": "AI Builders MX|How I Use AI – Vol 1|Online",
       "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
       "url": "https://luma.com/pi3ebsn2",
       "sources": [
@@ -2803,13 +2797,14 @@
       ],
       "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2025-10-07T22:00:00+00:00",
       "dtend": "2025-10-07T23:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3175,7 +3170,7 @@
       "hash_key": "coworking frutal 28 fin de ao gather edi_2025-12-31T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
+      "title": "AI Builders MX|Diseña usando AI|Online",
       "description": "Get up-to-date information at: https://luma.com/ubxd600w\n\nHosted by Javier Rivero",
       "url": "https://luma.com/ubxd600w",
       "sources": [
@@ -3187,13 +3182,14 @@
       ],
       "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-01-27T23:00:00+00:00",
       "dtend": "2026-01-28T02:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3237,7 +3233,7 @@
       "hash_key": "primer meetup retos de la posada de cdig_2026-01-28T00:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
+      "title": "AI Builders MX|Diseña usando AI|Online",
       "description": "Get up-to-date information at: https://luma.com/5nq96pxw\n\nHosted by Javier Rivero",
       "url": "https://luma.com/5nq96pxw",
       "sources": [
@@ -3249,13 +3245,14 @@
       ],
       "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-01-28T23:00:00+00:00",
       "dtend": "2026-01-29T02:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3266,7 +3263,7 @@
       "hash_key": "disea usando ai_2026-01-28T22:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
+      "title": "AI Builders MX|How I Use AI – Vol 2|Online",
       "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero & 3 others",
       "url": "https://luma.com/lgd37763",
       "sources": [
@@ -3278,13 +3275,14 @@
       ],
       "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-02-13T00:00:00+00:00",
       "dtend": "2026-02-13T00:30:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3295,7 +3293,7 @@
       "hash_key": "how i use ai vol 2_2026-02-13T00:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|Online",
+      "title": "AI Builders MX|How I Use AI #3: Midjourney|Online",
       "description": "Get up-to-date information at: https://luma.com/d342anny\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/d342anny",
       "sources": [
@@ -3307,13 +3305,14 @@
       ],
       "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-02-19T23:30:00+00:00",
       "dtend": "2026-02-20T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3382,7 +3381,7 @@
       "hash_key": "venture bites understanding advisory sha_2026-02-26T18:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
+      "title": "AI Builders MX|How I Use AI #4: OpenClaw|Online",
       "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/5ivardas",
       "sources": [
@@ -3394,13 +3393,14 @@
       ],
       "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-03-06T00:00:00+00:00",
       "dtend": "2026-03-06T01:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3438,7 +3438,7 @@
       "hash_key": "small bets live angel investing 101 boot_2026-03-19T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
+      "title": "AI Builders MX|How I Use AI #5: Image Manipulation|Online",
       "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/wsj293yt",
       "sources": [
@@ -3450,13 +3450,14 @@
       ],
       "location": "https://luma.com/event/evt-3QmmiVDsImuKFFB",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-04-01T23:00:00+00:00",
       "dtend": "2026-04-02T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3496,7 +3497,7 @@
       "hash_key": "how bolt new went from failure to 40 mil_2026-04-16T18:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
+      "title": "AI Builders MX|How I Use AI #6: Scaling to 1M users|Online",
       "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/11fz6ef5",
       "sources": [
@@ -3508,13 +3509,14 @@
       ],
       "location": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-04-16T23:00:00+00:00",
       "dtend": "2026-04-17T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3543,7 +3545,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3570,7 +3572,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3579,35 +3581,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-b08xpdnvWOYi4Os",
       "hash_key": "frameiq hacia una banca impulsada por in_2026-05-15T00:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|AI and the Future of Education (o Futuro da Educação)[inglês] (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-be-6-17\n\nHosted by The AI Collective & Priscila",
-      "url": "https://luma.com/aic-be-6-17",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-be-6-17",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-EK4IIPlT1lha5U9",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-06-23T22:30:00+00:00",
-      "dtend": "2026-06-24T01:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-EK4IIPlT1lha5U9",
-      "hash_key": "ai and the future of education o futuro _2026-06-23T22:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|The Copilot Effect: Microsoft Dynamics 365 Copilot (w/ The AI Collective)|Online",
@@ -3702,7 +3675,7 @@
       "hash_key": "june 24 building composable vision workf_2026-06-24T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
+      "title": "AI Builders MX|How I Use AI #7: WhatsApp Voicebots|Online",
       "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/vhwcyvjr",
       "sources": [
@@ -3714,13 +3687,14 @@
       ],
       "location": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-06-24T23:00:00+00:00",
       "dtend": "2026-06-25T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3919,7 +3893,7 @@
       "hash_key": "build with ai monterrey v2_2026-06-27T14:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|Civic Data + AI: The Underbuilt Opportunity|Online",
+      "title": "Rust-AICollective|Civic Data + AI: An Underbuilt Opportunity|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-de-6-27\n\nHosted by The AI Collective & 6 others",
       "url": "https://luma.com/aic-de-6-27",
       "sources": [
@@ -3947,7 +3921,7 @@
       "city": "",
       "city_code": "",
       "address": "https://luma.com/event/evt-9vZHCc8ZVGVOP8Y",
-      "hash_key": "civic data ai the underbuilt opportunity_2026-06-27T14:00:00+00:00"
+      "hash_key": "civic data ai an underbuilt opportunity_2026-06-27T14:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
@@ -4179,6 +4153,35 @@
       "city_code": "",
       "address": "",
       "hash_key": "july 1 getting started with fiftyone_2026-07-01T16:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|Criação de imagens e vídeos com inteligência artificial: The AI Collective Florianópolis + Belém Amazônia|Online",
+      "description": "Get up-to-date information at: https://luma.com/ai-collective-floripa-1\n\nHosted by The AI Collective, Thiago Xikota & Priscila",
+      "url": "https://luma.com/ai-collective-floripa-1",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ai-collective-floripa-1",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-mCCjdbvRDaRYk0G",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-07-01T22:30:00+00:00",
+      "dtend": "2026-07-02T00:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-mCCjdbvRDaRYk0G",
+      "hash_key": "criao de imagens e vdeos com inteligncia_2026-07-01T22:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
@@ -4436,7 +4439,7 @@
       "hash_key": "july 9 best of cvpr day 2_2026-07-09T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI: Juan Martínez|Online",
+      "title": "AI Builders MX|How I Use AI: Juan Martínez|Online",
       "description": "Get up-to-date information at: https://luma.com/3iyi3bsr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/3iyi3bsr",
       "sources": [
@@ -4448,13 +4451,14 @@
       ],
       "location": "https://luma.com/event/evt-MVGGctuBiHzWfUZ",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-07-09T23:30:00+00:00",
       "dtend": "2026-07-10T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4560,7 +4564,7 @@
       "hash_key": "july 23 ai ml and computer vision meetup_2026-07-23T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI: Andres Matte, Kapso.ai|Online",
+      "title": "AI Builders MX|How I Use AI: Andres Matte, Kapso.ai|Online",
       "description": "Get up-to-date information at: https://luma.com/6liqe957\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/6liqe957",
       "sources": [
@@ -4572,13 +4576,14 @@
       ],
       "location": "https://luma.com/event/evt-OfU4EZmg85DhiSI",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-07-23T23:30:00+00:00",
       "dtend": "2026-07-24T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4650,24 +4655,26 @@
       "hash_key": "the copilot effect power platform copilo_2026-08-05T08:00:00+00:00"
     },
     {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|Aug 20 - Cold Pool to Hot Queue: Annotation Curation with FiftyOne|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nIn this hands-on workshop, you'll use [FiftyOne ](https://docs.voxel51.com/)to run the full rare-class mining loop end-to-end on a large unlabeled image pool: compress the pool with near-duplicate detection, embed images with a modern vision backbone, mine candidate positives via seeded similarity from a tiny labeled set, confirm them through targeted human review, and prioritize the survivors for annotation using representativeness and uniqueness scores.\n\n**Time, Date and Location**\n\nAug 20, 2026\n9:00 AM - 11:00 AM PST, 2026\nOnline. **[Register for the Zoom!](https://voxel51.com/events/from-cold-pool-to-hot-queue-annotation-curation-with-fiftyone-august-20-2026)**\n\n**What You'll Walk Away With**\n\n* A working FiftyOne pipeline for finding rare classes in any visual dataset you own\n* A repeatable four-stage funnel — compress, mine, confirm, prioritize — with a clear objective at each stage\n* A fine-tuned detector that demonstrably outperforms one trained on the same number of randomly sampled images\n* The mental model that data curation — not architecture or hyperparameters — is the highest-leverage thing you can do to improve a rare-class detector",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739409/",
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|Aug 6 - Audio and AI Meetup|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nAug 06, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for the Zoom!](https://voxel51.com/events/audio-and-ai-meetup-august-6-2026)**\n\n**Do Speech Models Actually Understand Speech? Evaluating Speech LLMs Under Realistic Spoken Instruction Conditions**\n\nSpeech Large Language Models (SLLMs) are increasingly capable; but are we evaluating them the right way? Most benchmarks rely on text prompts, yet real users interact with these systems through speech, a modality that introduces noise, disfluencies, and stylistic variation that text simply doesn't capture.\nIn this talk, we present findings from a systematic study across 11 tasks, 12 languages, and five prompt styles, examining how prompt modality, language, and task type shape SLLM performance.\n\n*About the Speaker*\n\n[Maike Züfle ](https://voxel51.com/events/www.linkedin.com/in/maike-z%C3%BCfle)is a PhD student at the Karlsruhe Institute of Technology (KIT), working in Prof. Jan Niehues's group on interactive speech systems for more natural human–machine communication. Her research focuses on instruction-following speech models with speech as both input and output, with a recent emphasis on full-duplex systems. Beyond her research, she co-organises the instruction-following and speech translation metrics shared tasks at IWSLT. She is a 2026 Apple Scholar in AI/ML.\n\n**AI based Audio Forensics**\n\nIn this presentation, attendees will discover several modules developed by Gradiant for the detection and analysis of synthetically generated or manipulated audio. The session will be delivered by one of the developers involved in the design and implementation of these technologies, providing first-hand insight into their capabilities and underlying methodology.\n\nThe presentation will cover the traceability module, which helps identify the origin of AI-generated content. It will also cover the segment detection tool, designed to locate manipulated regions within an audio recording, as well as the complete audio detection tool, which assesses whether an entire recording has been synthetically generated.\n\n*About the Speaker*\n\n[Daniel Paniagua Ares ](https://voxel51.com/events/www.linkedin.com/in/daniel-paniagua-ares-96252918a)is a research engineer at Gradiant. Graduated in computer engineering from the FIC and with a master's degree in AI from the VIU.\n\n**Curating, Searching, and Evaluating Audio Datasets in FiftyOne**\n\nIn this talk, we'll start with the ESC-50 environmental-sound dataset to show how FiftyOne represents audio: browsing clips in the tabular view, rendering spectrograms directly in the sample grid with a custom renderer, and turning sounds into searchable vectors with CLAP embeddings. Then we'll demo a similarity-search panel that lets you query an entire audio collection by example clip or a natural-language prompt to quickly find matching sounds.\n\nWe'll conclude with a live research problem: Audio Moment Retrieval from the DCASE 2026 Challenge, where the goal is to localize the exact moment in a long recording that matches a text query. We'll frame this as temporal detection, evaluate predictions, and visualize ground-truth vs. predicted moments on an interactive timeline to intuitively expose model failure modes.\n\nAttendees will leave with a concrete blueprint and open code for applying visual data-centric AI practices to their own audio and multimodal datasets.\n\n*About the Speaker*\n\n[John Duncan](https://www.linkedin.com/in/john-a-duncan/) is a Machine Learning Engineer, Customer Success at Voxel51. His research interests include vision, LiDAR, and audio perception for robots and intelligent systems.",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/315389157/",
       "sources": [
         {
           "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739409/",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/315389157/",
           "label": "Ver en Meetup"
         }
       ],
       "location": "Online event,",
       "online": true,
       "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-08-20T10:00:00-06:00",
-      "dtend": "2026-08-20T12:00:00-06:00",
+      "dtstart": "2026-08-06T10:00:00-06:00",
+      "dtend": "2026-08-06T12:00:00-06:00",
       "tags": [
         "ai",
-        "data"
+        "backend",
+        "data",
+        "frontend"
       ],
       "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
       "country": "",
@@ -4677,7 +4684,7 @@
       "city": "",
       "city_code": "",
       "address": "",
-      "hash_key": "aug 20 cold pool to hot queue annotation_2026-08-20T16:00:00+00:00"
+      "hash_key": "aug 6 audio and ai meetup_2026-08-06T16:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Technology, AI and Addictive Behaviors: Can They Be Treated?|Online",
