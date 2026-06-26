@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T13:23:00.761979+00:00",
-  "total_events": 170,
+  "generated_at": "2026-06-26T19:13:38.653775+00:00",
+  "total_events": 171,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -129,17 +129,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Cloud Mexico City",
-      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -3543,7 +3532,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3570,7 +3559,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3825,35 +3814,6 @@
       "hash_key": "mission ai possible 003 b quyt xy dng pi_2026-06-28T06:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|Música com IA - The Sound of IA (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-bel-musicia\n\nHosted by The AI Collective & Priscila",
-      "url": "https://luma.com/aic-bel-musicia",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-bel-musicia",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-eQsg6FP6rjJUlq2",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-06-29T22:00:00+00:00",
-      "dtend": "2026-06-30T00:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-eQsg6FP6rjJUlq2",
-      "hash_key": "msica com ia the sound of ia w the ai co_2026-06-29T22:00:00+00:00"
-    },
-    {
       "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
@@ -3951,6 +3911,35 @@
       "hash_key": "june 30 beyond annotation tools building_2026-06-30T16:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|Música com IA - The Sound of IA (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-bel-musicia\n\nHosted by The AI Collective & Priscila",
+      "url": "https://luma.com/aic-bel-musicia",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-bel-musicia",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-eQsg6FP6rjJUlq2",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-06-30T22:30:00+00:00",
+      "dtend": "2026-07-01T00:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-eQsg6FP6rjJUlq2",
+      "hash_key": "msica com ia the sound of ia w the ai co_2026-06-30T22:00:00+00:00"
+    },
+    {
       "title": "GDG Cloud Mexico City|Build With AI: I/O Extended - El Futuro de la IA Generativa|Online",
       "description": "Únete a nuestro I/O Extended y descubre los últimos anuncios de Google en Inteligencia Artificial Generativa, Gemini y la nube. ¡Lleva tus habilidades al siguiente nivel!",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-build-with-ai-io-extended-el-futuro-de-la-ia-generativa/",
@@ -3979,11 +3968,10 @@
         "Networking",
         "Tech Talk / Meetup",
         "ai",
-        "cloud",
         "frontend",
         "mobile"
       ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4308,6 +4296,35 @@
       "hash_key": "july 8 best of cvpr day 1_2026-07-08T16:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|IA, Cultura e Clima (w/ The AI Collective) (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/culturaeclima\n\nHosted by The AI Collective & Priscila",
+      "url": "https://luma.com/culturaeclima",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/culturaeclima",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-MFMiI4QaxyarLhz",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-07-08T22:30:00+00:00",
+      "dtend": "2026-07-08T23:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-MFMiI4QaxyarLhz",
+      "hash_key": "ia cultura e clima w the ai collective w_2026-07-08T22:00:00+00:00"
+    },
+    {
       "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-08/",
@@ -4450,7 +4467,7 @@
       "online": true,
       "organizer": "Rust-AICollective",
       "dtstart": "2026-07-14T19:00:00+00:00",
-      "dtend": "2026-07-14T20:00:00+00:00",
+      "dtend": "2026-07-14T21:30:00+00:00",
       "tags": [
         "ai"
       ],
