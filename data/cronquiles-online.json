@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T13:06:39.161569+00:00",
-  "total_events": 168,
+  "generated_at": "2026-06-27T19:01:10.557770+00:00",
+  "total_events": 167,
   "city": "Online",
   "communities": [
     {
@@ -129,17 +129,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Cloud Mexico City",
-      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -3644,37 +3633,6 @@
       "hash_key": "build with ai monterrey v2_2026-06-27T14:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|Civic Data + AI: An Underbuilt Opportunity|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-de-6-27\n\nHosted by The AI Collective & 6 others",
-      "url": "https://luma.com/aic-de-6-27",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-de-6-27",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-9vZHCc8ZVGVOP8Y",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-06-27T15:30:00+00:00",
-      "dtend": "2026-06-27T16:30:00+00:00",
-      "tags": [
-        "ai",
-        "data",
-        "frontend"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-9vZHCc8ZVGVOP8Y",
-      "hash_key": "civic data ai an underbuilt opportunity_2026-06-27T14:00:00+00:00"
-    },
-    {
       "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-27/",
@@ -3888,11 +3846,10 @@
         "Networking",
         "Tech Talk / Meetup",
         "ai",
-        "cloud",
         "frontend",
         "mobile"
       ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
