@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T01:38:27.070914+00:00",
-  "total_events": 164,
+  "generated_at": "2026-06-30T07:59:48.299199+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -129,17 +129,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Cloud Mexico City",
-      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -3599,39 +3588,6 @@
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-24T22:00:00+00:00"
     },
     {
-      "title": "GDG CDMX|Grupo de Estudio: Estructuras de Control de Flujo|Online",
-      "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-estructuras-de-control-de-flujo-2026-06-29/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-06-29T20:00:00-06:00",
-      "dtend": "2026-06-29T21:30:00-06:00",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Career Development",
-        "Workshop / hands-on session"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "grupo de estudio estructuras de control _2026-06-30T02:00:00+00:00"
-    },
-    {
       "title": "Kong Mexico City|Why API modernization is the prerequisite to full data path governance|Online",
       "description": "Kong/MEXICO-CITY\nEnterprise AI is moving fast. But speed alone is a fast way to fail.\n\nTwo AI workloads are reshaping enterprise infrastructure right now — GenAI and Agentic AI — and both bring a completely different set of connectivity, cost, and governance challenges. But before you can govern AI, you have to modernize the API layer underneath it. Most enterprise APIs weren't built for AI and were never designed to serve ephemeral agents making real-time decisions.\n\nCustom LLM wiring is slowing teams down. Uncapped token consumption is quietly destroying margins. Agents acting autonomously without guardrails are creating cascading failures. And 86% of organizations are completely blind to their AI data flows.\n\nThe root cause isn't the models. It's fragmentation. API sprawl means policies are scattered, visibility is siloed, and there's no single enforcement point when an agent calls a service, invokes a tool, or queries a model. Governance is scattered across API gateways, agent frameworks, MCP routers, event pipelines, and context stores — each with its own policies, visibility, and failure modes. None of them talk to each other. None of them give you the full picture.\n\nIn this session, we'll break down what full data path governance actually means — and what it takes to unify it across every layer of the stack.\n\n**We'll cover:**\n\n* **Why API modernization is the prerequisite for AI governance** — how legacy APIs, gateway bypass patterns, and API sprawl create the fragmentation that makes governing GenAI and Agentic AI impossible at scale\n* **Why fragmentation is the governance killer** — how siloed tools, teams, and context stores make production AI impossible to manage at scale\n* **The full AI data path** — from APIs and events to LLMs, agents, context, and memory — and every control point in between\n* **Cost, speed, and risk at every layer** — token consumption, PII exposure, prompt injection, and the margins math that makes ungoverned AI unsustainable\n* **A unified AI control tower** — how to bring LLM governance, MCP and agent governance, API management, and context management under one platform",
       "url": "https://www.meetup.com/kong-mexico-city/events/315284961/",
@@ -3753,11 +3709,10 @@
         "Networking",
         "Tech Talk / Meetup",
         "ai",
-        "cloud",
         "frontend",
         "mobile"
       ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
