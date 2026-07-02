@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T14:48:48.183613+00:00",
-  "total_events": 158,
+  "generated_at": "2026-07-02T20:09:52.110784+00:00",
+  "total_events": 159,
   "city": "Online",
   "communities": [
     {
@@ -27,6 +27,17 @@
           "platform": "luma",
           "url": "https://luma.com/nc2fac44",
           "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "Embajadoras Cloud",
+      "description": "Comunidad dedicada a impulsar a mujeres hispanohablantes en cloud computing. Enfocada en AWS, aprendizaje colaborativo y desarrollo profesional.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/embajadoras-cloud",
+          "label": "Meetup"
         }
       ]
     },
@@ -75,11 +86,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -2805,7 +2816,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2969,7 +2980,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3577,35 +3588,6 @@
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-24T22:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|AI Sandboxes: Giving Developers Room to Experiment Without Giving Up Oversight|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-gl-7-2\n\nHosted by The AI Collective & 4 others",
-      "url": "https://luma.com/aic-gl-7-2",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-gl-7-2",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-kGj7qpzOLrQXCZH",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-07-02T16:00:00+00:00",
-      "dtend": "2026-07-02T17:30:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-kGj7qpzOLrQXCZH",
-      "hash_key": "ai sandboxes giving developers room to e_2026-07-02T16:00:00+00:00"
-    },
-    {
       "title": "GDG CDMX|Grupo de Estudio: Lenguaje de Programación Python Parte II|Online",
       "description": "Únete a nosotros para la segunda parte de nuestro grupo de estudio enfocado en potenciar tus habilidades en el Lenguaje ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-grupo-de-estudio-lenguaje-de-programacion-python-parte-ii-2026-07-04/",
@@ -3925,6 +3907,35 @@
       "hash_key": "club de lectura de papers de ml the illu_2026-07-11T00:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|AI Roundtable #25 - Trust on Trial: 𝗔𝗜 𝗢𝘂𝘁𝗽𝘂𝘁, 𝗛𝘂𝗺𝗮𝗻 𝗝𝘂𝗱𝗴𝗺𝗲 (w/ The AI Collective & Voyage Consulting)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-kc-roundtable25\n\nHosted by The AI Collective & 4 others",
+      "url": "https://luma.com/aic-kc-roundtable25",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-kc-roundtable25",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-y0BVDr92UTCS8q3",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-07-13T17:00:00+00:00",
+      "dtend": "2026-07-13T18:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-y0BVDr92UTCS8q3",
+      "hash_key": "ai roundtable 25 trust on trial w the ai_2026-07-13T16:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Trust Is the New Moat. The Hidden Buying and Investing Criteria for Enterprise AI. (w/ The AI Collective)|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-gl-7-14\n\nHosted by The AI Collective, Adelina Martiniuc & Vik Ghai",
       "url": "https://luma.com/aic-gl-7-14",
@@ -3952,6 +3963,37 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-cPCWSYrfDEBO1AF",
       "hash_key": "trust is the new moat the hidden buying _2026-07-14T18:00:00+00:00"
+    },
+    {
+      "title": "Embajadoras Cloud|☁️ AWS: Ciberseguridad, Nube e IA ☁️  -  AWS Community 🚀|México|",
+      "description": "Embajadoras Cloud\n### ☁️ Gran Encuentro de Comunidades AWS: Ciberseguridad, Nube e IA ☁️\n\n¡Te invitamos a ser parte de este gran evento tecnológico presencial! En un esfuerzo sin precedentes para fortalecer el aprendizaje, la autonomía y la ejecución técnica, **nos unimos entre 4 comunidades AWS** para traerles una agenda imperdible con grandes expertos de la industria, directamente desde las oficinas de AWS.\n**📍 Cuándo y Dónde:**\n\n* **Fecha:** 16 de julio de 2026\n* **Horario:** 6:00 PM a 9:00 PM\n* **Lugar:** Oficinas de AWS (Polanco, Ciudad de México)\n\n**🤝 Comunidades Organizadoras (Co-hosts):** Este evento es un esfuerzo conjunto. Las siguientes comunidades figuran como co-hosts y han colaborado estrechamente en la difusión y la aportación de nuestros increíbles ponentes:\n\n* 🦋 **Embajadoras Cloud**\n* 🌌 **Ajolotes en la Nube**\n* ⚙️ **AWS Builder Student Group (UNAM + IPN)**\n\n**📅 Agenda del Evento:** Prepárate para aprender sobre ciberseguridad, desarrollo nativo en la nube e Inteligencia Artificial Generativa con las siguientes charlas:\n\n* 🔒 **1000 maneras de ser hackeado y cómo evitarlo**\n* **Ponente:** Jorge Garcia Adauta *(Engineer @ AWS)*\n* Descubre las vulnerabilidades más comunes y las mejores prácticas para proteger tu entorno.\n* 🚀 **Modernización Cloud-Native con AWS, Kiro y GenAI**\n* **Ponentes:** Leonardo Pedroza, Christian Anaya y Rodrigo Pulido *(EagleTech @ La Salle CDMX)*\n* Un recorrido sobre cómo llevar la arquitectura de la nube al siguiente nivel integrando Inteligencia Artificial.\n* 🕵️‍♀️ **No hace falta hackearte: OSINT, lo que Internet ya revela sobre ti**\n* **Ponente:** Sairi Ávila *(AWS Community Builder AI / AI Engineer @ SICE México)*\n* Conoce el poder de la Inteligencia de Fuentes Abiertas y aprende a cuidar tu huella digital.\n\n¡Acompáñanos en la Ciudad de México, conecta con los líderes de la comunidad y lleva tus conocimientos de AWS al siguiente nivel!\n\n> > **IMPORTANTE: Regístrate con tu nombre tal cual esta en tu identificación y trae una identificación. De lo contrario no podremos darte acceso al evento.**",
+      "url": "https://www.meetup.com/embajadoras-cloud/events/315519239/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/embajadoras-cloud/events/315519239/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": " oficinas de aws (polanco, ciudad de méxico)",
+      "online": false,
+      "organizer": "Embajadoras Cloud",
+      "dtstart": "2026-07-16T18:00:00-06:00",
+      "dtend": "2026-07-16T21:00:00-06:00",
+      "tags": [
+        "ai",
+        "cloud",
+        "frontend"
+      ],
+      "source": "https://www.meetup.com/embajadoras-cloud/events/ical",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": " oficinas de aws (polanco, ciudad de méxico)",
+      "hash_key": "aws ciberseguridad nube e ia aws communi_2026-07-17T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI HR Roundtable with The AI Collective KC|Online",
@@ -4658,7 +4700,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
