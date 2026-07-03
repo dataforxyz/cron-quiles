@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:57:00.469543+00:00",
+  "generated_at": "2026-07-03T14:52:56.816944+00:00",
   "total_events": 308,
   "city": "Ciudad de México",
   "communities": [
@@ -97,11 +97,22 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
+          "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "v0 Prompt to Production Mexico City",
+      "description": "Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. Hosted by aibuilders.mx (Ciudad de México).",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/fdg8riz2",
           "label": "Luma"
         }
       ]
@@ -119,11 +130,6 @@
     {
       "name": "Java Mexico",
       "description": "Comunidad de Java en México. Eventos, charlas técnicas y networking para desarrolladores Java.",
-      "links": []
-    },
-    {
-      "name": "AI Builders MX",
-      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
       "links": []
     },
     {
@@ -4628,7 +4634,7 @@
       "hash_key": "coworking frutal 12_2025-09-10T16:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
+      "title": "v0 Prompt to Production Mexico City|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/r8rwqnn9\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero",
       "url": "https://luma.com/r8rwqnn9",
       "sources": [
@@ -4640,14 +4646,13 @@
       ],
       "location": "Ciudad de México, Mexico",
       "online": false,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2025-09-11T23:00:00+00:00",
       "dtend": "2025-09-12T02:30:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -4701,7 +4706,7 @@
       "dtstart": "2025-09-19T22:00:00+00:00",
       "dtend": "2025-09-20T00:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -4874,9 +4879,9 @@
       "country_code": "MX",
       "state": "Ciudad de México",
       "state_code": "MX-CMX",
-      "city": "Ciudad de México",
+      "city": "",
       "city_code": "cdmx",
-      "address": "Calle Hacienda del Rosario, Unidad Habitacional Francisco Villa, San Juan Tlihuaca, Ciudad de México, Azcapotzalco, Tlalnepantla de Baz, Ciudad de México, 02420, México",
+      "address": "Ciudad de México, México",
       "hash_key": "mega clase gratuita de inteligencia arti_2025-10-19T16:00:00+00:00"
     },
     {
@@ -4961,7 +4966,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+      "address": "Torre Polanco, 476, Calzada General Mariano Escobedo, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
       "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
     },
     {
@@ -6541,7 +6546,7 @@
       "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciudad de México",
+      "title": "v0 Prompt to Production Mexico City|v0 Prompt to Production – Mexico City|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/fdg8riz2\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & Ben Kim",
       "url": "https://luma.com/fdg8riz2",
       "sources": [
@@ -6553,14 +6558,13 @@
       ],
       "location": "Hipódromo, Ciudad de México, México",
       "online": false,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-01-31T15:00:00+00:00",
       "dtend": "2026-01-31T18:30:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6728,7 +6732,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7648,7 +7652,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Avenida Paseo de la Reforma, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "address": "Avenida Paseo de la Reforma, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
       "hash_key": "vc fintech session by adn vc zeta gain s_2026-02-25T20:00:00+00:00"
     },
     {
@@ -8039,14 +8043,14 @@
         "cloud",
         "python"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Universidad Nacional Autónoma de México, Callejón de las Playas, Colonia Rinconada Las Playas INFONAVIT, Ciudad de México, Coyoacán, Ciudad de México, 04729, México",
+      "address": "Universidad Nacional Autónoma de México, Calle Miguel Ángel Asturias, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad de México, 04360, México",
       "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
     },
     {
@@ -8076,7 +8080,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "address": "Calle Londres, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
       "hash_key": "meetup marzo 2026 payjoy pythoncdmx_2026-03-11T00:00:00+00:00"
     },
     {
@@ -8334,7 +8338,7 @@
       "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|OpenAI Codex – Mexico City|México|Ciudad de México",
+      "title": "v0 Prompt to Production Mexico City|OpenAI Codex – Mexico City|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/suipk589\n\nAddress:\nPlaza Carso\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/suipk589",
       "sources": [
@@ -8346,14 +8350,14 @@
       ],
       "location": "Plaza Carso, Pl. Carso, Amp Granada, 11529 Ciudad de México, CDMX, Mexico",
       "online": false,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-04-08T23:00:00+00:00",
       "dtend": "2026-04-09T02:00:00+00:00",
       "tags": [
         "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8496,7 +8500,7 @@
       "dtstart": "2026-04-24T15:00:00+00:00",
       "dtend": "2026-04-24T21:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8507,7 +8511,7 @@
       "hash_key": "compufest 1 charlas talleres_2026-04-24T14:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|Zero to Agent: Mexico City|México|Ciudad de México",
+      "title": "v0 Prompt to Production Mexico City|Zero to Agent: Mexico City|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/wp947zvj\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & 3 others",
       "url": "https://luma.com/wp947zvj",
       "sources": [
@@ -8519,14 +8523,13 @@
       ],
       "location": "Polanco, Ciudad de México, México",
       "online": false,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-04-25T15:00:00+00:00",
       "dtend": "2026-04-25T19:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
