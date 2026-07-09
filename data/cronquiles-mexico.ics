@@ -3953,9 +3953,9 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAd
  éxico\nMexico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Calz. Gral. Mariano Escobedo 726\, Polanco\, Anzures\, Miguel Hid
  algo\, 11590 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Vape Monkey Mexico\, 68\, Calle Darwin\, Anzures\, Po
- lanco\, Ciudad de México\, Miguel Hidalgo\, Ciudad de México\, 11590\, M
- éxico
+X-CRONQUILES-ADDRESS:Torre Polanco\, 476\, Calzada General Mariano Escobed
+ o\, Anzures\, Polanco\, Ciudad de México\, Miguel Hidalgo\, Ciudad de Mé
+ xico\, 11590\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -5613,7 +5613,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/7mivqqeo\n\nAd
  FinTech México & 4 others
 LOCATION:Dalia\, Monte Líbano 215\, Lomas de Chapultepec\, Miguel Hidalgo
  \, 11000 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 2ª Secci
+X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 6ª Secci
  ón\, Lomas de Chapultepec\, Ciudad de México\, Miguel Hidalgo\, Ciudad d
  e México\, 11000\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -5912,8 +5912,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/31qel456\n\nAd
   by Nico Di Pace & 6 others
 LOCATION:Torre BBVA Bancomer\, Av. P.º de la Reforma 506\, Cuauhtémoc\, 
  06600 Juárez\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Juárez\, Condesa\, Ciu
- dad de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Juárez\, Roma\, Ciudad
+  de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6241,8 +6241,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/1dl2uihj\n\nAd
  co\nMexico\n\nHosted by PythonCDMX
 LOCATION:Londres 61\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, CD
  MX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Londres\, Juárez\, Roma\, Ciudad de México\, 
- Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-ADDRESS:Calle Londres\, Juárez\, Condesa\, Ciudad de México
+ \, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -7103,7 +7103,7 @@ SUMMARY:Frutero Club|Coworking Frutal x ETH Cinco de Mayo|México|Ciudad d
 DTSTART:20260709T140000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/m0nd7yfw\n\nAd
  dress:\nJosé María Izazaga 8\nCiudad de México\, Mexico\n\nHosted by me
- l & ETH Cinco de Mayo
+ l\, ETH Cinco de Mayo & Kevin Padilla
 LOCATION:José María Izazaga 8\, Centro Histórico de la Cdad. de México
  \, Centro\, Cuauhtémoc\, 06080 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Ciudad de México\, México
@@ -7112,86 +7112,6 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|July
-  9 - Best of CVPR (Day 2)|Online
-DTSTART:20260709T100000
-CATEGORIES:ai,backend,cloud,data,frontend
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nThe Best of CVPR is a three-day virtual meetup series featuring researche
- rs presenting their accepted papers from the 2026 Conference on Computer V
- ision and Pattern Recognition (CVPR).\n\n**Date\, Time and Location**\n\nJ
- ul 09\, 2026\n9 AM - 11 AM PT\nOnline. **[Register for Zoom!](https://voxe
- l51.com/events/best-of-cvpr-july-9-2026)**\n\n**Efficient Representation a
- nd Coding of Dynamic Light Fields**\n\nThis talk presents a data-driven ap
- proach that integrates aperture and pixel-wise exposure coding with Dynami
- c Mode Decomposition (DMD) to achieve compact representation of dynamic li
- ght fields. By modeling them as mathematical dynamical systems\, the frame
- work captures coherent structures across all dimensions and achieves scala
- ble compression\, bitrate savings\, and high-quality reconstructions.\n\n*
- About the Speaker*\n\n[Joshitha Ravishanker](https://www.linkedin.com/in/j
- oshitharavishanker/) is a PhD scholar in the Department of Electrical Engi
- neering at IIT Madras\, supervised by Dr. Mansi Sharma and Dr. Kaushik Mit
- ra. She is a Prime Minister's Research Fellow and her doctoral research fo
- cuses on the efficient representation and compression of light fields for 
- display applications.\n\n**PHANTOM: Physics-Infused Video Generation via J
- oint Modeling of Visual and Latent Physical Dynamics**\n\nRecent video gen
- eration models can produce visually striking results\, but they often fail
-  to capture the physical dynamics that govern how real-world scenes evolve
- . In this talk\, I will present PHANTOM\, a physics-infused video generati
- on model that jointly predicts visual content and latent physical dynamics
- . PHANTOM uses a physics-aware video representation to guide generation to
- ward videos that are both visually realistic and physically consistent\, w
- ithout requiring explicit simulator-based physical specifications. I will 
- discuss the model design\, key results on standard and physics-aware video
-  generation benchmarks\, and how this work supports broader progress towar
- d multimodal world models for physical AI and embodied reasoning.\n\n*Abou
- t the Speaker*\n\n[Ismini Lourentzou](https://www.linkedin.com/in/isminilo
- urentzou) is an Assistant Professor at the University of Illinois Urbana-C
- hampaign and Director of the Perception and LANguage Lab. Her research foc
- uses on multimodal machine learning\, vision-language models\, generative 
- modeling\, and embodied AI\, with applications in physical reasoning\, rob
- otics\, healthcare\, and trustworthy AI.\n\n**LoST: Level of Semantics Tok
- enization for 3D Shapes**\n\nTokenization is fundamental to generative mod
- eling and especially important for autoregressive 3D generation. However\,
-  current 3D shape tokenizers rely on geometric level-of-detail hierarchies
-  that are token-inefficient and poorly aligned with semantic structure. We
-  propose Level-of-Semantics Tokenization (LoST)\, which orders tokens by s
- emantic salience so early tokens produce complete\, plausible shapes and l
- ater tokens refine detailed geometry and semantics.\n\nLoST is trained wit
- h Relational Inter-Distance Alignment (RIDA)\, a semantic alignment loss t
- hat matches relationships in 3D shape latent space to those in DINO featur
- e space. Experiments show that LoST achieves state-of-the-art reconstructi
- on and efficient high-quality AR 3D generation while using only 0.1%–10%
-  of the tokens required by prior methods.\n\n*About the Speaker*\n\n[Nilad
- ri Dutt](https://www.linkedin.com/in/niladridutt) is an ELLIS PhD student 
- at University College London (UCL)\, sponsored by Adobe Research. He is ad
- vised by Prof Niloy Mitra (UCL) and Duygu Ceylan (Adobe). His research int
- erests are in representation learning for 3D and multimodal learning.\n\n*
- *3D Reconstruction Improves Weakly-Supervised Semantic Segmentation**\n\nS
- emantic segmentation typically requires expensive\, dense annotations\, ma
- king large-scale training a significant bottleneck. We address this by int
- roducing a framework that leverages recent advances in feed-forward 3D rec
- onstruction to improve weakly supervised semantic segmentation on 2D image
- s\, using only sparse labels such as points\, scribbles\, or coarse masks.
- \n\nOur core insight is that 3D geometric structure recovered directly fro
- m casual 2D video sequences provides powerful cross-view consistency const
- raints that can propagate sparse annotations across entire scenes. A dual 
- student-teacher architecture enforces semantic consistency between 2D imag
- es and reconstructed 3D point clouds\, injecting geometric supervision int
- o the learning process while keeping inference purely 2D. Our solution ach
- ieves state-of-the-art performance\, outperforming existing methods by 2
- –7% across a range of datasets and annotation types\, without requiring 
- additional labels or inference overhead.\n\n*About the Speaker*\n\n[Wolfga
- ng Boettcher](https://www.linkedin.com/in/wolfgang-boettcher/) is an ELLIS
-  doctoral researcher in the Computer Vision and Machine Learning group at 
- the Max Planck Institute for Informatics. Since his master's degree at ETH
-  Zurich\, his research focuses on visual perception\, semantic scene under
- standing\, and dynamic 3D reconstruction. He is particularly interested in
-  models that can reason about the physical environment for applications in
-  autonomous systems and robotics.
-LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:v0 Prompt to Production Mexico City|How I Use AI: Juan Martínez|O
@@ -7350,6 +7270,16 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|Agentic AI series: Multi Agent Orchestration - P
+ hinite x AI Collective Dallas|Online
+DTSTART:20260715T230000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-dallas-7-1
+ 5\n\nHosted by The AI Collective & 5 others
+LOCATION:https://luma.com/event/evt-cH8Lh9LnMnwxF4M
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-cH8Lh9LnMnwxF4M
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embajadoras Cloud|☁️ AWS: Ciberseguridad\, Nube e IA ☁️  -
@@ -8045,6 +7975,83 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-9-23\n\
  nHosted by The AI Collective & 4 others
 LOCATION:https://luma.com/event/evt-ZkkbMV6KFF2UJ4b
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-ZkkbMV6KFF2UJ4b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Sept
+  24 - AI\, ML and Computer Vision Meetup|Online
+DTSTART:20260924T100000
+CATEGORIES:ai,backend,data,frontend,mobile,security
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup on September 24 to hear talks from experts on cut
+ ting-edge topics across AI\, ML\, and computer vision.\n\n**Date\, Time an
+ d Location**\n\nSep 24\, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register
+  for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetu
+ p-september-24-2026)**\n\n**How Do Mercedes-Benz AI Principles Drive our I
+ nnovation?**\n\nAt Mercedes-Benz\, our AI Principles guide every step of i
+ nnovation\, emphasizing responsible use\, safety and reliability\, explain
+ ability\, and the protection of privacy. These principles go beyond statem
+ ents and actively shape how we design\, test\, and deploy AI systems in re
+ al-world automotive and enterprise settings. In this talk\, I will present
+  how these principles inspired our recent research on when reusing LoRA (L
+ ow-Rank Adaptation) is effective. By combining theoretical analysis with s
+ ynthetic data as a proxy for enterprise scenarios\, we uncovered the stren
+ gths and limitations of modular AI components under constrained data acces
+ s. Our findings provide practical guidance on when reused LoRAs could deli
+ ver high-quality results.\n\n*About the Speaker*\n\n[Mei-Yen Chen](https:/
+ /www.linkedin.com/in/mei-yen-chen-22937787) is a Senior Data Scientist at 
+ Mercedes-Benz Tech Innovation GmbH in Germany with 10 years of industry ex
+ perience in AI and data solutions. She leads early-stage AI projects acros
+ s business functions and collaborates with research institutions on machin
+ e learning and responsible AI.\n\n**Region Tokens as the Visual Primitive:
+  From Recognition to World Modeling**\n\nPatch-based tokenization has beco
+ me the default interface between vision encoders and downstream models\, y
+ et patches carry no semantic structure and scale poorly with resolution an
+ d temporal extent. This talk presents a research program centered on repla
+ cing patch tokens with region-level representations — semantically dense
+  tokens grounded in visual entities rather than arbitrary grid crops.\n\nI
+  will describe RELOCATE\, REN\, and T-REN\, a progression of methods that 
+ produce region tokens via pooling\, train them with region-level objective
+ s\, and extend them to video with temporal coherence. I will then present 
+ ongoing work integrating region tokens into VLMs to directly expand visual
+  context capacity\, and preliminary results on future region trajectory pr
+ ediction as a foundation for world modeling.\n\nThe broader thesis is that
+  region-level tokens are a more natural unit of visual computation than pa
+ tches\, and their advantage compounds as task complexity\, resolution\, an
+ d temporal horizon increase.\n\n*About the Speaker*\n\n[Savya Khosla](http
+ s://www.linkedin.com/in/savyakhosla/) is a second-year Ph.D. student at th
+ e University of Illinois Urbana-Champaign\, advised by Prof. Derek Hoiem a
+ nd Prof. Alex Schwing.\n\n**Leveraging Text-To-Image Diffusion Models for 
+ Consistent Set-to-Set Generation**\n\nImage collections are humans' primar
+ y way of capturing the world\, yet advances in generative editing remain l
+ argely inapplicable to this modality. We address this gap by introducing M
+ atch-and-Fuse - a zero-shot\, training-free method for consistent set-to-s
+ et generation from image collections that share a common visual element bu
+ t differ in viewpoint\, capture time\, and surrounding content.\nOur key i
+ dea is a unified graph-based framework that combines dense correspondences
+  with an emergent prior in text-to-image diffusion models to generate cohe
+ rent canvases. We achieve state-of-the-art consistency and visual quality\
+ , and unlock new creative capabilities for content generation.\n\n*About t
+ he Speaker*\n\n[Kate Feingold](https://www.linkedin.com/in/katefeingold/) 
+ is a PhD student in Computer Vision at the Weizmann Institute of Science. 
+ Her research sits at the intersection of generative models\, 3D/4D percept
+ ion\, and multimodal learning\, focusing on problems where vision meets ot
+ her modalities or paradigms in creative tasks.\n\n**Yield Estimation of a 
+ Coffee in a dense environment**\n\nThis presentation provides a detailed w
+ orkflow related to coffee yield estimation in a dense environment. With ph
+ otos of pre-harvest coffee plants from a couple of coffee estates\, detail
+ s related to pre-processing\, annotation to detect regions of interest (RO
+ I)\, object detection training and inferencing results with various Yolo m
+ odels and finally segmentation with SAM2 and Yolo\\*-seg with training and
+  inference results to determine the count of raw\, pre-mature\, mature and
+  over-mature coffee berries and finally the yield of the entire estate. Al
+ l this is based on real world data captured on iPhone and android phones.\
+ n\n*About the Speaker*\n\n[Raghu M. Rao](http://www.linkedin.com/in/raghum
+ rao) is a consultant working on applications of computer vision AI models.
+  He was previously with AMD and Xilinx. He has a Ph.D. in Wireless Communi
+ cations from UCLA and is a Senior Member\, IEEE. His current interests are
+  in applications of AI for agriculture\, health care and wireless communic
+ ations.
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Can AI Help Prevent Toxic Relationships and Gend
