@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:26:06.027211+00:00",
+  "generated_at": "2026-07-15T19:50:46.435975+00:00",
   "total_events": 157,
   "city": "Online",
   "communities": [
@@ -54,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -108,11 +108,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -2832,7 +2832,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2996,7 +2996,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3537,7 +3537,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3564,7 +3564,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4280,6 +4280,35 @@
       "hash_key": "aug 20 cold pool to hot queue annotation_2026-08-20T16:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|Parenting with AI (w/ The AI Collective Kansas City)|Online",
+      "description": "Get up-to-date information at: https://luma.com/ParentingWithAI\n\nHosted by The AI Collective & Jesse Bray",
+      "url": "https://luma.com/ParentingWithAI",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ParentingWithAI",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-tGBTfWbV3nhiOhc",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-08-26T00:00:00+00:00",
+      "dtend": "2026-08-26T01:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-tGBTfWbV3nhiOhc",
+      "hash_key": "parenting with ai w the ai collective ka_2026-08-26T00:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Technology, AI and Addictive Behaviors: Can They Be Treated?|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-gl-9-23\n\nHosted by The AI Collective & 4 others",
       "url": "https://luma.com/aic-gl-9-23",
@@ -4336,35 +4365,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-VqJLcNRFMluK5qx",
       "hash_key": "can ai help prevent toxic relationships _2026-10-14T16:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|Parenting with AI (w/ The AI Collective Kansas City)|Online",
-      "description": "Get up-to-date information at: https://luma.com/ParentingWithAI\n\nHosted by The AI Collective & Jesse Bray",
-      "url": "https://luma.com/ParentingWithAI",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/ParentingWithAI",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-tGBTfWbV3nhiOhc",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-10-28T01:00:00+00:00",
-      "dtend": "2026-10-28T02:30:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-tGBTfWbV3nhiOhc",
-      "hash_key": "parenting with ai w the ai collective ka_2026-10-28T00:00:00+00:00"
     },
     {
       "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
@@ -4642,7 +4642,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",

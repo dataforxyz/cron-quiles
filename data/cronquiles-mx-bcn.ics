@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Baja California\, Mé
+ xico
+X-WR-CALNAME:Eventos Tech Baja California - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:GDG Tijuana|Informática Forense : Análisis Técnico de Antenas y
+  Triangulación|México|Baja California
+DTSTART:20260720T190000
+CATEGORIES:Conference,Networking,Tech Talk / Meetup
+DESCRIPTION:Únete a nuestro taller de  Análisis Técnico de Antenas\, Tr
+ iangulación y Datos Conservados". Aprende de la mano del Ing. ...
+LOCATION:La Tradicion\, 721 Santiago Argüello\, Tijuana
+X-CRONQUILES-ADDRESS:Santiago Argüello\, Zona Centro\, Del. Centro\, Tiju
+ ana\, Municipio de Tijuana\, Baja California\, 22000\, México
+X-CRONQUILES-CITY:Tijuana
+X-CRONQUILES-CITY-CODE:tijuana
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Baja California
+X-CRONQUILES-STATE-CODE:MX-BCN
+END:VEVENT
+END:VCALENDAR
