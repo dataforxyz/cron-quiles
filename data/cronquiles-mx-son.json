@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-22T14:40:51.462138+00:00",
-  "total_events": 1,
+  "generated_at": "2026-07-22T20:05:17.961668+00:00",
+  "total_events": 2,
   "city": "Sonora",
   "communities": [
     {
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
       "links": []
+    },
+    {
+      "name": "GDG Hermosillo",
+      "description": "Disclaimer: GDG Hermosillo is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg ",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-hermosillo/",
+          "label": "Sitio web"
+        }
+      ]
     }
   ],
   "events": [
@@ -38,6 +49,35 @@
       "city_code": "hermosillo",
       "address": "Hermosillo, Sonora, 83140, México",
       "hash_key": "hermosillo claude code for everyone_2026-04-17T00:00:00+00:00"
+    },
+    {
+      "title": "GDG Hermosillo|Confiabilidad al Estilo Google: Introducción a SRE|México|Sonora",
+      "description": "Únete a nosotros para explorar cómo Google transforma DevOps en Site Reliability Engineering (SRE). Descubre prácticas c...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-confiabilidad-al-estilo-google-introduccion-a-sre/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-confiabilidad-al-estilo-google-introduccion-a-sre/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Aviada, 40 Avenida Doctor Ignacio Pesqueira, Hermosillo",
+      "online": false,
+      "organizer": "GDG Hermosillo",
+      "dtstart": "2026-07-30T18:00:14-07:00",
+      "dtend": "2026-07-30T20:00:14-07:00",
+      "tags": [
+        "devops"
+      ],
+      "source": "https://gdg.community.dev/gdg-hermosillo/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Sonora",
+      "state_code": "MX-SON",
+      "city": "Hermosillo",
+      "city_code": "hermosillo",
+      "address": "Aviada, 40, Avenida Doctor Ignacio Pesqueira, Hermosillo, Sonora, 83260, México",
+      "hash_key": "confiabilidad al estilo google introducc_2026-07-31T00:00:00+00:00"
     }
   ]
 }

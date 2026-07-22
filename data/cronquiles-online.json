@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:40:51.334420+00:00",
+  "generated_at": "2026-07-22T20:05:17.811984+00:00",
   "total_events": 159,
   "city": "Online",
   "communities": [
@@ -97,11 +97,22 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
+          "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "v0 Prompt to Production Mexico City",
+      "description": "Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. Hosted by aibuilders.mx (Ciudad de México).",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/fdg8riz2",
           "label": "Luma"
         }
       ]
@@ -109,11 +120,6 @@
     {
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
-      "links": []
-    },
-    {
-      "name": "AI Builders MX",
-      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
       "links": []
     },
     {
@@ -2779,7 +2785,7 @@
       "hash_key": "batter up regional pitch competition 202_2025-10-06T16:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI – Vol 1|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
       "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
       "url": "https://luma.com/pi3ebsn2",
       "sources": [
@@ -2791,14 +2797,13 @@
       ],
       "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2025-10-07T22:00:00+00:00",
       "dtend": "2025-10-07T23:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2827,7 +2832,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2991,7 +2996,7 @@
       "tags": [
         "devops"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3164,7 +3169,7 @@
       "hash_key": "coworking frutal 28 fin de ao gather edi_2025-12-31T16:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|Diseña usando AI|Online",
+      "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
       "description": "Get up-to-date information at: https://luma.com/ubxd600w\n\nHosted by Javier Rivero",
       "url": "https://luma.com/ubxd600w",
       "sources": [
@@ -3176,14 +3181,13 @@
       ],
       "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-01-27T23:00:00+00:00",
       "dtend": "2026-01-28T02:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3227,7 +3231,7 @@
       "hash_key": "primer meetup retos de la posada de cdig_2026-01-28T00:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|Diseña usando AI|Online",
+      "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
       "description": "Get up-to-date information at: https://luma.com/5nq96pxw\n\nHosted by Javier Rivero",
       "url": "https://luma.com/5nq96pxw",
       "sources": [
@@ -3239,14 +3243,13 @@
       ],
       "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-01-28T23:00:00+00:00",
       "dtend": "2026-01-29T02:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3257,7 +3260,7 @@
       "hash_key": "disea usando ai_2026-01-28T22:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI – Vol 2|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
       "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero & 3 others",
       "url": "https://luma.com/lgd37763",
       "sources": [
@@ -3269,14 +3272,13 @@
       ],
       "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-02-13T00:00:00+00:00",
       "dtend": "2026-02-13T00:30:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3287,7 +3289,7 @@
       "hash_key": "how i use ai vol 2_2026-02-13T00:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI #3: Midjourney|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|Online",
       "description": "Get up-to-date information at: https://luma.com/d342anny\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/d342anny",
       "sources": [
@@ -3299,14 +3301,13 @@
       ],
       "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-02-19T23:30:00+00:00",
       "dtend": "2026-02-20T00:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3375,7 +3376,7 @@
       "hash_key": "venture bites understanding advisory sha_2026-02-26T18:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI #4: OpenClaw|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
       "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/5ivardas",
       "sources": [
@@ -3387,14 +3388,13 @@
       ],
       "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-03-06T00:00:00+00:00",
       "dtend": "2026-03-06T01:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3432,7 +3432,7 @@
       "hash_key": "small bets live angel investing 101 boot_2026-03-19T16:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI #5: Image Manipulation|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
       "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/wsj293yt",
       "sources": [
@@ -3444,14 +3444,13 @@
       ],
       "location": "https://luma.com/event/evt-3QmmiVDsImuKFFB",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-04-01T23:00:00+00:00",
       "dtend": "2026-04-02T00:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3491,7 +3490,7 @@
       "hash_key": "how bolt new went from failure to 40 mil_2026-04-16T18:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI #6: Scaling to 1M users|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
       "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/11fz6ef5",
       "sources": [
@@ -3503,14 +3502,13 @@
       ],
       "location": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-04-16T23:00:00+00:00",
       "dtend": "2026-04-17T00:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3577,7 +3575,7 @@
       "hash_key": "frameiq hacia una banca impulsada por in_2026-05-15T00:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI #7: WhatsApp Voicebots|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
       "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/vhwcyvjr",
       "sources": [
@@ -3589,14 +3587,13 @@
       ],
       "location": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-06-24T23:00:00+00:00",
       "dtend": "2026-06-25T00:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3607,7 +3604,7 @@
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-24T22:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI: Juan Martínez|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI: Juan Martínez|Online",
       "description": "Get up-to-date information at: https://luma.com/3iyi3bsr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/3iyi3bsr",
       "sources": [
@@ -3619,14 +3616,13 @@
       ],
       "location": "https://luma.com/event/evt-MVGGctuBiHzWfUZ",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-07-09T23:30:00+00:00",
       "dtend": "2026-07-10T00:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3635,40 +3631,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-MVGGctuBiHzWfUZ",
       "hash_key": "how i use ai juan martnez_2026-07-09T22:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|July 22 - Best of ICRA|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nThe Best of ICRA is a three-day virtual meetup series featuring researchers presenting their accepted papers from the 2026 International Conference on Robotics and Automation (ICRA).\n\n**Date, Time and Location**\n\nJul 22, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/best-of-icra-july-22-2026)**\n\n**Contrastive learning on 3d point clouds for geometric defect detection**\n\nReliable 3D defect detection in manufacturing is hard: the input is a point cloud — an unordered set that standard neural backbones cannot process directly; high-quality training data is scarce; and real scans are noisy and arrive in arbitrary orientations. We address these challenges in COSARAD, a contrastive learning framework that learns highly discriminative representations of object surface geometry under weak supervision.\n\nWhen a test object arrives, we extract its features and compare them against a library of defect-free reference shapes for precise, interpretable defect localization — achieving state-of-the-art accuracy on industrial benchmarks such as Real3D-AD. In my talk, I'll cover the design choices behind the system, why contrastive representation learning is the right fit for sparse 3D data, and open problems in scaling inspection to production.\n\n*About the Speaker*\n\n[Alexander Tarvo](https://www.linkedin.com/in/alexander-tarvo/) is a researcher at the University of Washington's MACS Lab, where he works on computer vision with applications in robotics. He holds a PhD in Software Engineering from Brown University and previously held research and engineering roles at Google, Microsoft, and IBM Research. His current research focuses on 3D vision and reinforcement learning for industrial robotics.\n\n**A Semantic and Occlusion-Aware Gaussian Mixture Probability Hypothesis Density Filter**\n\nReliable and resilient multi-target tracking is foundational for safe autonomous driving, yet most perception pipelines frequently struggle with sensor noise, heavy clutter, and severe environmental occlusions. To resolve these limitations, this talk presents a novel Semantic-Occlusion Aware (S-OA) Gaussian Mixture Probability Hypothesis Density (GM-PHD) filter.\n\nBy combining geometric occlusion reasoning with deep learning-derived environmental semantics, the proposed framework adaptively initializes target tracking in regions where new targets are likely to appear. Evaluations demonstrate that this context-aware tracking system minimizes track initiation latency and preserves high tracking precision even under intense clutter.\n\nUltimately, this work demonstrates how embedding spatial and semantic structure into filtering yields a significantly more robust and resilient perception stack for autonomous navigation.\n\n*About the Speaker*\n\n[Jovan Menezes](https://www.linkedin.com/in/jovanmenezes/) is a PhD student at Cornell University, advised by Prof. Mark Campbell. His research focuses on developing scalable and resilient perception algorithms for autonomous driving. By leveraging concepts from probabilistic estimation and deep learning-based computer vision, the goal is to enable autonomous vehicles to perceive and navigate in challenging environments.\n\n**An Annotation-to-Detection Framework for Autonomous and Robust Vine Trunk Localization in the Field by Mobile Agricultural Robots**\n\nAutonomous robots struggle to detect objects in unstructured fields, requiring in-domain tuning with laborious manual data collection. In this work, we introduce a comprehensive annotation-to-detection framework designed to train a robust multi-modal detector using limited and partially labeled training data.\n\nOur method combines cross-modal annotation transfer, early sensor fusion, and a multi-stage detection architecture to train and enhance multi-modal detection. Validated on vineyard trunk detection and paired with a custom LOAM algorithm, it localised over 70% of trees in one pass with under 0.37 m mean error.\n\nOur system demonstrated that robust detection is achievable even with minimal initial annotations and human intervention.\n\n*About the Speaker*\n\n[Dimitrios Chatziparaschis](https://www.linkedin.com/in/dimitrios-chatziparaschis-1280757b/) is a PhD candidate in EE, in University of California, Riverside. His main research lies at the intersection of computer vision, machine learning, and robotics. Main topics include 3D perception, multi-modal sensing, landmark detection, and localization in outdoor and dynamic settings.\n\n**vS-Graphs: Tightly Coupling Visual SLAM and 3D Scene Graphs Exploiting Hierarchical Scene Understanding**\n\nWe introduce vS-Graphs, a novel real-time VSLAM framework that integrates vision-based scene understanding with map reconstruction and comprehensible graph-based representation. The framework infers structural elements (i.e., rooms and floors) from detected building components (i.e., walls and ground surfaces) and incorporates them into optimizable 3D scene graphs.\n\nThis solution enhances the reconstructed map's semantic richness, comprehensibility, and localization accuracy.\n\n*About the Speaker*\n\n[Ali Tourani](https://www.linkedin.com/in/alitourani/) an R&D Specialist and a Senior Software Engineer with 8+ years of experience in practical computer vision and AI system design and deployment. Currently, he holds a Postdoctoral Research Associate position at the University of Luxembourg, where he develops vision-language models and generative AI solutions for real-world robotic applications.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/315399957/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/315399957/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-07-22T10:00:00-06:00",
-      "dtend": "2026-07-22T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "cloud",
-        "data",
-        "frontend",
-        "mobile",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "july 22 best of icra_2026-07-22T16:00:00+00:00"
     },
     {
       "title": "Kong Mexico City|Token Cost Management: Bringing Spend Under Control|Online",
@@ -3793,7 +3755,7 @@
       "hash_key": "agentic ai series multi agent orchestrat_2026-07-23T22:00:00+00:00"
     },
     {
-      "title": "AI Builders MX|How I Use AI: Andres Matte, Kapso.ai|Online",
+      "title": "v0 Prompt to Production Mexico City|How I Use AI: Andres Matte, Kapso.ai|Online",
       "description": "Get up-to-date information at: https://luma.com/6liqe957\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/6liqe957",
       "sources": [
@@ -3805,14 +3767,13 @@
       ],
       "location": "https://luma.com/event/evt-OfU4EZmg85DhiSI",
       "online": true,
-      "organizer": "AI Builders MX",
+      "organizer": "v0 Prompt to Production Mexico City",
       "dtstart": "2026-07-23T23:30:00+00:00",
       "dtend": "2026-07-24T00:00:00+00:00",
       "tags": [
-        "ai",
-        "frontend"
+        "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+      "source": "https://luma.com/fdg8riz2",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4370,6 +4331,38 @@
       "hash_key": "practical ai at work turn your brand gui_2026-08-26T18:00:00+00:00"
     },
     {
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|Aug 27 - AI, ML, and Computer Vision Meetup|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\nDate, Time, and Location\n\nAug 27, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-august-27-2026)**\n\n**Robust Concept Protection against Diffusion-Based Image Editing and Personalization**\n\nDiffusion-based image editing and personalization models have made it increasingly easy to manipulate and replicate visual concepts from only a few reference images. However, existing protection methods often overfit to a single attack model and fail to generalize across diverse editing pipelines.\n\nIn this presentation, I will discuss recent advances in concept protection for generative AI systems, focusing on targeted perturbation strategies and style-sensitive diffusion representations. I will also present experimental findings across multiple editing and fine-tuning scenarios, highlighting the challenges of robustness, transferability, and imperceptibility in practical protection settings. Finally, I will discuss open problems and future directions toward trustworthy generative content ownership.\n\n*About the Speaker*\n\n[Qiuyu Tang](https://www.linkedin.com/in/qiuyutang/) is a Ph.D. student in Computer Science and Engineering at Lehigh University. Her research focuses on trustworthy AI, media forensics, and robust protection methods against diffusion-based image editing and personalization systems. Her recent work explores concept protection, style safeguarding, semantic image manipulation, and generative AI robustness. She has contributed to multiple publications in computer vision and AI safety, including research on diffusion model protection and manipulation detection, and has also served as a conference workshop organizer.\n\n**From Pixels to the Planet: Building Scalable and Grounded AI for Science**\n\nAI has demonstrated a lot of new possibilities, from drafting emails to image editing and generation. The efficacy of AI models is largely built upon a standard machine learning pipeline, where data is fed into models to get representations and predictions, and the performance is evaluated with controlled benchmarks and metrics. However, the mismatch arises when we try to transit this pipeline to the interaction with the real world and use AI for scientific discovery. Beyond close-set decisions, scientists want to discover new categories and propose new hypotheses. In this talk, I will share how I address the challenges of AI for science from the perspectives of data-centric methods and interpretability approaches.\n\n*About the Speaker*\n\n[Jianyang Gu](https://www.linkedin.com/in/jianyang-gu-9235151b9/) is a postdoctoral scholar at The Ohio State University. His research focuses on using data-centric methods to build scalable and interpretable foundation models for science.\n\n**Beyond the Barn: Non-Invasive Acidosis Detection in Dairy Cattle Through Multimodal Gas Emission Intelligence**\n\nRumen acidosis silently costs the global dairy industry billions annually and compromises animal welfare, yet current detection methods remain invasive, delayed, and impractical at scale. Our lab has pioneered a fundamentally new approach: capturing and analyzing exhaled CO₂ and CH₄ gas emission patterns through synchronized RGB-thermal imaging, turning every breath into a diagnostic signal. We developed DualGasNet, a dual-stream deep learning architecture with cross-attention fusion that detects acidosis non-invasively and in real time, achieving state-of-the-art accuracy on a first-of-its-kind livestock gas emission dataset we constructed from scratch.\n\nTo push toward explainable, farm-ready AI, we integrate vision-language models — CLIP and LLaVA-1.5 — enabling zero-shot diagnostic reasoning that bridges the gap between deep learning predictions and actionable veterinary insight. This talk will walk through the full pipeline from custom dataset creation to multimodal fusion to VLM-powered interpretation, offering the audience a compelling case study in how computer vision can solve high-impact, real-world problems outside traditional benchmarks.\n\n*About the Speaker*\n\n[Taminul Islam](https://www.linkedin.com/in/taminul-islam/) is a Doctoral Research Fellow and PhD candidate at Southern Illinois University Carbondale with 40+ publications, 740+ citations, and an h-index of 16 — with publications in CVPR 2026, WACV 2026 (Oral), ICCV 2025, and Nature Scientific Reports, including a Highly Cited Paper for 2024–25.\n\n**Building Real-World Computer Vision Systems with Voxel51**\n\nThis talk will explore practical workflows for building, evaluating, and improving modern computer vision systems. We’ll dive into real-world approaches to dataset curation, model analysis, multimodal AI workflows, and production-ready vision pipelines using open-source technologies.\n\nThe session is designed for engineers, researchers, and AI practitioners looking to better understand how teams are developing and scaling computer vision applications today. Expect practical demos, technical insights, and discussions around the evolving AI tooling ecosystem.\n\n*About the Speaker*\n\n[Daniel Gural](https://www.linkedin.com/in/daniel-gural/) is an expert in Physical AI and has been working in the field for over 8 years. Working across healthcare he has experience in both operating use case as well as using Visual AI as an aid in psychology applications as well.",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314999435/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314999435/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+      "dtstart": "2026-08-27T10:00:00-06:00",
+      "dtend": "2026-08-27T12:00:00-06:00",
+      "tags": [
+        "ai",
+        "data",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "aug 27 ai ml and computer vision meetup_2026-08-27T16:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Technology, AI and Addictive Behaviors: Can They Be Treated?|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-gl-9-23\n\nHosted by The AI Collective & 4 others",
       "url": "https://luma.com/aic-gl-9-23",
@@ -4703,7 +4696,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
