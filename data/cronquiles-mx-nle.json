@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-07-27T20:14:13.415885+00:00",
-  "total_events": 2,
+  "generated_at": "2026-07-28T03:48:39.597331+00:00",
+  "total_events": 3,
   "city": "Nuevo León",
   "communities": [
+    {
+      "name": "FinTech México",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/02t893pf",
+          "label": "Luma"
+        }
+      ]
+    },
     {
       "name": "Founder Friends Mexico",
       "description": "Comunidad de founders en México por Hustle Fund. Conexión, historias y networking (Ciudad de México).",
@@ -78,6 +89,36 @@
       "city_code": "monterrey",
       "address": "Monterrey, Nuevo León, 64490, México",
       "hash_key": "monterrey claude code for everyone_2026-03-20T22:00:00+00:00"
+    },
+    {
+      "title": "FinTech México|Del Hype al impacto: Cómo se hace banca y fintech con AI|México|Nuevo León",
+      "description": "Get up-to-date information at: https://luma.com/4t51uxqb\n\nAddress:\nCavas Urbanas\nSan Pedro Garza García, Mexico\n\nHosted by Truora & FinTech México",
+      "url": "https://luma.com/4t51uxqb",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/4t51uxqb",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Cavas Urbanas, Av Lázaro Cárdenas 2264, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",
+      "online": false,
+      "organizer": "FinTech México",
+      "dtstart": "2026-08-13T23:00:00+00:00",
+      "dtend": "2026-08-14T02:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/02t893pf",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Nuevo León",
+      "state_code": "MX-NLE",
+      "city": "",
+      "city_code": "",
+      "address": "Avenida Lázaro Cárdenas, Zona Valle Oriente Norte, San Pedro Garza García, Nuevo León, 66266, México",
+      "hash_key": "del hype al impacto cmo se hace banca y _2026-08-13T22:00:00+00:00"
     }
   ]
 }
