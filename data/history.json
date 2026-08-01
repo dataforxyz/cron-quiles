@@ -87,7 +87,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Tabacalera, Ciudad de México, Cuauhtémoc, Ciudad de México, 06030, México",
+    "address": "Avenida Paseo de la Reforma, Tabacalera, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06030, México",
     "hash_key": "mexico city claude en el senado de la re_2026-10-20T22:00:00+00:00"
   },
   {
@@ -829,6 +829,33 @@
     "hash_key": "the data control ai gateway how kong and_2026-08-13T14:00:00+00:00"
   },
   {
+    "title": "Claude Community|Atlanta  -  Claude Impact Lab|Online",
+    "description": "Get up-to-date information at: https://luma.com/claude-v1jl\n\nHosted by Tyler Sztuka",
+    "url": "https://luma.com/claude-v1jl",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/claude-v1jl",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-SArRvbXM7jpdxB2",
+    "online": true,
+    "organizer": "Claude Community",
+    "dtstart": "2026-08-12T21:00:00+00:00",
+    "dtend": "2026-08-13T01:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-SArRvbXM7jpdxB2",
+    "hash_key": "atlanta claude impact lab_2026-08-12T20:00:00+00:00"
+  },
+  {
     "title": "Rust-AICollective|Practical AI at Work: Build an Automated Inbox Hero|Online",
     "description": "Get up-to-date information at: https://luma.com/81m5s002\n\nHosted by Bill Raymond & The AI Collective",
     "url": "https://luma.com/81m5s002",
@@ -1110,33 +1137,6 @@
     "hash_key": "the copilot effect power platform copilo_2026-08-05T08:00:00+00:00"
   },
   {
-    "title": "Claude Community|Atlanta  -  Claude Impact Lab|Online",
-    "description": "Get up-to-date information at: https://luma.com/claude-v1jl\n\nHosted by Tyler Sztuka",
-    "url": "https://luma.com/claude-v1jl",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claude-v1jl",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-SArRvbXM7jpdxB2",
-    "online": true,
-    "organizer": "Claude Community",
-    "dtstart": "2026-08-04T21:00:00+00:00",
-    "dtend": "2026-08-05T01:00:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-SArRvbXM7jpdxB2",
-    "hash_key": "atlanta claude impact lab_2026-08-04T20:00:00+00:00"
-  },
-  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|Aug 4 - Visual AI in Manufacturing|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics at the intersection of manufacturing, AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nAug 04, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/visual-ai-in-manufacturing-meetup-august-4-2026)**\n\n**Enabling Multimodal Agents on the Edge**\n\nThe next generation of AI agents is moving beyond cloud-based text-only models and will interact with the physical multimodal world in real-time. For example in the vision domain, AI agents rely on Vision-Language Models (VLMs) in their backbone. However, deploying massive VLMs with billions of parameters on the edge devices remains a significant engineering hurdle.\n\nDrawing on our recent ICML and CVPR research papers, this session explores advancements in agentic model optimizations, specifically how distillation and pruning transform 'heavyweight' models into lean, edge-ready engines. Lastly, I present our UI agent running on the actual phone that is being developed by our lab's team.\n\n*About the Speaker*\n\n[Denis Gudovskiy](https://www.linkedin.com/in/gudovskiy/) is a Distinguished AI Engineer at Panasonic North America where he conducts R&D activities of various core AI methods, including multimodal and hardware-efficient agents, supervised and RL training pipelines, and robustness to out-of-distribution scenarios.\n\n**When the Camera Can’t Be Trusted: Health-Aware Visual AI for Reliable Near-Miss Detection**\n\nNear-miss detection systems are often evaluated as though every camera frame is equally trustworthy, even though blur, poor exposure, occlusion, contamination, and changing lighting can silently degrade the visual evidence used to make safety decisions. This talk presents an online camera-health framework that estimates visual reliability before downstream perception performance significantly deteriorates.\n\nI will discuss how camera-health signals can support condition-aware evaluation, prioritize human review, reduce unreliable alerts, and trigger appropriate fallback behavior. Drawing from research in safety-critical visual perception, the talk will demonstrate how these principles can be adapted to industrial video systems operating across different cameras, shifts, layouts, and environmental conditions.\n\nThe presentation will also connect camera-health monitoring with rare-event discovery and failure-driven dataset improvement for more trustworthy near-miss detection.\n\n*About the Speaker*\n\n[Shiva Aher](https://www.linkedin.com/in/shivaaher/) is a computer vision researcher with a graduate background in computer science from the Georgia Institute of Technology, specializing in artificial intelligence.\n\n**Agentic VLM applications in manufacturing**\n\nVision Language Models (VLMs) introduce net-new functionality to vision workloads in manufacturing that traditional computer vision models simply do not offer (e.g., open-vocabulary detection, in-context-learning). Even so, fine-tuned models like YOLO offer a level of precision and recall that today's VLMs struggle to match out-of-the-box.\n\nThrough agentic harnesses that coordinate calls to VLMs, we can start to deliver similar reliability on manufacturing-relevant tasks (e.g., many-class, many-instance detection), while also supporting the net new functionalities (e.g., multimodal search) that make VLMs distinct. In this talk, we walk through the design of these harnesses, how you serve them efficiently, and how they deliver value in manufacturing.\n\n*About the Speaker*\n\n[Subraiz Ahmed](https://www.linkedin.com/in/subraiz/) is a member of the Technical Staff at Perceptron AI. He builds the infrastructure to serve frontier vision models. He previously founded a series of startups.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/315682783/",
@@ -1189,7 +1189,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1966,7 +1966,7 @@
     "dtstart": "2026-04-24T15:00:00+00:00",
     "dtend": "2026-04-24T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2347,9 +2347,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Colima",
-    "city_code": "colima",
-    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
+    "city": "Coquimatlán",
+    "city_code": "coquimatlan",
+    "address": "Centro, Coquimatlán, Colima, 28400, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -2857,14 +2857,14 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Avenida Ciudad Universitaria, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -4459,7 +4459,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5394,7 +5394,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7048,7 +7048,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7300,7 +7300,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7616,7 +7616,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "shefi x mobil3 she leads finance_2025-08-21T16:00:00+00:00"
   },
   {
@@ -10057,7 +10057,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "the future of automotive aftermarket ind_2024-10-25T22:00:00+00:00"
   },
   {
@@ -10834,7 +10834,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "crossing the chasm unlocking proptech op_2024-10-24T22:00:00+00:00"
   },
   {
@@ -15084,7 +15084,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "pre registro mobil3 hackathon_no_date"
   },
   {
@@ -15104,7 +15104,7 @@
     "dtstart": null,
     "dtend": null,
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
