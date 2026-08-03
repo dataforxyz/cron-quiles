@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T15:28:46.557616+00:00",
-  "total_events": 23,
+  "generated_at": "2026-08-03T20:14:58.281800+00:00",
+  "total_events": 25,
   "city": "Jalisco",
   "communities": [
     {
@@ -22,6 +22,11 @@
     {
       "name": "Vive Codding Cafe",
       "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA.",
+      "links": []
+    },
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
       "links": []
     },
     {
@@ -675,6 +680,33 @@
       "hash_key": "vibe coding caf_2026-07-10T22:00:00+00:00"
     },
     {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/8fhecegc\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy",
+      "url": "https://luma.com/8fhecegc",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8fhecegc",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-08-14T22:00:00+00:00",
+      "dtend": "2026-08-15T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-08-14T22:00:00+00:00"
+    },
+    {
       "title": "Pythonistas GDL|Viernes 28 de Agosto en el HackerGarage|México|Jalisco",
       "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Muy pronto anunciaremos las platicas </p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
       "url": "https://reuniones.pythonistas-gdl.org/event/8/viernes-28-de-agosto-en-el-hackergarage",
@@ -702,6 +734,33 @@
       "city_code": "",
       "address": "Jalisco, México",
       "hash_key": "viernes 28 de agosto en el hackergarage_2026-08-29T00:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Guadalajara  -  Claude Code Workshop|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/claude-c78n\n\nAddress:\nWizeline\nZapopan, Mexico\n\nHosted by Miguel Oceguera & Eduardo Salazar Carrilo",
+      "url": "https://luma.com/claude-c78n",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-c78n",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Wizeline, Amado Nervo 2200, Jardines del Sol, 45050 Zapopan, Jal., Mexico",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-08-29T15:00:00+00:00",
+      "dtend": "2026-08-29T23:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Zapopan",
+      "city_code": "zapopan",
+      "address": "2200, Calle Amado Nervo, Jardines del Sol, Zapopan, Región Centro, Jalisco, 45047, México",
+      "hash_key": "guadalajara claude code workshop_2026-08-29T14:00:00+00:00"
     }
   ]
 }
