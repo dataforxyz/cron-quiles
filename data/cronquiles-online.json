@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:53:17.924958+00:00",
+  "generated_at": "2026-08-05T20:14:03.801504+00:00",
   "total_events": 161,
   "city": "Online",
   "communities": [
@@ -3925,33 +3925,6 @@
       "hash_key": "practical ai at work build an automated _2026-08-12T18:00:00+00:00"
     },
     {
-      "title": "Claude Community|Atlanta  -  Claude Impact Lab|Online",
-      "description": "Get up-to-date information at: https://luma.com/claude-v1jl\n\nHosted by Tyler Sztuka",
-      "url": "https://luma.com/claude-v1jl",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/claude-v1jl",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-SArRvbXM7jpdxB2",
-      "online": true,
-      "organizer": "Claude Community",
-      "dtstart": "2026-08-12T21:00:00+00:00",
-      "dtend": "2026-08-13T01:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-SArRvbXM7jpdxB2",
-      "hash_key": "atlanta claude impact lab_2026-08-12T20:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|PDX AI Expo Extended Edition|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-kul-20260813\n\nHosted by The AI Collective & Jean Ng",
       "url": "https://luma.com/aic-kul-20260813",
@@ -4316,6 +4289,36 @@
       "city_code": "",
       "address": "",
       "hash_key": "aug 27 ai ml and computer vision meetup_2026-08-27T16:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|The Future of Work: The New Builder Role (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-8-27\n\nHosted by The AI Collective, Adelina Martiniuc & Bill Raymond",
+      "url": "https://luma.com/aic-8-27",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-8-27",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-v3ZS70xY94WISuL",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-08-27T18:00:00+00:00",
+      "dtend": "2026-08-27T19:00:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-v3ZS70xY94WISuL",
+      "hash_key": "the future of work the new builder role _2026-08-27T18:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Should we stop improving AI? (w/ The AI Collective)|Online",
