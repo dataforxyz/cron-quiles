@@ -4,7 +4,7 @@
     "name": "México",
     "slug": "mexico",
     "event_count": 533,
-    "future_event_count": 44,
+    "future_event_count": 45,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -47,7 +47,8 @@
       "2026-07",
       "2026-08",
       "2026-09",
-      "2026-10"
+      "2026-10",
+      "2026-11"
     ],
     "emoji": "🇲🇽"
   },
@@ -63,10 +64,21 @@
     "emoji": "📅"
   },
   {
+    "code": "MX-CAM",
+    "name": "Campeche",
+    "slug": "mx-cam",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 316,
+    "event_count": 315,
     "future_event_count": 11,
     "active_months": [
       "2024-09",
