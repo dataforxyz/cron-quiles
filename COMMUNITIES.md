@@ -16,7 +16,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Ajolotes en la Nube**](https://www.meetup.com/ajolotesenlanube) | Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube. | Online |
 | 🔴 [**Apache Spark Mexico City**](https://www.meetup.com/apache-spark-mexicocity) | Grupo dedicado a Apache Spark y el ecosistema de procesamiento de Big Data. | Online |
 | 🔴 [**AWS Ajolotes Ciudad de México**](https://www.meetup.com/aws-cdmx) | User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon. | Online |
-| 🔴 [**AWS Cloud Club at Universidad Nacional Autonoma de México**](https://www.meetup.com/aws-cloud-club-at-unam) | El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube. | Online |
+| 🟢 [**AWS Cloud Club at Universidad Nacional Autonoma de México**](https://www.meetup.com/aws-cloud-club-at-unam) | El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube. | Online |
 | 🔴 [**AWS User Group Jalisco**](https://www.meetup.com/amazon-web-services-jalisco) | Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**CHIDAS TECH**](https://luma.com/nc2fac44) | Comunidad tech. Eventos sobre redes, infraestructura y desarrollo. | Online |
@@ -33,7 +33,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Flutter Mexico City**](https://www.meetup.com/flutter-mexico-city) | Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres. | Online |
 | 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México, Nuevo León |
 | 🔴 [**Fvckup Nights**](https://luma.com/user/usr-OqGmWs21jbaz5fK) | Gestión del Fracaso para la productividad e innovación. | Online |
-| 🔴 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
+| 🟢 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
 | 🔴 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
 | 🔴 [**GitTogether CDMX**](https://www.meetup.com/gittogether-cdmx) | GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source. | Online |
 | 🔴 [**GitTogether LATAM**](https://www.meetup.com/gittogether-latam) | Comunidad latinoamericana de GitHub. Open Source y colaboración. | Online |
