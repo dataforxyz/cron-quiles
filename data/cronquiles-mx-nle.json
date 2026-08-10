@@ -1,15 +1,26 @@
 {
-  "generated_at": "2026-08-10T02:50:07.262298+00:00",
-  "total_events": 2,
+  "generated_at": "2026-08-10T08:22:15.049541+00:00",
+  "total_events": 3,
   "city": "Nuevo León",
   "communities": [
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
+          "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "Founder Friends Mexico",
+      "description": "Comunidad de founders en México por Hustle Fund. Conexión, historias y networking (Ciudad de México).",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/FFMexico2026",
           "label": "Luma"
         }
       ]
@@ -21,6 +32,35 @@
     }
   ],
   "events": [
+    {
+      "title": "Founder Friends Mexico|Monterrey Tech Week Early Stage Pitch Competition|México|Nuevo León",
+      "description": "Get up-to-date information at: https://luma.com/hbjdvhll\n\nAddress:\nCheck event page for more details.\n\nHosted by Monterrey Tech Week, Instituto de Emprendimiento Eugenio Garza Lagüera & Hustle Fund",
+      "url": "https://luma.com/hbjdvhll",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/hbjdvhll",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Monterrey, Nuevo León, Mexico",
+      "online": false,
+      "organizer": "Founder Friends Mexico",
+      "dtstart": "2025-11-06T22:00:00+00:00",
+      "dtend": "2025-11-07T00:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/FFMexico2026",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Nuevo León",
+      "state_code": "MX-NLE",
+      "city": "Monterrey",
+      "city_code": "monterrey",
+      "address": "Monterrey, Nuevo León, 64490, México",
+      "hash_key": "monterrey tech week early stage pitch co_2025-11-06T22:00:00+00:00"
+    },
     {
       "title": "Claude Community|Monterrey  -  Claude Code for Everyone|México|Nuevo León",
       "description": "Get up-to-date information at: https://luma.com/claudemonterrey\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira de la Vega, Sebastián Marines & Erik Porroa",
@@ -70,7 +110,7 @@
         "ai",
         "frontend"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Nuevo León",

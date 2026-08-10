@@ -31,7 +31,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Eventloop**](https://www.meetup.com/eventloop) | La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad. | Online |
 | 🟢 [**FinTech México**](https://luma.com/eofagheq) | Comunidad FinTech México. Eventos sobre fintech y sistemas transaccionales. | Ciudad de México, Nuevo León |
 | 🔴 [**Flutter Mexico City**](https://www.meetup.com/flutter-mexico-city) | Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres. | Online |
-| 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Online |
+| 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México, Nuevo León |
 | 🔴 [**Fvckup Nights**](https://luma.com/user/usr-OqGmWs21jbaz5fK) | Gestión del Fracaso para la productividad e innovación. | Online |
 | 🔴 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
 | 🔴 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |

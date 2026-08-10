@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T02:50:07.245512+00:00",
-  "total_events": 1,
+  "generated_at": "2026-08-10T08:22:15.031996+00:00",
+  "total_events": 2,
   "city": "México",
   "communities": [
     {
@@ -36,6 +36,35 @@
       "city_code": "",
       "address": "Estado de México, México",
       "hash_key": "despecho night_2024-10-26T02:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Disconnect to Reconnect: A hike by Aire Libre|México|Estado de México",
+      "description": "Get up-to-date information at: https://luma.com/hikeAL_MXTW\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Gus Alvarez Moreno",
+      "url": "https://luma.com/hikeAL_MXTW",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/hikeAL_MXTW",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "State of Mexico, State of Mexico, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-26T13:00:00+00:00",
+      "dtend": "2024-10-26T18:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "Ecatepec de Morelos",
+      "city_code": "ecatepecdemorelos",
+      "address": "Avenida San Agustín, Colonia Faja de Oro, Santa Clara Coatitla, Ecatepec de Morelos, Atenco, Estado de México, 55130, México",
+      "hash_key": "disconnect to reconnect a hike by aire l_2024-10-26T12:00:00+00:00"
     }
   ]
 }
