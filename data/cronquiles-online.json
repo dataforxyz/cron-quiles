@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T07:46:34.984890+00:00",
-  "total_events": 162,
+  "generated_at": "2026-08-11T13:49:45.285579+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -108,11 +108,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -162,6 +162,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Tijuana",
+      "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-tijuana/",
           "label": "Sitio web"
         }
       ]
@@ -2849,7 +2860,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3014,7 +3025,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3555,7 +3566,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3582,7 +3593,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3698,7 +3709,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3956,6 +3967,38 @@
       "city_code": "",
       "address": "",
       "hash_key": "sesin 1 fundamentos de ia y machine lear_2026-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|Cómo construir una plataforma de e-commerce resiliente y no morir en el intento: Patrones de resiliencia para arquitecturas event-driven modernas.|Online",
+      "description": "Únete a nosotros el 14 de agosto a las 6 pm para una charla inspiradora sobre cómo construir una plataforma de e-commerc...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-como-construir-una-plataforma-de-e-commerce-resiliente-y-no-morir-en-el-intento-patrones-de-resiliencia-para-arquitecturas-event-driven-modernas/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-como-construir-una-plataforma-de-e-commerce-resiliente-y-no-morir-en-el-intento-patrones-de-resiliencia-para-arquitecturas-event-driven-modernas/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-08-14T18:00:01-07:00",
+      "dtend": "2026-08-14T19:20:01-07:00",
+      "tags": [
+        "Conference",
+        "Tech Talk / Meetup",
+        "Web",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "cmo construir una plataforma de e commer_2026-08-15T00:00:00+00:00"
     },
     {
       "title": "AWS Cloud Club at Universidad Nacional Autonoma de México|#CertOps: Clase #1 - Intro. a la Nube y AWS|Online",
@@ -4307,7 +4350,7 @@
       "dtstart": "2026-08-28T22:00:00+00:00",
       "dtend": "2026-08-28T23:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4814,7 +4857,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
