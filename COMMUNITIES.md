@@ -34,7 +34,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México, Nuevo León |
 | 🔴 [**Fvckup Nights**](https://luma.com/user/usr-OqGmWs21jbaz5fK) | Gestión del Fracaso para la productividad e innovación. | Online |
 | 🟢 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
-| 🟢 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
+| 🔴 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
 | 🔴 [**GitTogether CDMX**](https://www.meetup.com/gittogether-cdmx) | GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source. | Online |
 | 🔴 [**GitTogether LATAM**](https://www.meetup.com/gittogether-latam) | Comunidad latinoamericana de GitHub. Open Source y colaboración. | Online |
 | 🔴 [**Global AI CDMX**](https://www.meetup.com/globalaicdmx) | Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure. | Online |
@@ -51,7 +51,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Meetup México**](https://www.meetup.com/meetup-mexico) | Comunidad general de usuarios y organizadores de Meetup en México. | Online |
 | 🔴 [**MexAI - Comunidad de IA**](https://eb-to-ical.daylightpirates.org/eventbrite-organizer-ical) | Comunidad de IA en Guadalajara. Eventos sobre Inteligencia Artificial. | Online |
 | 🔴 [**Mexico City Apache Kafka**](https://www.meetup.com/mexico-kafka) | Mexico City Apache Kafka Meetup. | Online |
-| 🟢 [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, Estado de México, México, Online |
+| 🟢 [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, Estado de México, Online |
 | 🔴 [**Microsoft Fabric CDMX**](https://www.meetup.com/mexico-city-microsoft-fabric-group) | Grupo de usuarios de Microsoft Fabric y análisis de datos empresarial. | Online |
 | 🔴 [**México City Docker friends**](https://www.meetup.com/mexico-city-docker-friends) | Learn, Collaborate & Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker. | Online |
 | 🔴 [**NoTrustSec**](https://www.meetup.com/notrustsec) | Ciberseguridad, hacking ético y seguridad ofensiva/defensiva. | Online |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T08:11:42.037353+00:00",
-  "total_events": 320,
+  "generated_at": "2026-08-14T13:50:09.071015+00:00",
+  "total_events": 321,
   "city": "Ciudad de México",
   "communities": [
     {
@@ -107,17 +107,6 @@
       ]
     },
     {
-      "name": "v0 Prompt to Production Mexico City",
-      "description": "Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. Hosted by aibuilders.mx (Ciudad de México).",
-      "links": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/fdg8riz2",
-          "label": "Luma"
-        }
-      ]
-    },
-    {
       "name": "Vive Codding Cafe",
       "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA.",
       "links": []
@@ -130,6 +119,11 @@
     {
       "name": "Java Mexico",
       "description": "Comunidad de Java en México. Eventos, charlas técnicas y networking para desarrolladores Java.",
+      "links": []
+    },
+    {
+      "name": "AI Builders MX",
+      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
       "links": []
     },
     {
@@ -639,6 +633,33 @@
       "city_code": "cdmx",
       "address": "Ciudad de México, México",
       "hash_key": "aws startups sclo cosmic fitness tech se_2024-10-22T12:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Finance for Hypergrowth - Measure What Matters|México|Ciudad de México",
+      "description": "Get up-to-date information at: https://luma.com/9zgfnaxv\n\nAddress:\nBUNA - La Tostadora\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Juan Pablo Donoso",
+      "url": "https://luma.com/9zgfnaxv",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/9zgfnaxv",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "BUNA - La Tostadora, C. Dr. Lucio 181, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-22T14:30:00+00:00",
+      "dtend": "2024-10-22T15:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Calle Doctor Rafaél Lucio, Doctores, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06720, México",
+      "hash_key": "finance for hypergrowth measure what mat_2024-10-22T14:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|MXTW: Transformación Digital Para Fundadoras No Técnicos|México|Ciudad de México",
@@ -4607,7 +4628,7 @@
       "hash_key": "coworking frutal 12_2025-09-10T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
+      "title": "AI Builders MX|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/r8rwqnn9\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero",
       "url": "https://luma.com/r8rwqnn9",
       "sources": [
@@ -4619,13 +4640,14 @@
       ],
       "location": "Ciudad de México, Mexico",
       "online": false,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2025-09-11T23:00:00+00:00",
       "dtend": "2025-09-12T02:30:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6519,7 +6541,7 @@
       "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|v0 Prompt to Production – Mexico City|México|Ciudad de México",
+      "title": "AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/fdg8riz2\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & Ben Kim",
       "url": "https://luma.com/fdg8riz2",
       "sources": [
@@ -6531,13 +6553,14 @@
       ],
       "location": "Hipódromo, Ciudad de México, México",
       "online": false,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-01-31T15:00:00+00:00",
       "dtend": "2026-01-31T18:30:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8023,7 +8046,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+      "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
       "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
     },
     {
@@ -8053,7 +8076,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Calle Londres, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "address": "Cerrada Londres, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
       "hash_key": "meetup marzo 2026 payjoy pythoncdmx_2026-03-11T00:00:00+00:00"
     },
     {
@@ -8454,7 +8477,7 @@
       "hash_key": "compufest 1 charlas talleres_2026-04-24T14:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|Zero to Agent: Mexico City|México|Ciudad de México",
+      "title": "AI Builders MX|Zero to Agent: Mexico City|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/wp947zvj\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & 3 others",
       "url": "https://luma.com/wp947zvj",
       "sources": [
@@ -8466,13 +8489,14 @@
       ],
       "location": "Polanco, Ciudad de México, México",
       "online": false,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-04-25T15:00:00+00:00",
       "dtend": "2026-04-25T19:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
