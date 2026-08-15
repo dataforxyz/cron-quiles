@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T02:09:09.575452+00:00",
-  "total_events": 158,
+  "generated_at": "2026-08-15T07:18:21.738729+00:00",
+  "total_events": 156,
   "city": "Online",
   "communities": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -139,34 +139,12 @@
       ]
     },
     {
-      "name": "GDG CDMX",
-      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
       "name": "GDG Heroica Veracruz",
       "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Tijuana",
-      "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-tijuana/",
           "label": "Sitio web"
         }
       ]
@@ -3560,7 +3538,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3587,7 +3565,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3712,76 +3690,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-zueI8ehzOHTiydR",
       "hash_key": "de imgen a texto introduccin a paddleocr_2026-08-01T18:00:00+00:00"
-    },
-    {
-      "title": "GDG Tijuana|Cómo construir una plataforma de e-commerce resiliente y no morir en el intento: Patrones de resiliencia para arquitecturas event-driven modernas.|Online",
-      "description": "Únete a nosotros el 14 de agosto a las 6 pm para una charla inspiradora sobre cómo construir una plataforma de e-commerc...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-como-construir-una-plataforma-de-e-commerce-resiliente-y-no-morir-en-el-intento-patrones-de-resiliencia-para-arquitecturas-event-driven-modernas/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-como-construir-una-plataforma-de-e-commerce-resiliente-y-no-morir-en-el-intento-patrones-de-resiliencia-para-arquitecturas-event-driven-modernas/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG Tijuana",
-      "dtstart": "2026-08-14T18:00:01-07:00",
-      "dtend": "2026-08-14T19:20:01-07:00",
-      "tags": [
-        "Conference",
-        "Tech Talk / Meetup",
-        "Web",
-        "frontend"
-      ],
-      "source": "https://gdg.community.dev/gdg-tijuana/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "cmo construir una plataforma de e commer_2026-08-15T00:00:00+00:00"
-    },
-    {
-      "title": "GDG CDMX|Construye tu portafolio personal en línea con Inteligencia Artificial|Online",
-      "description": "En este taller en vivo, construirás portfolio personal online. El agente de AI Studio escribirá el código de frontend por nosotras y nosotros. Una vez que la app esté lista, la implementaremos y desplegaremos en producción directamente en Cloud Run con un solo click.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-construye-tu-portafolio-personal-en-linea-con-inteligencia-artificial/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-construye-tu-portafolio-personal-en-linea-con-inteligencia-artificial/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-08-14T19:30:00-06:00",
-      "dtend": "2026-08-14T20:30:00-06:00",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Conference",
-        "Google Cloud",
-        "Tech Talk / Meetup",
-        "Workshop / hands-on session",
-        "ai",
-        "cloud",
-        "frontend"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "construye tu portafolio personal en lnea_2026-08-15T00:00:00+00:00"
     },
     {
       "title": "AWS Cloud Club at Universidad Nacional Autonoma de México|#CertOps: Clase #1 - Intro. a la Nube y AWS|Online",
@@ -4162,7 +4070,7 @@
       "dtstart": "2026-08-28T22:00:00+00:00",
       "dtend": "2026-08-28T23:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
