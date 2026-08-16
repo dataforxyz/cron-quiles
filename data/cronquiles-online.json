@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T13:20:55.008739+00:00",
-  "total_events": 157,
+  "generated_at": "2026-08-16T19:19:59.834461+00:00",
+  "total_events": 160,
   "city": "Online",
   "communities": [
     {
@@ -26,6 +26,17 @@
       ]
     },
     {
+      "name": "AWS Cloud Club at Universidad Nacional Autonoma de México",
+      "description": "El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/aws-cloud-club-at-unam",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
       "name": "Claude Users Group",
       "description": "",
       "links": []
@@ -43,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -86,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -1397,6 +1408,62 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/nzb89n7y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nzb89n7y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/8dtqdfok",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8dtqdfok",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -2821,7 +2888,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2986,7 +3053,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3527,7 +3594,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3554,7 +3621,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3670,7 +3737,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3807,6 +3874,37 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-lRn6KE4IYqatHB9",
       "hash_key": "how to build a one person company with a_2026-08-21T12:00:00+00:00"
+    },
+    {
+      "title": "AWS Cloud Club at Universidad Nacional Autonoma de México|#CertOps: Clase #2 - Servicios de Cómputo en AWS|Online",
+      "description": "AWS SBG at Universidad Nacional Autónoma de México\n¡**#CertOps continúa**!\n\nEn esta segunda clase conoceremos sobre los distintos **tipos de cómputo** que existen en AWS, como **máquinas virtuales, contenedores y cómputo *serverless***\n\n¡Conoce al profesor de la segunda sesión!\n\n* **Edwin Moedano** es Cloud Architect @ Caylent, **AWS Community Builder** en Serverless y Líder del **AWS User Group CDMX.**\n\n📌 Clase en Línea\n📅 22/Agosto\n🕛 12:00 PM (Hora CDMX)\n\n¡Registrate ahora!\n**¡El futuro de la nube está en mx-central-unam-1!**",
+      "url": "https://www.meetup.com/aws-sbg-at-universidad-nacional-autonoma-de-mexico-cocoyan/events/316141954/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/aws-sbg-at-universidad-nacional-autonoma-de-mexico-cocoyan/events/316141954/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "AWS Cloud Club at Universidad Nacional Autonoma de México",
+      "dtstart": "2026-08-22T12:00:00-06:00",
+      "dtend": "2026-08-22T14:00:00-06:00",
+      "tags": [
+        "cloud",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/aws-cloud-club-at-unam/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "certops clase 2 servicios de cmputo en a_2026-08-22T18:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI HR Forum #02: AI & Compensation (w/ AI Collective KC)|Online",
@@ -4094,7 +4192,7 @@
       "dtstart": "2026-08-28T22:00:00+00:00",
       "dtend": "2026-08-28T23:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4628,7 +4726,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
