@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T13:25:39.621336+00:00",
-  "total_events": 157,
+  "generated_at": "2026-08-17T19:18:18.867872+00:00",
+  "total_events": 158,
   "city": "Online",
   "communities": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -114,6 +114,17 @@
           "platform": "luma",
           "url": "https://luma.com/fdg8riz2",
           "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "AWS User Group Mixtli",
+      "description": "Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli",
+          "label": "Meetup"
         }
       ]
     },
@@ -2821,7 +2832,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2986,7 +2997,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3527,7 +3538,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3554,7 +3565,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3670,7 +3681,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3740,6 +3751,39 @@
       "city_code": "",
       "address": "",
       "hash_key": "aug 20 cold pool to hot queue annotation_2026-08-20T16:00:00+00:00"
+    },
+    {
+      "title": "AWS User Group Mixtli|Sesión 2: Fundamentos de IA generativa|Online",
+      "description": "AWS User Group Mixtli\nEsta es nuestra segunda **sesión de preparación para la certificación** **AWS Certified AI Practitioner**. En esta ocasión nos enfocaremos en conocer los fundamentos de la IA generativa, entender cómo funciona y explorar sus principales aplicaciones y conceptos clave.\nTambién revisaremos de manera general el ecosistema de servicios de IA generativa de AWS, sus posibilidades, limitaciones y algunos aspectos importantes a considerar al utilizarlos.\n\n📖 **Material oficial de estudio:**\n\n* [AWS Artificial Intelligence Practitioner Learning Plan](https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelligence-practitioner-learning-plan-espaol-latam/WGQ51HKDAP)\n* [Guía oficial del examen](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/es_ES/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)",
+      "url": "https://www.meetup.com/awsugmixtli/events/316148940/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli/events/316148940/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "AWS User Group Mixtli",
+      "dtstart": "2026-08-20T18:30:00-06:00",
+      "dtend": "2026-08-20T20:00:00-06:00",
+      "tags": [
+        "ai",
+        "cloud",
+        "frontend",
+        "mobile",
+        "web"
+      ],
+      "source": "https://www.meetup.com/awsugmixtli/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "sesin 2 fundamentos de ia generativa_2026-08-21T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|How To Build A One Person Company With AI|Online",
@@ -4088,7 +4132,7 @@
       "dtstart": "2026-08-28T22:00:00+00:00",
       "dtend": "2026-08-28T23:30:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4622,7 +4666,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
