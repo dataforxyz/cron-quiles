@@ -137,8 +137,8 @@
     "location": "Senate of the Republic, Av. P.º de la Reforma 135, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, CDMX, Mexico",
     "online": false,
     "organizer": "Claude Community",
-    "dtstart": "2026-10-20T22:30:00+00:00",
-    "dtend": "2026-10-21T02:00:00+00:00",
+    "dtstart": "2026-10-20T20:30:00+00:00",
+    "dtend": "2026-10-21T00:30:00+00:00",
     "tags": [],
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
     "country": "México",
@@ -148,7 +148,7 @@
     "city": "Ciudad de México",
     "city_code": "cdmx",
     "address": "Avenida Paseo de la Reforma, Tabacalera, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06030, México",
-    "hash_key": "mexico city claude en el senado de la re_2026-10-20T22:00:00+00:00"
+    "hash_key": "mexico city claude en el senado de la re_2026-10-20T20:00:00+00:00"
   },
   {
     "title": "Claude Community|Mexico City  -  Claude for AI Engineering|México|Ciudad de México",
@@ -429,6 +429,70 @@
     "hash_key": "mexico city claude for healthcare unam_2026-09-18T20:00:00+00:00"
   },
   {
+    "title": "AWS User Group Mixtli|Sesión de práctica y dudas|Online",
+    "description": "AWS User Group Mixtli\nEn esta sesión tendremos un espacio dedicado a **poner en práctica lo aprendido durante el challenge y resolver dudas antes del examen**.\nTrabajaremos con preguntas similares a las que podrías encontrar en la certificación **AWS Certified AI Practitioner**, revisando juntos las respuestas y los conceptos detrás de cada una. También será un espacio abierto para compartir dudas sobre los temas que hayan resultado más complejos durante las sesiones anteriores y reforzar los conocimientos antes de presentar el examen.\n\n📖 **Material oficial de estudio:**\n\n* [AWS Artificial Intelligence Practitioner Learning Plan](https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelligence-practitioner-learning-plan-espaol-latam/WGQ51HKDAP)\n* [Guía oficial del examen](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/es_ES/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)",
+    "url": "https://www.meetup.com/awsugmixtli/events/316161186/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/awsugmixtli/events/316161186/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "AWS User Group Mixtli",
+    "dtstart": "2026-09-10T18:30:00-06:00",
+    "dtend": "2026-09-10T19:30:00-06:00",
+    "tags": [
+      "ai",
+      "cloud",
+      "frontend",
+      "web"
+    ],
+    "source": "https://www.meetup.com/awsugmixtli/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "sesin de prctica y dudas_2026-09-11T00:00:00+00:00"
+  },
+  {
+    "title": "AWS User Group Mixtli|Sesión 4: IA Responsable: Seguridad y Gobierno|Online",
+    "description": "AWS User Group Mixtli\nEsta es nuestra **cuarta sesión de preparación para la certificación AWS Certified AI Practitioner**. En esta ocasión hablaremos sobre la importancia de desarrollar y utilizar la IA de manera responsable y segura, considerando aspectos como la confianza, la protección de datos y la gestión de riesgos.\nTambién revisaremos de forma general cómo AWS aborda la seguridad, la gobernanza y el cumplimiento en soluciones de IA, así como algunas buenas prácticas para mantener nuestros sistemas protegidos, trazables y alineados con los requisitos de la organización.\n\n📖 **Material oficial de estudio:**\n\n* [AWS Artificial Intelligence Practitioner Learning Plan](https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelligence-practitioner-learning-plan-espaol-latam/WGQ51HKDAP)\n* [Guía oficial del examen](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/es_ES/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)",
+    "url": "https://www.meetup.com/awsugmixtli/events/316158532/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/awsugmixtli/events/316158532/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "AWS User Group Mixtli",
+    "dtstart": "2026-09-04T18:30:00-06:00",
+    "dtend": "2026-09-04T20:00:00-06:00",
+    "tags": [
+      "ai",
+      "cloud",
+      "frontend",
+      "web"
+    ],
+    "source": "https://www.meetup.com/awsugmixtli/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "sesin 4 ia responsable seguridad y gobie_2026-09-05T00:00:00+00:00"
+  },
+  {
     "title": "Claude Community|Mexico City  -  Claude for Research Workshop|México|Estado de México",
     "description": "Get up-to-date information at: https://luma.com/claude-c09t\n\nAddress:\nUniversidad Anáhuac México\n\nHosted by Dr. Vinicius Covas",
     "url": "https://luma.com/claude-c09t",
@@ -474,7 +538,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -572,7 +636,7 @@
   },
   {
     "title": "Pythonistas GDL|Viernes 28 de Agosto en el HackerGarage|México|Jalisco",
-    "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ mck, Encuentra los ImportError ocultos <br /><em>mck es una herramienta que verifica si uno o más módulos se puedan importar individualmente. </em><br /><em>Veremos cómo se originó mck, un ejemplo de su uso y en qué casos te podría servir.</em><br /><strong>Por Patricio Páez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ ¿Qué tan libre es el software libre?<br /><em>breve análisis de las diferentes licencias de código abierto y como identificar sus derechos y obligaciones</em><br /><strong>Por Luis Alvarez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+    "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ mck, Encuentra los ImportError ocultos <br /><em>mck es una herramienta que verifica si uno o más módulos se puedan importar individualmente. </em><br /><em>Veremos cómo se originó mck, un ejemplo de su uso y en qué casos te podría servir.</em><br /><strong>Por Patricio Páez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ ¿Qué tan libre es el software libre?<br /><em>breve análisis de las diferentes licencias de código abierto y como identificar sus derechos y obligaciones</em><br /><strong>Por Luis Alvarez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking <br /></p></li></ul><h1><br /><strong>Regístrate aquí: </strong><a href=\"https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092\"><strong>https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092</strong></a></h1>",
     "url": "https://reuniones.pythonistas-gdl.org/event/8/viernes-28-de-agosto-en-el-hackergarage",
     "sources": [
       {
@@ -587,6 +651,7 @@
     "dtstart": "2026-08-29T00:30:00+00:00",
     "dtend": "2026-08-29T04:00:00+00:00",
     "tags": [
+      "cloud",
       "frontend",
       "python"
     ],
@@ -626,33 +691,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "mexico city claude for legal workshop_2026-08-28T22:00:00+00:00"
-  },
-  {
-    "title": "FinTech México|Listening Sessions Vol. 2|Online",
-    "description": "Get up-to-date information at: https://luma.com/gu1wxfxp\n\nHosted by FinTech México",
-    "url": "https://luma.com/gu1wxfxp",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/gu1wxfxp",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
-    "online": true,
-    "organizer": "FinTech México",
-    "dtstart": "2026-08-28T22:00:00+00:00",
-    "dtend": "2026-08-28T23:30:00+00:00",
-    "tags": [],
-    "source": "https://luma.com/02t893pf",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
-    "hash_key": "listening sessions vol 2_2026-08-28T22:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|Should we stop improving AI? (w/ The AI Collective)|Online",
@@ -738,6 +776,38 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-cH8Lh9LnMnwxF4M",
     "hash_key": "agentic ai series multi agent orchestrat_2026-08-27T22:00:00+00:00"
+  },
+  {
+    "title": "AWS User Group Mixtli|Sesión 3: Aplicaciones de Modelos Fundacionales|Online",
+    "description": "AWS User Group Mixtli\nEsta es nuestra **tercera sesión de preparación para la certificación AWS Certified AI Practitioner**. En esta ocasión nos enfocaremos en conocer cómo se utilizan los modelos fundacionales para construir soluciones de IA generativa, así como las diferentes estrategias que podemos utilizar para adaptar y aprovechar estos modelos según cada necesidad.\nTambién exploraremos de manera general conceptos como RAG, prompting, agentes y evaluación de modelos, además de algunos aspectos importantes a considerar al elegir y utilizar un modelo, como el costo y rendimiento.\n\n📖 **Material oficial de estudio:**\n\n* [AWS Artificial Intelligence Practitioner Learning Plan](https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelligence-practitioner-learning-plan-espaol-latam/WGQ51HKDAP)\n* [Guía oficial del examen](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/es_ES/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)",
+    "url": "https://www.meetup.com/awsugmixtli/events/316161158/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/awsugmixtli/events/316161158/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "AWS User Group Mixtli",
+    "dtstart": "2026-08-27T18:30:00-06:00",
+    "dtend": "2026-08-27T20:00:00-06:00",
+    "tags": [
+      "ai",
+      "cloud",
+      "frontend",
+      "web"
+    ],
+    "source": "https://www.meetup.com/awsugmixtli/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "sesin 3 aplicaciones de modelos fundacio_2026-08-28T00:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|The Future of Work: The New Builder Role (w/ The AI Collective)|Online",
@@ -858,6 +928,33 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "claude builders para agentic enterprise_2026-08-26T22:00:00+00:00"
+  },
+  {
+    "title": "FinTech México|Listening Sessions Vol. 2|Online",
+    "description": "Get up-to-date information at: https://luma.com/gu1wxfxp\n\nHosted by FinTech México",
+    "url": "https://luma.com/gu1wxfxp",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/gu1wxfxp",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
+    "online": true,
+    "organizer": "FinTech México",
+    "dtstart": "2026-08-26T22:00:00+00:00",
+    "dtend": "2026-08-26T23:00:00+00:00",
+    "tags": [],
+    "source": "https://luma.com/eofagheq",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
+    "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|Practical AI at Work: Turn Your Brand Guide Into an AI-Ready Skill|Online",
@@ -1099,12 +1196,12 @@
   },
   {
     "title": "Rust-AICollective|How To Build A One Person Company With AI|Online",
-    "description": "Get up-to-date information at: https://luma.com/aic-kul-AIS-20260822\n\nHosted by The AI Collective, Jean Ng & FIRUZ ALIMOV",
-    "url": "https://luma.com/aic-kul-AIS-20260822",
+    "description": "Get up-to-date information at: https://luma.com/aic-kul-AIS-20260821\n\nHosted by The AI Collective, Jean Ng & FIRUZ ALIMOV",
+    "url": "https://luma.com/aic-kul-AIS-20260821",
     "sources": [
       {
         "platform": "luma",
-        "url": "https://luma.com/aic-kul-AIS-20260822",
+        "url": "https://luma.com/aic-kul-AIS-20260821",
         "label": "Ver en Luma"
       }
     ],
@@ -1298,7 +1395,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -1386,7 +1483,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1904,7 +2001,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1989,7 +2086,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2163,7 +2260,7 @@
     "dtstart": "2026-04-24T15:00:00+00:00",
     "dtend": "2026-04-24T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2544,9 +2641,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Colima",
-    "city_code": "colima",
-    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
+    "city": "Coquimatlán",
+    "city_code": "coquimatlan",
+    "address": "Centro, Coquimatlán, Colima, 28400, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -3054,14 +3151,14 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Ciudad Universitaria, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -3139,7 +3236,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3200,7 +3297,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3231,7 +3328,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3285,7 +3382,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3314,7 +3411,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3370,7 +3467,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3399,7 +3496,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3426,7 +3523,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3482,7 +3579,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3509,7 +3606,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3538,7 +3635,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3567,7 +3664,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3596,7 +3693,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3626,7 +3723,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3680,7 +3777,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3709,7 +3806,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3738,7 +3835,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3767,7 +3864,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3825,7 +3922,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3854,7 +3951,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3883,7 +3980,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3913,7 +4010,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3942,7 +4039,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3972,7 +4069,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4002,7 +4099,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4031,7 +4128,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4058,7 +4155,7 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4087,7 +4184,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4114,7 +4211,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4143,7 +4240,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4173,7 +4270,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4203,7 +4300,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4230,7 +4327,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4257,7 +4354,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4284,7 +4381,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4314,7 +4411,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4656,7 +4753,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5591,7 +5688,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5758,7 +5855,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7053,7 +7150,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Warner Music Mexico City, 32, Calle Leibnitz, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+    "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
   },
   {
@@ -7245,7 +7342,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7443,7 +7540,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7497,7 +7594,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -15301,7 +15398,7 @@
     "dtstart": null,
     "dtend": null,
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
