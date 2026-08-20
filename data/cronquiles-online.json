@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T19:13:21.034415+00:00",
-  "total_events": 162,
+  "generated_at": "2026-08-20T02:10:39.701825+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -146,6 +146,17 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
         }
       ]
     },
@@ -2832,7 +2843,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -2997,7 +3008,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3681,7 +3692,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3845,6 +3856,40 @@
       "city_code": "",
       "address": "",
       "hash_key": "certops clase 2 servicios de cmputo en a_2026-08-22T18:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Introducción al Álgebra Vectorial & Lineal|Online",
+      "description": "Introducción teórica a vectores, matrices y transformaciones lineales, seguida de una sesión práctica enfocada en la manipulación y representación de datos multidimensionales con Python.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-algebra-vectorial-amp-lineal-1/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-algebra-vectorial-amp-lineal-1/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-08-22T19:30:00-06:00",
+      "dtend": "2026-08-22T20:30:00-06:00",
+      "tags": [
+        "AI",
+        "Career Development",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session",
+        "frontend",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "introduccin al lgebra vectorial lineal_2026-08-23T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI HR Forum #02: AI & Compensation (w/ AI Collective KC)|Online",
@@ -4797,7 +4842,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
