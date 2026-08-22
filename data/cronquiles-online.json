@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T19:16:13.047021+00:00",
-  "total_events": 162,
+  "generated_at": "2026-08-22T02:09:57.975223+00:00",
+  "total_events": 161,
   "city": "Online",
   "communities": [
     {
@@ -26,17 +26,6 @@
       ]
     },
     {
-      "name": "AWS Cloud Club at Universidad Nacional Autonoma de México",
-      "description": "El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube.",
-      "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/aws-cloud-club-at-unam",
-          "label": "Meetup"
-        }
-      ]
-    },
-    {
       "name": "Claude Users Group",
       "description": "",
       "links": []
@@ -54,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -3549,7 +3538,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3576,7 +3565,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3770,37 +3759,6 @@
       "hash_key": "introduccin al lgebra vectorial lineal_2026-08-23T00:00:00+00:00"
     },
     {
-      "title": "AWS Cloud Club at Universidad Nacional Autonoma de México|#CertOps: Clase #2 - Servicios de Cómputo en AWS|Online",
-      "description": "AWS SBG at Universidad Nacional Autónoma de México\n¡**#CertOps continúa**!\n\nEn esta segunda clase conoceremos sobre los distintos **tipos de cómputo** que existen en AWS, como **máquinas virtuales, contenedores y cómputo *serverless***\n\n¡Conoce al profesor de la segunda sesión!\n\n* **Edwin Moedano** es Cloud Architect @ Caylent, **AWS Community Builder** en Serverless y Líder del **AWS User Group CDMX.**\n\n📌 Clase en Línea\n📅 22/Agosto\n🕛 12:00 PM (Hora CDMX)\n\n¡Registrate ahora!\n**¡El futuro de la nube está en mx-central-unam-1!**",
-      "url": "https://www.meetup.com/aws-sbg-at-universidad-nacional-autonoma-de-mexico-cocoyan/events/316141954/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/aws-sbg-at-universidad-nacional-autonoma-de-mexico-cocoyan/events/316141954/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "AWS Cloud Club at Universidad Nacional Autonoma de México",
-      "dtstart": "2026-08-23T12:00:00-06:00",
-      "dtend": "2026-08-23T14:00:00-06:00",
-      "tags": [
-        "cloud",
-        "frontend",
-        "mobile"
-      ],
-      "source": "https://www.meetup.com/aws-cloud-club-at-unam/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "certops clase 2 servicios de cmputo en a_2026-08-23T18:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|AI HR Forum #02: AI & Compensation (w/ AI Collective KC)|Online",
       "description": "Get up-to-date information at: https://luma.com/AIHR-02\n\nHosted by The AI Collective, Daniel Green & Scott Holsman",
       "url": "https://luma.com/AIHR-02",
@@ -3966,7 +3924,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4189,36 +4147,6 @@
       "hash_key": "should we stop improving ai w the ai col_2026-08-28T14:00:00+00:00"
     },
     {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|Sept 2 - Document Visual AI Workshop|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nIn this hands-on workshop, you'll use [FiftyOne](https://docs.voxel51.com/) and the High Quality Invoice Images for OCR dataset to run the full data-centric loop end-to-end: embed invoices with a modern visual document model, cluster them by structure, run LightOnOCR as your base model, and use per-sample evaluation scores layered onto embedding space to find \\*where\\* and \\*why\\* it fails.\n\n**Time, Date and Location**\n\nSep 02, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/document-visual-ai-workshop-september-2-2026)**\n\n**What You'll Walk Away With**\n\n* A working FiftyOne pipeline for any document collection you own\n* A repeatable curation query that combines evaluation + embedding signals\n* A fine-tuned LightOnOCR checkpoint that demonstrably outperforms the base model on your invoices\n* The mental model that data curation — not architecture or hyperparameters — is the highest-leverage thing you can do to improve a document AI system",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739585/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739585/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-09-02T10:00:00-06:00",
-      "dtend": "2026-09-02T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "data"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "sept 2 document visual ai workshop_2026-09-02T16:00:00+00:00"
-    },
-    {
       "title": "Claude Community|Mexico City  -  Claude for Research Workshop|México|Estado de México",
       "description": "Get up-to-date information at: https://luma.com/claude-c09t\n\nAddress:\nUniversidad Anáhuac México\n\nHosted by Dr. Vinicius Covas",
       "url": "https://luma.com/claude-c09t",
@@ -4276,6 +4204,39 @@
       "city_code": "",
       "address": "",
       "hash_key": "sesin 4 ia responsable seguridad y gobie_2026-09-05T00:00:00+00:00"
+    },
+    {
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|Sept 9 - Physical AI Has a Data Problem. It Isn't Collection Workshop|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis workshop goes from raw recording to curated corpus. We'll cover what MCAP is and why it's built that way, tour real Physical AI datasets across driving, aquatic, and forest robots, and open an episode with every sensor synced—including channels nothing knows how to decode.\n\n**Time, Date and Location**\n\nSep 09, 2026\n9:00 AM - 10:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/document-visual-ai-workshop-september-9-2026)**\n\nPhysical AI still relies on familiar computer vision tasks—detection, segmentation, depth, tracking. What's changed is the data unit: no longer a single image and label, but an episode—a dozen sensors ticking on independent clocks for minutes, with no frame boundaries.\n\nMost computer vision tooling assumes the old unit and breaks on the new one.\n\nThat's why Physical AI teams end up with buckets of .mcap files nobody can characterize. Recording is cheap, so logs pile up faster than anyone curates them. Ask what's actually in there—which tasks, which conditions, how many failures and of what kind—and the honest answer is usually a shrug.\nMCAP has been ROS 2's default log format since Iron, and as of [FiftyOne 1.19](https://docs.voxel51.com/index.html) it opens natively: cameras, LiDAR, GPS, IMU, and logs on one shared timeline, alongside your images and video.\n\nWe'll tackle quality, the harder half: what smoothness, sensor-health, and outlier metrics actually measure, where each falls short, and how to turn a score into a defensible decision.\n\nYou'll leave knowing how to load your own recordings, query a whole corpus instead of a single file, and which quality signals to trust for which job.",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739585/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/314739585/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+      "dtstart": "2026-09-09T10:00:00-06:00",
+      "dtend": "2026-09-09T11:00:00-06:00",
+      "tags": [
+        "ai",
+        "backend",
+        "data",
+        "frontend",
+        "web"
+      ],
+      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "sept 9 physical ai has a data problem it_2026-09-09T16:00:00+00:00"
     },
     {
       "title": "AWS User Group Mixtli|Sesión de práctica y dudas|Online",
