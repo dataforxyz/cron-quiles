@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-28T11:35:12.109393+00:00",
-  "total_events": 2,
+  "generated_at": "2026-08-28T22:37:51.232951+00:00",
+  "total_events": 3,
   "city": "México",
   "communities": [
     {
       "name": "Mexico Tech Week",
       "description": "Calendario oficial de Mexico Tech Week 2025.",
+      "links": []
+    },
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
       "links": []
     }
   ],
@@ -65,6 +70,33 @@
       "city_code": "ecatepecdemorelos",
       "address": "Avenida San Agustín, Colonia Faja de Oro, Santa Clara Coatitla, Ecatepec de Morelos, Atenco, Estado de México, 55130, México",
       "hash_key": "disconnect to reconnect a hike by aire l_2024-10-26T12:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Mexico City  -  Claude for Research Meetup|México|Estado de México",
+      "description": "Get up-to-date information at: https://luma.com/claude-investigadores\n\nAddress:\nAnáhuac University\nSalón MBA 3\nLomas Anáhuac, Mexico\n\nHosted by Dr. Vinicius Covas",
+      "url": "https://luma.com/claude-investigadores",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-investigadores",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Anáhuac University, Av. Universidad Anáhuac 46, Lomas Anahuac, 52786 Lomas Anáhuac, Méx., Mexico",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-09-25T16:00:00+00:00",
+      "dtend": "2026-09-25T18:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "Huixquilucan de Degollado",
+      "city_code": "huixquilucandedegollado",
+      "address": "Universidad Anahuac, 46, Avenida Universidad Anahuac, Lomas Anahuác, La Herradura, Huixquilucan de Degollado, Huixquilucan, Estado de México, 52786, México",
+      "hash_key": "mexico city claude for research meetup_2026-09-25T16:00:00+00:00"
     }
   ]
 }
