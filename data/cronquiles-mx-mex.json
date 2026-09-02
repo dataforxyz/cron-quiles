@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T11:34:25.969438+00:00",
-  "total_events": 3,
+  "generated_at": "2026-09-02T16:59:56.739276+00:00",
+  "total_events": 4,
   "city": "México",
   "communities": [
     {
@@ -15,6 +15,37 @@
     }
   ],
   "events": [
+    {
+      "title": "Mexico Tech Week|Mujeres en Tech Happy Hour🍸👩‍💻Powered by Capital One|México|México",
+      "description": "Get up-to-date information at: https://luma.com/mzxtng7s\n\nAddress:\nCultural Center Casa Lamm\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Carolina & Montserrat Anguiano Garcia",
+      "url": "https://luma.com/mzxtng7s",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mzxtng7s",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Cultural Center Casa Lamm, Av. Álvaro Obregón 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-24T00:00:00+00:00",
+      "dtend": "2024-10-24T03:00:00+00:00",
+      "tags": [
+        "backend",
+        "frontend",
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "México",
+      "state_code": "MX-MEX",
+      "city": "",
+      "city_code": "",
+      "address": "Cultural Center Casa Lamm, Av. Álvaro Obregón 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+      "hash_key": "mujeres en tech happy hourpowered by cap_2024-10-24T00:00:00+00:00"
+    },
     {
       "title": "Mexico Tech Week|Despecho night!|México|Estado de México",
       "description": "Get up-to-date information at: https://luma.com/pwl9jnw8\n\nAddress:\nDespecho Satélite\nSatélite, Estado de México\nMexico\n\nHosted by Mexico Tech Week, azalea & Héctor Cancela",
