@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T11:32:46.314837+00:00",
-  "total_events": 158,
+  "generated_at": "2026-09-04T16:41:18.781433+00:00",
+  "total_events": 157,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -2865,7 +2865,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3030,7 +3030,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3714,7 +3714,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3750,33 +3750,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "Claude Community|Mexico City  -  Claude for Research Workshop|México|Estado de México",
-      "description": "Get up-to-date information at: https://luma.com/claude-c09t\n\nAddress:\nUniversidad Anáhuac México\n\nHosted by Dr. Vinicius Covas",
-      "url": "https://luma.com/claude-c09t",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/claude-c09t",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Universidad Anáhuac México",
-      "online": false,
-      "organizer": "Claude Community",
-      "dtstart": "2026-09-04T15:00:00+00:00",
-      "dtend": "2026-09-04T19:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Estado de México",
-      "state_code": "",
-      "city": "Metepec",
-      "city_code": "metepec",
-      "address": "Universidad Anáhuac, Avenida Solidaridad Las Torres, San Salvador Tizatlalli, Metepec, Estado de México, 52172, México",
-      "hash_key": "mexico city claude for research workshop_2026-09-04T14:00:00+00:00"
     },
     {
       "title": "AWS User Group Mixtli|Sesión 4: IA Responsable: Seguridad y Gobierno|Online",
@@ -4460,6 +4433,33 @@
       "hash_key": "networking 101 fundamentos de redes_no_date"
     },
     {
+      "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
+      "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
+      "url": "https://luma.com/jov35dwo",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/jov35dwo",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+      "online": true,
+      "organizer": "Sudo FCiencias",
+      "dtstart": null,
+      "dtend": null,
+      "tags": [],
+      "source": "https://luma.com/e17fbtoo",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+      "hash_key": "tics aprende a hackear con agentes de ia_no_date"
+    },
+    {
       "title": "Founder Friends Mexico|Singapore: Claim your 30 day Angel Squad Guest Pass|Online",
       "description": "Get up-to-date information at: https://luma.com/jba3nyqn\n\nHosted by Hustle Fund & Wael Jabir",
       "url": "https://luma.com/jba3nyqn",
@@ -4690,33 +4690,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-O1E8LIYm2GaxY4U",
       "hash_key": "hustle fund angel squad claim your 30 da_no_date"
-    },
-    {
-      "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
-      "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
-      "url": "https://luma.com/jov35dwo",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/jov35dwo",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-      "online": true,
-      "organizer": "Sudo FCiencias",
-      "dtstart": null,
-      "dtend": null,
-      "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-      "hash_key": "tics aprende a hackear con agentes de ia_no_date"
     }
   ]
 }
