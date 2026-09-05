@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:08:36.352402+00:00",
+  "generated_at": "2026-09-05T04:36:42.484625+00:00",
   "total_events": 157,
   "city": "Online",
   "communities": [
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -3571,7 +3571,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3598,7 +3598,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3741,7 +3741,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3750,38 +3750,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "AWS User Group Mixtli|Sesión 4: IA Responsable: Seguridad y Gobierno|Online",
-      "description": "AWS User Group Mixtli\nEsta es nuestra **cuarta sesión de preparación para la certificación AWS Certified AI Practitioner**. En esta ocasión hablaremos sobre la importancia de desarrollar y utilizar la IA de manera responsable y segura, considerando aspectos como la confianza, la protección de datos y la gestión de riesgos.\nTambién revisaremos de forma general cómo AWS aborda la seguridad, la gobernanza y el cumplimiento en soluciones de IA, así como algunas buenas prácticas para mantener nuestros sistemas protegidos, trazables y alineados con los requisitos de la organización.\n\n📖 **Material oficial de estudio:**\n\n* [AWS Artificial Intelligence Practitioner Learning Plan](https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelligence-practitioner-learning-plan-espaol-latam/WGQ51HKDAP)\n* [Guía oficial del examen](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/es_ES/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)",
-      "url": "https://www.meetup.com/awsugmixtli/events/316158532/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/awsugmixtli/events/316158532/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "AWS User Group Mixtli",
-      "dtstart": "2026-09-04T18:30:00-06:00",
-      "dtend": "2026-09-04T20:00:00-06:00",
-      "tags": [
-        "ai",
-        "cloud",
-        "frontend",
-        "web"
-      ],
-      "source": "https://www.meetup.com/awsugmixtli/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "sesin 4 ia responsable seguridad y gobie_2026-09-05T00:00:00+00:00"
     },
     {
       "title": "GDG Cloud Mexico City|Creando un juego arcade con Antigravity CLI|Online",
@@ -3815,6 +3783,41 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "creando un juego arcade con antigravity _2026-09-05T20:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Introducción al Cálculo Infinitesimal & Avanzado|Online",
+      "description": "Explora el cálculo infinitesimal y avanzado con una revisión de derivadas y optimización. Aprende sobre el gradiente, su aplicación en IA y codifica el algoritmo de descenso del gradiente en Python. Visualiza convergencias usando Matplotlib y Seaborn. Ideal para quienes buscan comprender la minimización de funciones de error y cómo usar SciPy para la optimización matemática.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-09-05T19:00:00-06:00",
+      "dtend": "2026-09-05T20:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "frontend",
+        "python"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "introduccin al clculo infinitesimal avan_2026-09-06T00:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Sept 9 - Physical AI Has a Data Problem. It Isn't Collection Workshop|Online",
