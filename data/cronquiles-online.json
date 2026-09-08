@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:58:53.288115+00:00",
-  "total_events": 155,
+  "generated_at": "2026-09-08T21:29:54.088031+00:00",
+  "total_events": 157,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -2854,7 +2854,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3019,7 +3019,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3560,7 +3560,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3587,7 +3587,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3703,7 +3703,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3730,7 +3730,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4117,6 +4117,35 @@
       "hash_key": "sept 24 ai ml and computer vision meetup_2026-09-24T16:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|Lunch & Hack: AI Agents vs Agentic Workflows (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-gl-9-24\n\nHosted by The AI Collective & Adelina Martiniuc",
+      "url": "https://luma.com/aic-gl-9-24",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-gl-9-24",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-HnYP23vkLk9WSuF",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-09-24T17:00:00+00:00",
+      "dtend": "2026-09-24T18:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-HnYP23vkLk9WSuF",
+      "hash_key": "lunch hack ai agents vs agentic workflow_2026-09-24T16:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Practical AI at Work: Create a \"Write Emails Like Me\" Skill|Online",
       "description": "Get up-to-date information at: https://luma.com/xb9vlwe9\n\nHosted by Bill Raymond & The AI Collective",
       "url": "https://luma.com/xb9vlwe9",
@@ -4236,6 +4265,35 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-AekZVGtBQWsuqqP",
       "hash_key": "torino claude meetup_2026-10-07T16:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|You, the Frontier Professional - #SFTechWeek|Online",
+      "description": "Find more information on https://luma.com/genai-collective",
+      "url": "https://luma.com/genai-collective",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/genai-collective",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://partiful.com/e/EsEFiL5fhq5DHcKNkCy2",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-10-07T16:30:00+00:00",
+      "dtend": "2026-10-08T20:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://partiful.com/e/EsEFiL5fhq5DHcKNkCy2",
+      "hash_key": "you the frontier professional sftechweek_2026-10-07T16:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 8 - MCP, Agents and Skills Meetup Meetup|Online",
@@ -4608,7 +4666,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
