@@ -5617,7 +5617,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/7mivqqeo\n\nAd
  FinTech México & 4 others
 LOCATION:Dalia\, Monte Líbano 215\, Lomas de Chapultepec\, Miguel Hidalgo
  \, 11000 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 2ª Secci
+X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 6ª Secci
  ón\, Lomas de Chapultepec\, Ciudad de México\, Miguel Hidalgo\, Ciudad d
  e México\, 11000\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -6538,9 +6538,10 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/claudecolima\n
  \nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira d
  e la Vega\, Miguel Oceguera & WDT Colima
 LOCATION:Centro\, Colima\, México
-X-CRONQUILES-ADDRESS:Centro\, Coquimatlán\, Colima\, 28400\, México
-X-CRONQUILES-CITY:Coquimatlán
-X-CRONQUILES-CITY-CODE:coquimatlan
+X-CRONQUILES-ADDRESS:Centro\, Colima\, Municipio de Colima\, Colima\, 2800
+ 0\, México
+X-CRONQUILES-CITY:Colima
+X-CRONQUILES-CITY-CODE:colima
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Colima
@@ -7756,6 +7757,25 @@ X-CRONQUILES-STATE:Estado de México
 X-CRONQUILES-STATE-CODE:MX-MEX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG Guadalajara|AI & CHILL|México|Jalisco
+DTSTART:20260925T180000
+CATEGORIES:AI,ai
+DESCRIPTION:Join Improving Nearshore for an evening of AI discussions\, ne
+ tworking\, and new ideas. Connect with community members while enjoying sn
+ acks and drinks. This event offers a platform for learning\, exchanging pe
+ rspectives\, and sharing knowledge. Reserve your spot for an engaging expe
+ rience at Av. Patria #888\, Piso 4\, Col Loma Real.
+LOCATION:Improving\, 888 Avenida Patria\, Zapopan
+X-CRONQUILES-ADDRESS:Avenida Patria\, Loma Bonita Ejidal\, Zapopan\, Regi
+ ón Centro\, Jalisco\, 45607\, México
+X-CRONQUILES-CITY:Zapopan
+X-CRONQUILES-CITY-CODE:zapopan
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pythonistas GDL|Septiembre|México|Jalisco
 DTSTART:20260926T003000Z
 CATEGORIES:python
@@ -8072,6 +8092,28 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Campeche
 X-CRONQUILES-STATE-CODE:MX-CAM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Guadalajara|DevFest 2026|México|Jalisco
+DTSTART:20261121T090000
+CATEGORIES:AI,Android,Career Development,Community Building,Conference,Dev
+ Fest,Firebase,Flutter,Google Cloud,Networking,Tech Talk / Meetup,UX / UI D
+ esign,Web,ai,cloud,security,web
+DESCRIPTION:Join the second edition of DevFest in Guadalajara\, a hub for 
+ technology enthusiasts and professionals focused on AI\, Cloud\, and web d
+ evelopment. Discover the latest trends and connect with a vibrant communit
+ y eager to learn and grow together. Don't miss out—register today and em
+ bark on your journey to innovation!
+LOCATION:Centro Universitario de Guadalajara (CUGDL)\, 1045 Calle Guanajua
+ to\, Guadalajara
+X-CRONQUILES-ADDRESS:Calle Guanajuato\, Mezquitán\, Guadalajara\, Región
+  Centro\, Jalisco\, 44260\, México
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online

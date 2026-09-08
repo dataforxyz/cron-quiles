@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T21:53:46.408444+00:00",
-  "total_events": 27,
+  "generated_at": "2026-09-08T04:44:42.283329+00:00",
+  "total_events": 29,
   "city": "Jalisco",
   "communities": [
     {
@@ -33,6 +33,17 @@
       "name": "Frutero Club",
       "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
       "links": []
+    },
+    {
+      "name": "GDG Guadalajara",
+      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-guadalajara/",
+          "label": "Sitio web"
+        }
+      ]
     },
     {
       "name": "Mobile Developer Community / Linuxeros Zapopan",
@@ -765,6 +776,36 @@
       "hash_key": "vibe coding caf_2026-09-18T22:00:00+00:00"
     },
     {
+      "title": "GDG Guadalajara|AI & CHILL|México|Jalisco",
+      "description": "Join Improving Nearshore for an evening of AI discussions, networking, and new ideas. Connect with community members while enjoying snacks and drinks. This event offers a platform for learning, exchanging perspectives, and sharing knowledge. Reserve your spot for an engaging experience at Av. Patria #888, Piso 4, Col Loma Real.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-ai-amp-chill/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-ai-amp-chill/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Improving, 888 Avenida Patria, Zapopan",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-09-25T18:00:00-06:00",
+      "dtend": "2026-09-25T20:00:00-06:00",
+      "tags": [
+        "AI",
+        "ai"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Zapopan",
+      "city_code": "zapopan",
+      "address": "Avenida Patria, Loma Bonita Ejidal, Zapopan, Región Centro, Jalisco, 45607, México",
+      "hash_key": "ai chill_2026-09-26T00:00:00+00:00"
+    },
+    {
       "title": "Pythonistas GDL|Septiembre|México|Jalisco",
       "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Detección automática de interferencia gramatical L1 en producción escrita de hispanohablantes<br /><em>Un motor GED basado en gramática de valencias y grafos de dependencia</em><br /><strong>Ana Jazmín Sossa González</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Segunda charla por definir</p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
       "url": "https://reuniones.pythonistas-gdl.org/event/9/septiembre",
@@ -822,6 +863,51 @@
       "city_code": "zapopan",
       "address": "Puerta de Hierro, Zapopan, Región Centro, Jalisco, México",
       "hash_key": "guadalajara claude code meetup javascrip_2026-10-28T00:00:00+00:00"
+    },
+    {
+      "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
+      "description": "Join the second edition of DevFest in Guadalajara, a hub for technology enthusiasts and professionals focused on AI, Cloud, and web development. Discover the latest trends and connect with a vibrant community eager to learn and grow together. Don't miss out—register today and embark on your journey to innovation!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-11-21T09:00:00-06:00",
+      "dtend": "2026-11-21T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "Android",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "ai",
+        "cloud",
+        "security",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44260, México",
+      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
     }
   ]
 }
