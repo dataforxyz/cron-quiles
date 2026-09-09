@@ -53,11 +53,33 @@
     "emoji": "🇲🇽"
   },
   {
+    "code": "CO-TOL",
+    "name": "CO-TOL",
+    "slug": "co-tol",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "📅"
+  },
+  {
+    "code": "MX-CAM",
+    "name": "Campeche",
+    "slug": "mx-cam",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 211,
-    "future_event_count": 1,
+    "event_count": 317,
+    "future_event_count": 9,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -77,7 +99,9 @@
       "2026-06",
       "2026-07",
       "2026-08",
-      "2026-09"
+      "2026-09",
+      "2026-10",
+      "2026-11"
     ],
     "emoji": "🌮"
   },
@@ -96,11 +120,12 @@
     "code": "MX-JAL",
     "name": "Jalisco",
     "slug": "mx-jal",
-    "event_count": 21,
-    "future_event_count": 2,
+    "event_count": 29,
+    "future_event_count": 5,
     "active_months": [
       "2025-09",
       "2025-10",
+      "2025-12",
       "2026-01",
       "2026-02",
       "2026-03",
@@ -110,7 +135,8 @@
       "2026-07",
       "2026-08",
       "2026-09",
-      "2026-10"
+      "2026-10",
+      "2026-11"
     ],
     "emoji": "💻"
   },
@@ -118,25 +144,11 @@
     "code": "MX-MEX",
     "name": "México",
     "slug": "mx-mex",
-    "event_count": 123,
-    "future_event_count": 9,
+    "event_count": 3,
+    "future_event_count": 1,
     "active_months": [
       "2024-10",
-      "2025-01",
-      "2025-02",
-      "2025-03",
-      "2025-04",
-      "2025-06",
-      "2025-07",
-      "2025-08",
-      "2025-09",
-      "2025-10",
-      "2025-12",
-      "2026-01",
-      "2026-07",
-      "2026-08",
-      "2026-09",
-      "2026-10"
+      "2026-09"
     ],
     "emoji": "🌵"
   },
@@ -157,8 +169,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 165,
-    "future_event_count": 27,
+    "event_count": 158,
+    "future_event_count": 22,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -210,10 +222,21 @@
     "code": "MX-PUE",
     "name": "Puebla",
     "slug": "mx-pue",
-    "event_count": 7,
+    "event_count": 18,
     "future_event_count": 0,
     "active_months": [
+      "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
       "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-12",
+      "2026-01",
       "2026-02",
       "2026-04",
       "2026-06",

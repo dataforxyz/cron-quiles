@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Campeche\, México
+X-WR-CALNAME:Eventos Tech Campeche - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:GDG San Francisco de Campeche|DevFest Campeche 2026|México|Campec
+ he
+DTSTART:20261114T090000
+CATEGORIES:Conference,DevFest
+DESCRIPTION:¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nos
+ otros este 14 de noviembre en el Centro Internacional de Con...
+LOCATION:Centro Internacional de Convenciones y Exposiciones Campeche XXI\
+ , 219 Pedro Sainz de Baranda\, San Francisco de Campeche
+X-CRONQUILES-ADDRESS:Centro Internacional de Convenciones y Exposiciones C
+ ampeche XXI\, 219\, Avenida Pedro Sáinz de Baranda\, AH KIM PECH\, San Fr
+ ancisco de Campeche\, Municipio de Campeche\, Campeche\, 24014\, México
+X-CRONQUILES-CITY:San Francisco de Campeche
+X-CRONQUILES-CITY-CODE:sanfranciscodecampeche
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Campeche
+X-CRONQUILES-STATE-CODE:MX-CAM
+END:VEVENT
+END:VCALENDAR
