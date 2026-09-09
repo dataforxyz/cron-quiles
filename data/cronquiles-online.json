@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:29:54.088031+00:00",
-  "total_events": 157,
+  "generated_at": "2026-09-09T05:04:29.557129+00:00",
+  "total_events": 165,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -161,12 +161,56 @@
       ]
     },
     {
+      "name": "GDG Cloud Mexico City",
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Guadalajara",
+      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-guadalajara/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG San Francisco de Campeche",
+      "description": "El Grupo de Desarrolladores de Google (GDG) en San Francisco de Campeche es un colectivo de entusiastas de la tecnología dedicado a fomentar el aprendizaje, la colaboración y la productividad entre los desarrolladores en Campeche y sus alrededores. Fundado en mayo de 2019, nuestra comunidad es un hervidero de innovación y creatividad tecnológica.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Tijuana",
       "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-tijuana/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Villahermosa",
+      "description": "Somos una comunidad que busca desarrollar e impulsar al talento local, mediante actividades constantes y mentorias. Este programa está dedicado a ayudar a los organizadores individuales de comunidades activas de desarrolladores móviles, web, en la nube y de inteligencia artificial en su viaje, liderando grupos exitosos y comprometidos a través de capacitación en línea, materiales de reunión, oportunidades de redes y más.\nIniciada en 2014 por desarrolladores locales.\nDescargo de responsabilidad: GDG Villahermosa es un grupo independiente; Nuestras actividades y las opiniones expresadas aquí no deben estar vinculadas de ninguna manera a Google, la corporación. Para obtener más información sobre el programa GDG, visite https://developers.google.com/community/gdg/",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-villahermosa/",
           "label": "Sitio web"
         }
       ]
@@ -1430,6 +1474,62 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
       "hash_key": "mexico venture capital report an overvie_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Manipulación de datos de Python|México|",
+      "description": "Get up-to-date information at: https://luma.com/nzb89n7y\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/nzb89n7y",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nzb89n7y",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "hash_key": "techlab workshop manipulacin de datos de_2024-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|",
+      "description": "Get up-to-date information at: https://luma.com/8dtqdfok\n\nAddress:\n Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/8dtqdfok",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8dtqdfok",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T21:30:00+00:00",
+      "dtend": "2024-10-26T02:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Florencia 31-Piso 9, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "hash_key": "techlab workshop anlisis de datos_2024-10-25T20:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
@@ -2854,7 +2954,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3019,7 +3119,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3703,7 +3803,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4206,6 +4306,36 @@
       "hash_key": "cdmx chapter_2026-09-25T00:00:00+00:00"
     },
     {
+      "title": "GDG Guadalajara|AI & CHILL|México|",
+      "description": "Join Improving Nearshore for an evening of AI discussions, networking, and new ideas. Connect with community members while enjoying snacks and drinks. This event offers a platform for learning, exchanging perspectives, and sharing knowledge. Reserve your spot for an engaging experience at Av. Patria #888, Piso 4, Col Loma Real.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-ai-amp-chill/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-ai-amp-chill/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Improving, 888 Avenida Patria, Zapopan",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-09-25T18:00:00-06:00",
+      "dtend": "2026-09-25T20:00:00-06:00",
+      "tags": [
+        "AI",
+        "ai"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Improving, 888 Avenida Patria, Zapopan",
+      "hash_key": "ai chill_2026-09-26T00:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Sept 30 - Building Composable Vision Workflows in FiftyOne|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316064682/",
@@ -4238,6 +4368,35 @@
       "city_code": "",
       "address": "",
       "hash_key": "sept 30 building composable vision workf_2026-09-30T16:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|SF Pitch Night by the AI Collective - #SFTechWeek|Online",
+      "description": "Find more information on https://luma.com/genai-collective",
+      "url": "https://luma.com/genai-collective",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/genai-collective",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://partiful.com/e/nvdJijotdzMHk8n72cZr",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-10-07T00:00:00+00:00",
+      "dtend": "2026-10-07T04:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://partiful.com/e/nvdJijotdzMHk8n72cZr",
+      "hash_key": "sf pitch night by the ai collective sfte_2026-10-07T00:00:00+00:00"
     },
     {
       "title": "Claude Community|Torino  -  Claude Meetup|Online",
@@ -4358,6 +4517,79 @@
       "hash_key": "can ai help prevent toxic relationships _2026-10-14T16:00:00+00:00"
     },
     {
+      "title": "GDG Villahermosa|DevFest 2026: Sureste de México|México|",
+      "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Por Definir, Villahermosa, Villahermosa",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-11-11T08:00:00-06:00",
+      "dtend": "2026-11-13T13:00:00-06:00",
+      "tags": [
+        "AI",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "backend"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Por Definir, Villahermosa, Villahermosa",
+      "hash_key": "devfest 2026 sureste de mxico_2026-11-11T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Cloud Mexico City|DevFest 2026: Innovación en Inteligencia Artificial|México|",
+      "description": "DevFest 2026 invita a quienes desean explorar las tendencias en Inteligencia Artificial y su impacto en la sociedad. Conoce cómo los modelos de IA transforman industrias mediante proyectos innovadores. Es una oportunidad única para aprender, conectar y crecer en comunidad. Participa y forma parte del futuro de la tecnología. ¡Reserva tu lugar hoy!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-devfest-2026-innovacion-en-inteligencia-artificial/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-devfest-2026-innovacion-en-inteligencia-artificial/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "México, Mexico, Mexico",
+      "online": false,
+      "organizer": "GDG Cloud Mexico City",
+      "dtstart": "2026-11-13T09:00:00-06:00",
+      "dtend": "2026-11-14T17:00:00-06:00",
+      "tags": [
+        "Build with AI",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Google Workspace",
+        "Networking",
+        "Tech Talk / Meetup",
+        "cloud",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "México, Mexico, Mexico",
+      "hash_key": "devfest 2026 innovacin en inteligencia a_2026-11-13T14:00:00+00:00"
+    },
+    {
       "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
       "description": "Join us for our inaugural GDG Tijuana event as we pave the way to DevFest Tijuana 2026! Be part of the journey to the most exciting tech event of the year by connecting with fellow developers and tech enthusiasts. Enjoy a day filled with engaging discussions, networking opportunities, and a sneak peek into what DevFest 2026 will offer. Don’t miss the chance to contribute your ideas and shape the f",
       "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
@@ -4389,6 +4621,81 @@
       "city_code": "",
       "address": "TBD, TBD, Tijuana",
       "hash_key": "devfest tijuana 2026_2026-11-13T20:00:00+00:00"
+    },
+    {
+      "title": "GDG San Francisco de Campeche|DevFest Campeche 2026|México|",
+      "description": "¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nosotros este 14 de noviembre en el Centro Internacional de Con...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Internacional de Convenciones y Exposiciones Campeche XXI, 219 Pedro Sainz de Baranda, San Francisco de Campeche",
+      "online": false,
+      "organizer": "GDG San Francisco de Campeche",
+      "dtstart": "2026-11-14T09:00:00-06:00",
+      "dtend": "2026-11-14T19:00:00-06:00",
+      "tags": [
+        "Conference",
+        "DevFest"
+      ],
+      "source": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Centro Internacional de Convenciones y Exposiciones Campeche XXI, 219 Pedro Sainz de Baranda, San Francisco de Campeche",
+      "hash_key": "devfest campeche 2026_2026-11-14T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Guadalajara|DevFest 2026|México|",
+      "description": "Join the second edition of DevFest in Guadalajara, a hub for technology enthusiasts and professionals focused on AI, Cloud, and web development. Discover the latest trends and connect with a vibrant community eager to learn and grow together. Don't miss out—register today and embark on your journey to innovation!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-11-21T09:00:00-06:00",
+      "dtend": "2026-11-21T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "Android",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "ai",
+        "cloud",
+        "security",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
     },
     {
       "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
@@ -4666,7 +4973,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
