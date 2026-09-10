@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:48:16.702435+00:00",
-  "total_events": 158,
+  "generated_at": "2026-09-10T11:34:57.206559+00:00",
+  "total_events": 159,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -82,7 +82,13 @@
     {
       "name": "Python CDMX",
       "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.",
-      "links": []
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/python-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Rust-AICollective",
@@ -3560,7 +3566,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3587,7 +3593,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3730,7 +3736,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3957,6 +3963,42 @@
       "city_code": "",
       "address": "",
       "hash_key": "sept 17 adas av and ai meetup_2026-09-17T16:00:00+00:00"
+    },
+    {
+      "title": "Python CDMX|Meetup Septiembre 2026  -  PythonCDMX|Online",
+      "description": "Python CDMX\n**#PythonCDMX** 🐍 es un grupo de personas interesadas en aprender y compartir conocimientos sobre el lenguaje de programación Python. El objetivo es mantener el contacto con más personas interesadas en innovación y tecnología.\n\n**🚨 IMPORTANTE: NUEVO SISTEMA DE REGISTRO**\n**A partir de ahora ya no se aceptarán registros en Meetup.**\n**Estamos migrando a Luma, nuestra nueva plataforma de registro y comunidad.**\n**👉 Regístrate aquí para obtener tu QR de acceso:**\n**🔗 [https://luma.com/pythoncdmx-eventos-2025](https://luma.com/pythoncdmx-eventos-2025)**\n\n## ​¡Bienvenidx al Meetup de Septiembre de PythonCDMX! 🐍💻\n\n🎤 Charla 1: De audio a producto\n​━━━━━━━━━━━━━━━━━━━━\n​🎤 Charla 2: ¿Cómo sabes que tu RAG funciona?\n​━━━━━━━━━━━━━━━━━━━━\n​📅 17 de septiembre de 2026\n​📍 PayJoy\n​​━━━━━━━━━━━━━━━━━━━━\n​​🙏 Gracias a PayJoy, Python Software Foundation y JetBrains, y a toda la comunidad que hace posibles estos encuentros.\n​\n🐍 Nos vemos para aprender, construir y descubrir juntos.\n​\n**--> Transmisión en vivo <--**\n[YouTube](https://www.youtube.com/@PythonMexico/streams)\n\n**--> Unete al grupo de telegram y platica con más pythonistas <--**\n[https://t.me/PythonCDMX](https://t.me/PythonCDMX)",
+      "url": "https://www.meetup.com/python-mexico/events/316494911/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/python-mexico/events/316494911/",
+          "label": "Ver en Meetup"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/bajgt4xv",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "",
+      "online": true,
+      "organizer": "Python CDMX",
+      "dtstart": "2026-09-17T18:00:00-06:00",
+      "dtend": "2026-09-17T21:00:00-06:00",
+      "tags": [
+        "ai",
+        "frontend",
+        "python"
+      ],
+      "source": "https://www.meetup.com/python-mexico/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "meetup septiembre 2026 pythoncdmx_2026-09-18T00:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Sept 22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language|Online",
