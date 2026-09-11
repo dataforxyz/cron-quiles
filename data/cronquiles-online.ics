@@ -1166,39 +1166,6 @@ LOCATION:https://luma.com/event/evt-vnCi9woG6t4KUEq
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vnCi9woG6t4KUEq
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AWS User Group Mixtli|Sesión de práctica y dudas|Online
-DTSTART:20260910T183000
-CATEGORIES:ai,cloud,frontend,web
-DESCRIPTION:AWS User Group Mixtli\nEn esta sesión tendremos un espacio de
- dicado a **poner en práctica lo aprendido durante el challenge y resolver
-  dudas antes del examen**.\nTrabajaremos con preguntas similares a las que
-  podrías encontrar en la certificación **AWS Certified AI Practitioner**
- \, revisando juntos las respuestas y los conceptos detrás de cada una. Ta
- mbién será un espacio abierto para compartir dudas sobre los temas que h
- ayan resultado más complejos durante las sesiones anteriores y reforzar l
- os conocimientos antes de presentar el examen.\n\n📖 **Material oficial 
- de estudio:**\n\n* [AWS Artificial Intelligence Practitioner Learning Plan
- ](https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelli
- gence-practitioner-learning-plan-espaol-latam/WGQ51HKDAP)\n* [Guía oficia
- l del examen](https://d1.awsstatic.com/onedam/marketing-channels/website/a
- ws/es_ES/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI
- -Practitioner_Exam-Guide.pdf)
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GDG CDMX|Club de lectura de papers de AI: The Illusion of Thinking
- |Online
-DTSTART:20260910T200000
-CATEGORIES:Build with AI,Conference,Tech Talk / Meetup,Workshop / hands-on
-  session,ai
-DESCRIPTION:¿Cómo evaluarías la capacidad real de razonamiento lógico 
- en los nuevos Modelos de Razonamiento Grande (LRMs)? Investiga...
-LOCATION:Online
-X-CRONQUILES-ADDRESS:Online
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rust-AICollective|From Hype to ROI: The Judgment Behind Successful
   AI Projects|Online
 DTSTART:20260914T041500Z
@@ -1357,6 +1324,15 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  prise gateway\, and maintain audit logging and user attribution for every 
  action the agent takes.
 LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claude Community|Seoul  -  Claude Fable 5.1 Build Day|Online
+DTSTART:20260923T050000Z
+CATEGORIES:frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/claude-8b84\n\
+ nHosted by Xavier (최훈민)
+LOCATION:https://luma.com/event/evt-PLuVEhZyPW0PTkM
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-PLuVEhZyPW0PTkM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Technology\, AI and Addictive Behaviors: Can The
