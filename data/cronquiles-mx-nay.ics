@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Nayarit\, México
+X-WR-CALNAME:Eventos Tech Nayarit - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|Nayarit
+DTSTART:20261015T123000
+CATEGORIES:security
+DESCRIPTION:Dev Fest 2026 brings together GDG Tepic and Instituto Tecnoló
+ gico de Tepic's Computer Systems Engineering department for a day of innov
+ ation and collaboration. Engage in workshops and networking with developer
+ s and tech enthusiasts. Be at the forefront of technology in Tepic by secu
+ ring your spot today.
+LOCATION:Museo interactivo de ciencias e innovación de Nayarit\, s/n Aven
+ ida de la Salud\, Tepic
+X-CRONQUILES-ADDRESS:Avenida de las Torres\, Ciudad del Conocimiento\, Tep
+ ic\, Nayarit\, 63509\, México
+X-CRONQUILES-CITY:Tepic
+X-CRONQUILES-CITY-CODE:tepic
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Nayarit
+X-CRONQUILES-STATE-CODE:MX-NAY
+END:VEVENT
+END:VCALENDAR
