@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Baja California\, Mé
+ xico
+X-WR-CALNAME:Eventos Tech Baja California - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:GDG Tijuana|Pruebas de seguridad OWASP con GitHub Actions y Playwr
+ ight|México|Baja California
+DTSTART:20260925T190029
+CATEGORIES:frontend,web
+DESCRIPTION:El Google Developer Group Tijuana invita al taller sobre cómo
+  integrar pruebas de seguridad en el desarrollo de aplicaciones web usando
+  OWASP\, Playwright y GitHub Actions. Guiado por Marco Maldonado\, aprende
+ rás a automatizar pruebas de seguridad y a mejorar la seguridad desde el 
+ desarrollo. Únete a desarrolladores de todos los niveles el 25 de septiem
+ bre de 2026 a las 7:00 PM en el Winchester Pub.
+LOCATION:Winchester Pub\, Av. Revolución 930\, Zona Centro\, 22000 Tijuan
+ a\, B.C.\, Tijuana
+X-CRONQUILES-ADDRESS:Winchester Pub\, 930\, Avenida Revolución\, Zona Cen
+ tro\, Del. Centro\, Tijuana\, Municipio de Tijuana\, Baja California\, 220
+ 00\, México
+X-CRONQUILES-CITY:Tijuana
+X-CRONQUILES-CITY-CODE:tijuana
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Baja California
+X-CRONQUILES-STATE-CODE:MX-BCN
+END:VEVENT
+END:VCALENDAR
