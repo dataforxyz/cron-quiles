@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T11:30:33.505736+00:00",
-  "total_events": 2,
+  "generated_at": "2026-09-18T16:44:49.095994+00:00",
+  "total_events": 3,
   "city": "Nuevo León",
   "communities": [
     {
@@ -18,6 +18,17 @@
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
       "links": []
+    },
+    {
+      "name": "GDG Monterrey",
+      "description": "Disclaimer: GDG Monterrey is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-monterrey/",
+          "label": "Sitio web"
+        }
+      ]
     }
   ],
   "events": [
@@ -79,6 +90,45 @@
       "city_code": "",
       "address": "Avenida Lázaro Cárdenas, Zona Valle Oriente Norte, San Pedro Garza García, Nuevo León, 66266, México",
       "hash_key": "del hype al impacto cmo se hace banca y _2026-08-13T22:00:00+00:00"
+    },
+    {
+      "title": "GDG Monterrey|DevFest 2026 Monterrey: Innovación con IA|México|Nuevo León",
+      "description": "Únete a nosotros en el DevFest 2026 Monterrey: Innovación con IA, donde exploraremos las últimas tendencias en inteligencia artificial y tecnologías de Google. Podrás participar en talleres interactivos que te ayudarán a sacar el máximo provecho a las herramientas de Inteligencia Artificial que brinda Google; aprenderás de expertos en la industria y tendrás la oportunidad de conectar con expertos.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "FCFM - Facultad de Ciencias Físico Matemáticas, Pedro de Alba, San Nicolás de los Garza",
+      "online": false,
+      "organizer": "GDG Monterrey",
+      "dtstart": "2026-10-22T09:00:00-06:00",
+      "dtend": "2026-10-22T18:00:00-06:00",
+      "tags": [
+        "AI",
+        "Angular",
+        "Build with AI",
+        "Career Development",
+        "Conference",
+        "DevFest",
+        "Hackathon",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-monterrey/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Nuevo León",
+      "state_code": "MX-NLE",
+      "city": "San Nicolás de los Garza",
+      "city_code": "sannicolasdelosgarza",
+      "address": "Pedro de Alba, San Nicolás de los Garza, Nuevo León, 66455, México",
+      "hash_key": "devfest 2026 monterrey innovacin con ia_2026-10-22T14:00:00+00:00"
     }
   ]
 }
