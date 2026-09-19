@@ -78,8 +78,38 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
+    "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44610, México",
     "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
+  },
+  {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nThis workshop is a hands-on tour of what actually breaks when you load real LeRobot datasets, and how Voxel51's native LeRobot support in FiftyOne catches it.\n\n**Date, Time and Location**\n\nNov 19, 2026\n9:00 AM - 10:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/lerobot-workshop-november-19-2026)**\n\nRobot learning data doesn't look like the data that trains most vision-language models. It's temporal, low-dimensional in the parts that matter most, embodiment-specific, and expensive to collect, and increasingly, it's shipped in Hugging Face's LeRobot format. But packaging robot data consistently isn't the same as being able to see it: episodes hide broken metadata, silently dropped sensor modalities, and mismatched schemas between robots that look identical on paper.\n\nStarting from the core differences that make robot data hard (temporal structure, proprioception, action grounding, embodiment heterogeneity, data scarcity), we'll move into live debugging: a metadata bug that broke multiple dataset imports, sensor streams that vanish without an error, and two robots running an identical benchmark whose data is structurally incompatible. By the end, you'll know what to check before you trust a LeRobot dataset, and how to actually look inside one.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316617443/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316617443/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-11-19T11:00:00-06:00",
+    "dtend": "2026-11-19T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "nov 19 visualizing and debugging hugging_2026-11-19T16:00:00+00:00"
   },
   {
     "title": "GDG San Francisco de Campeche|DevFest Campeche 2026|México|Campeche",
@@ -907,7 +937,7 @@
     "state_code": "MX-JAL",
     "city": "Zapopan",
     "city_code": "zapopan",
-    "address": "Avenida Patria, Lomas del Seminario, Zapopan, Región Centro, Jalisco, 45020, México",
+    "address": "Avenida Patria, Villas del Río, Zapopan, Región Centro, Jalisco, 44218, México",
     "hash_key": "ai chill_2026-09-26T00:00:00+00:00"
   },
   {
@@ -1303,33 +1333,6 @@
     "hash_key": "vibe coding caf_2026-09-18T22:00:00+00:00"
   },
   {
-    "title": "Claude Community|Mexico City  -  Claude For Healthcare UNAM|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claude-ejbg\n\nAddress:\nCarlos Graef Fernández\nCiudad de México, Mexico\n\nHosted by Cesar Méndez, Fer Osorio & Claude Community",
-    "url": "https://luma.com/claude-ejbg",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claude-ejbg",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Carlos Graef Fernández, Cto. Bicipuma 3000, C.U., Coyoacán, 04510 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Claude Community",
-    "dtstart": "2026-09-18T21:30:00+00:00",
-    "dtend": "2026-09-19T01:00:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "mexico city claude for healthcare unam_2026-09-18T20:00:00+00:00"
-  },
-  {
     "title": "Python CDMX|Meetup Septiembre 2026  -  PythonCDMX|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/bajgt4xv\n\nAddress:\nFlexoffices Juárez\nCiudad de México, Mexico\n\nHosted by Luis Daniel Paredes Zamudio & Adan Garcia Quiroz",
     "url": "https://luma.com/bajgt4xv",
@@ -1378,7 +1381,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1436,7 +1439,7 @@
     "dtstart": "2026-08-26T22:00:00+00:00",
     "dtend": "2026-08-26T23:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1523,7 +1526,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -1611,7 +1614,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2129,7 +2132,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2214,7 +2217,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2388,7 +2391,7 @@
     "dtstart": "2026-04-24T15:00:00+00:00",
     "dtend": "2026-04-24T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3279,14 +3282,14 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -3364,7 +3367,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3425,7 +3428,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3456,7 +3459,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3510,7 +3513,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3539,7 +3542,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3595,7 +3598,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3624,7 +3627,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3651,7 +3654,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3707,7 +3710,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3734,7 +3737,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3763,7 +3766,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3792,7 +3795,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3821,7 +3824,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3851,7 +3854,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3905,7 +3908,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3934,7 +3937,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3963,7 +3966,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3992,7 +3995,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4050,7 +4053,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4079,7 +4082,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4108,7 +4111,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4138,7 +4141,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4167,7 +4170,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4197,7 +4200,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4227,7 +4230,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4256,7 +4259,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4283,14 +4286,14 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -4312,7 +4315,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4339,7 +4342,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4368,7 +4371,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4398,7 +4401,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4428,7 +4431,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4455,7 +4458,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4482,7 +4485,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4509,7 +4512,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4539,7 +4542,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4881,7 +4884,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5816,7 +5819,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5983,7 +5986,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7441,7 +7444,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7639,7 +7642,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7693,7 +7696,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -15497,7 +15500,7 @@
     "dtstart": null,
     "dtend": null,
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",

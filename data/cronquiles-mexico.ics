@@ -5599,7 +5599,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/7mivqqeo\n\nAd
  FinTech México & 4 others
 LOCATION:Dalia\, Monte Líbano 215\, Lomas de Chapultepec\, Miguel Hidalgo
  \, 11000 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 2ª Secci
+X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 6ª Secci
  ón\, Lomas de Chapultepec\, Ciudad de México\, Miguel Hidalgo\, Ciudad d
  e México\, 11000\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -6208,8 +6208,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/64grz37k\n\nAd
 LOCATION:Universidad Nacional Autónoma de México\, Ciudad de México\, M
  éxico
 X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Circuito 
- Zona Deportiva\, Jardines del Pedregal\, Ciudad de México\, Coyoacán\, C
- iudad Universitaria\, Ciudad de México\, 04360\, México
+ Zona Deportiva\, Ciudad de México\, Coyoacán\, Ciudad Universitaria\, Ci
+ udad de México\, 04360\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -7327,22 +7327,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Claude Community|Mexico City  -  Claude For Healthcare UNAM|Méxic
- o|Ciudad de México
-DTSTART:20260918T213000Z
-DESCRIPTION:Get up-to-date information at: https://luma.com/claude-ejbg\n\
- nAddress:\nCarlos Graef Fernández\nCiudad de México\, Mexico\n\nHosted b
- y Cesar Méndez\, Fer Osorio & Claude Community
-LOCATION:Carlos Graef Fernández\, Cto. Bicipuma 3000\, C.U.\, Coyoacán\,
-  04510 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Ciudad de México\, México
-X-CRONQUILES-CITY-CODE:cdmx
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Ciudad de México
-X-CRONQUILES-STATE-CODE:MX-CMX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
 DTSTART:20260918T220000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/0t82pa2f\n\nAd
@@ -7664,8 +7648,8 @@ DESCRIPTION:Join Improving Nearshore for an evening of AI discussions\, ne
  rspectives\, and sharing knowledge. Reserve your spot for an engaging expe
  rience at Av. Patria #888\, Piso 4\, Col Loma Real.
 LOCATION:Improving\, 888 Avenida Patria\, Zapopan
-X-CRONQUILES-ADDRESS:Avenida Patria\, Lomas del Seminario\, Zapopan\, Regi
- ón Centro\, Jalisco\, 45020\, México
+X-CRONQUILES-ADDRESS:Avenida Patria\, Villas del Río\, Zapopan\, Región 
+ Centro\, Jalisco\, 44218\, México
 X-CRONQUILES-CITY:Zapopan
 X-CRONQUILES-CITY-CODE:zapopan
 X-CRONQUILES-COUNTRY:México
@@ -8324,6 +8308,32 @@ X-CRONQUILES-STATE:Campeche
 X-CRONQUILES-STATE-CODE:MX-CAM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
+ 19 - Visualizing and Debugging Hugging Face's LeRobot Data|Online
+DTSTART:20261119T110000
+CATEGORIES:ai,data
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nThis workshop is a hands-on tour of what actually breaks when you load re
+ al LeRobot datasets\, and how Voxel51's native LeRobot support in FiftyOne
+  catches it.\n\n**Date\, Time and Location**\n\nNov 19\, 2026\n9:00 AM - 1
+ 0:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events
+ /lerobot-workshop-november-19-2026)**\n\nRobot learning data doesn't look 
+ like the data that trains most vision-language models. It's temporal\, low
+ -dimensional in the parts that matter most\, embodiment-specific\, and exp
+ ensive to collect\, and increasingly\, it's shipped in Hugging Face's LeRo
+ bot format. But packaging robot data consistently isn't the same as being 
+ able to see it: episodes hide broken metadata\, silently dropped sensor mo
+ dalities\, and mismatched schemas between robots that look identical on pa
+ per.\n\nStarting from the core differences that make robot data hard (temp
+ oral structure\, proprioception\, action grounding\, embodiment heterogene
+ ity\, data scarcity)\, we'll move into live debugging: a metadata bug that
+  broke multiple dataset imports\, sensor streams that vanish without an er
+ ror\, and two robots running an identical benchmark whose data is structur
+ ally incompatible. By the end\, you'll know what to check before you trust
+  a LeRobot dataset\, and how to actually look inside one.
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GDG Guadalajara|DevFest 2026|México|Jalisco
 DTSTART:20261121T090000
 CATEGORIES:AI,Android,Career Development,Community Building,Conference,Dev
@@ -8336,8 +8346,8 @@ DESCRIPTION:Join the second edition of DevFest in Guadalajara\, a hub for
  bark on your journey to innovation!
 LOCATION:Centro Universitario de Guadalajara (CUGDL)\, 1045 Calle Guanajua
  to\, Guadalajara
-X-CRONQUILES-ADDRESS:Calle Guanajuato\, La Normal\, Guadalajara\, Región 
- Centro\, Jalisco\, 44260\, México
+X-CRONQUILES-ADDRESS:Calle Guanajuato\, Mezquitán\, Guadalajara\, Región
+  Centro\, Jalisco\, 44610\, México
 X-CRONQUILES-CITY:Guadalajara
 X-CRONQUILES-CITY-CODE:guadalajara
 X-CRONQUILES-COUNTRY:México
