@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-22T05:01:34.268528+00:00",
-  "total_events": 1,
+  "generated_at": "2026-09-22T11:52:25.366865+00:00",
+  "total_events": 2,
   "city": "Campeche",
   "communities": [
+    {
+      "name": "Rust-AICollective",
+      "description": "Comunidad de Rust y AI en Ciudad de México. Eventos sobre desarrollo en Rust, inteligencia artificial y desafíos técnicos.",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/rust-ios-ai",
+          "label": "Luma"
+        }
+      ]
+    },
     {
       "name": "GDG San Francisco de Campeche",
       "description": "El Grupo de Desarrolladores de Google (GDG) en San Francisco de Campeche es un colectivo de entusiastas de la tecnología dedicado a fomentar el aprendizaje, la colaboración y la productividad entre los desarrolladores en Campeche y sus alrededores. Fundado en mayo de 2019, nuestra comunidad es un hervidero de innovación y creatividad tecnológica.",
@@ -16,6 +27,35 @@
     }
   ],
   "events": [
+    {
+      "title": "Rust-AICollective|Hack for Humanity: Carmen-Campeche|México|Campeche",
+      "description": "Get up-to-date information at: https://luma.com/h4h-campeche\n\nAddress:\nCentro de Tecnologías de Información\nCiudad del Carmen, Mexico\n\nHosted by AJ Green & 6 others",
+      "url": "https://luma.com/h4h-campeche",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/h4h-campeche",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Centro de Tecnologías de Información, Av. Aviacion s/n, Petrolera, 24179 Cdad. del Carmen, Camp., Mexico",
+      "online": false,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-10-15T16:00:00+00:00",
+      "dtend": "2026-10-15T22:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Campeche",
+      "state_code": "MX-CAM",
+      "city": "",
+      "city_code": "",
+      "address": "Campeche, México",
+      "hash_key": "hack for humanity carmen campeche_2026-10-15T16:00:00+00:00"
+    },
     {
       "title": "GDG San Francisco de Campeche|DevFest Campeche 2026|México|Campeche",
       "description": "¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nosotros este 14 de noviembre en el Centro Internacional de Con...",
