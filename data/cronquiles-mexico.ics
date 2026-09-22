@@ -1785,6 +1785,22 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|"La Revolución Agro en México: Finanzas Digital
+ es para un Campo Sostenible"|México|Ciudad de México
+DTSTART:20241024T170000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/s1nn9o4d\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  3 others
+LOCATION:Ciudad de México\, Mexico
+X-CRONQUILES-ADDRESS:Ciudad de México\, México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Generative AI: Arquitectura\, Funcionamiento y Ap
  licaciones en la Nube|Online
 DTSTART:20241024T170000Z
@@ -6192,8 +6208,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/64grz37k\n\nAd
 LOCATION:Universidad Nacional Autónoma de México\, Ciudad de México\, M
  éxico
 X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Circuito 
- Zona Deportiva\, Ciudad de México\, Coyoacán\, Ciudad Universitaria\, Ci
- udad de México\, 04360\, México
+ Zona Deportiva\, Jardines del Pedregal\, Ciudad de México\, Coyoacán\, C
+ iudad Universitaria\, Ciudad de México\, 04360\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6503,9 +6519,10 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/claudecolima\n
  \nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira d
  e la Vega\, Miguel Oceguera & WDT Colima
 LOCATION:Centro\, Colima\, México
-X-CRONQUILES-ADDRESS:Centro\, Coquimatlán\, Colima\, 28400\, México
-X-CRONQUILES-CITY:Coquimatlán
-X-CRONQUILES-CITY-CODE:coquimatlan
+X-CRONQUILES-ADDRESS:Centro\, Colima\, Municipio de Colima\, Colima\, 2800
+ 0\, México
+X-CRONQUILES-CITY:Colima
+X-CRONQUILES-CITY-CODE:colima
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Colima
@@ -7339,32 +7356,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Sept
-  22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language|O
- nline
-DTSTART:20260922T100000
-CATEGORIES:ai,data,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nLearn about FiftyOne Agent\, an AI assistant built directly into FiftyOne
-  that turns plain-language requests into real dataset operations.\n\n**Dat
- e\, Time and Location**\n\nSep 22\, 2026\n9:00 AM - 10:00 AM Pacific\nOnli
- ne. **[Register for the Zoom!](https://voxel51.com/events/meet-the-fiftyon
- e-agent-automate-visual-ai-workflows-with-natural-language-september-22-20
- 26)**\n\nAsk it to find and remove duplicate images\, run object detection
-  and surface low-confidence predictions\, or evaluate a model and summariz
- e where it fails\, and the agent handles execution end to end.\n\nWe will 
- also walk through the newest capabilities shipping with this release\, inc
- luding code generation and plugin generation. You will see how to go from 
- a conversational prompt to a custom dashboard\, visualization\, or full Fi
- ftyOne application\, and how to package multi-step workflows as reusable s
- kills the agent can call on demand.\n\nBecause the agent runs inside Fifty
- One's secure guardrails\, teams keep full control. Connect your preferred 
- models from over 100 LLM providers\, route requests through your own enter
- prise gateway\, and maintain audit logging and user attribution for every 
- action the agent takes.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI/IA CDMX|¿Sueñan los Androides con Agujeros Negros? - Do Andro
  ids Dream of Black Holes?|México|Ciudad de México
 DTSTART:20260923T000000Z
@@ -7483,7 +7474,7 @@ SUMMARY:Rust-AICollective|Building Brands AI Can't Fake|Online
 DTSTART:20260924T180000Z
 CATEGORIES:ai,frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/5a5dpr2w\n\nHo
- sted by Cat Valverde & 3 others
+ sted by Cat Valverde & 4 others
 LOCATION:https://luma.com/event/evt-CwB24PAcnCrnB2j
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-CwB24PAcnCrnB2j
 END:VEVENT
@@ -7554,6 +7545,22 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG CDMX|Club de lectura de papers de AI: The Unreasonable Effecti
+ veness of Recurrent Neural Networks|Online
+DTSTART:20260924T200000
+CATEGORIES:AI,AI - Gemini,Build with AI,Career Development,Workshop / hand
+ s-on session,ai
+DESCRIPTION:El Club de Lectura de Papers de Inteligencia Artificial invita
+  a ingenieras/os de software\, investigadoras/es y entusiastas de la tecno
+ logía a la sesión dedicada al análisis del influyente artículo de Andr
+ ej Karpathy: "The Unreasonable Effectiveness of Recurrent Neural Networks"
+  (La irracional efectividad de las redes neuronales recurrentes).
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Claude Community|Mexico City  -  Claude for Research Meetup|Méxic
  o|Estado de México
 DTSTART:20260925T160000Z
@@ -7592,8 +7599,8 @@ DESCRIPTION:Join Improving Nearshore for an evening of AI discussions\, ne
  rspectives\, and sharing knowledge. Reserve your spot for an engaging expe
  rience at Av. Patria #888\, Piso 4\, Col Loma Real.
 LOCATION:Improving\, 888 Avenida Patria\, Zapopan
-X-CRONQUILES-ADDRESS:Avenida Patria\, Loma Bonita Ejidal\, Zapopan\, Regi
- ón Centro\, Jalisco\, 45607\, México
+X-CRONQUILES-ADDRESS:Avenida Patria\, Villas del Río\, Zapopan\, Región 
+ Centro\, Jalisco\, 44218\, México
 X-CRONQUILES-CITY:Zapopan
 X-CRONQUILES-CITY-CODE:zapopan
 X-CRONQUILES-COUNTRY:México
@@ -7623,6 +7630,22 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Jalisco
 X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Crea un videojuego basado en la web con Inteligencia Arti
+ ficial|Online
+DTSTART:20260925T200000
+CATEGORIES:AI,AI - Gemini,Build with AI,Career Development,Workshop / hand
+ s-on session,backend,cloud,web
+DESCRIPTION:El Google Developer Group CDMX invita a ingenieras/os de softw
+ are\, investigadoras/es y entusiastas de la tecnología a la sesión dedic
+ ada al desarrollo del Codelab: Crea un videojuego basado en la web con Int
+ eligencia Artificial utilizando Firestore\, Event Sourcing\, Google Sign-I
+ n y Cloud Rum
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Tijuana|Beyond the Stack: Seguridad\, Computación Cuántica e
@@ -7655,6 +7678,23 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-co-9-26\n\
  nHosted by The AI Collective & 3 others
 LOCATION:https://luma.com/event/evt-AtOS7XkIN1npkr7
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-AtOS7XkIN1npkr7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG CDMX|Introducción al Cálculo Infinitesimal & Avanzado parte 
+ II|Online
+DTSTART:20260926T190000
+CATEGORIES:AI,AI - Gemini,Build with AI,Career Development,Workshop / hand
+ s-on session
+DESCRIPTION:El GDG CDMX invita a ingenieras/os de software\, investigadora
+ s/es y entusiastas de la tecnología a la sesión dedicada al análisis de
+ l tema: Introducción al Cálculo Infinitesimal & Avanzado parte II. Se tr
+ ata de una revisión concisa de derivadas\, derivadas parciales y gradient
+ es\, dando paso a la implementación práctica de optimización y descenso
+  del gradiente desde cero.
+LOCATION:Online
+X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Technology\, AI and Addictive Behaviors: Can The
@@ -8016,6 +8056,49 @@ LOCATION:https://luma.com/event/evt-VqJLcNRFMluK5qx
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-VqJLcNRFMluK5qx
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
+ 14 - Advances in AI at SDSU|Online
+DTSTART:20261014T100000
+CATEGORIES:ai,security
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup to hear talks from AI researchers at San Diego St
+ ate University.\n\n**Date\, Time Location**\n\nOct 14\, 2026\n9:00 AM - 11
+ :00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/
+ advances-in-ai-at-sdsu-october-14-2026)**\n\n**Agent as Policy for Robotic
+  Manipulation**\n\nThis talk will introduces how a general-purpose agent c
+ an directly drive a physical robot throughout task execution without any t
+ ask-specific or environment-specific training. We introduce Agent as Polic
+ y (AGP)\, which places task planning and execution under the agent’s con
+ trol.\n\n*About the Speaker*\n\n[Xiaobai Liu](https://www.linkedin.com/in/
+ xiaobai-liu-33598336/) is a Professor of Computer Science at San Diego Sta
+ te University (SDSU)\, where he directs the Machine Vision and Perception 
+ Lab. Prior to joining SDSU in 2015\, he conducted research and taught at U
+ CLA.\n\n**Grounding Multimodal Open-World Learning for Physical AI**\n\nPh
+ ysical AI systems such as robots\, unmanned vehicles\, and embodied agents
+  must perceive and reason about a world that is dynamic\, unstructured\, a
+ nd rarely matches their training distribution. Yet most multimodal models 
+ remain brittle when confronted with novel objects\, unseen conditions\, an
+ d a messy unstructured environment.\n\nThis talk develops how grounding pe
+ rception across modalities and environments can make open-world learning m
+ ore robust for physically situated systems. Drawing on our recent work\, I
+  will highlight the core challenges of multimodal open-world learning incl
+ uding out-of-distribution detection\, distribution shift generalization\, 
+ and cascaded semantic grounding and point toward multimodal systems that s
+ tay reliable when deployed in the unpredictable open world.\n\n*About the 
+ Speakers*\n\n[Salimeh Sekeh](https://www.linkedin.com/in/salimeh-sekeh-654
+ 73344/) is an Associate Professor of Computer Science at San Diego State U
+ niversity (SDSU)\, where she directs the Sekeh Laboratory. Her recognition
+  includes an NSF CAREER Award and a Cisco research gift (both 2022)\, and 
+ the Maine College of Engineering and Computing Early Career Research Award
+  (2023)\, along with multiple industry and federal research awards.\n\n[Ma
+ ry Wisell ](https://www.linkedin.com/in/mary-isabelle-wisell/)is a second-
+ year PhD student in the Sekeh Lab and leads the lab's work on environment-
+ aware OOD detection and cascaded failure analysis for multimodal intellige
+ nce with several publications in top-tier Machine Learning and computer vi
+ sion conferences.
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Hack for Humanity: Carmen-Campeche|México|Campe
  che
 DTSTART:20261015T160000Z
@@ -8180,6 +8263,65 @@ X-CRONQUILES-STATE:Nuevo León
 X-CRONQUILES-STATE-CODE:MX-NLE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
+ 22 - Advances in AI at Virginia Tech|Online
+DTSTART:20261022T100000
+CATEGORIES:ai,data,frontend
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup to hear talks from AI researchers at Virginia Tec
+ h!\n\n**Date\, Time and Location**\n\nOct 22\, 2026\n9:00 AM - 11:00 AM PS
+ T\n**[Online. Register for the Zoom!](https://voxel51.com/events/advances-
+ in-ai-at-virginia-tech-october-22-2026)**\n\n**Multi-Agent Communication: 
+ A framework\, diagnostic and mechanistic perspective**\n\nMulti-agent LLM 
+ systems are increasingly used for collaborative reasoning\, debate\, and c
+ onsensus\, yet their communication dynamics remain poorly understood. This
+  talk presents a framework for studying multi-agent communication through 
+ diagnostic and mechanistic perspectives.\n\nI will discuss CONSENSAGENT\, 
+ which improves consensus by mitigating sycophancy\, alongside our diagnost
+ ic work on communication patterns and failure modes in real-world multi-ag
+ ent debates. I will then present ongoing work that moves toward a mechanis
+ tic understanding of how these interaction patterns arise internally\, wit
+ h the broader goal of making multi-agent systems more interpretable\, reli
+ able\, and controllable.\n\n*About the Speaker*\n\n[Priya Pitre](https://w
+ ww.linkedin.com/in/priya-p-a31360117/) I am an Ph.D student in the Compute
+ r Science Department at Virginia Tech (VT)\, co-advised by Dr. Xuan Wang a
+ nd Dr. Naren Ramakrishnan.\n\n**Exposing and Improving Fine-Grained Visual
+  Grounding Abilities of Lightweight Multimodal LLMs**\n\nLightweight multi
+ modal LLMs can localize whole objects effectively\, yet often struggle whe
+ n a query targets a small object part or fine-grained visual detail. This 
+ talk presents a reasoning-guided framework that teaches compact models to 
+ ground parts through an explicit coarse-to-fine process: first locating th
+ e parent object\, then identifying the requested part.\n\nA part-aware rei
+ nforcement-learning objective provides stage-wise rewards for object accur
+ acy\, part containment\, and the consistency of the model’s self-critiqu
+ e. Using these techniques\, a compact 4B-parameter model achieves state-of
+ -the-art zero-shot part grounding while preserving its object-level perfor
+ mance.\n\nThese advances can be used to enable lightweight MLLMs to suppor
+ t detail-oriented tasks in biology and robotics.\n\n*About the Speaker*\n\
+ n[Kazi Mehrab ](https://www.linkedin.com/in/ksmehrab/)I a CS PhD candidate
+  at Virginia Tech\, where I currently focus on multimodal LLMs and compute
+ r vision tasks\, including visual perception\, reasoning and grounding.\n\
+ n**Understanding Visual Generative Models for Precise Control**\n\nDespite
+  remarkable progress in image and video generation\, translating user inte
+ nt into precise and consistent visual outputs remains a challenge. This ta
+ lk explores how understanding the representations within generative models
+  can enable finer control over what they create.\n\nIt connects semantic i
+ mage editing with compositional generation\, examining how visual concepts
+  can be isolated\, manipulated\, and combined while preserving their ident
+ ity and surrounding content. Building on these insights\, structured visua
+ l inputs provide a way to express complex intent through subject reference
+ s\, poses\, and spatial layouts.\n\nThe discussion then extends from image
+ s to video\, where representations must evolve to preserve scene continuit
+ y while accommodating motion and change. Together\, these directions estab
+ lish a unified perspective on how visual representations can support contr
+ ollable editing\, composition\, and coherent generation across space and t
+ ime.\n\n*About the Speaker*\n\n[Yusuf Dalva](https://www.linkedin.com/in/y
+ usuf-dalva/) is a Ph.D. candidate at Virginia Tech\, advised by Pinar Yana
+ rdag and affiliated with the Sanghani Center for Artificial Intelligence a
+ nd Data Analytics.
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Claude Community|Mexico City  -  Claude for Marketers|México|Ciud
  ad de México
 DTSTART:20261022T233000Z
@@ -8234,16 +8376,21 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Villahermosa|DevFest 2026: Sureste de México|México|
+SUMMARY:GDG Villahermosa|DevFest 2026: Sureste de México|Colombia|Tolima
 DTSTART:20261111T080000
 CATEGORIES:AI,Conference,DevFest,Google Cloud,Web,Workshop / hands-on sess
  ion,backend
 DESCRIPTION:Únete a nosotros en el Devfest 2026. Este evento emblemático
   es una oportunidad única para sumergirse en las tendencias ...
 LOCATION:Por Definir\, Villahermosa\, Villahermosa
-X-CRONQUILES-ADDRESS:Por Definir\, Villahermosa\, Villahermosa
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-ADDRESS:Villahermosa\, Nevados\, Tolima\, RAP (Especial) Cent
+ ral\, Colombia
+X-CRONQUILES-CITY:Villahermosa
+X-CRONQUILES-CITY-CODE:villahermosa
+X-CRONQUILES-COUNTRY:Colombia
+X-CRONQUILES-COUNTRY-CODE:CO
+X-CRONQUILES-STATE:Tolima
+X-CRONQUILES-STATE-CODE:CO-TOL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
