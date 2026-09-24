@@ -1166,122 +1166,6 @@ LOCATION:https://luma.com/event/evt-vnCi9woG6t4KUEq
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vnCi9woG6t4KUEq
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Sept
-  24 - AI\, ML and Computer Vision Meetup|Online
-DTSTART:20260924T100000
-CATEGORIES:ai,backend,data,frontend,mobile,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nJoin our virtual meetup on September 24 to hear talks from experts on cut
- ting-edge topics across AI\, ML\, and computer vision.\n\n**Date\, Time an
- d Location**\n\nSep 24\, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register
-  for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetu
- p-september-24-2026)**\n\n**How Do Mercedes-Benz AI Principles Drive our I
- nnovation?**\n\nAt Mercedes-Benz\, our AI Principles guide every step of i
- nnovation\, emphasizing responsible use\, safety and reliability\, explain
- ability\, and the protection of privacy. These principles go beyond statem
- ents and actively shape how we design\, test\, and deploy AI systems in re
- al-world automotive and enterprise settings. In this talk\, I will present
-  how these principles inspired our recent research on when reusing LoRA (L
- ow-Rank Adaptation) is effective. By combining theoretical analysis with s
- ynthetic data as a proxy for enterprise scenarios\, we uncovered the stren
- gths and limitations of modular AI components under constrained data acces
- s. Our findings provide practical guidance on when reused LoRAs could deli
- ver high-quality results.\n\n*About the Speaker*\n\n[Mei-Yen Chen](https:/
- /www.linkedin.com/in/mei-yen-chen-22937787) is a Senior Data Scientist at 
- Mercedes-Benz Tech Innovation GmbH in Germany with 10 years of industry ex
- perience in AI and data solutions. She leads early-stage AI projects acros
- s business functions and collaborates with research institutions on machin
- e learning and responsible AI.\n\n**Region Tokens as the Visual Primitive:
-  From Recognition to World Modeling**\n\nPatch-based tokenization has beco
- me the default interface between vision encoders and downstream models\, y
- et patches carry no semantic structure and scale poorly with resolution an
- d temporal extent. This talk presents a research program centered on repla
- cing patch tokens with region-level representations — semantically dense
-  tokens grounded in visual entities rather than arbitrary grid crops.\n\nI
-  will describe RELOCATE\, REN\, and T-REN\, a progression of methods that 
- produce region tokens via pooling\, train them with region-level objective
- s\, and extend them to video with temporal coherence. I will then present 
- ongoing work integrating region tokens into VLMs to directly expand visual
-  context capacity\, and preliminary results on future region trajectory pr
- ediction as a foundation for world modeling.\n\nThe broader thesis is that
-  region-level tokens are a more natural unit of visual computation than pa
- tches\, and their advantage compounds as task complexity\, resolution\, an
- d temporal horizon increase.\n\n*About the Speaker*\n\n[Savya Khosla](http
- s://www.linkedin.com/in/savyakhosla/) is a second-year Ph.D. student at th
- e University of Illinois Urbana-Champaign\, advised by Prof. Derek Hoiem a
- nd Prof. Alex Schwing.\n\n**Leveraging Text-To-Image Diffusion Models for 
- Consistent Set-to-Set Generation**\n\nImage collections are humans' primar
- y way of capturing the world\, yet advances in generative editing remain l
- argely inapplicable to this modality. We address this gap by introducing M
- atch-and-Fuse - a zero-shot\, training-free method for consistent set-to-s
- et generation from image collections that share a common visual element bu
- t differ in viewpoint\, capture time\, and surrounding content.\nOur key i
- dea is a unified graph-based framework that combines dense correspondences
-  with an emergent prior in text-to-image diffusion models to generate cohe
- rent canvases. We achieve state-of-the-art consistency and visual quality\
- , and unlock new creative capabilities for content generation.\n\n*About t
- he Speaker*\n\n[Kate Feingold](https://www.linkedin.com/in/katefeingold/) 
- is a PhD student in Computer Vision at the Weizmann Institute of Science. 
- Her research sits at the intersection of generative models\, 3D/4D percept
- ion\, and multimodal learning\, focusing on problems where vision meets ot
- her modalities or paradigms in creative tasks.\n\n**Yield Estimation of a 
- Coffee in a dense environment**\n\nThis presentation provides a detailed w
- orkflow related to coffee yield estimation in a dense environment. With ph
- otos of pre-harvest coffee plants from a couple of coffee estates\, detail
- s related to pre-processing\, annotation to detect regions of interest (RO
- I)\, object detection training and inferencing results with various Yolo m
- odels and finally segmentation with SAM2 and Yolo\\*-seg with training and
-  inference results to determine the count of raw\, pre-mature\, mature and
-  over-mature coffee berries and finally the yield of the entire estate. Al
- l this is based on real world data captured on iPhone and android phones.\
- n\n*About the Speaker*\n\n[Raghu M. Rao](http://www.linkedin.com/in/raghum
- rao) is a consultant working on applications of computer vision AI models.
-  He was previously with AMD and Xilinx. He has a Ph.D. in Wireless Communi
- cations from UCLA and is a Senior Member\, IEEE. His current interests are
-  in applications of AI for agriculture\, health care and wireless communic
- ations.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Lunch & Hack: AI Agents vs Agentic Workflows (w/
-  The AI Collective)|Online
-DTSTART:20260924T170000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-9-24\n\
- nHosted by The AI Collective & Adelina Martiniuc
-LOCATION:https://luma.com/event/evt-HnYP23vkLk9WSuF
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-HnYP23vkLk9WSuF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Building Brands AI Can't Fake (w/ The AI Collect
- ive)|Online
-DTSTART:20260924T180000Z
-CATEGORIES:ai,frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-9-25\n\
- nHosted by The AI Collective & 4 others
-LOCATION:https://luma.com/event/evt-jiKgIFzYfG3meWy
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-jiKgIFzYfG3meWy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Building Brands AI Can't Fake|Online
-DTSTART:20260924T180000Z
-CATEGORIES:ai,frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/5a5dpr2w\n\nHo
- sted by Cat Valverde & 4 others
-LOCATION:https://luma.com/event/evt-CwB24PAcnCrnB2j
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-CwB24PAcnCrnB2j
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Practical AI at Work: Create a "Write Emails Lik
- e Me" Skill|Online
-DTSTART:20260924T190000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/xb9vlwe9\n\nHo
- sted by Bill Raymond & The AI Collective
-LOCATION:https://luma.com/event/evt-W8OIFVWMWyRHZt4
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-W8OIFVWMWyRHZt4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG CDMX|Club de lectura de papers de AI: The Unreasonable Effecti
  veness of Recurrent Neural Networks|Online
 DTSTART:20260924T200000
@@ -1606,6 +1490,15 @@ LOCATION:https://luma.com/event/evt-hNNr1fqTW4kqq40
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-hNNr1fqTW4kqq40
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Claude Community|San Francisco  -  Claude Workshop|Online
+DTSTART:20261010T220000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/claude-ssil\n\
+ nHosted by Arjita Sethi\, Rhythm Gandhi & Build with AI Club
+LOCATION:https://luma.com/event/evt-BTh4y9FClguDuvB
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-BTh4y9FClguDuvB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Can AI Help Prevent Toxic Relationships and Gend
  er-Based Violence? Lessons from Finland and Brazil|Online
 DTSTART:20261014T160000Z
@@ -1727,22 +1620,6 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|
-DTSTART:20261015T123000
-CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,security
-DESCRIPTION:Dev Fest 2026 brings together GDG Tepic and Instituto Tecnoló
- gico de Tepic's Computer Systems Engineering department for a day of innov
- ation and collaboration. Engage in workshops and networking with developer
- s and tech enthusiasts. Be at the forefront of technology in Tepic by secu
- ring your spot today.
-LOCATION:Museo interactivo de ciencias e innovación de Nayarit\, s/n Aven
- ida de la Salud\, Tepic
-X-CRONQUILES-ADDRESS:Museo interactivo de ciencias e innovación de Nayari
- t\, s/n Avenida de la Salud\, Tepic
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
  22 - Advances in AI at Virginia Tech|Online
 DTSTART:20261022T100000
@@ -1804,8 +1681,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Villahermosa|DevFest 2026: Sureste de México|México|
 DTSTART:20261111T080000
-CATEGORIES:AI,Conference,DevFest,Google Cloud,Web,Workshop / hands-on sess
- ion,backend
+CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Web,Workshop / h
+ ands-on session,backend
 DESCRIPTION:Únete a nosotros en el Devfest 2026. Este evento emblemático
   es una oportunidad única para sumergirse en las tendencias ...
 LOCATION:Por Definir\, Villahermosa\, Villahermosa
@@ -1891,7 +1768,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Tijuana|DevFest Tijuana 2026|México|
 DTSTART:20261113T130000
-CATEGORIES:AI - Gemini,Conference,DevFest,Flutter,Google Cloud
+CATEGORIES:AI - Gemini,Conference,DevFest,Flutter,Google Cloud,Workshop / 
+ hands-on session
 DESCRIPTION:Join us for our inaugural GDG Tijuana event as we pave the way
   to DevFest Tijuana 2026! Be part of the journey to the most exciting tech
   event of the year by connecting with fellow developers and tech enthusias
@@ -1932,7 +1810,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Cancún|DevFest Cancún 2026|México|
 DTSTART:20261120T090000
-CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,ai,cloud,mobile,web
+CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,Workshop / hands-on session
+ ,ai,cloud,mobile,web
 DESCRIPTION:DevFest Cancún 2026\, organized by GDG Cancún\, gathers deve
  lopers\, students\, tech professionals\, and innovation enthusiasts at Uni
  versidad del Caribe on November 20\, 2026. Join to explore AI\, Cloud\, We
@@ -1948,7 +1827,7 @@ BEGIN:VEVENT
 SUMMARY:GDG CDMX|Devfest 2026: Ciudad de México|México|
 DTSTART:20261207T080000
 CATEGORIES:AI,AI - Gemini,Android,Community Building,Conference,DevFest,Go
- ogle Cloud,Google Workspace,Web
+ ogle Cloud,Google Workspace,Web,Workshop / hands-on session
 DESCRIPTION:Devfest 2026 en la Ciudad de México es el evento imperdible p
  ara desarrolladores\, entusiastas de la tecnología e innovadores. Explora
   nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a 
