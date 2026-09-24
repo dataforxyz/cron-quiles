@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T04:54:53.553110+00:00",
-  "total_events": 3,
+  "generated_at": "2026-09-24T12:02:00.934870+00:00",
+  "total_events": 4,
   "city": "Nuevo León",
   "communities": [
     {
@@ -129,6 +129,33 @@
       "city_code": "sannicolasdelosgarza",
       "address": "Pedro de Alba, San Nicolás de los Garza, Nuevo León, 66455, México",
       "hash_key": "devfest 2026 monterrey innovacin con ia_2026-10-22T14:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Monterrey  -  Claude for Manufacturing & Industry 4.0|México|Nuevo León",
+      "description": "Get up-to-date information at: https://luma.com/claudemonterrey\n\nAddress:\nEXPEDITION FEMSA\nMonterrey, Mexico\n\nHosted by Ricardo Lira de la Vega",
+      "url": "https://luma.com/claudemonterrey",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claudemonterrey",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "EXPEDITION FEMSA, Av. Eugenio Garza Sada Sur, Tecnologico, Distrito Tec, 64700 Monterrey, N.L., Mexico",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-11-23T16:00:00+00:00",
+      "dtend": "2026-11-23T21:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Nuevo León",
+      "state_code": "MX-NLE",
+      "city": "",
+      "city_code": "",
+      "address": "Nuevo León, México",
+      "hash_key": "monterrey claude for manufacturing indus_2026-11-23T16:00:00+00:00"
     }
   ]
 }

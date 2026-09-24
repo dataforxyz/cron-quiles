@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T04:54:53.556378+00:00",
-  "total_events": 1,
+  "generated_at": "2026-09-24T12:02:00.938046+00:00",
+  "total_events": 2,
   "city": "Quintana Roo",
   "communities": [
     {
@@ -39,6 +39,35 @@
       "city_code": "cancun",
       "address": "Universidad Anáhuac Cancun, Manzana 2 Lote 1, Boulevard Luis Donaldo Colosio, Lagos del Sol, Cancún, Benito Juárez, Quintana Roo, 77565, México",
       "hash_key": "cancn claude code for everyone_2026-03-26T16:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Cancun  -  Claude For Hospitality|México|Quintana Roo",
+      "description": "Get up-to-date information at: https://luma.com/claudecancun\n\nAddress:\nUniversidad Anáhuac Cancún\nCancún, Mexico\n\nHosted by Ricardo Lira de la Vega & 4 others",
+      "url": "https://luma.com/claudecancun",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claudecancun",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Universidad Anáhuac Cancún, Blvd. Luis Donaldo Colosio Km 13.5 M 2 Zona 8 SM 299, Carr. Cancún - Tulum, 77565 Cancún, Q.R., Mexico",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-11-11T19:00:00+00:00",
+      "dtend": "2026-11-11T21:00:00+00:00",
+      "tags": [
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Quintana Roo",
+      "state_code": "MX-ROO",
+      "city": "",
+      "city_code": "",
+      "address": "Quintana Roo, México",
+      "hash_key": "cancun claude for hospitality_2026-11-11T18:00:00+00:00"
     }
   ]
 }

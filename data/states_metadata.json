@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 549,
-    "future_event_count": 49,
+    "event_count": 554,
+    "future_event_count": 54,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -65,6 +65,17 @@
     "emoji": "🌵"
   },
   {
+    "code": "CO-TOL",
+    "name": "CO-TOL",
+    "slug": "co-tol",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "📅"
+  },
+  {
     "code": "MX-CAM",
     "name": "Campeche",
     "slug": "mx-cam",
@@ -80,8 +91,8 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 319,
-    "future_event_count": 8,
+    "event_count": 322,
+    "future_event_count": 11,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -169,12 +180,13 @@
     "code": "MX-NLE",
     "name": "Nuevo León",
     "slug": "mx-nle",
-    "event_count": 3,
-    "future_event_count": 1,
+    "event_count": 4,
+    "future_event_count": 2,
     "active_months": [
       "2026-03",
       "2026-08",
-      "2026-10"
+      "2026-10",
+      "2026-11"
     ],
     "emoji": "🏔️"
   },
@@ -182,8 +194,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 167,
-    "future_event_count": 31,
+    "event_count": 166,
+    "future_event_count": 30,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -262,10 +274,11 @@
     "code": "MX-ROO",
     "name": "Quintana Roo",
     "slug": "mx-roo",
-    "event_count": 1,
-    "future_event_count": 0,
+    "event_count": 2,
+    "future_event_count": 1,
     "active_months": [
-      "2026-03"
+      "2026-03",
+      "2026-11"
     ],
     "emoji": "🌵"
   },
