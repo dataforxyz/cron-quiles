@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:02:00.934870+00:00",
+  "generated_at": "2026-09-24T17:28:02.684681+00:00",
   "total_events": 4,
   "city": "Nuevo León",
   "communities": [
@@ -131,8 +131,8 @@
       "hash_key": "devfest 2026 monterrey innovacin con ia_2026-10-22T14:00:00+00:00"
     },
     {
-      "title": "Claude Community|Monterrey  -  Claude for Manufacturing & Industry 4.0|México|Nuevo León",
-      "description": "Get up-to-date information at: https://luma.com/claudemonterrey\n\nAddress:\nEXPEDITION FEMSA\nMonterrey, Mexico\n\nHosted by Ricardo Lira de la Vega",
+      "title": "Claude Community|Monterrey  -  Claude for Commerce, Manufacturing & Industry 4.0|México|Nuevo León",
+      "description": "Get up-to-date information at: https://luma.com/claudemonterrey\n\nAddress:\nEXPEDITION FEMSA\nMonterrey, Mexico\n\nHosted by Ricardo Lira de la Vega, Secretaría de Economía Nuevo León · Desarrollo Tecnológico & CCMty",
       "url": "https://luma.com/claudemonterrey",
       "sources": [
         {
@@ -146,7 +146,9 @@
       "organizer": "Claude Community",
       "dtstart": "2026-11-23T16:00:00+00:00",
       "dtend": "2026-11-23T21:30:00+00:00",
-      "tags": [],
+      "tags": [
+        "security"
+      ],
       "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
       "country": "México",
       "country_code": "MX",
@@ -155,7 +157,7 @@
       "city": "",
       "city_code": "",
       "address": "Nuevo León, México",
-      "hash_key": "monterrey claude for manufacturing indus_2026-11-23T16:00:00+00:00"
+      "hash_key": "monterrey claude for commerce manufactur_2026-11-23T16:00:00+00:00"
     }
   ]
 }
