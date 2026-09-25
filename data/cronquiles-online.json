@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T17:30:18.427083+00:00",
-  "total_events": 161,
+  "generated_at": "2026-09-25T21:54:45.960977+00:00",
+  "total_events": 162,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -3549,7 +3549,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3576,7 +3576,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3719,7 +3719,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3728,35 +3728,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|Demo Night #3 — Nos problèmes, nos solutions IA (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-ab-9-25\n\nHosted by The AI Collective & 5 others",
-      "url": "https://luma.com/aic-ab-9-25",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-ab-9-25",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-LBlA2dwmgmmQzNg",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-09-25T18:00:00+00:00",
-      "dtend": "2026-09-25T20:30:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-LBlA2dwmgmmQzNg",
-      "hash_key": "demo night 3 nos problmes nos solutions _2026-09-25T18:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Crea un videojuego basado en la web con Inteligencia Artificial|Online",
@@ -4097,7 +4068,7 @@
     },
     {
       "title": "Claude Community|London  -  Claude Meetup|Online",
-      "description": "Get up-to-date information at: https://luma.com/claude-yp5w\n\nHosted by Zara Hunter",
+      "description": "Get up-to-date information at: https://luma.com/claude-yp5w\n\nHosted by Zara Hunter & Claude Community",
       "url": "https://luma.com/claude-yp5w",
       "sources": [
         {
@@ -4308,6 +4279,62 @@
       "city_code": "",
       "address": "",
       "hash_key": "oct 22 advances in ai at virginia tech_2026-10-22T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
+      "description": "Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\n\nHosted by Mexico Tech Week & Luis Regalado",
+      "url": "https://luma.com/mxtw-d5be4f2b",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mxtw-d5be4f2b",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-8N4PJCv6X1IRFNR",
+      "online": true,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2026-10-28T16:00:00+00:00",
+      "dtend": "2026-10-28T17:00:00+00:00",
+      "tags": [
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-8N4PJCv6X1IRFNR",
+      "hash_key": "finops la metodologa de control de gasto_2026-10-28T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|After Hours: Art + Tech x Get on Board + Galería Sala Marte|Online",
+      "description": "Get up-to-date information at: https://luma.com/mxtw-0b294c7f\n\nHosted by Mexico Tech Week, Galería Sala Marte & Get on Board",
+      "url": "https://luma.com/mxtw-0b294c7f",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mxtw-0b294c7f",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-e8Q1sWanhKIne84",
+      "online": true,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2026-10-29T01:00:00+00:00",
+      "dtend": "2026-10-29T05:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-e8Q1sWanhKIne84",
+      "hash_key": "after hours art tech x get on board gale_2026-10-29T00:00:00+00:00"
     },
     {
       "title": "GDG Villahermosa|DevFest 2026: Sureste de México|México|",
