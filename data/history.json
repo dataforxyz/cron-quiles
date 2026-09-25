@@ -108,7 +108,7 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44610, México",
+    "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
     "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
   },
   {
@@ -350,7 +350,7 @@
     "hash_key": "nov 11 ai ml and computer vision meetup_2026-11-11T16:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|DevFest 2026: Sureste de México|México|",
+    "title": "GDG Villahermosa|DevFest 2026: Sureste de México|Colombia|Tolima",
     "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias ...",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico/",
     "sources": [
@@ -376,13 +376,13 @@
       "backend"
     ],
     "source": "https://gdg.community.dev/gdg-villahermosa/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Por Definir, Villahermosa, Villahermosa",
+    "country": "Colombia",
+    "country_code": "CO",
+    "state": "Tolima",
+    "state_code": "CO-TOL",
+    "city": "Villahermosa",
+    "city_code": "villahermosa",
+    "address": "Villahermosa, Nevados, Tolima, RAP (Especial) Central, Colombia",
     "hash_key": "devfest 2026 sureste de mxico_2026-11-11T14:00:00+00:00"
   },
   {
@@ -442,6 +442,62 @@
     "hash_key": "private mezcal tech by envoclick_2026-10-29T22:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Más allá del Claude: Cómo las startups construyen motores de Growth con IA|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-3a0b3420\n\nAddress:\nAjeno\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Marco Mendoza",
+    "url": "https://luma.com/mxtw-3a0b3420",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-3a0b3420",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Ajeno, Av. Álvaro Obregón 126, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-29T12:30:00+00:00",
+    "dtend": "2026-10-29T14:30:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "ms all del claude cmo las startups const_2026-10-29T12:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|El Arte de Crear Valor|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-jci7\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Angel Ventures",
+    "url": "https://luma.com/mxtw-jci7",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-jci7",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Roma Norte, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-29T00:00:00+00:00",
+    "dtend": "2026-10-29T04:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
+    "hash_key": "el arte de crear valor_2026-10-29T00:00:00+00:00"
+  },
+  {
     "title": "Claude Community|Mexico City  -  Claude for Revenue: Sales, GTM & Agents That Sell|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claudeforrevenue\n\nAddress:\nEBC\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Andres Nájera",
     "url": "https://luma.com/claudeforrevenue",
@@ -470,7 +526,7 @@
   },
   {
     "title": "Claude Community|Guadalajara  -  Claude Code Meetup: JavaScript Edition|México|Jalisco",
-    "description": "Get up-to-date information at: https://luma.com/claude-ftde\n\nAddress:\nCheck event page for more details.\n\nHosted by Miguel Oceguera, Ximena Cruz & Yuliana Reyna",
+    "description": "Get up-to-date information at: https://luma.com/claude-ftde\n\nAddress:\nCheck event page for more details.\n\nHosted by Miguel Oceguera & 4 others",
     "url": "https://luma.com/claude-ftde",
     "sources": [
       {
@@ -524,6 +580,36 @@
     "city_code": "cdmx",
     "address": "Holiday Inn Ciudad de México Trade Center, 583, Avenida Revolución, Colonia San Pedro de los Pinos, Mixcoac, Ciudad de México, Benito Juárez, Ciudad de México, 03800, México",
     "hash_key": "mexico city claude for architecture engi_2026-10-27T22:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Fintech & Proptech VC Sessions by ADN.VC, Circulo de Crédito, Pygma, Zacua Ventures & REACH|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-f43b5479\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week, Nico Di Pace & Andrés Cano",
+    "url": "https://luma.com/mxtw-f43b5479",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-f43b5479",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Juárez, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T23:00:00+00:00",
+    "dtend": "2026-10-28T02:00:00+00:00",
+    "tags": [
+      "ai",
+      "python"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+    "hash_key": "fintech proptech vc sessions by adn vc c_2026-10-27T22:00:00+00:00"
   },
   {
     "title": "Claude Community|Mexico City  -  Claude Impact Lab en la Cámara de Diputados de México|México|Ciudad de México",
@@ -864,36 +950,6 @@
     "city_code": "",
     "address": "",
     "hash_key": "oct 14 advances in ai at sdsu_2026-10-14T16:00:00+00:00"
-  },
-  {
-    "title": "Claude Community|San Francisco  -  Claude Workshop|Online",
-    "description": "Get up-to-date information at: https://luma.com/claude-ssil\n\nHosted by Arjita Sethi, Rhythm Gandhi & Build with AI Club",
-    "url": "https://luma.com/claude-ssil",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claude-ssil",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-BTh4y9FClguDuvB",
-    "online": true,
-    "organizer": "Claude Community",
-    "dtstart": "2026-10-10T22:00:00+00:00",
-    "dtend": "2026-10-11T01:00:00+00:00",
-    "tags": [
-      "ai",
-      "frontend"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-BTh4y9FClguDuvB",
-    "hash_key": "san francisco claude workshop_2026-10-10T22:00:00+00:00"
   },
   {
     "title": "Python CDMX|PyDay Mexico 2026  -  Sede: CDMX|México|Ciudad de México",
@@ -1527,71 +1583,6 @@
     "city_code": "huixquilucandedegollado",
     "address": "Universidad Anahuac, 46, Avenida Universidad Anahuac, Lomas Anahuác, La Herradura, Huixquilucan de Degollado, Huixquilucan, Estado de México, 52786, México",
     "hash_key": "mexico city claude for research meetup_2026-09-25T16:00:00+00:00"
-  },
-  {
-    "title": "GDG CDMX|Club de lectura de papers de AI: The Unreasonable Effectiveness of Recurrent Neural Networks|Online",
-    "description": "El Club de Lectura de Papers de Inteligencia Artificial invita a ingenieras/os de software, investigadoras/es y entusiastas de la tecnología a la sesión dedicada al análisis del influyente artículo de Andrej Karpathy: \"The Unreasonable Effectiveness of Recurrent Neural Networks\" (La irracional efectividad de las redes neuronales recurrentes).",
-    "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-lectura-de-papers-de-ai-the-unreasonable-effectiveness-of-recurrent-neural-networks/",
-    "sources": [
-      {
-        "platform": "website",
-        "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-club-de-lectura-de-papers-de-ai-the-unreasonable-effectiveness-of-recurrent-neural-networks/",
-        "label": "Ver sitio web"
-      }
-    ],
-    "location": "Online",
-    "online": true,
-    "organizer": "GDG CDMX",
-    "dtstart": "2026-09-24T20:00:00-06:00",
-    "dtend": "2026-09-24T21:00:00-06:00",
-    "tags": [
-      "AI",
-      "AI - Gemini",
-      "Build with AI",
-      "Career Development",
-      "Workshop / hands-on session",
-      "ai"
-    ],
-    "source": "https://gdg.community.dev/gdg-cdmx/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Online",
-    "hash_key": "club de lectura de papers de ai the unre_2026-09-25T02:00:00+00:00"
-  },
-  {
-    "title": "Product Management Society | CDMX Chapter| CDMX Chapter|México|Ciudad de México",
-    "description": "Product Management Society | CDMX Chapter\n**Llamando a toda la comunidad de Producto!** Estamos reuniendo a PMs, founders, diseñadores, mercadólogos e ingenieros para una tarde relajada de networking. Si estás en el mundo del producto o quieres empezar en él, ¡ven a conectar con tu comunidad!\n\n**¿Qué puedes esperar?**\n**Dinámicas rompehielos:** Te ayudaremos a saltarte las típicas pláticas incómodas para empezar conversaciones interesantes y valiosas sin esfuerzo. **Networking relajado:** Un formato sin presiones para convivir, compartir ideas y hacer crecer tu red de contactos. **Un ambiente súper amigable:** ¡Cualquiera con interés en Producto es bienvenido! Habrá una gran mezcla de perfiles y asistentes que hablan tanto inglés como español. :)\n\n* **Síguenos en LinkedIn:** [https://www.linkedin.com/company/product-management-society/](https://www.linkedin.com/company/product-management-society/)\n* **Únete a nuestro canal de Slack:** [https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg](https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg)\n* **Suscríbete a nuestro blog:** [https://blog.productmanagementsociety.com/](https://blog.productmanagementsociety.com/)\n* **Conecta con la fundadora:** [https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb](https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb)\n\n***\n\n**Calling all Product People!** We're bringing together PMs, founders, designers, marketers, and engineers for a relaxed evening of networking. If you're in the product world or want to be, come connect with your community!\n\n**What to expect:**\n**Interactive Icebreakers:** We’ll help you bypass the awkward small talk and start meaningful conversations effortlessly. **Relaxed Networking:** A low-pressure format to mingle, share ideas, and build your network. **A Welcoming Crowd:** Anyone interested in Product is welcome! Expect a great mix of roles and both English and Spanish speakers. :)\n\n* **Follow us on LinkedIn:** [https://www.linkedin.com/company/product-management-society/](https://www.linkedin.com/company/product-management-society/)\n* **Join our Slack channel:** [https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg](https://join.slack.com/t/product-mgmt-society/shared_invite/zt-2t477uzhc-0RWKnexUEQLmjlymeZ3_bg)\n* **Subscribe to our blog:** [https://blog.productmanagementsociety.com/](https://blog.productmanagementsociety.com/)\n* **Connect with the Founder:** [https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb](https://www.linkedin.com/in/gabrielanaumnik?utm_source=share_via&utm_content=profile&utm_medium=memb)",
-    "url": "https://www.meetup.com/product-management-society-cdmx-chapter/events/316082500/",
-    "sources": [
-      {
-        "platform": "meetup",
-        "url": "https://www.meetup.com/product-management-society-cdmx-chapter/events/316082500/",
-        "label": "Ver en Meetup"
-      }
-    ],
-    "location": "Falling Piano Brewing Co, Coahuila 99, Roma Norte, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Product Management Society | CDMX Chapter",
-    "dtstart": "2026-09-24T19:00:00-06:00",
-    "dtend": "2026-09-24T21:00:00-06:00",
-    "tags": [
-      "backend",
-      "frontend",
-      "mobile"
-    ],
-    "source": "https://www.meetup.com/product-management-society-cdmx-chapter/events/ical",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Calle Coahuila, Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
-    "hash_key": "cdmx chapter_2026-09-25T00:00:00+00:00"
   },
   {
     "title": "AI/IA CDMX|¿Sueñan los Androides con Agujeros Negros? - Do Androids Dream of Black Holes?|México|Ciudad de México",
@@ -2515,7 +2506,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "meetup mayo 2026 pythoncdmx_2026-05-13T00:00:00+00:00"
   },
   {
@@ -2628,7 +2619,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 15_2026-04-29T16:00:00+00:00"
   },
   {
@@ -3119,9 +3110,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Colima",
-    "city_code": "colima",
-    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
+    "city": "Coquimatlán",
+    "city_code": "coquimatlan",
+    "address": "Centro, Coquimatlán, Colima, 28400, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -3148,7 +3139,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
   },
   {
@@ -3204,7 +3195,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
   },
   {
@@ -3320,7 +3311,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
   },
   {
@@ -3438,7 +3429,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
   },
   {
@@ -3492,7 +3483,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
   },
   {
@@ -3575,7 +3566,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
   },
   {
@@ -3636,7 +3627,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -3694,7 +3685,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
   },
   {
@@ -3840,7 +3831,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
   },
   {
@@ -4235,7 +4226,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
   },
   {
@@ -4640,7 +4631,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -4952,7 +4943,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
@@ -5035,7 +5026,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
   },
   {
@@ -5118,7 +5109,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
@@ -5174,7 +5165,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
   },
   {
@@ -5377,7 +5368,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
   },
   {
@@ -5491,7 +5482,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
   },
   {
@@ -5576,7 +5567,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
@@ -5665,7 +5656,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
   },
   {
@@ -5810,7 +5801,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
   },
   {
@@ -12182,7 +12173,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
