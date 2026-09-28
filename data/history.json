@@ -1,5 +1,38 @@
 [
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Dec 10 - AI, ML and Computer Vision Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nDec 10, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-december-10-2026)**\n\n**Your mAP is fine. Your slices are not. Finding the images that actually matter**\n\nA single mAP can look acceptable while one slice is unusable, small objects, occlusion, or a confused class. I will run a pretrained detector on a few hundred public images (COCO-style, not a production crawl), report the headline metric, then break the same run by slice and walk through the worst samples.\n\nThe claim is modest: you do not need a million images or a trained-from-scratch model to see what the mean is hiding, and you cannot relabel everything, so the next labeling budget should follow those slices. No employer data and no confidential dashboards.\n\n*About the Speaker*\n\n[Amandeep Jiddewar](https://www.linkedin.com/in/amanfj/) is a Machine Learning Engineer at Pinterest, with prior work in U.S. manufacturing analytics (CertainTeed / Saint-Gobain) and marketplace allocation (QuinStreet). Emory Goizueta MSBA (2019), Kaggle Expert. This talk is in his personal capacity and does not represent his current or prior employers.\n\n**Production AI Agents: Tool Use, Evaluation, Guardrails and Observability**\n\nBuilding an AI agent is easy. Knowing whether it is behaving reliably in production is much harder. This session explores how to evaluate agents that use tools and external systems, including tool-call validation, tracing, observability, failure analysis, guardrails, permissions, and human review.\n\nAttendees will learn practical patterns for understanding not just what an agent answered, but why it acted and whether the action was safe.\n\n*About the Speaker*\n\n[Akshay Talathi](https://www.linkedin.com/in/akshaytalathi/) is a Vice President at Goldman Sachs with over 10 years of experience building large-scale, cloud-native, and distributed systems across financial services and technology. His current focus is GenAI and agentic AI, including production AI agents, MCP, enterprise integrations, guardrails, observability, and reliable AI-driven workflows.\n\n**From Virtual Worlds to Physical AI: Building Simulation Pipelines That Survive the Real World**\n\nRobots are moving beyond perception systems that only detect and classify objects toward systems that must understand a scene, learn behaviors, and act in the physical world. In this talk, I’ll show a practical Physical AI workflow using OpenUSD, BowerBot, NVIDIA Isaac Sim and Isaac Lab to build a robot’s virtual world, including its body, cameras, sensors, and environment.\n\nWe’ll explore how demonstrations and reinforcement learning can teach behaviors in simulation, how vision and sensor data become observations for a robot policy, and what needs to match when transferring that behavior to real hardware. The demo follows a small robot from a simulated environment toward a real-world task, exposing both the power and the limitations of sim-to-real.\n\nThe goal is to make the path from pixels to actions concrete for computer vision and machine learning practitioners.\n\n*About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in/arturo-morales-rangel) is the founder of Binary Core LLC, a Physical AI engineering company working across simulation, perception, robot learning, and deployment.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316757843/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316757843/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-12-10T11:00:00-06:00",
+    "dtend": "2026-12-10T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "frontend"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "dec 10 ai ml and computer vision meetup_2026-12-10T16:00:00+00:00"
+  },
+  {
     "title": "GDG CDMX|Devfest 2026: Ciudad de México|México|",
     "description": "Devfest 2026 en la Ciudad de México es el evento imperdible para desarrolladores, entusiastas de la tecnología e innovadores. Explora nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a esta inspiradora comunidad y descubre las emocionantes propuestas. Reserva tu lugar hoy para no perder esta oportunidad única.",
     "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/",
@@ -108,7 +141,7 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
+    "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44610, México",
     "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
   },
   {
@@ -467,33 +500,6 @@
     "hash_key": "ms all de copilot cmo los corporativos c_2026-10-29T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Más allá del Claude: Cómo las startups construyen motores de Growth con IA|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-3a0b3420\n\nAddress:\nAjeno\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Marco Mendoza",
-    "url": "https://luma.com/mxtw-3a0b3420",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-3a0b3420",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ajeno, Av. Álvaro Obregón 126, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-29T12:30:00+00:00",
-    "dtend": "2026-10-29T14:30:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "ms all del claude cmo las startups const_2026-10-29T12:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|After Hours: Art + Tech x Get on Board + Galería Sala Marte|Online",
     "description": "Get up-to-date information at: https://luma.com/mxtw-0b294c7f\n\nHosted by Mexico Tech Week, Galería Sala Marte & Get on Board",
     "url": "https://luma.com/mxtw-0b294c7f",
@@ -550,6 +556,33 @@
     "hash_key": "el arte de crear valor_2026-10-29T00:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Reverse Pitch: Inversionistas en IA|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-5e52a7d9\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Startuplinks Community",
+    "url": "https://luma.com/mxtw-5e52a7d9",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-5e52a7d9",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T21:00:00+00:00",
+    "dtend": "2026-10-28T22:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "reverse pitch inversionistas en ia_2026-10-28T20:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Hecho en México para el Mundo|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-cy8n\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week, Secretaría de Economía & Maria Angela Ramirez",
     "url": "https://luma.com/mxtw-cy8n",
@@ -580,31 +613,33 @@
     "hash_key": "hecho en mxico para el mundo_2026-10-28T16:00:00+00:00"
   },
   {
-    "title": "Claude Community|Mexico City  -  Claude for Revenue: Sales, GTM & Agents That Sell|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudeforrevenue\n\nAddress:\nEBC\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Andres Nájera",
-    "url": "https://luma.com/claudeforrevenue",
+    "title": "Mexico Tech Week|AI for Corporate Challenge|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-a47e94b5\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Startuplinks Community",
+    "url": "https://luma.com/mxtw-a47e94b5",
     "sources": [
       {
         "platform": "luma",
-        "url": "https://luma.com/claudeforrevenue",
+        "url": "https://luma.com/mxtw-a47e94b5",
         "label": "Ver en Luma"
       }
     ],
-    "location": "EBC, Liverpool 54, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
     "online": false,
-    "organizer": "Claude Community",
+    "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-28T17:00:00+00:00",
-    "dtend": "2026-10-28T18:30:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "dtend": "2026-10-28T19:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "54, Calle Liverpool, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
-    "hash_key": "mexico city claude for revenue sales gtm_2026-10-28T16:00:00+00:00"
+    "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "ai for corporate challenge_2026-10-28T16:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
@@ -634,6 +669,33 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-8N4PJCv6X1IRFNR",
     "hash_key": "finops la metodologa de control de gasto_2026-10-28T16:00:00+00:00"
+  },
+  {
+    "title": "Claude Community|Mexico City  -  Claude for Revenue: Sales, GTM & Agents That Sell|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/claudeforrevenue\n\nAddress:\nEBC\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Andres Nájera",
+    "url": "https://luma.com/claudeforrevenue",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/claudeforrevenue",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "EBC, Liverpool 54, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Claude Community",
+    "dtstart": "2026-10-28T14:30:00+00:00",
+    "dtend": "2026-10-28T20:30:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "54, Calle Liverpool, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "mexico city claude for revenue sales gtm_2026-10-28T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Invitation Only. Maatfia Gathering|México|Ciudad de México",
@@ -723,7 +785,7 @@
   },
   {
     "title": "Mexico Tech Week|Fintech & Real Estate Tech VC Sessions by ADN.VC, Círculo de Crédito, Zacua Ventures, Pygma & REACH|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-f43b5479\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 5 others",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-f43b5479\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 6 others",
     "url": "https://luma.com/mxtw-f43b5479",
     "sources": [
       {
@@ -864,6 +926,33 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "mexico city claude impact lab en la cmar_2026-10-26T14:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|RUN 5K WITH MITH|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-a2cf4150\n\nAddress:\nPuerta de los Leones de Chapultepec\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Alfonso Rodriguez",
+    "url": "https://luma.com/mxtw-a2cf4150",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-a2cf4150",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Puerta de los Leones de Chapultepec, Av. P.º de la Reforma 132, Cuauhtémoc, Miguel Hidalgo, 06500 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T13:00:00+00:00",
+    "dtend": "2026-10-26T15:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "hash_key": "run 5k with mith_2026-10-26T12:00:00+00:00"
   },
   {
     "title": "Claude Community|Mexico City  -  Claude for Marketers|México|Ciudad de México",
@@ -1805,7 +1894,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1863,7 +1952,7 @@
     "dtstart": "2026-08-26T22:00:00+00:00",
     "dtend": "2026-08-26T23:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1950,7 +2039,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -2038,7 +2127,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2049,7 +2138,7 @@
     "hash_key": "de imgen a texto introduccin a paddleocr_2026-08-01T18:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI: Andres Matte, Kapso.ai|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI: Andres Matte, Kapso.ai|Online",
     "description": "Get up-to-date information at: https://luma.com/6liqe957\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/6liqe957",
     "sources": [
@@ -2061,14 +2150,13 @@
     ],
     "location": "https://luma.com/event/evt-OfU4EZmg85DhiSI",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-07-23T23:30:00+00:00",
     "dtend": "2026-07-24T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2164,7 +2252,7 @@
     "hash_key": "vibe coding caf_2026-07-10T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI: Juan Martínez|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI: Juan Martínez|Online",
     "description": "Get up-to-date information at: https://luma.com/3iyi3bsr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/3iyi3bsr",
     "sources": [
@@ -2176,14 +2264,13 @@
     ],
     "location": "https://luma.com/event/evt-MVGGctuBiHzWfUZ",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-07-09T23:30:00+00:00",
     "dtend": "2026-07-10T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2250,7 +2337,7 @@
     "hash_key": "ai coffee_2026-07-04T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #7: WhatsApp Voicebots|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
     "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/vhwcyvjr",
     "sources": [
@@ -2262,14 +2349,13 @@
     ],
     "location": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-06-24T23:00:00+00:00",
     "dtend": "2026-06-25T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2559,7 +2645,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2595,7 +2681,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "meetup mayo 2026 pythoncdmx_2026-05-13T00:00:00+00:00"
   },
   {
@@ -2644,7 +2730,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2708,7 +2794,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 15_2026-04-29T16:00:00+00:00"
   },
   {
@@ -2741,7 +2827,7 @@
     "hash_key": "agreguemos mxico a legalize_2026-04-25T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|Zero to Agent: Mexico City|México|Ciudad de México",
+    "title": "v0 Prompt to Production Mexico City|Zero to Agent: Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/wp947zvj\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & 3 others",
     "url": "https://luma.com/wp947zvj",
     "sources": [
@@ -2753,14 +2839,13 @@
     ],
     "location": "Polanco, Ciudad de México, México",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-25T15:00:00+00:00",
     "dtend": "2026-04-25T19:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2819,7 +2904,7 @@
     "dtstart": "2026-04-24T15:00:00+00:00",
     "dtend": "2026-04-24T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3005,7 +3090,7 @@
     "hash_key": "hermosillo claude code for everyone_2026-04-17T00:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #6: Scaling to 1M users|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
     "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/11fz6ef5",
     "sources": [
@@ -3017,14 +3102,13 @@
     ],
     "location": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-16T23:00:00+00:00",
     "dtend": "2026-04-17T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3201,9 +3285,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Coquimatlán",
-    "city_code": "coquimatlan",
-    "address": "Centro, Coquimatlán, Colima, 28400, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -3230,11 +3314,11 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 14_2026-04-08T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #5: Image Manipulation|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
     "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/wsj293yt",
     "sources": [
@@ -3246,14 +3330,13 @@
     ],
     "location": "https://luma.com/event/evt-3QmmiVDsImuKFFB",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-04-01T23:00:00+00:00",
     "dtend": "2026-04-02T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3287,7 +3370,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 13_2026-04-01T16:00:00+00:00"
   },
   {
@@ -3403,7 +3486,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 12_2026-03-25T16:00:00+00:00"
   },
   {
@@ -3521,7 +3604,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "ai agents irl building session synthesis_2026-03-20T16:00:00+00:00"
   },
   {
@@ -3575,7 +3658,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal 11 synthesis hackathon _2026-03-18T16:00:00+00:00"
   },
   {
@@ -3658,7 +3741,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 10_2026-03-11T16:00:00+00:00"
   },
   {
@@ -3712,18 +3795,18 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #4: OpenClaw|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
     "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/5ivardas",
     "sources": [
@@ -3735,14 +3818,13 @@
     ],
     "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-03-06T00:00:00+00:00",
     "dtend": "2026-03-06T01:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3778,7 +3860,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 9_2026-03-04T16:00:00+00:00"
   },
   {
@@ -3798,7 +3880,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3859,7 +3941,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3890,7 +3972,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3924,7 +4006,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 4_2026-02-27T16:00:00+00:00"
   },
   {
@@ -3944,7 +4026,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3973,7 +4055,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4029,7 +4111,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4058,7 +4140,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4085,7 +4167,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4141,7 +4223,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4168,7 +4250,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4197,7 +4279,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4226,7 +4308,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4255,7 +4337,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4285,7 +4367,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4319,7 +4401,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 8_2026-02-25T16:00:00+00:00"
   },
   {
@@ -4339,7 +4421,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4368,7 +4450,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4397,7 +4479,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4426,7 +4508,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4484,7 +4566,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4513,7 +4595,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4542,7 +4624,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4572,7 +4654,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4601,7 +4683,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4631,7 +4713,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4661,7 +4743,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4690,7 +4772,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4717,14 +4799,14 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -4746,7 +4828,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4773,7 +4855,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4802,7 +4884,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4832,7 +4914,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4862,7 +4944,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4889,7 +4971,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4916,7 +4998,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4943,7 +5025,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4973,7 +5055,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5036,11 +5118,11 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 3_2026-02-20T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI #3: Midjourney|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|Online",
     "description": "Get up-to-date information at: https://luma.com/d342anny\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
     "url": "https://luma.com/d342anny",
     "sources": [
@@ -5052,14 +5134,13 @@
     ],
     "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-02-19T23:30:00+00:00",
     "dtend": "2026-02-20T00:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5120,7 +5201,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
   },
   {
@@ -5203,11 +5284,11 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 2_2026-02-13T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI – Vol 2|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
     "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero & 3 others",
     "url": "https://luma.com/lgd37763",
     "sources": [
@@ -5219,14 +5300,13 @@
     ],
     "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-02-13T00:00:00+00:00",
     "dtend": "2026-02-13T00:30:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5260,7 +5340,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 6_2026-02-11T16:00:00+00:00"
   },
   {
@@ -5317,7 +5397,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5463,7 +5543,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 5_2026-02-04T16:00:00+00:00"
   },
   {
@@ -5496,7 +5576,7 @@
     "hash_key": "claude code meetup mexico city_2026-02-03T22:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciudad de México",
+    "title": "v0 Prompt to Production Mexico City|v0 Prompt to Production – Mexico City|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/fdg8riz2\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero & Ben Kim",
     "url": "https://luma.com/fdg8riz2",
     "sources": [
@@ -5508,14 +5588,13 @@
     ],
     "location": "Hipódromo, Ciudad de México, México",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-01-31T15:00:00+00:00",
     "dtend": "2026-01-31T18:30:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5578,7 +5657,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "coworking frutal work and chill 1_2026-01-30T16:00:00+00:00"
   },
   {
@@ -5611,7 +5690,7 @@
     "hash_key": "30 aos programando lecciones aprendidas _2026-01-29T00:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|Diseña usando AI|Online",
+    "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
     "description": "Get up-to-date information at: https://luma.com/5nq96pxw\n\nHosted by Javier Rivero",
     "url": "https://luma.com/5nq96pxw",
     "sources": [
@@ -5623,14 +5702,13 @@
     ],
     "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-01-28T23:00:00+00:00",
     "dtend": "2026-01-29T02:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5664,11 +5742,11 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 4_2026-01-28T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|Diseña usando AI|Online",
+    "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
     "description": "Get up-to-date information at: https://luma.com/ubxd600w\n\nHosted by Javier Rivero",
     "url": "https://luma.com/ubxd600w",
     "sources": [
@@ -5680,14 +5758,13 @@
     ],
     "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2026-01-27T23:00:00+00:00",
     "dtend": "2026-01-28T02:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5754,7 +5831,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 3_2026-01-21T16:00:00+00:00"
   },
   {
@@ -5899,7 +5976,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Insurgentes Sur, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Avenida Insurgentes Sur, Guadalupe Inn, Chimalistac, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
     "hash_key": "casa frutero coworking frutal 2_2026-01-14T16:00:00+00:00"
   },
   {
@@ -6255,7 +6332,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6422,7 +6499,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7688,7 +7765,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Warner Music Mexico City, 32, Calle Leibnitz, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+    "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
   },
   {
@@ -7880,7 +7957,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7920,7 +7997,7 @@
     "hash_key": "coworking frutal 16_2025-10-08T16:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|How I Use AI – Vol 1|Online",
+    "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
     "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
     "url": "https://luma.com/pi3ebsn2",
     "sources": [
@@ -7932,14 +8009,13 @@
     ],
     "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
     "online": true,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2025-10-07T22:00:00+00:00",
     "dtend": "2025-10-07T23:00:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "",
     "country_code": "",
     "state": "",
@@ -8079,7 +8155,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8133,7 +8209,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8256,7 +8332,7 @@
     "hash_key": "build with claude code_2025-09-12T00:00:00+00:00"
   },
   {
-    "title": "AI Builders MX|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
+    "title": "v0 Prompt to Production Mexico City|From Idea to MVP: Construye tu propia app usando AI|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/r8rwqnn9\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Rivero",
     "url": "https://luma.com/r8rwqnn9",
     "sources": [
@@ -8268,14 +8344,13 @@
     ],
     "location": "Ciudad de México, Mexico",
     "online": false,
-    "organizer": "AI Builders MX",
+    "organizer": "v0 Prompt to Production Mexico City",
     "dtstart": "2025-09-11T23:00:00+00:00",
     "dtend": "2025-09-12T02:30:00+00:00",
     "tags": [
-      "ai",
-      "frontend"
+      "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
+    "source": "https://luma.com/fdg8riz2",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -15938,7 +16013,7 @@
     "dtstart": null,
     "dtend": null,
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
