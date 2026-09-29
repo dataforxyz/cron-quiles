@@ -1317,6 +1317,16 @@ LOCATION:https://partiful.com/e/nvdJijotdzMHk8n72cZr
 X-CRONQUILES-ADDRESS:https://partiful.com/e/nvdJijotdzMHk8n72cZr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rust-AICollective|eCitizen\, Step by Step (w/ The AI Collective)|O
+ nline
+DTSTART:20261007T120000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-se-10-7\n\
+ nHosted by The AI Collective & 4 others
+LOCATION:https://luma.com/event/evt-dDrwkMSTWMptFKi
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-dDrwkMSTWMptFKi
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
  7 - Building Composable Vision Workflows in FiftyOne|Online
 DTSTART:20261007T100000
@@ -1459,6 +1469,16 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-10-8\n\
  nHosted by The AI Collective & Adelina Martiniuc
 LOCATION:https://luma.com/event/evt-hNNr1fqTW4kqq40
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-hNNr1fqTW4kqq40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|Mojih prvih 5 sati sa AI — Kako koristiti AI\,
+  a zadržati kritičko mišljenje? (w/ The AI Collective)|Online
+DTSTART:20261011T150000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-se-10-11\n
+ \nHosted by The AI Collective & 5 others
+LOCATION:https://luma.com/event/evt-DygnHfbHLpGWRUS
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-DygnHfbHLpGWRUS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Can AI Help Prevent Toxic Relationships and Gend
@@ -1701,6 +1721,100 @@ LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
+ 5 - Visual AI Agriculture Meetup|Online
+DTSTART:20261105T110000
+CATEGORIES:ai,data,frontend,python,security
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup to hear talks from experts on cutting-edge topics
+  at the intersection of agriculture and AI.\n\n**Date\, Time and Location*
+ *\n\nNov 05\, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zo
+ om!](https://voxel51.com/events/visual-ai-agriculture-meetup-november-5-20
+ 26)**\n\nTalks will include:\n\n**U-Net Framework for Micro-Scale Surface 
+ Damage Segmentation in High-Resolution Soybean Seed Imagery**\n\nAccurate 
+ detection of surface-level seed damage is critical for soybean seed qualit
+ y assurance\, yet automated micro-scale damage detection in high-resolutio
+ n imagery remains an open challenge due to extreme spatial variability in 
+ damage scale\, severe class imbalance across damage types\, and the comput
+ ational demands of processing ultra-high resolution agricultural imagery a
+ t scale. This research addresses the semantic segmentation of fine-grained
+  soybean seed surface defects\, such as wrinkles\, dark spots\, and genera
+ l surface damage\, in 6048 × 4024 pixel images where target damages can b
+ e as small as 18 × 18 pixels\, using an augmented dataset of 77\,000 indi
+ vidual seed images.\n\nTo overcome the difficulties of micro-scale detecti
+ on\, spatial sparsity\, and class confusion\, we propose a two-stage train
+ ing and dual model inference framework built on an optimized U-Net archite
+ cture with a ResNet34 encoder. In the first stage\, a damage specialist mo
+ del is trained using weighted loss functions and a class-balanced approach
+  that prioritizes damage classes.\n\nIn the second stage\, transfer learni
+ ng is applied to initialize a healthy seed specialist model from Stage 1 w
+ eights\, with rebalanced class weights and tile probabilities that identif
+ y healthy seeds. During inference\, a confidence-gated damage filter suppr
+ esses low-confidence predictions\, and healthy seed labels are assigned on
+ ly when the specialist model's confidence exceeds that of the damage model
+ .\n\nThe two specialist models achieve validation accuracies of 94% and 98
+ .53%\, respectively\, and the combined inference system successfully detec
+ ts and localizes all three damage categories across unseen test images und
+ er conditions of extreme spatial variability and class imbalance. Qualitat
+ ive evaluation confirms close alignment of predicted boundaries with groun
+ d truth annotations across all damage types\, including dark spots.\n\nThe
+ se results demonstrate that confidence-gated dual model inference can redu
+ ce class confusion in imbalanced micro-scale segmentation\, advancing the 
+ feasibility of fine-grained automated seed quality inspection at the scale
+ .\n\n*About the Speaker*\n\n[Saurav Upadhyaya](https://www.linkedin.com/in
+ /sauravupadhyaya/) is an AI/ML researcher with a Master's degree in Comput
+ er Science\, whose work spans agricultural AI\, conversational systems\, a
+ nd public health\, consistently translating advanced technology into tangi
+ ble real-world impact.\n\n**From camera to drone: wildfire detection and i
+ ntegration at the edge**\n\nWildfires are getting larger and more expensiv
+ e every year. But caught early\, a fire is a small job for a small team\; 
+ caught late\, nothing stops it. The cameras to catch them are already inst
+ alled\, so the work is not necessary more sensors but making the ones we h
+ ave act.\n\nThis talk walks the whole chain: a small vision model running 
+ on the camera that flags smoke\, an integration layer that scores the aler
+ t against terrain\, weather and history to decide whether it matters\, and
+  a drone dispatched to confirm before anyone commits a crew. We will cover
+  what has to run at the edge and why\, how small the model can get before 
+ it stops seeing smoke\, and what it takes to trust a detection nobody has 
+ looked at yet.\n\n*About the Speaker*\n\n[Maxime Carriere](https://voxel51
+ .com/events/www.linkedin.com/in/maxime-carriere-871756161) is co-founder o
+ f Kernwerk in Berlin\, where he works on compressing AI models to run on c
+ heap embedded hardware.\n\n**5\,000 Flights to Answer One Question: Can a 
+ Drone Sample as Well as a Human?**\n\nEnvironmental testing still begins w
+ ith a person walking onto a site with a shovel. We built a system that tur
+ ns a plain-language brief into a sampling campaign\, flies it\, and return
+ s soil\, water and vegetation samples with GPS\, timestamps and chain of c
+ ustody intact: 5\,000 flights\, roughly 9\,000 miles and 570 flight hours 
+ over a 185-acre site in Roatan\, much of it under canopy where GPS degrade
+ s and clearances are tight.\n\nI will walk through the vision and planning
+  stack\, including multispectral and thermal canopy sensing\, terrain and 
+ land-cover mapping\, and the constraint solver that clears a route against
+  airspace and battery budget before anything leaves the ground. Then the h
+ arder problem: evidentiary comparability.\n\nA drone-collected result mean
+ s nothing to a regulator unless it agrees with a hand-collected split unde
+ r the same method\, so I will show the dual-collection protocol we designe
+ d to test exactly that. I will close on why calibrated uncertainty and kno
+ wing when a model should refuse to answer matter more than raw accuracy on
+ ce the output lands in a regulatory filing.\n\n*About the Speaker*\n\n[Roh
+ an Talwadia](https://www.linkedin.com/in/rohantalwadia/) is co-founder and
+  CTO of LabGPT\, which automates environmental field sampling using drones
+  and edge analysis\, with results returned through ISO/IEC 17025-accredite
+ d partner laboratories.
+LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Villahermosa|DevFest 2026: Sureste de México|México|
+DTSTART:20261111T080000
+CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Web,Workshop / h
+ ands-on session,backend
+DESCRIPTION:Únete a nosotros en el Devfest 2026. Este evento emblemático
+  es una oportunidad única para sumergirse en las tendencias ...
+LOCATION:Por Definir\, Villahermosa\, Villahermosa
+X-CRONQUILES-ADDRESS:Por Definir\, Villahermosa\, Villahermosa
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
  11 - AI\, ML and Computer Vision Meetup|Online
 DTSTART:20261111T110000
 CATEGORIES:ai,backend,data,frontend,security
@@ -1836,7 +1950,7 @@ BEGIN:VEVENT
 SUMMARY:GDG CDMX|Devfest 2026: Ciudad de México|México|
 DTSTART:20261207T080000
 CATEGORIES:AI,AI - Gemini,Android,Community Building,Conference,DevFest,Go
- ogle Cloud,Google Workspace,Web,Workshop / hands-on session,cloud
+ ogle Cloud,Google Workspace,Web,Workshop / hands-on session
 DESCRIPTION:Devfest 2026 en la Ciudad de México es el evento imperdible p
  ara desarrolladores\, entusiastas de la tecnología e innovadores. Explora
   nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a 
@@ -1848,63 +1962,6 @@ X-CRONQUILES-ADDRESS:Tecnológico de Monterrey\, Campus Ciudad de México\
  , Prolongación Canal de Miramontes\, Ciudad de México
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Dec 
- 10 - AI\, ML and Computer Vision Meetup|Online
-DTSTART:20261210T110000
-CATEGORIES:ai,backend,cloud,data,frontend
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nJoin our virtual meetup to hear talks from experts on cutting-edge topics
-  across AI\, ML\, and computer vision.\n\n**Date\, Time and Location**\n\n
- Dec 10\, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](
- https://voxel51.com/events/ai-ml-and-computer-vision-meetup-december-10-20
- 26)**\n\n**Your mAP is fine. Your slices are not. Finding the images that 
- actually matter**\n\nA single mAP can look acceptable while one slice is u
- nusable\, small objects\, occlusion\, or a confused class. I will run a pr
- etrained detector on a few hundred public images (COCO-style\, not a produ
- ction crawl)\, report the headline metric\, then break the same run by sli
- ce and walk through the worst samples.\n\nThe claim is modest: you do not 
- need a million images or a trained-from-scratch model to see what the mean
-  is hiding\, and you cannot relabel everything\, so the next labeling budg
- et should follow those slices. No employer data and no confidential dashbo
- ards.\n\n*About the Speaker*\n\n[Amandeep Jiddewar](https://www.linkedin.c
- om/in/amanfj/) is a Machine Learning Engineer at Pinterest\, with prior wo
- rk in U.S. manufacturing analytics (CertainTeed / Saint-Gobain) and market
- place allocation (QuinStreet). Emory Goizueta MSBA (2019)\, Kaggle Expert.
-  This talk is in his personal capacity and does not represent his current 
- or prior employers.\n\n**Production AI Agents: Tool Use\, Evaluation\, Gua
- rdrails and Observability**\n\nBuilding an AI agent is easy. Knowing wheth
- er it is behaving reliably in production is much harder. This session expl
- ores how to evaluate agents that use tools and external systems\, includin
- g tool-call validation\, tracing\, observability\, failure analysis\, guar
- drails\, permissions\, and human review.\n\nAttendees will learn practical
-  patterns for understanding not just what an agent answered\, but why it a
- cted and whether the action was safe.\n\n*About the Speaker*\n\n[Akshay Ta
- lathi](https://www.linkedin.com/in/akshaytalathi/) is a Vice President at 
- Goldman Sachs with over 10 years of experience building large-scale\, clou
- d-native\, and distributed systems across financial services and technolog
- y. His current focus is GenAI and agentic AI\, including production AI age
- nts\, MCP\, enterprise integrations\, guardrails\, observability\, and rel
- iable AI-driven workflows.\n\n**From Virtual Worlds to Physical AI: Buildi
- ng Simulation Pipelines That Survive the Real World**\n\nRobots are moving
-  beyond perception systems that only detect and classify objects toward sy
- stems that must understand a scene\, learn behaviors\, and act in the phys
- ical world. In this talk\, I’ll show a practical Physical AI workflow us
- ing OpenUSD\, BowerBot\, NVIDIA Isaac Sim and Isaac Lab to build a robot
- ’s virtual world\, including its body\, cameras\, sensors\, and environm
- ent.\n\nWe’ll explore how demonstrations and reinforcement learning can 
- teach behaviors in simulation\, how vision and sensor data become observat
- ions for a robot policy\, and what needs to match when transferring that b
- ehavior to real hardware. The demo follows a small robot from a simulated 
- environment toward a real-world task\, exposing both the power and the lim
- itations of sim-to-real.\n\nThe goal is to make the path from pixels to ac
- tions concrete for computer vision and machine learning practitioners.\n\n
- *About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in
- /arturo-morales-rangel) is the founder of Binary Core LLC\, a Physical AI 
- engineering company working across simulation\, perception\, robot learnin
- g\, and deployment.
-LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online
