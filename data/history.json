@@ -309,7 +309,7 @@
     "hash_key": "nov 11 ai ml and computer vision meetup_2026-11-11T16:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|DevFest 2026: Sureste de México|Colombia|Tolima",
+    "title": "GDG Villahermosa|DevFest 2026: Sureste de México|México|",
     "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias ...",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico/",
     "sources": [
@@ -335,13 +335,13 @@
       "backend"
     ],
     "source": "https://gdg.community.dev/gdg-villahermosa/",
-    "country": "Colombia",
-    "country_code": "CO",
-    "state": "Tolima",
-    "state_code": "CO-TOL",
-    "city": "Villahermosa",
-    "city_code": "villahermosa",
-    "address": "Villahermosa, Nevados, Tolima, RAP (Especial) Central, Colombia",
+    "country": "México",
+    "country_code": "MX",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Por Definir, Villahermosa, Villahermosa",
     "hash_key": "devfest 2026 sureste de mxico_2026-11-11T14:00:00+00:00"
   },
   {
@@ -430,6 +430,36 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "mexico city claude for music_2026-10-29T22:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Tu empresa ya tiene una política de salud hormonal: se llama silencio|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-b100c506\n\nAddress:\nLuis G. Urbina 4, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, México\n\nHosted by Mexico Tech Week & Valeria",
+    "url": "https://luma.com/mxtw-b100c506",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-b100c506",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Luis G. Urbina 4, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-29T16:00:00+00:00",
+    "dtend": "2026-10-29T18:00:00+00:00",
+    "tags": [
+      "frontend",
+      "security"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Bagatelle Mexico City, 117 alto, Calle Alfredo Tennyson, Polanco 4ª Sección, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11550, México",
+    "hash_key": "tu empresa ya tiene una poltica de salud_2026-10-29T16:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Más allá de Copilot: Cómo los corporativos construyen motores de Growth con IA|México|Ciudad de México",
@@ -1636,33 +1666,6 @@
     "hash_key": "lunch hack sf tech week special w the ai_2026-10-08T18:00:00+00:00"
   },
   {
-    "title": "Claude Community|London  -  Claude Meetup|Online",
-    "description": "Get up-to-date information at: https://luma.com/claude-yp5w\n\nHosted by Zara Hunter & Claude Community",
-    "url": "https://luma.com/claude-yp5w",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claude-yp5w",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-4TIKXQqTXucQXRa",
-    "online": true,
-    "organizer": "Claude Community",
-    "dtstart": "2026-10-08T12:00:00+00:00",
-    "dtend": "2026-10-08T13:00:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-4TIKXQqTXucQXRa",
-    "hash_key": "london claude meetup_2026-10-08T12:00:00+00:00"
-  },
-  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 8 - MCP, Agents and Skills Meetup Meetup|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on MCP, agents and skills.\n\n**Date, Time and Location**\n\nOct 08, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/mcp-agents-skills-meetup-october-8-2026)**\n\n**Designing Multi‑Agent Systems: Sequential, Parallel, and Beyond with ADK**\n\nMulti‑agent systems are powerful but choosing the wrong interaction pattern can quickly lead to fragile, slow, or expensive AI systems.\nIn this talk, we explore the core multi‑agent design patterns enabled by ADK, including sequential, parallel, and more advanced coordination models. Rather than focusing on tools alone, we’ll look at how to think architecturally about agent collaboration.\n\nYou’ll learn:\n\n* When sequential agents are the right choice and when they become a bottleneck\n* How parallel agents improve speed and coverage (and the trade‑offs they introduce)\n* Common failure modes in poorly designed agent interactions\n* Practical criteria for choosing the right pattern based on task, latency, and reliability\n\nBy the end of the session, you’ll have a clear mental model for designing multi‑agent systems that are intentional, scalable, and production‑ready.\n\n*About the Speaker*\n\n[Dr Roushanak Rahmat](https://www.linkedin.com/in/roushanakrahmat/) is an Enterprise AI Architect, Google Developer Expert (AI & Cloud), and recognized among the Top 100 Women in Tech (2025). With a PhD in Artificial Intelligence and over 15 years of experience, she specializes in designing and delivering enterprise-scale Generative AI, Agentic AI, and Deep Learning solutions that transform industries including healthcare, finance, energy, and public services.\n\n**Privacy by Deployment: Architecting Agent-Driven Localization Workflows for Regulated Environments**\n\nMost enterprise AI today is private by promise - a DPA, a SOC 2 report, or a contract clause that says, \"we won't train on your data\". For a regulated buyer, these are remedies after a breach, not controls that prevent or contain one. For organizations in healthcare, finance, defense, and government, privacy often requires stronger guarantees: data residency, customer-controlled execution, and, in some cases, operation within air-gapped environments.\n\nThis session demonstrates how agentic AI can automate a localization workflow while operating within these constraints. Using a real-world localization pipeline as an example, we will show how agentic systems can coordinate translation, review, quality assurance, and content preparation tasks while incorporating human checkpoints for approval and oversight.\n\nWe will also walk through the architectural patterns that enable these workflows to run inside customer-controlled and air-gapped environments without transferring sensitive content outside the customer boundary. The session includes a live product demonstration.\n\nKey Takeaways\n\n* Architectural patterns for deploying agentic AI in air-gapped and customer-controlled environments\n* How agentic systems can automate localization workflows while preserving critical human review and approval processes\n* Practical considerations for operating agentic workflows in regulated environments with auditability and governance requirements\n\n*About the Speaker*\n\n[Shruti Joshi](https://www.linkedin.com/in/28shruti) is building an AI powered secure localization stack for regulated industries such as healthcare, legal, finance that cannot send their content to a typical hosted SaaS. She brings 12+ years of engineering and architecture experience to the question this talk addresses: how do you make an agentic AI system deployable inside a regulated perimeter.\n\n**MCP Is the Interface; Skills Are the Operating Discipline**\n\nThis talk shows how MCP and Agent Skills work together in practical agent systems. MCP gives agents a standard interface to tools, data, and workflows; skills encode the operating discipline that makes those connections reliable. Using a sanitized field-operations ledger as the case study, the talk walks through source intake, normalized state, uncertainty labels, role prompts, QA gates, and share-safe status drafting.\n\n*About the Speaker*\n\n[Chuck Hernandez](https://www.linkedin.com/in/chuck-hernandez/) is an AI engineering and client-delivery leader with 10+ years across software, data platforms, and enterprise implementation, including 3+ years shipping production GenAI systems.\n\n**Agentic engineering is about good guidance.**\n\nGarbage Inn. Is garbage out? This is true. For many input and output processes. In biological life and in computer systems, and equally true when working with LLM’s. The better the prompt, the better the context, the better the focus, And the better the contextual awareness, the better the quality of the output the LLM’s generates.\nThis is the governance, art and practice of what we like to call agentic engineering, something I've been practicing over the last year.\n\n*About the Speaker*\n\n[Dimitri Geelen](https://www.linkedin.com/in/dimitrigeelen/) builds things that don't need him once they're done. Frameworks, transitions, agentic systems — the measure of success is always the same: does it hold up when he leaves the room? He understands not just how to deploy, but what it takes for a new service to survive and scale inside a complex enterprise.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316022262/",
@@ -1952,7 +1955,7 @@
   },
   {
     "title": "Claude Community|Mexico City  -  El Club Violeta Vol. 1 Claude Meetup|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claude-1er9\n\nAddress:\nCheck event page for more details.\n\nHosted by Angelina Mendoza & Jésica Tapia",
+    "description": "Get up-to-date information at: https://luma.com/claude-1er9\n\nAddress:\nUTOPÍA Elena Poniatowska Amor\nCiudad de México, Mexico\n\nHosted by Angelina Mendoza & Jésica Tapia",
     "url": "https://luma.com/claude-1er9",
     "sources": [
       {
@@ -1961,13 +1964,12 @@
         "label": "Ver en Luma"
       }
     ],
-    "location": "San Lucas, Ciudad de México, México",
+    "location": "UTOPÍA Elena Poniatowska Amor, Av Miguel Hidalgo 128, San Lucas, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
     "online": false,
     "organizer": "Claude Community",
     "dtstart": "2026-10-01T22:00:00+00:00",
     "dtend": "2026-10-02T00:30:00+00:00",
     "tags": [
-      "ai",
       "backend"
     ],
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
@@ -1975,9 +1977,9 @@
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
-    "city": "Ciudad de México",
+    "city": "",
     "city_code": "cdmx",
-    "address": "San Lucas Atenco, Ciudad de México, Azcapotzalco, Ciudad de México, 02070, México",
+    "address": "Ciudad de México, México",
     "hash_key": "mexico city el club violeta vol 1 claude_2026-10-01T22:00:00+00:00"
   },
   {
@@ -2071,36 +2073,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-aMWTA3BkHy5mBWX",
     "hash_key": "ai and the future of humanity what could_2026-09-30T14:00:00+00:00"
-  },
-  {
-    "title": "Rust-AICollective|Search, redesigned: What AI Means for Shopping (w/ The AI Collective)|Online",
-    "description": "Get up-to-date information at: https://luma.com/aic-sw-9-30\n\nHosted by The AI Collective & 4 others",
-    "url": "https://luma.com/aic-sw-9-30",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/aic-sw-9-30",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-Tip5W8wqgxA4onA",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-09-30T09:30:00+00:00",
-    "dtend": "2026-09-30T10:30:00+00:00",
-    "tags": [
-      "ai",
-      "frontend"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-Tip5W8wqgxA4onA",
-    "hash_key": "search redesigned what ai means for shop_2026-09-30T08:00:00+00:00"
   },
   {
     "title": "Pythonistas GDL|Septiembre: Lingüística Computacional y Agentes de IA|México|Jalisco",
@@ -2267,7 +2239,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2325,7 +2297,7 @@
     "dtstart": "2026-08-26T22:00:00+00:00",
     "dtend": "2026-08-26T23:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2412,7 +2384,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -3018,7 +2990,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3103,7 +3075,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4175,7 +4147,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -4253,7 +4225,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4314,7 +4286,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4345,7 +4317,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4399,7 +4371,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4428,7 +4400,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4484,7 +4456,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4513,7 +4485,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4540,7 +4512,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4596,7 +4568,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4623,7 +4595,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4652,7 +4624,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4681,7 +4653,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4710,7 +4682,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4740,7 +4712,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4794,7 +4766,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4823,7 +4795,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4852,7 +4824,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4881,7 +4853,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4939,7 +4911,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4968,7 +4940,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4997,7 +4969,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5027,7 +4999,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5056,7 +5028,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5086,7 +5058,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5116,7 +5088,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5145,7 +5117,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5172,14 +5144,14 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -5201,7 +5173,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5228,7 +5200,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5257,7 +5229,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5287,7 +5259,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5317,7 +5289,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5344,7 +5316,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5371,7 +5343,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5398,7 +5370,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5428,7 +5400,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -6872,7 +6844,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8138,7 +8110,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+    "address": "Warner Music Mexico City, 32, Calle Leibnitz, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
   },
   {
@@ -8528,7 +8500,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -12721,7 +12693,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
