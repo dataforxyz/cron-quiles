@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:05:26.246858+00:00",
+  "generated_at": "2026-10-02T05:48:49.183461+00:00",
   "total_events": 162,
   "city": "Online",
   "communities": [
@@ -3736,37 +3736,6 @@
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
     },
     {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 1 - APAC AI, ML and Computer Vision Meetup|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our APAC time-zone friendly virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nOct 1, 2026\n6:00 PM - 8:00 PM PDT\nOnline. **[Register for the Zoom!](https://voxel51.com/events/apac-ai-ml-and-computer-vision-meetup-october-1-2026)**\n\n**Beyond Exact Matches: Detecting Modified 3D Assets at Marketplace Scale**\n\nHow can a marketplace identify copied 3D assets when their orientation, geometry, or composition has changed? Drawing on my work in 3D content understanding at Roblox, this talk will explore multi-view and rotation-invariant representations for similarity and duplicate detection, including the challenges posed by deformed and fragmented copies.\nIt will examine how geometric and semantic signals can complement one another, and discuss practical trade-offs in evaluating detection quality and deploying these methods at scale. The presentation will draw on published patent applications and publicly shareable examples to offer practical lessons for engineers building visual search, content-understanding, and marketplace-safety systems.\n\n*About the Speaker*\n\n[Phani Harish Wajjala](https://www.linkedin.com/in/harish-wajjala-81a47119/) is a Principal Machine Learning Engineer at Roblox specializing in 3D computer vision, multimodal AI, and large-scale content understanding.\n\n**Sign Language: Towards Sign Understanding for Robot Autonomy**\n\nNavigational signs are common aids for human wayfinding and scene understanding, but are underutilized by robots. We argue that they benefit robot navigation and scene understanding, by directly encoding privileged information on actions, spatial regions, and relations.\n\nInterpreting signs in open-world settings remains a challenge owing to the complexity of scenes and signs, but recent advances in vision-language models (VLMs) make this feasible. To advance progress in this area, we introduce the task of visual sign grounding, which parses locations and associated directions from signs, and maps them to region in the sign’s local environment.\n\nAdditionally, we present a baseline approach using VLMs, and demonstrate their promise on the task. We also outline different applications, such as localization and navigation, which benefit from the spatial-symbolic information encoded by navigational signs.\n\n*About the Speaker*\n\n[Nicky Zimmerman](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) I am a postdoctoral researcher in NUS, working on open world navigation. My PhD thesis focused on human-inspired strategies for semantic localization and mapping. Previously, I worked as computer vision algorithm developer in General Motors and Intel.\n\n**MeMo: Memory as a Model**\n\nLarge language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge.\n\nIn this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated Memory model while keeping the LLM unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM’s weights or output logits that enabling plug-and-play integration with both open and proprietary LLMs, and (e) its retrieval cost is independent of corpus size at inference time.\n\nOur experiments on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.\n\n*About the Speaker*\n\n[Arun Verma](https://www.linkedin.com/in/arunverma100) is a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology Centre, where he works with Daniela Rus, Armando Solar-Lezama, and Bryan Low.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316613758/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316613758/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-10-01T19:00:00-06:00",
-      "dtend": "2026-10-01T21:00:00-06:00",
-      "tags": [
-        "ai",
-        "frontend",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "oct 1 apac ai ml and computer vision mee_2026-10-02T00:00:00+00:00"
-    },
-    {
       "title": "GDG Cloud Mexico City|Innovación, Datos y Tecnologías del Futuro - Lanzamiento LGAD|Online",
       "description": "Únete a este gran transmisión en vivo de este gran congreso desde el Sur de Tamaulipas para el lanzamiento oficial del Congreso para la Educación: Innovación, Datos y Tecnologías del Futuro - Lanzamiento LGAD, con expertos en IA, Cloud y Google for Education.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-innovacion-datos-y-tecnologias-del-futuro-lanzamiento-lgad-1/",
@@ -4547,9 +4516,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4558,6 +4528,39 @@
       "city_code": "",
       "address": "Tecnológico de Monterrey, Campus Ciudad de México, Prolongación Canal de Miramontes, Ciudad de México",
       "hash_key": "devfest 2026 ciudad de mxico_2026-12-07T14:00:00+00:00"
+    },
+    {
+      "title": "México City AI, Machine Learning and Computer Vision Meetup|Dec 10 - AI, ML and Computer Vision Meetup|Online",
+      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nDec 10, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-december-10-2026)**\n\n**Your mAP is fine. Your slices are not. Finding the images that actually matter**\n\nA single mAP can look acceptable while one slice is unusable, small objects, occlusion, or a confused class. I will run a pretrained detector on a few hundred public images (COCO-style, not a production crawl), report the headline metric, then break the same run by slice and walk through the worst samples.\n\nThe claim is modest: you do not need a million images or a trained-from-scratch model to see what the mean is hiding, and you cannot relabel everything, so the next labeling budget should follow those slices. No employer data and no confidential dashboards.\n\n*About the Speaker*\n\n[Amandeep Jiddewar](https://www.linkedin.com/in/amanfj/) is a Machine Learning Engineer at Pinterest, with prior work in U.S. manufacturing analytics (CertainTeed / Saint-Gobain) and marketplace allocation (QuinStreet). Emory Goizueta MSBA (2019), Kaggle Expert. This talk is in his personal capacity and does not represent his current or prior employers.\n\n**Production AI Agents: Tool Use, Evaluation, Guardrails and Observability**\n\nBuilding an AI agent is easy. Knowing whether it is behaving reliably in production is much harder. This session explores how to evaluate agents that use tools and external systems, including tool-call validation, tracing, observability, failure analysis, guardrails, permissions, and human review.\n\nAttendees will learn practical patterns for understanding not just what an agent answered, but why it acted and whether the action was safe.\n\n*About the Speaker*\n\n[Akshay Talathi](https://www.linkedin.com/in/akshaytalathi/) is a Vice President at Goldman Sachs with over 10 years of experience building large-scale, cloud-native, and distributed systems across financial services and technology. His current focus is GenAI and agentic AI, including production AI agents, MCP, enterprise integrations, guardrails, observability, and reliable AI-driven workflows.\n\n**From Virtual Worlds to Physical AI: Building Simulation Pipelines That Survive the Real World**\n\nRobots are moving beyond perception systems that only detect and classify objects toward systems that must understand a scene, learn behaviors, and act in the physical world. In this talk, I’ll show a practical Physical AI workflow using OpenUSD, BowerBot, NVIDIA Isaac Sim and Isaac Lab to build a robot’s virtual world, including its body, cameras, sensors, and environment.\n\nWe’ll explore how demonstrations and reinforcement learning can teach behaviors in simulation, how vision and sensor data become observations for a robot policy, and what needs to match when transferring that behavior to real hardware. The demo follows a small robot from a simulated environment toward a real-world task, exposing both the power and the limitations of sim-to-real.\n\nThe goal is to make the path from pixels to actions concrete for computer vision and machine learning practitioners.\n\n*About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in/arturo-morales-rangel) is the founder of Binary Core LLC, a Physical AI engineering company working across simulation, perception, robot learning, and deployment.",
+      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316757843/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316757843/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+      "dtstart": "2026-12-10T11:00:00-06:00",
+      "dtend": "2026-12-10T13:00:00-06:00",
+      "tags": [
+        "ai",
+        "backend",
+        "cloud",
+        "data",
+        "frontend"
+      ],
+      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "dec 10 ai ml and computer vision meetup_2026-12-10T16:00:00+00:00"
     },
     {
       "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
