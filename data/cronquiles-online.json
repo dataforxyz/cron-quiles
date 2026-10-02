@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:50:31.664789+00:00",
+  "generated_at": "2026-10-02T22:35:03.488315+00:00",
   "total_events": 162,
   "city": "Online",
   "communities": [
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -140,17 +140,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cancun/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Cloud Mexico City",
-      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -3555,7 +3544,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3582,7 +3571,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3725,7 +3714,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3734,42 +3723,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "GDG Cloud Mexico City|Innovación, Datos y Tecnologías del Futuro - Lanzamiento LGAD|Online",
-      "description": "Únete a este gran transmisión en vivo de este gran congreso desde el Sur de Tamaulipas para el lanzamiento oficial del Congreso para la Educación: Innovación, Datos y Tecnologías del Futuro - Lanzamiento LGAD, con expertos en IA, Cloud y Google for Education.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-innovacion-datos-y-tecnologias-del-futuro-lanzamiento-lgad-1/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-innovacion-datos-y-tecnologias-del-futuro-lanzamiento-lgad-1/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG Cloud Mexico City",
-      "dtstart": "2026-10-02T09:00:00-06:00",
-      "dtend": "2026-10-02T14:00:00-06:00",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Conference",
-        "Google Workspace",
-        "Networking",
-        "Tech Talk / Meetup",
-        "cloud"
-      ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "innovacin datos y tecnologas del futuro _2026-10-02T14:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Construye con Google Maps Platform e Inteligencia Artificial|Online",
@@ -4235,6 +4188,36 @@
       "city_code": "",
       "address": "",
       "hash_key": "oct 22 advances in ai at virginia tech_2026-10-22T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Accelerate: mentoría, herramientas y capital para PyMEs que generan empleo|Online",
+      "description": "Get up-to-date information at: https://luma.com/mxtw-49b71d58\n\nHosted by Mexico Tech Week & Igeneris Events",
+      "url": "https://luma.com/mxtw-49b71d58",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mxtw-49b71d58",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-oTiTuL4eOurxzL1",
+      "online": true,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2026-10-26T23:00:00+00:00",
+      "dtend": "2026-10-27T01:00:00+00:00",
+      "tags": [
+        "backend",
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-oTiTuL4eOurxzL1",
+      "hash_key": "accelerate mentora herramientas y capita_2026-10-26T22:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
