@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-02T22:35:03.610659+00:00",
-  "total_events": 1,
+  "generated_at": "2026-10-03T05:32:28.722297+00:00",
+  "total_events": 3,
   "city": "Tabasco",
   "communities": [
     {
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
       "links": []
+    },
+    {
+      "name": "GDG Villahermosa",
+      "description": "Somos una comunidad que busca desarrollar e impulsar al talento local, mediante actividades constantes y mentorias. Este programa está dedicado a ayudar a los organizadores individuales de comunidades activas de desarrolladores móviles, web, en la nube y de inteligencia artificial en su viaje, liderando grupos exitosos y comprometidos a través de capacitación en línea, materiales de reunión, oportunidades de redes y más.\nIniciada en 2014 por desarrolladores locales.\nDescargo de responsabilidad: GDG Villahermosa es un grupo independiente; Nuestras actividades y las opiniones expresadas aquí no deben estar vinculadas de ninguna manera a Google, la corporación. Para obtener más información sobre el programa GDG, visite https://developers.google.com/community/gdg/",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-villahermosa/",
+          "label": "Sitio web"
+        }
+      ]
     }
   ],
   "events": [
@@ -38,6 +49,78 @@
       "city_code": "villahermosa",
       "address": "Fraccionamiento Oropeza, Villahermosa, Centro, Tabasco, 86030, México",
       "hash_key": "villahermosa claude code para todos_2026-04-14T22:00:00+00:00"
+    },
+    {
+      "title": "GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|México|Tabasco",
+      "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias ...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-ujat-dacyti/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-ujat-dacyti/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Universidad Juárez Autónoma de Tabasco, s/n Avenida Universidad, Villahermosa",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-11-11T08:00:00-06:00",
+      "dtend": "2026-11-11T17:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "backend"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Tabasco",
+      "state_code": "MX-TAB",
+      "city": "Villahermosa",
+      "city_code": "villahermosa",
+      "address": "Hospital Nuestra Señora de Guadalupe, Avenida Universidad, Fraccionamiento Valle Marino, Villahermosa, Centro, Tabasco, 86029, México",
+      "hash_key": "devfest 2026 sureste de mxico ujat dacyt_2026-11-11T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|Tabasco",
+      "description": "Únete al Devfest 2026, el evento clave para explorar las últimas tendencias en desarrollo de software, desde aplicaciones móviles hasta inteligencia artificial. Asiste a charlas de expertos y talleres prácticos, y conéctate con otros desarrolladores apasionados. Descubre cómo puedes influir en el futuro tecnológico. Se lleva a cabo en el auditorio principal del Congreso. ¡Confirma tu asistencia!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-comalcalco/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-comalcalco/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Instituto Tecnológico Superior de Comalcalco, KM 2 Paraiso - Comalcalco, Comalcalco",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-11-13T09:00:00-06:00",
+      "dtend": "2026-11-13T13:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Tabasco",
+      "state_code": "MX-TAB",
+      "city": "Comalcalco",
+      "city_code": "comalcalco",
+      "address": "Paraíso - Comalcalco, Comalcalco, Tabasco, 86300, México",
+      "hash_key": "devfest 2026 tecnm comalcalco_2026-11-13T14:00:00+00:00"
     }
   ]
 }

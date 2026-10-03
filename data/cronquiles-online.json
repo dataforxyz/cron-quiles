@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T22:35:03.488315+00:00",
-  "total_events": 162,
+  "generated_at": "2026-10-03T05:32:28.556062+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -86,11 +86,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -145,12 +145,34 @@
       ]
     },
     {
+      "name": "GDG Cloud Mexico City",
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Tijuana",
       "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-tijuana/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Villahermosa",
+      "description": "Somos una comunidad que busca desarrollar e impulsar al talento local, mediante actividades constantes y mentorias. Este programa está dedicado a ayudar a los organizadores individuales de comunidades activas de desarrolladores móviles, web, en la nube y de inteligencia artificial en su viaje, liderando grupos exitosos y comprometidos a través de capacitación en línea, materiales de reunión, oportunidades de redes y más.\nIniciada en 2014 por desarrolladores locales.\nDescargo de responsabilidad: GDG Villahermosa es un grupo independiente; Nuestras actividades y las opiniones expresadas aquí no deben estar vinculadas de ninguna manera a Google, la corporación. Para obtener más información sobre el programa GDG, visite https://developers.google.com/community/gdg/",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-villahermosa/",
           "label": "Sitio web"
         }
       ]
@@ -2838,7 +2860,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3003,7 +3025,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3544,7 +3566,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3571,7 +3593,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3687,7 +3709,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3714,7 +3736,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3723,40 +3745,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "GDG CDMX|Construye con Google Maps Platform e Inteligencia Artificial|Online",
-      "description": "El Google Developer Group CDMX invita a ingenieras/os de software, investigadoras/es y entusiastas de la tecnología a la sesión dedicada al desarrollo del Codelab: Construye con Google Maps Platform e Inteligencia Artificial. En este codelab crearemos un explorador de bloques, un juego geoespacial interactivo que combina datos de mapas en tiempo real con Inteligencia Artificial Generativa.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-construye-con-google-maps-platform-e-inteligencia-artificial/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-construye-con-google-maps-platform-e-inteligencia-artificial/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Online",
-      "online": true,
-      "organizer": "GDG CDMX",
-      "dtstart": "2026-10-02T19:00:00-06:00",
-      "dtend": "2026-10-02T20:30:00-06:00",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Career Development",
-        "Google Maps Platform",
-        "Workshop / hands-on session"
-      ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Online",
-      "hash_key": "construye con google maps platform e int_2026-10-03T00:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Probabilidad & Estadística Científica|Online",
@@ -4373,6 +4361,45 @@
       "hash_key": "nov 11 ai ml and computer vision meetup_2026-11-11T16:00:00+00:00"
     },
     {
+      "title": "GDG Villahermosa|DevFest 2026: Sureste de México Virtual|Online",
+      "description": "Devfest 2026 es la cita ideal para desarrolladores que quieran explorar las últimas tendencias en aplicaciones móviles, web, cloud e inteligencia artificial. Participa en charlas de expertos y talleres prácticos que mejorarán tus habilidades. Conecta con otros apasionados y descubre cómo influir en el futuro de la tecnología. ¡Confirma tu asistencia!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-virtual/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-virtual/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-11-12T19:10:43-06:00",
+      "dtend": "2026-11-12T20:25:43-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "backend",
+        "cloud",
+        "frontend",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "devfest 2026 sureste de mxico virtual_2026-11-13T00:00:00+00:00"
+    },
+    {
       "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
       "description": "Join us for our inaugural GDG Tijuana event as we pave the way to DevFest Tijuana 2026! Be part of the journey to the most exciting tech event of the year by connecting with fellow developers and tech enthusiasts. Enjoy a day filled with engaging discussions, networking opportunities, and a sneak peek into what DevFest 2026 will offer. Don’t miss the chance to contribute your ideas and shape the f",
       "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
@@ -4474,6 +4501,43 @@
       "hash_key": "devfest cancn 2026_2026-11-20T14:00:00+00:00"
     },
     {
+      "title": "GDG Villahermosa|DevFest 2026: TecNM Villahermosa|México|",
+      "description": "Devfest 2026 es una oportunidad clave para explorar las tecnologías emergentes en desarrollo de software, incluyendo aplicaciones móviles, web, cloud computing e inteligencia artificial. Con charlas de expertos y talleres interactivos, es ideal para desarrolladores interesados en moldear el futuro tecnológico. Conéctate con otros profesionales en el auditorio del Congreso y sé parte del cambio.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-villahermosa/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-villahermosa/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "TecNM - Campus Villahermosa, Villahermosa - Frontera, Villahermosa",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-11-25T09:00:00-06:00",
+      "dtend": "2026-11-25T13:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "cloud",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "TecNM - Campus Villahermosa, Villahermosa - Frontera, Villahermosa",
+      "hash_key": "devfest 2026 tecnm villahermosa_2026-11-25T14:00:00+00:00"
+    },
+    {
       "title": "GDG CDMX|Devfest 2026: Ciudad de México|México|",
       "description": "Devfest 2026 en la Ciudad de México es el evento imperdible para desarrolladores, entusiastas de la tecnología e innovadores. Explora nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a esta inspiradora comunidad y descubre las emocionantes propuestas. Reserva tu lugar hoy para no perder esta oportunidad única.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/",
@@ -4499,9 +4563,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4820,7 +4885,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
