@@ -58,10 +58,9 @@
       "Google Cloud",
       "Google Workspace",
       "Web",
-      "Workshop / hands-on session",
-      "cloud"
+      "Workshop / hands-on session"
     ],
-    "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+    "source": "https://gdg.community.dev/gdg-cdmx/",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -179,7 +178,7 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44610, México",
+    "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
     "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
   },
   {
@@ -318,7 +317,7 @@
     "hash_key": "devfest tijuana 2026_2026-11-13T20:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|",
+    "title": "GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|Tabasco",
     "description": "Únete al Devfest 2026, el evento clave para explorar las últimas tendencias en desarrollo de software, desde aplicaciones móviles hasta inteligencia artificial. Asiste a charlas de expertos y talleres prácticos, y conéctate con otros desarrolladores apasionados. Descubre cómo puedes influir en el futuro tecnológico. Se lleva a cabo en el auditorio principal del Congreso. ¡Confirma tu asistencia!",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-comalcalco/",
     "sources": [
@@ -346,11 +345,11 @@
     "source": "https://gdg.community.dev/gdg-villahermosa/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Instituto Tecnológico Superior de Comalcalco, KM 2 Paraiso - Comalcalco, Comalcalco",
+    "state": "Tabasco",
+    "state_code": "MX-TAB",
+    "city": "Comalcalco",
+    "city_code": "comalcalco",
+    "address": "Paraíso - Comalcalco, Comalcalco, Tabasco, 86300, México",
     "hash_key": "devfest 2026 tecnm comalcalco_2026-11-13T14:00:00+00:00"
   },
   {
@@ -609,35 +608,6 @@
     "hash_key": "oct 29 how to build vision data agents w_2026-10-29T16:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Founder Dinner: AI Tinkerers CDMX x Mexico Tech Week|Online",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-b65c100e\n\nHosted by Mexico Tech Week & Christopher Martinez",
-    "url": "https://luma.com/mxtw-b65c100e",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-b65c100e",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-xCH3SD9wbA6GoPP",
-    "online": true,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-29T01:30:00+00:00",
-    "dtend": "2026-10-29T04:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-xCH3SD9wbA6GoPP",
-    "hash_key": "founder dinner ai tinkerers cdmx x mexic_2026-10-29T00:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|After Hours: Art + Tech x Get on Board + Galería Sala Marte|Online",
     "description": "Get up-to-date information at: https://luma.com/mxtw-0b294c7f\n\nHosted by Mexico Tech Week, Galería Sala Marte & Get on Board",
     "url": "https://luma.com/mxtw-0b294c7f",
@@ -750,6 +720,35 @@
     "city_code": "cdmx",
     "address": "Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
     "hash_key": "bord ontop across latam after office mex_2026-10-29T00:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Replit Building Fest|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-400f78ba\n\nAddress:\nPlatzi México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & 3 others",
+    "url": "https://luma.com/mxtw-400f78ba",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-400f78ba",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Platzi México, Av. P.º de la Reforma 373-Piso 20, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-29T01:00:00+00:00",
+    "dtend": "2026-10-29T04:00:00+00:00",
+    "tags": [
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "replit building fest_2026-10-29T00:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Cocktail para corporativos y premiación AI for Corporate Challenge|México|Ciudad de México",
@@ -1324,6 +1323,35 @@
     "hash_key": "your next investor could be in asia what_2026-10-28T16:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Amela x mikigai: A Mindful Oasis in the Middle of Tech Week|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-340575da\n\nAddress:\nCasa mikigai\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Anais Cisneros & Maria Fernanda Ortiz",
+    "url": "https://luma.com/mxtw-340575da",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-340575da",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Casa mikigai, Av. Insurgentes Sur 427, Hipódromo Condesa, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T16:00:00+00:00",
+    "dtend": "2026-10-28T17:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "La Fogata, 427, Avenida Insurgentes Sur, Hipódromo, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06760, México",
+    "hash_key": "amela x mikigai a mindful oasis in the m_2026-10-28T16:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
     "description": "Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\n\nHosted by Mexico Tech Week & Luis Regalado",
     "url": "https://luma.com/mxtw-d5be4f2b",
@@ -1721,6 +1749,35 @@
     "city_code": "cdmx",
     "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
     "hash_key": "fintech real estate tech vc sessions by _2026-10-27T22:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Amela: Distribution Is King|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-2c8af52a\n\nAddress:\nISDI México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Anais Cisneros & Maria Fernanda Ortiz",
+    "url": "https://luma.com/mxtw-2c8af52a",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-2c8af52a",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "ISDI México, C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T23:00:00+00:00",
+    "dtend": "2026-10-28T01:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "amela distribution is king_2026-10-27T22:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Kickoff Demo Night|México|Ciudad de México",
@@ -2412,6 +2469,36 @@
     "hash_key": "awspectrum architecture arena_2026-10-26T22:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|AI Investment Research and Portfolio Management Workshop|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-42ba60ba\n\nAddress:\nBBVA Open Space México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Arturo Aguilar",
+    "url": "https://luma.com/mxtw-42ba60ba",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-42ba60ba",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "BBVA Open Space México, Torre BBVA Bancomer, Av. P.º de la Reforma 510-Planta 33, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T21:00:00+00:00",
+    "dtend": "2026-10-27T00:00:00+00:00",
+    "tags": [
+      "ai",
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "ai investment research and portfolio man_2026-10-26T20:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Pit Stop by Emprelatam y Oracle|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-c6628fc8\n\nAddress:\nC. Montes Urales 470, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Emprelatam",
     "url": "https://luma.com/mxtw-c6628fc8",
@@ -2608,6 +2695,35 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "investors founders coffee mixer_2026-10-26T14:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Amela's Morning Club: connect with female founders 🇲🇽  -  Mexico City|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-gyls\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 4 others",
+    "url": "https://luma.com/mxtw-gyls",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-gyls",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Granada, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T14:00:00+00:00",
+    "dtend": "2026-10-26T16:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Granada, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11520, México",
+    "hash_key": "amela s morning club connect with female_2026-10-26T14:00:00+00:00"
   },
   {
     "title": "Claude Community|Mexico City  -  Claude Impact Lab en la Cámara de Diputados de México|México|Ciudad de México",
@@ -5522,7 +5638,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Ciudad Universitaria, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -6526,7 +6642,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
