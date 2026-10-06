@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-10-06T00:29:59.414491+00:00",
+  "generated_at": "2026-10-06T06:41:16.772449+00:00",
   "total_events": 162,
   "city": "Online",
   "communities": [
+    {
+      "name": "Agility Talks",
+      "description": "Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/agilility-talks",
+          "label": "Meetup"
+        }
+      ]
+    },
     {
       "name": "AI/IA CDMX",
       "description": "Canal de Luma de la comunidad de IA en Ciudad de México.",
@@ -32,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -86,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -140,17 +151,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cancun/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Tepic",
-      "description": "GDG Tepic is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-tepic/",
           "label": "Sitio web"
         }
       ]
@@ -2860,7 +2860,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3025,7 +3025,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3566,7 +3566,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3593,7 +3593,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3709,7 +3709,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3736,7 +3736,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4053,38 +4053,34 @@
       "hash_key": "oct 15 ai ml and computer vision meetup_2026-10-15T16:00:00+00:00"
     },
     {
-      "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
-      "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
+      "title": "Agility Talks|Lean OKR: ¿Cascadeo o Alineamiento?|Online",
+      "description": "Agile Talks - Difundiendo la agilidad\n**Cuando los OKR se cascadean por indicadores, cada traslado degrada la calidad del indicador y el impacto termina convertido en un entregable. En este webinar veremos por qué ocurre y cómo Lean OKR lo resuelve alineando hacia dimensiones estratégicas.**\n\nMuchas organizaciones alinean sus OKR bajando indicadores de nivel en nivel. Parece ordenado y sin embargo cada traslado transforma lo que se mide. Un indicador de impacto financiero se vuelve uno de outcome y luego uno de output o de proceso. Al final del camino puede quedar apenas un hito de proyecto.\n\nEn esta Agile Talk presentaremos un sistema de indicadores y mostraremos cómo se degrada el cascadeo.\nLuego veremos la propuesta de Lean OKR, que conecta a cada equipo con una dimensión estratégica.\n\nCada equipo trabaja en el nivel donde realmente influye y su contribución se trata como una hipótesis que se pone a prueba.\n\n**Saldrás con un ejercicio sencillo para auditar la cascada de tu propia organización.**",
+      "url": "https://www.meetup.com/agilility-talks/events/316863500/",
       "sources": [
         {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
-          "label": "Ver sitio web"
+          "platform": "meetup",
+          "url": "https://www.meetup.com/agilility-talks/events/316863500/",
+          "label": "Ver en Meetup"
         }
       ],
-      "location": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
-      "online": false,
-      "organizer": "GDG Tepic",
-      "dtstart": "2026-10-15T12:30:00-07:00",
-      "dtend": "2026-10-17T16:30:00-07:00",
+      "location": "Online event,",
+      "online": true,
+      "organizer": "Agility Talks",
+      "dtstart": "2026-10-21T19:00:00-06:00",
+      "dtend": "2026-10-21T20:30:00-06:00",
       "tags": [
-        "AI",
-        "AI - Gemini",
-        "DevFest",
-        "Google Cloud",
-        "Workshop / hands-on session",
-        "security"
+        "frontend",
+        "web"
       ],
-      "source": "https://gdg.community.dev/gdg-tepic/",
-      "country": "México",
-      "country_code": "MX",
+      "source": "https://www.meetup.com/agilility-talks/events/ical",
+      "country": "",
+      "country_code": "",
       "state": "",
       "state_code": "",
       "city": "",
       "city_code": "",
-      "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
-      "hash_key": "dev fest 2026 collaborative innovation_2026-10-15T18:00:00+00:00"
+      "address": "",
+      "hash_key": "lean okr cascadeo o alineamiento_2026-10-22T00:00:00+00:00"
     },
     {
       "title": "Kong Mexico City|Planning Your Strategic AI Governance Roadmap|Online",
@@ -4344,8 +4340,8 @@
       "location": "Online",
       "online": true,
       "organizer": "GDG Villahermosa",
-      "dtstart": "2026-11-12T19:10:43-06:00",
-      "dtend": "2026-11-12T20:25:43-06:00",
+      "dtstart": "2026-11-13T08:00:00-06:00",
+      "dtend": "2026-11-13T16:00:00-06:00",
       "tags": [
         "AI",
         "AI - Gemini",
@@ -4367,7 +4363,7 @@
       "city": "",
       "city_code": "",
       "address": "Online",
-      "hash_key": "devfest 2026 sureste de mxico virtual_2026-11-13T00:00:00+00:00"
+      "hash_key": "devfest 2026 sureste de mxico virtual_2026-11-13T14:00:00+00:00"
     },
     {
       "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
@@ -4854,7 +4850,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
