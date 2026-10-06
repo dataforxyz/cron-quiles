@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T06:41:16.772449+00:00",
-  "total_events": 162,
+  "generated_at": "2026-10-06T18:47:52.755876+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -43,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -116,6 +116,11 @@
           "label": "Luma"
         }
       ]
+    },
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
     },
     {
       "name": "Frutero Club",
@@ -2860,7 +2865,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3025,7 +3030,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3566,7 +3571,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3593,7 +3598,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3709,7 +3714,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3736,7 +3741,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4051,6 +4056,33 @@
       "city_code": "",
       "address": "",
       "hash_key": "oct 15 ai ml and computer vision meetup_2026-10-15T16:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Oslo  -  Claude Impact Lab|Online",
+      "description": "Get up-to-date information at: https://luma.com/claude-qv5r\n\nHosted by Aleksander Stensby & Mesh Oslo",
+      "url": "https://luma.com/claude-qv5r",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-qv5r",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-WeBUbqHOiAlPqLR",
+      "online": true,
+      "organizer": "Claude Community",
+      "dtstart": "2026-10-21T07:00:00+00:00",
+      "dtend": "2026-10-21T12:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-WeBUbqHOiAlPqLR",
+      "hash_key": "oslo claude impact lab_2026-10-21T06:00:00+00:00"
     },
     {
       "title": "Agility Talks|Lean OKR: ¿Cascadeo o Alineamiento?|Online",
@@ -4850,7 +4882,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
