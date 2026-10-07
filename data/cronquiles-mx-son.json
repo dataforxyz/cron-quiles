@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-07T13:40:55.521925+00:00",
-  "total_events": 1,
+  "generated_at": "2026-10-07T23:31:13.510465+00:00",
+  "total_events": 2,
   "city": "Sonora",
   "communities": [
     {
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
       "links": []
+    },
+    {
+      "name": "GDG Hermosillo",
+      "description": "Disclaimer: GDG Hermosillo is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg ",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-hermosillo/",
+          "label": "Sitio web"
+        }
+      ]
     }
   ],
   "events": [
@@ -38,6 +49,35 @@
       "city_code": "hermosillo",
       "address": "Hermosillo, Sonora, 83140, México",
       "hash_key": "hermosillo claude code for everyone_2026-04-17T00:00:00+00:00"
+    },
+    {
+      "title": "GDG Hermosillo|DevFest 2026: ¡Comienza la Aventura Tecnológica!|México|Sonora",
+      "description": "Únete al lanzamiento de DevFest 2026 en Hermosillo para descubrir tendencias en tecnología y desarrollo. Es una oportunidad ideal para conectar con otros entusiastas y compartir ideas. No te lo pierdas, regístrate ahora y forma parte de esta emocionante comunidad.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-devfest-2026-comienza-la-aventura-tecnologica/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-devfest-2026-comienza-la-aventura-tecnologica/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Aviada, 40 Avenida Doctor Ignacio Pesqueira, Hermosillo",
+      "online": false,
+      "organizer": "GDG Hermosillo",
+      "dtstart": "2026-10-17T10:00:00-07:00",
+      "dtend": "2026-10-17T14:30:00-07:00",
+      "tags": [
+        "DevFest"
+      ],
+      "source": "https://gdg.community.dev/gdg-hermosillo/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Sonora",
+      "state_code": "MX-SON",
+      "city": "Hermosillo",
+      "city_code": "hermosillo",
+      "address": "Aviada, 40, Avenida Doctor Ignacio Pesqueira, Hermosillo, Sonora, 83260, México",
+      "hash_key": "devfest 2026 comienza la aventura tecnol_2026-10-17T16:00:00+00:00"
     }
   ]
 }
