@@ -3956,9 +3956,9 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAd
  éxico\nMexico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Calz. Gral. Mariano Escobedo 726\, Polanco\, Anzures\, Miguel Hid
  algo\, 11590 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Warner Music Mexico City\, 32\, Calle Leibnitz\, Anzu
- res\, Polanco\, Ciudad de México\, Miguel Hidalgo\, Ciudad de México\, 1
- 1590\, México
+X-CRONQUILES-ADDRESS:Vape Monkey Mexico\, 68\, Calle Darwin\, Anzures\, Po
+ lanco\, Ciudad de México\, Miguel Hidalgo\, Ciudad de México\, 11590\, M
+ éxico
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -5599,7 +5599,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/7mivqqeo\n\nAd
  FinTech México & 4 others
 LOCATION:Dalia\, Monte Líbano 215\, Lomas de Chapultepec\, Miguel Hidalgo
  \, 11000 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 2ª Secci
+X-CRONQUILES-ADDRESS:Calle Monte Líbano\, Lomas de Chapultepec 6ª Secci
  ón\, Lomas de Chapultepec\, Ciudad de México\, Miguel Hidalgo\, Ciudad d
  e México\, 11000\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -6227,8 +6227,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/1dl2uihj\n\nAd
  co\nMexico\n\nHosted by PythonCDMX
 LOCATION:Londres 61\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, CD
  MX\, Mexico
-X-CRONQUILES-ADDRESS:Calle Londres\, Juárez\, Roma\, Ciudad de México\, 
- Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-ADDRESS:Cerrada Londres\, Juárez\, Condesa\, Ciudad de Méxi
+ co\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6343,7 +6343,7 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/claudemonterre
  y-11\n\nAddress:\nCheck event page for more details.\n\nHosted by Ricardo 
  Lira de la Vega\, Sebastián Marines & Erik Porroa
 LOCATION:Sin Nombre 34\, Monterrey\, Nuevo León\, México
-X-CRONQUILES-ADDRESS:Monterrey\, Nuevo León\, 64010\, México
+X-CRONQUILES-ADDRESS:Monterrey\, Nuevo León\, 64490\, México
 X-CRONQUILES-CITY:Monterrey
 X-CRONQUILES-CITY-CODE:monterrey
 X-CRONQUILES-COUNTRY:México
@@ -7411,99 +7411,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
- 8 - MCP\, Agents and Skills Meetup Meetup|Online
-DTSTART:20261008T100000
-CATEGORIES:ai,cloud,data,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nJoin our virtual meetup to hear talks from experts on MCP\, agents and sk
- ills.\n\n**Date\, Time and Location**\n\nOct 08\, 2026\n9:00 AM - 11:00 AM
-  PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/mcp-ag
- ents-skills-meetup-october-8-2026)**\n\n**Designing Multi‑Agent Systems:
-  Sequential\, Parallel\, and Beyond with ADK**\n\nMulti‑agent systems ar
- e powerful but choosing the wrong interaction pattern can quickly lead to 
- fragile\, slow\, or expensive AI systems.\nIn this talk\, we explore the c
- ore multi‑agent design patterns enabled by ADK\, including sequential\, 
- parallel\, and more advanced coordination models. Rather than focusing on 
- tools alone\, we’ll look at how to think architecturally about agent col
- laboration.\n\nYou’ll learn:\n\n* When sequential agents are the right c
- hoice and when they become a bottleneck\n* How parallel agents improve spe
- ed and coverage (and the trade‑offs they introduce)\n* Common failure mo
- des in poorly designed agent interactions\n* Practical criteria for choosi
- ng the right pattern based on task\, latency\, and reliability\n\nBy the e
- nd of the session\, you’ll have a clear mental model for designing multi
- ‑agent systems that are intentional\, scalable\, and production‑ready.
- \n\n*About the Speaker*\n\n[Dr Roushanak Rahmat](https://www.linkedin.com/
- in/roushanakrahmat/) is an Enterprise AI Architect\, Google Developer Expe
- rt (AI & Cloud)\, and recognized among the Top 100 Women in Tech (2025). W
- ith a PhD in Artificial Intelligence and over 15 years of experience\, she
-  specializes in designing and delivering enterprise-scale Generative AI\, 
- Agentic AI\, and Deep Learning solutions that transform industries includi
- ng healthcare\, finance\, energy\, and public services.\n\n**Privacy by De
- ployment: Architecting Agent-Driven Localization Workflows for Regulated E
- nvironments**\n\nMost enterprise AI today is private by promise - a DPA\, 
- a SOC 2 report\, or a contract clause that says\, "we won't train on your 
- data". For a regulated buyer\, these are remedies after a breach\, not con
- trols that prevent or contain one. For organizations in healthcare\, finan
- ce\, defense\, and government\, privacy often requires stronger guarantees
- : data residency\, customer-controlled execution\, and\, in some cases\, o
- peration within air-gapped environments.\n\nThis session demonstrates how 
- agentic AI can automate a localization workflow while operating within the
- se constraints. Using a real-world localization pipeline as an example\, w
- e will show how agentic systems can coordinate translation\, review\, qual
- ity assurance\, and content preparation tasks while incorporating human ch
- eckpoints for approval and oversight.\n\nWe will also walk through the arc
- hitectural patterns that enable these workflows to run inside customer-con
- trolled and air-gapped environments without transferring sensitive content
-  outside the customer boundary. The session includes a live product demons
- tration.\n\nKey Takeaways\n\n* Architectural patterns for deploying agenti
- c AI in air-gapped and customer-controlled environments\n* How agentic sys
- tems can automate localization workflows while preserving critical human r
- eview and approval processes\n* Practical considerations for operating age
- ntic workflows in regulated environments with auditability and governance 
- requirements\n\n*About the Speaker*\n\n[Shruti Joshi](https://www.linkedin
- .com/in/28shruti) is building an AI powered secure localization stack for 
- regulated industries such as healthcare\, legal\, finance that cannot send
-  their content to a typical hosted SaaS. She brings 12+ years of engineeri
- ng and architecture experience to the question this talk addresses: how do
-  you make an agentic AI system deployable inside a regulated perimeter.\n\
- n**MCP Is the Interface\; Skills Are the Operating Discipline**\n\nThis ta
- lk shows how MCP and Agent Skills work together in practical agent systems
- . MCP gives agents a standard interface to tools\, data\, and workflows\; 
- skills encode the operating discipline that makes those connections reliab
- le. Using a sanitized field-operations ledger as the case study\, the talk
-  walks through source intake\, normalized state\, uncertainty labels\, rol
- e prompts\, QA gates\, and share-safe status drafting.\n\n*About the Speak
- er*\n\n[Chuck Hernandez](https://www.linkedin.com/in/chuck-hernandez/) is 
- an AI engineering and client-delivery leader with 10+ years across softwar
- e\, data platforms\, and enterprise implementation\, including 3+ years sh
- ipping production GenAI systems.\n\n**Agentic engineering is about good gu
- idance.**\n\nGarbage Inn. Is garbage out? This is true. For many input and
-  output processes. In biological life and in computer systems\, and equall
- y true when working with LLM’s. The better the prompt\, the better the c
- ontext\, the better the focus\, And the better the contextual awareness\, 
- the better the quality of the output the LLM’s generates.\nThis is the g
- overnance\, art and practice of what we like to call agentic engineering\,
-  something I've been practicing over the last year.\n\n*About the Speaker*
- \n\n[Dimitri Geelen](https://www.linkedin.com/in/dimitrigeelen/) builds th
- ings that don't need him once they're done. Frameworks\, transitions\, age
- ntic systems — the measure of success is always the same: does it hold u
- p when he leaves the room? He understands not just how to deploy\, but wha
- t it takes for a new service to survive and scale inside a complex enterpr
- ise.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Lunch & Hack: SF Tech Week Special (w/ The AI Co
- llective)|Online
-DTSTART:20261008T180000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-10-8\n\
- nHosted by The AI Collective & Adelina Martiniuc
-LOCATION:https://luma.com/event/evt-hNNr1fqTW4kqq40
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-hNNr1fqTW4kqq40
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Claude Community|Mexico City  -  Claude Workshop|México|Ciudad de
   México
 DTSTART:20261009T170000Z
@@ -7800,7 +7707,7 @@ BEGIN:VEVENT
 SUMMARY:GDG Hermosillo|DevFest 2026: ¡Comienza la Aventura Tecnológica!|
  México|Sonora
 DTSTART:20261017T100000
-CATEGORIES:DevFest
+CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,Workshop / hands-on session
 DESCRIPTION:Únete al lanzamiento de DevFest 2026 en Hermosillo para descu
  brir tendencias en tecnología y desarrollo. Es una oportunidad ideal para
   conectar con otros entusiastas y compartir ideas. No te lo pierdas\, reg
@@ -7822,7 +7729,7 @@ DTSTART:20261019T223000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/claudeforaieng
  ineering\n\nAddress:\nUniversidad Iberoamericana Ciudad de México\nCiudad
-  de México\, Mexico\n\nHosted by Claude Community & 3 others
+  de México\, Mexico\n\nHosted by Claude Community & 5 others
 LOCATION:Universidad Iberoamericana Ciudad de México\, Prol. P.º de la R
  eforma\, Santa Fe\, Zedec Sta Fé\, Álvaro Obregón\, 01376 Ciudad de Mé
  xico\, CDMX\, Mexico
@@ -8146,23 +8053,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|MEXICO AI MARKETING NIGHT|México|Ciudad de Méxi
- co
-DTSTART:20261026T120000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-d43f04e0\
- n\nAddress:\nCASA LUMA CDMX\nCiudad de México\, Mexico\n\nHosted by Mexic
- o Tech Week & 5 others
-LOCATION:CASA LUMA CDMX\, Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ci
- udad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Ciudad de México\, México
-X-CRONQUILES-CITY-CODE:cdmx
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Ciudad de México
-X-CRONQUILES-STATE-CODE:MX-CMX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|C Level / Executive / Corporate Innovators - Soci
  al Run|México|Ciudad de México
 DTSTART:20261026T130000Z
@@ -8328,12 +8218,13 @@ SUMMARY:Mexico Tech Week|¿Quién está pagando la factura de la IA? Del e
 DTSTART:20261026T170000Z
 CATEGORIES:frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-3e1fa53a\
- n\nAddress:\nCasa\nCiudad de México\, Mexico\n\nHosted by Mexico Tech Wee
- k\, Ginette Ríos & Luis Regalado
-LOCATION:Casa\, Barcelona 5\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Méx
- ico\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:5\, Calle Barcelona\, Juárez\, Roma\, Ciudad de Méx
- ico\, Cuauhtémoc\, Ciudad de México\, 06600\, México
+ n\nAddress:\nCámara Nacional de Comercio\nCiudad de México\, Mexico\n\nH
+ osted by Mexico Tech Week\, Ginette Ríos & Luis Regalado
+LOCATION:Cámara Nacional de Comercio\, Av. P.º de la Reforma 42\, Cuauht
+ émoc\, 06040 Ciudad de México\, CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Camara Nacional de Comercio de la Ciudad de México\,
+  42\, Avenida Paseo de la Reforma\, Juárez\, Roma\, Ciudad de México\, C
+ uauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -8397,25 +8288,35 @@ X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Accelerate: mentoría\, herramientas y capital pa
- ra PyMEs que generan empleo|Online
+ ra PyMEs que generan empleo|México|Ciudad de México
 DTSTART:20261026T230000Z
-CATEGORIES:backend,python
+CATEGORIES:backend,frontend,python
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-49b71d58\
- n\nHosted by Mexico Tech Week & Igeneris Events
-LOCATION:https://luma.com/event/evt-oTiTuL4eOurxzL1
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-oTiTuL4eOurxzL1
+ n\nAddress:\nLuis G. Urbina 4\nCiudad de México\, Mexico\n\nHosted by Mex
+ ico Tech Week & Igeneris Events
+LOCATION:Luis G. Urbina 4\, Polanco\, Polanco IV Secc\, Miguel Hidalgo\, 1
+ 1550 Ciudad de México\, CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Bagatelle Mexico City\, 117 alto\, Calle Alfredo Tenn
+ yson\, Polanco 4ª Sección\, Polanco\, Ciudad de México\, Miguel Hidalgo
+ \, Ciudad de México\, 11550\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Odiamos los eventos de tech. Hicimos uno: noche d
  e apertura|México|Ciudad de México
 DTSTART:20261026T233000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-be728524\
- n\nAddress:\nTonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad de Méxi
- co\, CDMX\n\nHosted by Mexico Tech Week & Alejandro Rivera
-LOCATION:Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad de México\,
-  CDMX
-X-CRONQUILES-ADDRESS:Ciudad de México\, Cuauhtémoc\, Ciudad de México\,
-  México
+ n\nAddress:\nRoma\nMexico City\, Mexico\n\nHosted by Mexico Tech Week & Al
+ ejandro Rivera
+LOCATION:Roma\, Roma Sur\, 06760 Mexico City\, CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Casa Tibet México - Anexo\, Calle Tuxpan\, Roma Sur\
+ , Condesa\, Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 06760\, 
+ México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -8452,6 +8353,23 @@ LOCATION:C. Versalles 28\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México
 X-CRONQUILES-ADDRESS:Soho House\, 28\, Calle Versalles\, Juárez\, Roma\, 
  Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|MEXICO AI MARKETING NIGHT|México|Ciudad de Méxi
+ co
+DTSTART:20261027T000000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-d43f04e0\
+ n\nAddress:\nCASA LUMA CDMX\nCiudad de México\, Mexico\n\nHosted by Mexic
+ o Tech Week & 5 others
+LOCATION:CASA LUMA CDMX\, Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ci
+ udad de México\, CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Ciudad de México\, México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
@@ -8501,12 +8419,12 @@ DTSTART:20261027T003000Z
 CATEGORIES:cloud
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-227247d1\
  n\nAddress:\nAv. Popocatépetl 546\nCiudad de México\, Mexico\n\nHosted b
- y Mexico Tech Week\, Joselyn Montserrat Lagunas Sanabria & Nico
+ y Mexico Tech Week\, Joselyn Montserrat Lagunas Sanabria & SPECTRUM LATAM
 LOCATION:Av. Popocatépetl 546\, Xoco\, Benito Juárez\, 03330 Ciudad de M
  éxico\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Cinépolis Patio Universidad\, 546\, Avenida Popocat
- épetl\, Unidad Habitacional Emiliano Zapata\, Santa Cruz Atoyac\, Ciudad 
- de México\, Benito Juárez\, Ciudad de México\, 03330\, México
+X-CRONQUILES-ADDRESS:Gayosso Módulos Patio Universidad\, 546\, Avenida Po
+ pocatépetl\, Unidad Habitacional Emiliano Zapata\, Santa Cruz Atoyac\, Ci
+ udad de México\, Benito Juárez\, Ciudad de México\, 03330\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -8787,6 +8705,16 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|FinOps: la metodología de control de gasto que t
+ odas las empresas tienen que aplicar|Online
+DTSTART:20261027T160000Z
+CATEGORIES:frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\
+ n\nHosted by Mexico Tech Week & Luis Regalado
+LOCATION:https://luma.com/event/evt-8N4PJCv6X1IRFNR
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-8N4PJCv6X1IRFNR
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|From Data to Decisions : Amazon Quick in Action.|
  México|Ciudad de México
 DTSTART:20261027T160000Z
@@ -9017,8 +8945,9 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|Official Launch - Mexico´s first AI Robotics tra
- ining programme|México|Ciudad de México
+SUMMARY:Mexico Tech Week|Lanzamiento: Primer programa de entrenamiento de 
+ robótica para Empresas en México - Sponsored by Scale AI|México|Ciudad 
+ de México
 DTSTART:20261027T190000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-4572e8b2\
@@ -9119,6 +9048,25 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-f15bd424\
 LOCATION:Juárez\, Ciudad de México\, México
 X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
  e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|Expandiendo tu Startup en Latam|México|Ciudad de
+  México
+DTSTART:20261027T210000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-f272527e\
+ n\nAddress:\nC. Marsella 45\nFounder's House\nCiudad de México\, Mexico\n
+ \nHosted by Mexico Tech Week & Deel
+LOCATION:C. Marsella 45\, Juárez\, Cuauhtémoc\, 06030 Ciudad de México\
+ , CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Orfeón Catalán de México\, 45\, Calle Marsella\, J
+ uárez\, Roma\, Ciudad de México\, Cuauhtémoc\, Ciudad de México\, 0660
+ 0\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -9231,24 +9179,6 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-buildbett
 LOCATION:Juárez\, Ciudad de México\, México
 X-CRONQUILES-ADDRESS:Juárez\, Avenida Balderas\, Centro\, Roma\, Ciudad d
  e México\, Cuauhtémoc\, Ciudad de México\, 06050\, México
-X-CRONQUILES-CITY:Ciudad de México
-X-CRONQUILES-CITY-CODE:cdmx
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Ciudad de México
-X-CRONQUILES-STATE-CODE:MX-CMX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|AI Tech Court|México|Ciudad de México
-DTSTART:20261027T230000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-5605b8d8\
- n\nAddress:\nBarcelona 26\nCiudad de México\, Mexico\n\nHosted by Mexico 
- Tech Week & Andrés Cortés García
-LOCATION:Barcelona 26\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, 
- CDMX\, Mexico
-X-CRONQUILES-ADDRESS:26\, Calle Barcelona\, Juárez\, Roma\, Ciudad de Mé
- xico\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -9536,8 +9466,8 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|The Product Unconference: A Productesas Experienc
- e|México|Ciudad de México
+SUMMARY:Mexico Tech Week|La Product Unconference: A Productesas Experience
+ |México|Ciudad de México
 DTSTART:20261028T010000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-baa5ea5d\
@@ -9808,16 +9738,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico Tech Week|FinOps: la metodología de control de gasto que t
- odas las empresas tienen que aplicar|Online
-DTSTART:20261028T160000Z
-CATEGORIES:frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\
- n\nHosted by Mexico Tech Week & Luis Regalado
-LOCATION:https://luma.com/event/evt-8N4PJCv6X1IRFNR
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-8N4PJCv6X1IRFNR
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Fast Track Week · 04 · Opera con IA|México|Ciu
  dad de México
 DTSTART:20261028T163000Z
@@ -9842,7 +9762,7 @@ SUMMARY:Mexico Tech Week|The opportunity you're missing by not hiring abro
 DTSTART:20261028T170000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-1466dec1\
  n\nAddress:\nC. Marsella 45\nCiudad de México\, Mexico\n\nHosted by Mexic
- o Tech Week & Álvaro Ponce
+ o Tech Week & 3 others
 LOCATION:C. Marsella 45\, Juárez\, Cuauhtémoc\, 06030 Ciudad de México\
  , CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Orfeón Catalán de México\, 45\, Calle Marsella\, J
@@ -9933,7 +9853,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|¿Bueno\, me escuchas? Building Voice Agents With
   Livekit|México|Ciudad de México
-DTSTART:20261028T180000Z
+DTSTART:20261028T170000Z
 CATEGORIES:frontend
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-14326771\
  n\nAddress:\nC. Lucerna 34\nCiudad de México\, Mexico\n\nHosted by Mexico
@@ -9955,7 +9875,7 @@ SUMMARY:Mexico Tech Week|Una Mirada al Mundo Cuántico|México|Ciudad de M
 DTSTART:20261028T190000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-f6c7b892\
  n\nAddress:\nC. Lucerna 34\nCiudad de México\, Mexico\n\nHosted by Mexico
-  Tech Week\, Joselyn Montserrat Lagunas Sanabria & Nico
+  Tech Week\, Joselyn Montserrat Lagunas Sanabria & SPECTRUM LATAM
 LOCATION:C. Lucerna 34\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\,
   CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Luc 34\, 34\, Calle Lucerna\, Juárez\, Roma\, Ciudad
@@ -10052,6 +9972,24 @@ LOCATION:Barcelona 26\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\,
 X-CRONQUILES-ADDRESS:26\, Calle Barcelona\, Juárez\, Roma\, Ciudad de Mé
  xico\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|Reshaping the Innovation Playbook by Bluebox|Méx
+ ico|Ciudad de México
+DTSTART:20261028T220000Z
+CATEGORIES:backend
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-f403ff30\
+ n\nAddress:\nAv Moliere 222\nPresentar identificar oficial y pasar por fil
+ tros de seguridad que implementa el lugar.\nCiudad de México\, Mexico\n\n
+ Hosted by Mexico Tech Week\, Lorena Yácuta & Juan Pablo Snchez
+LOCATION:Av Moliere 222\, Polanco\, Polanco II Secc\, Miguel Hidalgo\, 115
+ 30 Ciudad de México\, CDMX\, Mexico
+X-CRONQUILES-ADDRESS:Ciudad de México\, México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
@@ -10158,7 +10096,7 @@ DTSTART:20261028T230000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-340575da\
  n\nAddress:\nCasa mikigai\nCiudad de México\, Mexico\n\nHosted by Mexico 
- Tech Week & 5 others
+ Tech Week\, Maria Fernanda Ortiz & Casa mikigai
 LOCATION:Casa mikigai\, Av. Insurgentes Sur 427\, Hipódromo Condesa\, Cua
  uhtémoc\, 06100 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:La Fogata\, 427\, Avenida Insurgentes Sur\, Hipódrom
@@ -10226,6 +10164,24 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|AI Tech Court|México|Ciudad de México
+DTSTART:20261028T233000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-5605b8d8\
+ n\nAddress:\nBarcelona 26\nCiudad de México\, Mexico\n\nHosted by Mexico 
+ Tech Week & Andrés Cortés García
+LOCATION:Barcelona 26\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, 
+ CDMX\, Mexico
+X-CRONQUILES-ADDRESS:26\, Calle Barcelona\, Juárez\, Roma\, Ciudad de Mé
+ xico\, Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
  29 - How to Build Vision Data Agents with Tools\, Skills\, and MCP|Online
 DTSTART:20261029T100000
@@ -10265,6 +10221,30 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eventloop|JSConf México 2026|México|Jalisco
+DTSTART:20261029T210000
+CATEGORIES:ai,cloud,frontend,mobile,web
+DESCRIPTION:Eventloop\n**JSConf México** regresa: dos días de Js en Guad
+ alajara\, el 29 y 30 de octubre.\n\nImportante: confirmar asistencia aquí
+  en Meetup no es tu boleto. El boleto se compra en https://tickets.jsconf.
+ mx/\n\nQUÉ VAS A ENCONTRAR\n\n* keynotes: Daniel Roe (líder de Nuxt)\, E
+ stefany Aguilar (Teffcode\, NodeSource) y Mark Thompson (Google)\n* Más d
+ e 20 charlas en dos escenarios\, con gente de Netflix\, GitHub\, The New Y
+ ork Times\, Sentry\, AWS\, Google y Vercel\n* Talleres: contribuir a Node.
+ js junto a sus maintainers\, agentes en tiempo real con Gemini Live\, y de
+  desarrollador a arquitecto usando AI\n* Temas: React Server Components\, 
+ WebAssembly\, agentes de IA\, microfrontends\, seguridad en npm\, accesibi
+ lidad y performance\n\nAgenda completa: https://www.jsconf.mx/agenda\n\nBo
+ letos: https://tickets.jsconf.mx/
+LOCATION:Jardín Americana\, Av. Ignacio L Vallarta 1305\, Col Americana\,
+  Americana\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Claude Community|Mexico City  -  Claude Community House|México|Ci
@@ -10546,8 +10526,8 @@ DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
  miss out!
 LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
  da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Avenida Ignacio Zaragoza\, Poligono\, Veracruz\, Muni
- cipio de Veracruz\, Veracruz\, 91700\, México
+X-CRONQUILES-ADDRESS:Puente Morelos\, Puerto de Veracruz\, Veracruz\, Muni
+ cipio de Veracruz\, Veracruz\, 91701\, México
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México
@@ -10675,7 +10655,7 @@ BEGIN:VEVENT
 SUMMARY:GDG CDMX|Devfest 2026: Ciudad de México|México|
 DTSTART:20261207T080000
 CATEGORIES:AI,AI - Gemini,Android,Community Building,Conference,DevFest,Go
- ogle Cloud,Google Workspace,Web,Workshop / hands-on session
+ ogle Cloud,Google Workspace,Web,Workshop / hands-on session,cloud
 DESCRIPTION:Devfest 2026 en la Ciudad de México es el evento imperdible p
  ara desarrolladores\, entusiastas de la tecnología e innovadores. Explora
   nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a 

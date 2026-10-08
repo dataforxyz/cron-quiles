@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T13:47:45.710852+00:00",
-  "total_events": 163,
+  "generated_at": "2026-10-08T23:45:10.795482+00:00",
+  "total_events": 160,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -156,6 +156,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cancun/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Cloud Mexico City",
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -2876,7 +2887,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3041,7 +3052,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3725,7 +3736,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3761,68 +3772,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 8 - MCP, Agents and Skills Meetup Meetup|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on MCP, agents and skills.\n\n**Date, Time and Location**\n\nOct 08, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/mcp-agents-skills-meetup-october-8-2026)**\n\n**Designing Multi‑Agent Systems: Sequential, Parallel, and Beyond with ADK**\n\nMulti‑agent systems are powerful but choosing the wrong interaction pattern can quickly lead to fragile, slow, or expensive AI systems.\nIn this talk, we explore the core multi‑agent design patterns enabled by ADK, including sequential, parallel, and more advanced coordination models. Rather than focusing on tools alone, we’ll look at how to think architecturally about agent collaboration.\n\nYou’ll learn:\n\n* When sequential agents are the right choice and when they become a bottleneck\n* How parallel agents improve speed and coverage (and the trade‑offs they introduce)\n* Common failure modes in poorly designed agent interactions\n* Practical criteria for choosing the right pattern based on task, latency, and reliability\n\nBy the end of the session, you’ll have a clear mental model for designing multi‑agent systems that are intentional, scalable, and production‑ready.\n\n*About the Speaker*\n\n[Dr Roushanak Rahmat](https://www.linkedin.com/in/roushanakrahmat/) is an Enterprise AI Architect, Google Developer Expert (AI & Cloud), and recognized among the Top 100 Women in Tech (2025). With a PhD in Artificial Intelligence and over 15 years of experience, she specializes in designing and delivering enterprise-scale Generative AI, Agentic AI, and Deep Learning solutions that transform industries including healthcare, finance, energy, and public services.\n\n**Privacy by Deployment: Architecting Agent-Driven Localization Workflows for Regulated Environments**\n\nMost enterprise AI today is private by promise - a DPA, a SOC 2 report, or a contract clause that says, \"we won't train on your data\". For a regulated buyer, these are remedies after a breach, not controls that prevent or contain one. For organizations in healthcare, finance, defense, and government, privacy often requires stronger guarantees: data residency, customer-controlled execution, and, in some cases, operation within air-gapped environments.\n\nThis session demonstrates how agentic AI can automate a localization workflow while operating within these constraints. Using a real-world localization pipeline as an example, we will show how agentic systems can coordinate translation, review, quality assurance, and content preparation tasks while incorporating human checkpoints for approval and oversight.\n\nWe will also walk through the architectural patterns that enable these workflows to run inside customer-controlled and air-gapped environments without transferring sensitive content outside the customer boundary. The session includes a live product demonstration.\n\nKey Takeaways\n\n* Architectural patterns for deploying agentic AI in air-gapped and customer-controlled environments\n* How agentic systems can automate localization workflows while preserving critical human review and approval processes\n* Practical considerations for operating agentic workflows in regulated environments with auditability and governance requirements\n\n*About the Speaker*\n\n[Shruti Joshi](https://www.linkedin.com/in/28shruti) is building an AI powered secure localization stack for regulated industries such as healthcare, legal, finance that cannot send their content to a typical hosted SaaS. She brings 12+ years of engineering and architecture experience to the question this talk addresses: how do you make an agentic AI system deployable inside a regulated perimeter.\n\n**MCP Is the Interface; Skills Are the Operating Discipline**\n\nThis talk shows how MCP and Agent Skills work together in practical agent systems. MCP gives agents a standard interface to tools, data, and workflows; skills encode the operating discipline that makes those connections reliable. Using a sanitized field-operations ledger as the case study, the talk walks through source intake, normalized state, uncertainty labels, role prompts, QA gates, and share-safe status drafting.\n\n*About the Speaker*\n\n[Chuck Hernandez](https://www.linkedin.com/in/chuck-hernandez/) is an AI engineering and client-delivery leader with 10+ years across software, data platforms, and enterprise implementation, including 3+ years shipping production GenAI systems.\n\n**Agentic engineering is about good guidance.**\n\nGarbage Inn. Is garbage out? This is true. For many input and output processes. In biological life and in computer systems, and equally true when working with LLM’s. The better the prompt, the better the context, the better the focus, And the better the contextual awareness, the better the quality of the output the LLM’s generates.\nThis is the governance, art and practice of what we like to call agentic engineering, something I've been practicing over the last year.\n\n*About the Speaker*\n\n[Dimitri Geelen](https://www.linkedin.com/in/dimitrigeelen/) builds things that don't need him once they're done. Frameworks, transitions, agentic systems — the measure of success is always the same: does it hold up when he leaves the room? He understands not just how to deploy, but what it takes for a new service to survive and scale inside a complex enterprise.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316022262/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316022262/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-10-08T10:00:00-06:00",
-      "dtend": "2026-10-08T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "cloud",
-        "data",
-        "frontend",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "oct 8 mcp agents and skills meetup meetu_2026-10-08T16:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|Lunch & Hack: SF Tech Week Special (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-gl-10-8\n\nHosted by The AI Collective & Adelina Martiniuc",
-      "url": "https://luma.com/aic-gl-10-8",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-gl-10-8",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-hNNr1fqTW4kqq40",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-10-08T18:00:00+00:00",
-      "dtend": "2026-10-08T19:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-hNNr1fqTW4kqq40",
-      "hash_key": "lunch hack sf tech week special w the ai_2026-10-08T18:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Construye aplicaciones con Inteligencia Artificial utilizando el ecosistema de Google|Online",
@@ -4001,7 +3950,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4199,36 +4148,6 @@
       "hash_key": "oct 22 advances in ai at virginia tech_2026-10-22T16:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Accelerate: mentoría, herramientas y capital para PyMEs que generan empleo|Online",
-      "description": "Get up-to-date information at: https://luma.com/mxtw-49b71d58\n\nHosted by Mexico Tech Week & Igeneris Events",
-      "url": "https://luma.com/mxtw-49b71d58",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/mxtw-49b71d58",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-oTiTuL4eOurxzL1",
-      "online": true,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2026-10-26T23:00:00+00:00",
-      "dtend": "2026-10-27T01:00:00+00:00",
-      "tags": [
-        "backend",
-        "python"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-oTiTuL4eOurxzL1",
-      "hash_key": "accelerate mentora herramientas y capita_2026-10-26T22:00:00+00:00"
-    },
-    {
       "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
       "description": "Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\n\nHosted by Mexico Tech Week & Luis Regalado",
       "url": "https://luma.com/mxtw-d5be4f2b",
@@ -4242,8 +4161,8 @@
       "location": "https://luma.com/event/evt-8N4PJCv6X1IRFNR",
       "online": true,
       "organizer": "Mexico Tech Week",
-      "dtstart": "2026-10-28T16:00:00+00:00",
-      "dtend": "2026-10-28T17:00:00+00:00",
+      "dtstart": "2026-10-27T16:00:00+00:00",
+      "dtend": "2026-10-27T18:00:00+00:00",
       "tags": [
         "frontend"
       ],
@@ -4255,7 +4174,7 @@
       "city": "",
       "city_code": "",
       "address": "https://luma.com/event/evt-8N4PJCv6X1IRFNR",
-      "hash_key": "finops la metodologa de control de gasto_2026-10-28T16:00:00+00:00"
+      "hash_key": "finops la metodologa de control de gasto_2026-10-27T16:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 29 - How to Build Vision Data Agents with Tools, Skills, and MCP|Online",
@@ -4474,7 +4393,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
+      "address": "Puente Morelos, Puerto de Veracruz, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4607,9 +4526,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4928,7 +4848,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
