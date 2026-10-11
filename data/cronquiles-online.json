@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T13:07:34.203213+00:00",
-  "total_events": 159,
+  "generated_at": "2026-10-11T22:17:41.974769+00:00",
+  "total_events": 160,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -156,6 +156,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cancun/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Cloud Mexico City",
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -2876,7 +2887,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3041,7 +3052,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3725,7 +3736,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3761,35 +3772,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vnCi9woG6t4KUEq",
       "hash_key": "listening sessions vol 2_2026-08-26T22:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|AI nije autoritet- Kako koristiti AI, a zadržati kritičko mišljenje? (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-se-10-11\n\nHosted by The AI Collective & 5 others",
-      "url": "https://luma.com/aic-se-10-11",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-se-10-11",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-DygnHfbHLpGWRUS",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-10-11T15:00:00+00:00",
-      "dtend": "2026-10-11T16:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-DygnHfbHLpGWRUS",
-      "hash_key": "ai nije autoritet kako koristiti ai a za_2026-10-11T14:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Roundtable #28: Beyond Assistants - What Autonomous AI Agents Change About Work (w/ The AI Collective KC & Voyage Consulting)|Online",
@@ -3870,7 +3852,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3948,6 +3930,41 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "club de lectura de papers de ai fundamen_2026-10-16T02:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Probabilidad & Estadística Científica parte II|Online",
+      "description": "El Club de Matemáticas para la Inteligencia Artificial invita a ingenieras/os de software y entusiastas de la tecnología a explorar variables aleatorias y el Teorema de Bayes, con análisis de datos y ejercicios prácticos. Ideal para quienes buscan profundizar en probabilidades y estadísticas aplicadas.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-probabilidad-amp-estadistica-cientifica-parte-ii/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-probabilidad-amp-estadistica-cientifica-parte-ii/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Online",
+      "online": true,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-10-17T19:00:00-06:00",
+      "dtend": "2026-10-17T20:30:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Online",
+      "hash_key": "probabilidad estadstica cientfica parte _2026-10-18T00:00:00+00:00"
     },
     {
       "title": "Claude Community|Oslo  -  Claude Impact Lab|Online",
@@ -4223,6 +4240,36 @@
       "hash_key": "nov 11 ai ml and computer vision meetup_2026-11-11T16:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|AI Collective Detroit x Codalio : Building apps with Codalio|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-de-11-11\n\nHosted by The AI Collective & 7 others",
+      "url": "https://luma.com/aic-de-11-11",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-de-11-11",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-5RAbNSf2zNssESZ",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-11-11T23:30:00+00:00",
+      "dtend": "2026-11-12T00:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-5RAbNSf2zNssESZ",
+      "hash_key": "ai collective detroit x codalio building_2026-11-11T22:00:00+00:00"
+    },
+    {
       "title": "GDG Villahermosa|DevFest 2026: Sureste de México Virtual|Online",
       "description": "Devfest 2026 es la cita ideal para desarrolladores que quieran explorar las últimas tendencias en aplicaciones móviles, web, cloud e inteligencia artificial. Participa en charlas de expertos y talleres prácticos que mejorarán tus habilidades. Conecta con otros apasionados y descubre cómo influir en el futuro de la tecnología. ¡Confirma tu asistencia!",
       "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-virtual/",
@@ -4342,7 +4389,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4475,9 +4522,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4796,7 +4844,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
