@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T22:17:41.974769+00:00",
-  "total_events": 160,
+  "generated_at": "2026-10-12T06:10:57.856151+00:00",
+  "total_events": 162,
   "city": "Online",
   "communities": [
     {
@@ -43,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -167,6 +167,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Guadalajara",
+      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-guadalajara/",
           "label": "Sitio web"
         }
       ]
@@ -3593,7 +3604,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3620,7 +3631,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3763,7 +3774,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3895,6 +3906,33 @@
       "city_code": "",
       "address": "",
       "hash_key": "oct 15 ai ml and computer vision meetup_2026-10-15T16:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Boston  -  Claude Conversation|Online",
+      "description": "Get up-to-date information at: https://luma.com/claude-community-boston\n\nHosted by Parth",
+      "url": "https://luma.com/claude-community-boston",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-community-boston",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-7iEn5diohITVqc2",
+      "online": true,
+      "organizer": "Claude Community",
+      "dtstart": "2026-10-15T22:00:00+00:00",
+      "dtend": "2026-10-15T23:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-7iEn5diohITVqc2",
+      "hash_key": "boston claude conversation_2026-10-15T22:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Club de lectura de papers de AI: Fundamentos y Arquitectura de las Redes de Memoria a Corto y Largo Plazo (LSTM)|Online",
@@ -4343,7 +4381,7 @@
       "hash_key": "devfest tijuana 2026_2026-11-13T20:00:00+00:00"
     },
     {
-      "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracruz",
+      "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|",
       "description": "Join DevFest 2026 Heroica Veracruz on November 14 to explore the latest in AI and Google technologies. Engage in hands-on workshops and learn from industry experts on topics like Angular, Flutter, and Android. Network with passionate developers and enhance your skills. Register now and secure your spot for this dynamic tech experience in Veracruz. Don't miss out!",
       "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-heroica-veracruz/",
       "sources": [
@@ -4385,11 +4423,11 @@
       "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
       "country": "México",
       "country_code": "MX",
-      "state": "Veracruz",
+      "state": "",
       "state_code": "",
-      "city": "Veracruz",
-      "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
+      "city": "",
+      "city_code": "",
+      "address": "Museo de la Ciudad \"Coronel Manuel Gutiérrez Zamora\", 397 Avenida Ignacio Zaragoza, Veracruz",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4458,6 +4496,51 @@
       "city_code": "",
       "address": "Universidad del Caribe, reg 78, Cancún",
       "hash_key": "devfest cancn 2026_2026-11-20T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Guadalajara|DevFest 2026|México|",
+      "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-11-21T09:00:00-06:00",
+      "dtend": "2026-11-21T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Android",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session",
+        "cloud",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
     },
     {
       "title": "GDG Villahermosa|DevFest 2026: TecNM Villahermosa|México|",
