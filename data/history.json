@@ -1,7 +1,7 @@
 [
   {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|Dec 10 - AI, ML and Computer Vision Meetup|Online",
-    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nDec 10, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-december-10-2026)**\n\n**Your mAP is fine. Your slices are not. Finding the images that actually matter**\n\nA single mAP can look acceptable while one slice is unusable, small objects, occlusion, or a confused class. I will run a pretrained detector on a few hundred public images (COCO-style, not a production crawl), report the headline metric, then break the same run by slice and walk through the worst samples.\n\nThe claim is modest: you do not need a million images or a trained-from-scratch model to see what the mean is hiding, and you cannot relabel everything, so the next labeling budget should follow those slices. No employer data and no confidential dashboards.\n\n*About the Speaker*\n\n[Amandeep Jiddewar](https://www.linkedin.com/in/amanfj/) is a Machine Learning Engineer at Pinterest, with prior work in U.S. manufacturing analytics (CertainTeed / Saint-Gobain) and marketplace allocation (QuinStreet). Emory Goizueta MSBA (2019), Kaggle Expert. This talk is in his personal capacity and does not represent his current or prior employers.\n\n**Production AI Agents: Tool Use, Evaluation, Guardrails and Observability**\n\nBuilding an AI agent is easy. Knowing whether it is behaving reliably in production is much harder. This session explores how to evaluate agents that use tools and external systems, including tool-call validation, tracing, observability, failure analysis, guardrails, permissions, and human review.\n\nAttendees will learn practical patterns for understanding not just what an agent answered, but why it acted and whether the action was safe.\n\n*About the Speaker*\n\n[Akshay Talathi](https://www.linkedin.com/in/akshaytalathi/) is a Vice President at Goldman Sachs with over 10 years of experience building large-scale, cloud-native, and distributed systems across financial services and technology. His current focus is GenAI and agentic AI, including production AI agents, MCP, enterprise integrations, guardrails, observability, and reliable AI-driven workflows.\n\n**From Virtual Worlds to Physical AI: Building Simulation Pipelines That Survive the Real World**\n\nRobots are moving beyond perception systems that only detect and classify objects toward systems that must understand a scene, learn behaviors, and act in the physical world. In this talk, I’ll show a practical Physical AI workflow using OpenUSD, BowerBot, NVIDIA Isaac Sim and Isaac Lab to build a robot’s virtual world, including its body, cameras, sensors, and environment.\n\nWe’ll explore how demonstrations and reinforcement learning can teach behaviors in simulation, how vision and sensor data become observations for a robot policy, and what needs to match when transferring that behavior to real hardware. The demo follows a small robot from a simulated environment toward a real-world task, exposing both the power and the limitations of sim-to-real.\n\nThe goal is to make the path from pixels to actions concrete for computer vision and machine learning practitioners.\n\n*About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in/arturo-morales-rangel) is the founder of Binary Core LLC, a Physical AI engineering company working across simulation, perception, robot learning, and deployment.",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nDec 10, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-december-10-2026)**\n\n**Your mAP is fine. Your slices are not. Finding the images that actually matter**\n\nA single mAP can look acceptable while one slice is unusable, small objects, occlusion, or a confused class. I will run a pretrained detector on a few hundred public images (COCO-style, not a production crawl), report the headline metric, then break the same run by slice and walk through the worst samples.\n\nThe claim is modest: you do not need a million images or a trained-from-scratch model to see what the mean is hiding, and you cannot relabel everything, so the next labeling budget should follow those slices. No employer data and no confidential dashboards.\n\n*About the Speaker*\n\n[Amandeep Jiddewar](https://www.linkedin.com/in/amanfj/) is a Machine Learning Engineer at Pinterest, with prior work in U.S. manufacturing analytics (CertainTeed / Saint-Gobain) and marketplace allocation (QuinStreet). Emory Goizueta MSBA (2019), Kaggle Expert. This talk is in his personal capacity and does not represent his current or prior employers.\n\n**Production AI Agents: Tool Use, Evaluation, Guardrails and Observability**\n\nBuilding an AI agent is easy. Knowing whether it is behaving reliably in production is much harder. This session explores how to evaluate agents that use tools and external systems, including tool-call validation, tracing, observability, failure analysis, guardrails, permissions, and human review.\n\nAttendees will learn practical patterns for understanding not just what an agent answered, but why it acted and whether the action was safe.\n\n*About the Speaker*\n\n[Akshay Talathi](https://www.linkedin.com/in/akshaytalathi/) is a Vice President at Goldman Sachs with over 10 years of experience building large-scale, cloud-native, and distributed systems across financial services and technology. His current focus is GenAI and agentic AI, including production AI agents, MCP, enterprise integrations, guardrails, observability, and reliable AI-driven workflows.\n\n**From Virtual Worlds to Physical AI: Building Simulation Pipelines That Survive the Real World**\n\nRobots are moving beyond perception systems that only detect and classify objects toward systems that must understand a scene, learn behaviors, and act in the physical world. In this talk, I’ll show a practical Physical AI workflow using OpenUSD, BowerBot, NVIDIA Isaac Sim and Isaac Lab to build a robot’s virtual world, including its body, cameras, sensors, and environment.\n\nWe’ll explore how demonstrations and reinforcement learning can teach behaviors in simulation, how vision and sensor data become observations for a robot policy, and what needs to match when transferring that behavior to real hardware. The demo follows a small robot from a simulated environment toward a real-world task, exposing both the power and the limitations of sim-to-real.\n\nThe goal is to make the path from pixels to actions concrete for computer vision and machine learning practitioners.\n\n*About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in/arturo-morales-rangel) is the founder of Binary Core LLC, a Physical AI engineering company working across simulation, perception, robot learning, and deployment.\n\n**Prompting Video-Language Models in Production: Lessons from Enterprise Video Tagging and Evaluation**\n\nVideo-language models can now describe, tag and answer questions about long-form video, but production results depend heavily on prompt design and evaluation. This talk shares field lessons from deploying such models for media, news, streaming and sports organizations, including how to structure prompts for consistent, schema-bound outputs across hours of footage.\n\nOn one sports video-tagging project, consolidating the prompt definitions cut estimated processing cost about 3x, and about 90% of the originally reported issues were later resolved through prompting alone. I'll also walk through building evaluation frameworks for video outputs, including for hard domains like egocentric video, and what changes when migrating between model versions.\n\nAttendees will leave with reusable prompt patterns and an evaluation checklist they can apply to their own video pipelines.\n\n*About the Speaker*\n\n[Yash Gugale](https://www.linkedin.com/in/yashgugale/) is a Senior Forward Deployed Engineer at TwelveLabs in New York, integrating video foundation models (Marengo for embeddings and search, Pegasus for video-language understanding) for media, news, streaming and sports customers. He previously spent about six years in video streaming engineering at Peloton and Samsung TV Plus, and holds an MS in Computer Graphics Technology from Purdue.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316757843/",
     "sources": [
       {
@@ -58,9 +58,10 @@
       "Google Cloud",
       "Google Workspace",
       "Web",
-      "Workshop / hands-on session"
+      "Workshop / hands-on session",
+      "cloud"
     ],
-    "source": "https://gdg.community.dev/gdg-cdmx/",
+    "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -176,7 +177,7 @@
     "state_code": "MX-JAL",
     "city": "Guadalajara",
     "city_code": "guadalajara",
-    "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44610, México",
+    "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
     "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
   },
   {
@@ -501,7 +502,7 @@
   },
   {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|Nov 11 - AI, ML and Computer Vision Meetup|Online",
-    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nNov 11, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-november-11-2026)**\n\n**Agentic RAG: Beyond Retrieve-and-Generate**\n\nRetrieval-Augmented Generation (RAG) has become the default pattern for grounding large language models in external knowledge, but most implementations still follow a rigid retrieve-once, generate-once pipeline — one that struggles with multi-hop questions, ambiguous queries, and knowing when its own retrieved context is insufficient. This talk introduces Agentic RAG, where retrieval is treated as an action within an agent's reasoning loop rather than a fixed upstream step.\n\nWe'll examine query decomposition and routing for breaking complex questions into targeted sub-queries, self-reflective and corrective retrieval loops that let an agent judge and re-query its own results, and tool-orchestration patterns (via MCP) that let retrieval sit alongside other agent actions like database lookups and API calls. Using a live architecture — evolving a standard RAG chatbot into an agentic, MCP-connected system — we'll walk through what changes in design, and where these systems introduce new failure modes: grounding drift, latency and cost from repeated retrieval loops, and cases where a simpler RAG pipeline still wins.\n\nAttendees will leave with a practical framework for deciding when the added complexity of agentic RAG is worth it, and a set of design patterns for building it correctly.\n\n*About the Speaker*\n\n[Balaji Venkatasubramaniyar](https://www.linkedin.com/in/balaji-venkatasubramaniyar/) is a Technical Lead at Wisdom Infotech, leading a 15+ person engineering team delivering enterprise solutions. With 13+ years of experience in enterprise software and insurance technology, he specializes in agentic AI systems, RAG architectures, and vector databases.\n\n**GeoAI for the Physical World: Earth Observation, Foundation Models, and Urban Digital Twins**\n\nEarth observation provides a unique form of computer vision for understanding the physical world at city to continental scales. In this talk, I will show how satellite imagery, geospatial data, machine learning, and foundation-model representations can be combined to characterize urban environments and environmental conditions.\n\nI will present UrbanScope Open, an open GeoAI digital-twin prototype integrating Earth observation with 3D buildings, vegetation, land-surface temperature, air quality, noise, population, and other urban data. I will also share lessons from my research using geospatial foundation-model embeddings for environmental prediction across Europe.\n\nThe talk will discuss how these approaches can contribute to increasingly multimodal AI systems capable of reasoning about real-world environments.\n\n*About the Speaker*\n\n[Cesar Alvarez](https://voxel51.com/events/cesar.alvarez@uni-a.de) is a researcher at the University of Augsburg working at the intersection of GeoAI, Earth observation, remote sensing, and environmental intelligence. His research applies machine learning, computer vision, and geospatial foundation models to problems including urban environments, climate risk, air quality, and agriculture.\n\n**Can agents get curious?**\n\nMost AI agents are good at answering a question once we tell them exactly what to look for. The harder problem is building agents that can explore a complex dataset autonomously: generating hypotheses, deciding which analyses are worth running, allocating additional compute when evidence is ambiguous, and knowing when they have enough evidence to stop.\n\nIn this talk, I’ll show an architecture for autonomous research agents that combines structured knowledge, iterative tool use, and explicit evidence tracking to turn open-ended questions into a sequence of testable investigations. I’ll discuss practical lessons from building and evaluating these systems, including why more test-time compute does not automatically produce better research and how provenance and evaluation can make long-running agents more reliable.\n\nI’ll close with a live example of an agent exploring a dataset, revising its hypotheses, and choosing what to investigate next.\n\n*About the Speaker*\n\n[Srivatsa P](https://www.linkedin.com/in/srivatsa-p) is a member of technical staff at Sigma Computing, where he works on AI agents that reason over complex enterprise data. Previously, he worked on machine learning at Apple and conducted research at the MIT Media Lab; outside of traditional ML, he has also worked on mapping coral reefs through underwater imaging, which sparked an enduring interest in how intelligent systems make sense of messy real-world data.",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nNov 11, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-november-11-2026)**\n\n**Agentic RAG: Beyond Retrieve-and-Generate**\n\nRetrieval-Augmented Generation (RAG) has become the default pattern for grounding large language models in external knowledge, but most implementations still follow a rigid retrieve-once, generate-once pipeline — one that struggles with multi-hop questions, ambiguous queries, and knowing when its own retrieved context is insufficient. This talk introduces Agentic RAG, where retrieval is treated as an action within an agent's reasoning loop rather than a fixed upstream step.\n\nWe'll examine query decomposition and routing for breaking complex questions into targeted sub-queries, self-reflective and corrective retrieval loops that let an agent judge and re-query its own results, and tool-orchestration patterns (via MCP) that let retrieval sit alongside other agent actions like database lookups and API calls. Using a live architecture — evolving a standard RAG chatbot into an agentic, MCP-connected system — we'll walk through what changes in design, and where these systems introduce new failure modes: grounding drift, latency and cost from repeated retrieval loops, and cases where a simpler RAG pipeline still wins.\n\nAttendees will leave with a practical framework for deciding when the added complexity of agentic RAG is worth it, and a set of design patterns for building it correctly.\n\n*About the Speaker*\n\n[Balaji Venkatasubramaniyar](https://www.linkedin.com/in/balaji-venkatasubramaniyar/) is a Technical Lead at Wisdom Infotech, leading a 15+ person engineering team delivering enterprise solutions. With 13+ years of experience in enterprise software and insurance technology, he specializes in agentic AI systems, RAG architectures, and vector databases.\n\n**GeoAI for the Physical World: Earth Observation, Foundation Models, and Urban Digital Twins**\n\nEarth observation provides a unique form of computer vision for understanding the physical world at city to continental scales. In this talk, I will show how satellite imagery, geospatial data, machine learning, and foundation-model representations can be combined to characterize urban environments and environmental conditions.\n\nI will present UrbanScope Open, an open GeoAI digital-twin prototype integrating Earth observation with 3D buildings, vegetation, land-surface temperature, air quality, noise, population, and other urban data. I will also share lessons from my research using geospatial foundation-model embeddings for environmental prediction across Europe.\n\nThe talk will discuss how these approaches can contribute to increasingly multimodal AI systems capable of reasoning about real-world environments.\n\n*About the Speaker*\n\n[Cesar Alvarez](https://voxel51.com/events/cesar.alvarez@uni-a.de) is a researcher at the University of Augsburg working at the intersection of GeoAI, Earth observation, remote sensing, and environmental intelligence. His research applies machine learning, computer vision, and geospatial foundation models to problems including urban environments, climate risk, air quality, and agriculture.\n\n**Can agents get curious?**\n\nMost AI agents are good at answering a question once we tell them exactly what to look for. The harder problem is building agents that can explore a complex dataset autonomously: generating hypotheses, deciding which analyses are worth running, allocating additional compute when evidence is ambiguous, and knowing when they have enough evidence to stop.\n\nIn this talk, I’ll show an architecture for autonomous research agents that combines structured knowledge, iterative tool use, and explicit evidence tracking to turn open-ended questions into a sequence of testable investigations. I’ll discuss practical lessons from building and evaluating these systems, including why more test-time compute does not automatically produce better research and how provenance and evaluation can make long-running agents more reliable.\n\nI’ll close with a live example of an agent exploring a dataset, revising its hypotheses, and choosing what to investigate next.\n\n*About the Speaker*\n\n[Srivatsa P](https://www.linkedin.com/in/srivatsa-p) is a member of technical staff at Sigma Computing, where he works on AI agents that reason over complex enterprise data. Previously, he worked on machine learning at Apple and conducted research at the MIT Media Lab; outside of traditional ML, he has also worked on mapping coral reefs through underwater imaging, which sparked an enduring interest in how intelligent systems make sense of messy real-world data.\n\n**Does Cross-Validation Work in Deep Learning?**\n\nCross-validation is a standard in hyperparameter optimization in classical ML, but is generally considered computationally prohibitive and unnecessary in deep learning. We investigated whether CV produces 1. better DL models 2. better estimates of future performance of said models. We focused on medical image classification as an important deep learning application domain.\n\nOur results show that cross-validation consistently and materially reduces the gap between development and independent testing error for relatively small training datasets (up to about 1000 images). The test performance improvement was generally modest. We discuss the implications for deep-learning practitioners, including whether the increased computational cost of cross-validation is justified.\n\n*About the Speaker*\n\n[Ljubomir Buturovic](https://www.linkedin.com/in/ljubomir-buturovic-798156/) is an AI scientist and biotech executive with extensive experience in clinical diagnostics, including work at Inflammatix and Pathwork Diagnostics. His current research focuses on deep-learning image classification, infectious disease adjudication using LLMs, and development of AI models for helping critically ill patients.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316572587/",
     "sources": [
       {
@@ -632,7 +633,7 @@
   },
   {
     "title": "Claude Community|Mexico City  -  Claude Community House 🏠🇲🇽|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudecommunityhouse\n\nAddress:\nRITO Agency\nCiudad de México, Mexico\n\nHosted by Claude Community & 5 others",
+    "description": "Get up-to-date information at: https://luma.com/claudecommunityhouse\n\nAddress:\nRITO Agency\nCiudad de México, Mexico\n\nHosted by Claude Community & 6 others",
     "url": "https://luma.com/claudecommunityhouse",
     "sources": [
       {
@@ -924,65 +925,6 @@
     "hash_key": "impuestos en la era de la ia_2026-10-28T22:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Human + AI Sales Teams - A New Era of Lead Conversion|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-59a380f0\n\nAddress:\nRevo rooftop\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Carlos Fonseca",
-    "url": "https://luma.com/mxtw-59a380f0",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-59a380f0",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Revo rooftop, C. Valentín Gómez Farías 2, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-28T22:00:00+00:00",
-    "dtend": "2026-10-29T01:30:00+00:00",
-    "tags": [
-      "ai",
-      "security"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "2, Calle Valentín Gómez Farías, Tabacalera, Ciudad de México, Cuauhtémoc, Ciudad de México, 06030, México",
-    "hash_key": "human ai sales teams a new era of lead c_2026-10-28T22:00:00+00:00"
-  },
-  {
-    "title": "Mexico Tech Week|Fintech Builders Lab by Interledger, Dell, AMD & TWIF|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-fce5c125\n\nAddress:\nPÚBLICO Reforma\nEl evento se llevará a cabo en el piso 7.\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & This Week in Fintech",
-    "url": "https://luma.com/mxtw-fce5c125",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-fce5c125",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "PÚBLICO Reforma, Av. P.º de la Reforma 333, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-28T22:00:00+00:00",
-    "dtend": "2026-10-29T03:30:00+00:00",
-    "tags": [
-      "frontend"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
-    "hash_key": "fintech builders lab by interledger dell_2026-10-28T22:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|AI Red Carpet. Salesforce. Locación 1. Exclusivo Mujeres|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-23beb4c1\n\nAddress:\nAv. Ejército Nacional Mexicano 768-torre a\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/mxtw-23beb4c1",
@@ -1039,6 +981,35 @@
     "hash_key": "taller de grokbot cursor_2026-10-28T20:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Mesa redonda  -  Del código al impacto: casos de éxito de los iOS Developer Labs|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-83229c4f\n\nAddress:\nC. Lucerna 34\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & MacStore Business",
+    "url": "https://luma.com/mxtw-83229c4f",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-83229c4f",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "C. Lucerna 34, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T21:00:00+00:00",
+    "dtend": "2026-10-28T22:00:00+00:00",
+    "tags": [
+      "mobile"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Luc 34, 34, Calle Lucerna, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "mesa redonda del cdigo al impacto casos _2026-10-28T20:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Reverse Pitch: Inversionistas en IA|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-5e52a7d9\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Startuplinks Community & ILB Media",
     "url": "https://luma.com/mxtw-5e52a7d9",
@@ -1064,6 +1035,66 @@
     "city_code": "cdmx",
     "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "reverse pitch inversionistas en ia_2026-10-28T20:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Panel: Oportunidades de Incubación y Aceleración en México|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-ba9657c8\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 4 others",
+    "url": "https://luma.com/mxtw-ba9657c8",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-ba9657c8",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Colonia Condesa, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T21:00:00+00:00",
+    "dtend": "2026-10-28T23:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
+    "hash_key": "panel oportunidades de incubacin y acele_2026-10-28T20:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Café, Cloud y Capital: Tech Due Diligence By Clouxter x Big Sky Capital|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-319bdde9\n\nAddress:\nISDI México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Herlyn Hurtado & Daniel",
+    "url": "https://luma.com/mxtw-319bdde9",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-319bdde9",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "ISDI México, C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T21:00:00+00:00",
+    "dtend": "2026-10-28T23:00:00+00:00",
+    "tags": [
+      "backend",
+      "cloud",
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "caf cloud y capital tech due diligence b_2026-10-28T20:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Presentación del Libro VISIÓN FINTECH MÉXICO 2030|México|Ciudad de México",
@@ -1233,7 +1264,7 @@
   },
   {
     "title": "Mexico Tech Week|Muse en la práctica: cómo tres creadores mexicanos usan AI hoy|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-caf49ba2\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Miren de Aguinaga",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-caf49ba2\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Miren de Aguinaga & Jimena Neyra Barriga",
     "url": "https://luma.com/mxtw-caf49ba2",
     "sources": [
       {
@@ -1245,8 +1276,8 @@
     "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
     "online": false,
     "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-28T18:30:00+00:00",
-    "dtend": "2026-10-28T19:30:00+00:00",
+    "dtstart": "2026-10-28T19:00:00+00:00",
+    "dtend": "2026-10-28T20:00:00+00:00",
     "tags": [
       "ai",
       "frontend"
@@ -1461,6 +1492,35 @@
     "hash_key": "community led growth founder session_2026-10-28T16:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|From PoC to Profit: A Practical Framework for Evaluating AI Investments|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-3d10ec14\n\nAddress:\nC. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Alexander Santana Gracia",
+    "url": "https://luma.com/mxtw-3d10ec14",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-3d10ec14",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T17:00:00+00:00",
+    "dtend": "2026-10-28T19:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "from poc to profit a practical framework_2026-10-28T16:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|B2B ES HUMANO: De la conexión al revenue|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-685a3895\n\nAddress:\nISDI México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Male Jimenez",
     "url": "https://luma.com/mxtw-685a3895",
@@ -1629,7 +1689,7 @@
     "hash_key": "la constructora que se administra sola d_2026-10-28T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Top 25 CMOs de Startups de México|México|Ciudad de México",
+    "title": "Mexico Tech Week|Top 25 CMOs Tech de México|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-4b89529a\n\nAddress:\nISDI México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Victor Noguera & Ivonne",
     "url": "https://luma.com/mxtw-4b89529a",
     "sources": [
@@ -1653,7 +1713,7 @@
     "city": "Ciudad de México",
     "city_code": "cdmx",
     "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
-    "hash_key": "top 25 cmos de startups de mxico_2026-10-28T14:00:00+00:00"
+    "hash_key": "top 25 cmos tech de mxico_2026-10-28T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Corporate venturing: la relación startup-corporativo|México|Ciudad de México",
@@ -1712,7 +1772,7 @@
     "hash_key": "copa amrica de ftbol 7_2026-10-28T14:00:00+00:00"
   },
   {
-    "title": "Claude Community|Mexico City  -  Claude for Revenue: Sales, GTM & Agents That Sell|México|Ciudad de México",
+    "title": "Mexico Tech Week|Mexico City  -  Claude for Revenue: Sales, GTM & Agents That Sell|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claudeforrevenue\n\nAddress:\nEBC\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Andres Nájera",
     "url": "https://luma.com/claudeforrevenue",
     "sources": [
@@ -1724,11 +1784,11 @@
     ],
     "location": "EBC, Liverpool 54, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
     "online": false,
-    "organizer": "Claude Community",
+    "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-28T14:30:00+00:00",
     "dtend": "2026-10-28T17:00:00+00:00",
     "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2082,7 +2142,34 @@
     "hash_key": "cyber trust round por qu la confianza se_2026-10-28T00:00:00+00:00"
   },
   {
-    "title": "Claude Community|Guadalajara  -  Claude Code Meetup: JavaScript Edition|México|Jalisco",
+    "title": "Mexico Tech Week|Debt 101 for Startups: Cómo escalar con deuda|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-bc013843\n\nAddress:\nC. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & 3 others",
+    "url": "https://luma.com/mxtw-bc013843",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-bc013843",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T01:00:00+00:00",
+    "dtend": "2026-10-28T04:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "debt 101 for startups cmo escalar con de_2026-10-28T00:00:00+00:00"
+  },
+  {
+    "title": "Claude Community|Guadalajara  -  Claude Code Meetup|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/claude-ftde\n\nAddress:\nCheck event page for more details.\n\nHosted by Miguel Oceguera & 3 others",
     "url": "https://luma.com/claude-ftde",
     "sources": [
@@ -2098,8 +2185,7 @@
     "dtstart": "2026-10-28T01:00:00+00:00",
     "dtend": "2026-10-28T03:30:00+00:00",
     "tags": [
-      "ai",
-      "web"
+      "ai"
     ],
     "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
     "country": "México",
@@ -2109,7 +2195,7 @@
     "city": "Zapopan",
     "city_code": "zapopan",
     "address": "Puerta de Hierro, Zapopan, Región Centro, Jalisco, México",
-    "hash_key": "guadalajara claude code meetup javascrip_2026-10-28T00:00:00+00:00"
+    "hash_key": "guadalajara claude code meetup_2026-10-28T00:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Securing Trust in Clinical AI Agents|México|Ciudad de México",
@@ -2286,7 +2372,7 @@
     "hash_key": "the unofficial stanford playbook how to _2026-10-27T22:00:00+00:00"
   },
   {
-    "title": "Claude Community|Mexico City  -  Claude for Architecture, Engineering & Construction|México|Ciudad de México",
+    "title": "Mexico Tech Week|Mexico City  -  Claude for Architecture, Engineering & Construction|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claudemexicoarchitecture\n\nAddress:\nHoliday Inn Ciudad de Mexico-Trade Center by IHG\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Leonardo Lamprea",
     "url": "https://luma.com/claudemexicoarchitecture",
     "sources": [
@@ -2298,11 +2384,11 @@
     ],
     "location": "Holiday Inn Ciudad de Mexico-Trade Center by IHG, Av. Revolución 583, San Pedro de los Pinos, Benito Juárez, 03800 Ciudad de México, CDMX, Mexico",
     "online": false,
-    "organizer": "Claude Community",
+    "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-27T23:30:00+00:00",
     "dtend": "2026-10-28T03:00:00+00:00",
     "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -2542,6 +2628,36 @@
     "hash_key": "kickoff demo night_2026-10-27T22:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Beyond Copilots: Building the Agentic Enterprise  -  Nova + TD Synnex + AWS  -  Del Valle Nte|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-yz90\n\nAddress:\nAv. Insurgentes Sur 730-floor 11\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Adrian Hernandez",
+    "url": "https://luma.com/mxtw-yz90",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-yz90",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Av. Insurgentes Sur 730-floor 11, Col del Valle Nte, Benito Juárez, 03103 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T23:00:00+00:00",
+    "dtend": "2026-10-28T02:00:00+00:00",
+    "tags": [
+      "cloud",
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "beyond copilots building the agentic ent_2026-10-27T22:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Impulsando la comunidad de AI Safety en México: Tech Policy Panel|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-aisafetymx\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & AI SAFETY MÉXICO",
     "url": "https://luma.com/mxtw-aisafetymx",
@@ -2657,6 +2773,33 @@
     "hash_key": "engineering at lyft_2026-10-27T22:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|SelectUSA Tech Pitch Competition|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-25f7ca0f\n\nAddress:\nAv. Morelos 67\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Clarissa Bonillas",
+    "url": "https://luma.com/mxtw-25f7ca0f",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-25f7ca0f",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Av. Morelos 67, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T22:00:00+00:00",
+    "dtend": "2026-10-28T01:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Expo Reforma, 67, Avenida Morelos, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "selectusa tech pitch competition_2026-10-27T22:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Un viaje al Liderazgo del Futuro.|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-dffce348\n\nAddress:\nBlvd. Miguel de Cervantes Saavedra 252\nIza Business Centers Antara P5\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/mxtw-dffce348",
@@ -2744,12 +2887,12 @@
   },
   {
     "title": "Mexico Tech Week|AWS Startups - The Happiest Hour|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-f15bd424\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week, Alexander Santana Gracia & Julian Diaz",
-    "url": "https://luma.com/mxtw-f15bd424",
+    "description": "Get up-to-date information at: https://luma.com/awsstartupshh\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 3 others",
+    "url": "https://luma.com/awsstartupshh",
     "sources": [
       {
         "platform": "luma",
-        "url": "https://luma.com/mxtw-f15bd424",
+        "url": "https://luma.com/awsstartupshh",
         "label": "Ver en Luma"
       }
     ],
@@ -2858,35 +3001,6 @@
     "hash_key": "distribution is the new moat presentacin_2026-10-27T20:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Panel: Oportunidades de Incubación y Aceleración en México|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-ba9657c8\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 3 others",
-    "url": "https://luma.com/mxtw-ba9657c8",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-ba9657c8",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Colonia Condesa, Ciudad de México, México",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-27T21:00:00+00:00",
-    "dtend": "2026-10-27T23:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
-    "hash_key": "panel oportunidades de incubacin y acele_2026-10-27T20:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|Crea tu agente de IA para ventas en 3 preguntas: WhatsApp, cotizaciones y CRM sin saber programar|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-ae12be24\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Jonathan Olvera",
     "url": "https://luma.com/mxtw-ae12be24",
@@ -2973,7 +3087,7 @@
   },
   {
     "title": "Mexico Tech Week|Emprelatam Connect Day|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-2eb68508\n\nAddress:\nBarranca del Muerto 280\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Emprelatam",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-2eb68508\n\nAddress:\nSadi Carnot 57\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Emprelatam",
     "url": "https://luma.com/mxtw-2eb68508",
     "sources": [
       {
@@ -2982,7 +3096,7 @@
         "label": "Ver en Luma"
       }
     ],
-    "location": "Barranca del Muerto 280, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX, Mexico",
+    "location": "Sadi Carnot 57, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, Mexico",
     "online": false,
     "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-27T20:00:00+00:00",
@@ -2995,8 +3109,37 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Barranca del Muerto, Guadalupe Inn, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01020, México",
+    "address": "Calle Sadi Carnot, San Rafael, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06470, México",
     "hash_key": "emprelatam connect day_2026-10-27T20:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Constituir es lo fácil: manual de landing en México para founders (fintech incluidos)|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-beb3311d\n\nAddress:\nISDI México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Rodolfo Moreno",
+    "url": "https://luma.com/mxtw-beb3311d",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-beb3311d",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "ISDI México, C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T19:00:00+00:00",
+    "dtend": "2026-10-27T21:00:00+00:00",
+    "tags": [
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "constituir es lo fcil manual de landing _2026-10-27T18:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Moon Explorer, A Physical AI Challenge|México|Ciudad de México",
@@ -3086,7 +3229,7 @@
     "hash_key": "soluciones de ia que viven ms all del pi_2026-10-27T18:00:00+00:00"
   },
   {
-    "title": "Claude Community|Mexico City  -  Claude for CTOs|México|Ciudad de México",
+    "title": "Mexico Tech Week|Mexico City  -  Claude for CTOs|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claudeforctos\n\nAddress:\nHaab Project Condesa\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega, Ricardo Rubio & Product LatAm",
     "url": "https://luma.com/claudeforctos",
     "sources": [
@@ -3098,11 +3241,11 @@
     ],
     "location": "Haab Project Condesa, Ámsterdam 255, Hipódromo Condesa, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
     "online": false,
-    "organizer": "Claude Community",
+    "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-27T19:00:00+00:00",
     "dtend": "2026-10-27T23:00:00+00:00",
     "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3140,35 +3283,6 @@
     "city_code": "cdmx",
     "address": "Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
     "hash_key": "pizzas and conversations about fintech h_2026-10-27T18:00:00+00:00"
-  },
-  {
-    "title": "Mexico Tech Week|Constituir es lo fácil: manual de landing en México para founders (fintech incluidos)|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-beb3311d\n\nAddress:\nISDI México\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Rodolfo Moreno",
-    "url": "https://luma.com/mxtw-beb3311d",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-beb3311d",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "ISDI México, C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-27T18:00:00+00:00",
-    "dtend": "2026-10-27T20:00:00+00:00",
-    "tags": [
-      "frontend"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
-    "hash_key": "constituir es lo fcil manual de landing _2026-10-27T18:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Semiconductores, oportunidades reales en México.|México|Ciudad de México",
@@ -3225,35 +3339,6 @@
     "city_code": "cdmx",
     "address": "Bagatelle Mexico City, 117 alto, Calle Alfredo Tennyson, Polanco 4ª Sección, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11550, México",
     "hash_key": "storytelling que escala narrativa de mar_2026-10-27T16:00:00+00:00"
-  },
-  {
-    "title": "Mexico Tech Week|Off the Record: Burnout, liderazgo y lo que no subimos a LinkedIn. By mikigai & Icecoldture|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-3e95cf2a\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 4 others",
-    "url": "https://luma.com/mxtw-3e95cf2a",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-3e95cf2a",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Colonia Condesa, Ciudad de México, México",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-27T17:00:00+00:00",
-    "dtend": "2026-10-27T18:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
-    "hash_key": "off the record burnout liderazgo y lo qu_2026-10-27T16:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|London Bridge of Innovation - Opening Doors to Global Growth|México|Ciudad de México",
@@ -3399,7 +3484,7 @@
   },
   {
     "title": "Mexico Tech Week|Token Economics: The Hidden P&L of AI Startups|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-71b7b14c\n\nAddress:\nC. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Alexander Santana Gracia",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-71b7b14c\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Alexander Santana Gracia",
     "url": "https://luma.com/mxtw-71b7b14c",
     "sources": [
       {
@@ -3408,7 +3493,7 @@
         "label": "Ver en Luma"
       }
     ],
-    "location": "C. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+    "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
     "online": false,
     "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-27T17:00:00+00:00",
@@ -3423,7 +3508,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "token economics the hidden p l of ai sta_2026-10-27T16:00:00+00:00"
   },
   {
@@ -3481,6 +3566,35 @@
     "city_code": "cdmx",
     "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "fast track week 01 crea tu cofundador ia_2026-10-27T16:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Off the Record: Burnout, liderazgo y lo que no subimos a LinkedIn. By mikigai & Icecoldture|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-3e95cf2a\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 4 others",
+    "url": "https://luma.com/mxtw-3e95cf2a",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-3e95cf2a",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Colonia Condesa, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T16:00:00+00:00",
+    "dtend": "2026-10-27T18:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
+    "hash_key": "off the record burnout liderazgo y lo qu_2026-10-27T16:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
@@ -4112,7 +4226,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Cinépolis Patio Universidad, 546, Avenida Popocatépetl, Unidad Habitacional Emiliano Zapata, Santa Cruz Atoyac, Ciudad de México, Benito Juárez, Ciudad de México, 03330, México",
+    "address": "Gayosso Módulos Patio Universidad, 546, Avenida Popocatépetl, Unidad Habitacional Emiliano Zapata, Santa Cruz Atoyac, Ciudad de México, Benito Juárez, Ciudad de México, 03330, México",
     "hash_key": "awspectrum architecture arena_2026-10-27T00:00:00+00:00"
   },
   {
@@ -4233,6 +4347,33 @@
     "hash_key": "primer evento de networking junior en me_2026-10-27T00:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Mexico City  -  Claude for Games|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/claudeforgamesmexico\n\nAddress:\nPlatzi México\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Platzi Team",
+    "url": "https://luma.com/claudeforgamesmexico",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/claudeforgamesmexico",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Platzi México, Av. P.º de la Reforma 373-Piso 20, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T23:30:00+00:00",
+    "dtend": "2026-10-27T03:30:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "mexico city claude for games_2026-10-26T22:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Odiamos los eventos de tech. Hicimos uno: noche de apertura|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-be728524\n\nAddress:\nRoma\nMexico City, Mexico\n\nHosted by Mexico Tech Week & Alejandro Rivera",
     "url": "https://luma.com/mxtw-be728524",
@@ -4258,33 +4399,6 @@
     "city_code": "cdmx",
     "address": "Casa Tibet México - Anexo, Calle Tuxpan, Roma Sur, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06760, México",
     "hash_key": "odiamos los eventos de tech hicimos uno _2026-10-26T22:00:00+00:00"
-  },
-  {
-    "title": "Claude Community|Mexico City  -  Claude for Games|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudeforgamesmexico\n\nAddress:\nPlatzi México\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & Platzi Team",
-    "url": "https://luma.com/claudeforgamesmexico",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claudeforgamesmexico",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Platzi México, Av. P.º de la Reforma 373-Piso 20, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Claude Community",
-    "dtstart": "2026-10-26T23:30:00+00:00",
-    "dtend": "2026-10-27T03:30:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "mexico city claude for games_2026-10-26T22:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Accelerate México  -  Wadhwani Foundation × Igeneris: conoce el programa, escucha testimonios y pon a prueba tu estrategia de crecimiento|México|Ciudad de México",
@@ -4318,7 +4432,7 @@
   },
   {
     "title": "Mexico Tech Week|Google x Satia  -  AI for Builders|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-bdef948e\n\nAddress:\nC. Montes Urales 445\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Julio Cárdenas & Luis Alonso",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-bdef948e\n\nAddress:\nC. Montes Urales 445\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/mxtw-bdef948e",
     "sources": [
       {
@@ -4607,6 +4721,33 @@
     "hash_key": "building your own tools with lovable ige_2026-10-26T14:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Mexico City  -  Claude Impact Lab en la Cámara de Diputados de México|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/claudeimpactlabmexico\n\nAddress:\nCongress of the Union: Chamber of Deputies\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega, KINARI SABINA & Axel Vega",
+    "url": "https://luma.com/claudeimpactlabmexico",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/claudeimpactlabmexico",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Congress of the Union: Chamber of Deputies, H.Congreso de la Unión 66, El Parque, Venustiano Carranza, 15960 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T14:00:00+00:00",
+    "dtend": "2026-10-26T19:30:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "mexico city claude impact lab en la cmar_2026-10-26T14:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Investors & Founders Coffee Mixer|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-d5569cb3\n\nAddress:\nLibertario Coffee Roasters - Roma Norte\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Andrés Cano",
     "url": "https://luma.com/mxtw-d5569cb3",
@@ -4661,33 +4802,6 @@
     "city_code": "cdmx",
     "address": "Granada, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11520, México",
     "hash_key": "amela s morning club connect with female_2026-10-26T14:00:00+00:00"
-  },
-  {
-    "title": "Claude Community|Mexico City  -  Claude Impact Lab en la Cámara de Diputados de México|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudeimpactlabmexico\n\nAddress:\nCongress of the Union: Chamber of Deputies\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega, KINARI SABINA & Axel Vega",
-    "url": "https://luma.com/claudeimpactlabmexico",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claudeimpactlabmexico",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Congress of the Union: Chamber of Deputies, H.Congreso de la Unión 66, El Parque, Venustiano Carranza, 15960 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Claude Community",
-    "dtstart": "2026-10-26T14:00:00+00:00",
-    "dtend": "2026-10-26T19:30:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "mexico city claude impact lab en la cmar_2026-10-26T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|C Level / Executive / Corporate Innovators - Social Run|México|Ciudad de México",
@@ -5078,7 +5192,7 @@
   },
   {
     "title": "Claude Community|Mexico City  -  Claude en el Senado de la República 🏛️|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudemexicocitysenado\n\nAddress:\nSenate of the Republic\nCiudad de México, Mexico\n\nHosted by Claude Community & 3 others",
+    "description": "Get up-to-date information at: https://luma.com/claudemexicocitysenado\n\nAddress:\nSenate of the Republic\nCiudad de México, Mexico\n\nHosted by Claude Community & 4 others",
     "url": "https://luma.com/claudemexicocitysenado",
     "sources": [
       {
@@ -5736,7 +5850,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -5794,7 +5908,7 @@
     "dtstart": "2026-08-26T22:00:00+00:00",
     "dtend": "2026-08-26T23:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -5881,7 +5995,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -6487,7 +6601,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6572,7 +6686,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7127,9 +7241,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Coquimatlán",
-    "city_code": "coquimatlan",
-    "address": "Centro, Coquimatlán, Colima, 28400, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -7644,7 +7758,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Avenida Ciudad Universitaria, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -7722,7 +7836,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7783,7 +7897,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7814,7 +7928,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7868,7 +7982,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7897,7 +8011,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7953,7 +8067,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7982,7 +8096,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8009,7 +8123,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8065,7 +8179,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8092,7 +8206,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8121,7 +8235,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8150,7 +8264,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8179,7 +8293,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8209,7 +8323,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8263,7 +8377,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8292,7 +8406,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8321,7 +8435,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8350,7 +8464,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8408,7 +8522,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8437,7 +8551,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8466,7 +8580,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8496,7 +8610,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8525,7 +8639,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8555,7 +8669,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8585,7 +8699,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8614,7 +8728,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8641,14 +8755,14 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -8670,7 +8784,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8697,7 +8811,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8726,7 +8840,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8756,7 +8870,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8786,7 +8900,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8813,7 +8927,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8840,7 +8954,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8867,7 +8981,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8897,7 +9011,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -10341,7 +10455,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -11997,7 +12111,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/eofagheq",
+    "source": "https://luma.com/02t893pf",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -12367,7 +12481,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "shefi x mobil3 she leads finance_2025-08-21T16:00:00+00:00"
   },
   {
@@ -14808,7 +14922,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "the future of automotive aftermarket ind_2024-10-25T22:00:00+00:00"
   },
   {
@@ -15585,7 +15699,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "crossing the chasm unlocking proptech op_2024-10-24T22:00:00+00:00"
   },
   {
@@ -16190,7 +16304,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
@@ -19835,35 +19949,8 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "pre registro mobil3 hackathon_no_date"
-  },
-  {
-    "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
-    "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
-    "url": "https://luma.com/jov35dwo",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/jov35dwo",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-    "online": true,
-    "organizer": "Sudo FCiencias",
-    "dtstart": null,
-    "dtend": null,
-    "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-    "hash_key": "tics aprende a hackear con agentes de ia_no_date"
   },
   {
     "title": "Mexico Tech Week|AI House - General Access  -  MXTW 2026|México|Ciudad de México",
@@ -19893,6 +19980,33 @@
     "city_code": "cdmx",
     "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "ai house general access mxtw 2026_no_date"
+  },
+  {
+    "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
+    "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
+    "url": "https://luma.com/jov35dwo",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/jov35dwo",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+    "online": true,
+    "organizer": "Sudo FCiencias",
+    "dtstart": null,
+    "dtend": null,
+    "tags": [],
+    "source": "https://luma.com/sudo_fciencias_2026",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+    "hash_key": "tics aprende a hackear con agentes de ia_no_date"
   },
   {
     "title": "Frutero Club|$XOC en Ethereum México - Dinámica Sep 11 a Sep 16|México|Yucatán",

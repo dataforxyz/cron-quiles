@@ -1710,7 +1710,24 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  machine learning at Apple and conducted research at the MIT Media Lab\; ou
  tside of traditional ML\, he has also worked on mapping coral reefs throug
  h underwater imaging\, which sparked an enduring interest in how intellige
- nt systems make sense of messy real-world data.
+ nt systems make sense of messy real-world data.\n\n**Does Cross-Validation
+  Work in Deep Learning?**\n\nCross-validation is a standard in hyperparame
+ ter optimization in classical ML\, but is generally considered computation
+ ally prohibitive and unnecessary in deep learning. We investigated whether
+  CV produces 1. better DL models 2. better estimates of future performance
+  of said models. We focused on medical image classification as an importan
+ t deep learning application domain.\n\nOur results show that cross-validat
+ ion consistently and materially reduces the gap between development and in
+ dependent testing error for relatively small training datasets (up to abou
+ t 1000 images). The test performance improvement was generally modest. We 
+ discuss the implications for deep-learning practitioners\, including wheth
+ er the increased computational cost of cross-validation is justified.\n\n*
+ About the Speaker*\n\n[Ljubomir Buturovic](https://www.linkedin.com/in/lju
+ bomir-buturovic-798156/) is an AI scientist and biotech executive with ext
+ ensive experience in clinical diagnostics\, including work at Inflammatix 
+ and Pathwork Diagnostics. His current research focuses on deep-learning im
+ age classification\, infectious disease adjudication using LLMs\, and deve
+ lopment of AI models for helping critically ill patients.
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
@@ -1844,7 +1861,7 @@ BEGIN:VEVENT
 SUMMARY:GDG CDMX|Devfest 2026: Ciudad de México|México|
 DTSTART:20261207T080000
 CATEGORIES:AI,AI - Gemini,Android,Community Building,Conference,DevFest,Go
- ogle Cloud,Google Workspace,Web,Workshop / hands-on session
+ ogle Cloud,Google Workspace,Web,Workshop / hands-on session,cloud
 DESCRIPTION:Devfest 2026 en la Ciudad de México es el evento imperdible p
  ara desarrolladores\, entusiastas de la tecnología e innovadores. Explora
   nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a 
@@ -1911,7 +1928,27 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  *About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in
  /arturo-morales-rangel) is the founder of Binary Core LLC\, a Physical AI 
  engineering company working across simulation\, perception\, robot learnin
- g\, and deployment.
+ g\, and deployment.\n\n**Prompting Video-Language Models in Production: Le
+ ssons from Enterprise Video Tagging and Evaluation**\n\nVideo-language mod
+ els can now describe\, tag and answer questions about long-form video\, bu
+ t production results depend heavily on prompt design and evaluation. This 
+ talk shares field lessons from deploying such models for media\, news\, st
+ reaming and sports organizations\, including how to structure prompts for 
+ consistent\, schema-bound outputs across hours of footage.\n\nOn one sport
+ s video-tagging project\, consolidating the prompt definitions cut estimat
+ ed processing cost about 3x\, and about 90% of the originally reported iss
+ ues were later resolved through prompting alone. I'll also walk through bu
+ ilding evaluation frameworks for video outputs\, including for hard domain
+ s like egocentric video\, and what changes when migrating between model ve
+ rsions.\n\nAttendees will leave with reusable prompt patterns and an evalu
+ ation checklist they can apply to their own video pipelines.\n\n*About the
+  Speaker*\n\n[Yash Gugale](https://www.linkedin.com/in/yashgugale/) is a S
+ enior Forward Deployed Engineer at TwelveLabs in New York\, integrating vi
+ deo foundation models (Marengo for embeddings and search\, Pegasus for vid
+ eo-language understanding) for media\, news\, streaming and sports custome
+ rs. He previously spent about six years in video streaming engineering at 
+ Peloton and Samsung TV Plus\, and holds an MS in Computer Graphics Technol
+ ogy from Purdue.
 LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
