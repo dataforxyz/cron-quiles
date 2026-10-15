@@ -1175,74 +1175,6 @@ LOCATION:https://luma.com/event/evt-uceAKAQZmxAWrqQ
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-uceAKAQZmxAWrqQ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Oct 
- 15 - AI\, ML\, and Computer Vision Meetup|Online
-DTSTART:20261015T100000
-CATEGORIES:ai,backend,cloud,data,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nJoin our virtual meetup to hear talks from experts on cutting-edge topics
-  across AI\, ML\, and computer vision.\n\n**Time\, Place and Location**\n\
- nOct 15\, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!]
- (https://voxel51.com/events/ai-ml-and-computer-vision-meetup-october-15-20
- 26)**\n\n**Testing AI Systems in Production: Data Quality\, Drift\, and Mo
- del Evaluation**\n\nAI systems can pass offline evaluation and still fail 
- in production when real-world data changes\, features become stale\, label
- s or feedback signals are incomplete\, or model behavior drifts away from 
- expected outcomes. This talk shares practical patterns for testing and eva
- luating AI systems after deployment\, including data quality checks\, drif
- t detection\, online/offline metric comparison\, model monitoring\, and ro
- llback analysis.\n\nUsing personalization and recommendation systems as ex
- amples\, we will examine how teams can build evaluation workflows that cat
- ch quality issues before users do. Attendees will leave with a practical c
- hecklist for making AI-backed systems easier to evaluate\, debug\, and ope
- rate as data changes over time.\n\n*About the Speaker*\n\n[Jayakumar Ramal
- ingam](https://www.linkedin.com/in/jayakumarramalingam) is a Staff Softwar
- e Engineer and Cloud Architect at SiriusXM with over 16 years of experienc
- e building cloud-native platforms\, real-time data pipelines\, resilient A
- PIs\, and AI/ML-enabled applications at production scale.\n\n**Where Shoul
- d Your Model Live? A Framework for Tiering Computer Vision Deployments**\n
- \nWhere should a computer vision model actually run - on-device\, near the
-  edge\, or in the cloud? It's a decision that looks simple until requireme
- nts like latency\, cost\, connectivity\, and update cadence start pulling 
- in different directions\, often revealing themselves only after deployment
- .\n\nDrawing on hands-on experience developing and deploying CV models acr
- oss Hailo\, Nvidia\, Qualcomm and AWS platforms\, this talk introduces a p
- ractical framework for tiering computer vision deployments based on real p
- roject requirements and constraints. Discussion will include what changes 
- at each tier - from development to deployment to monitoring and update str
- ategy - with relevant industry examples.\n\nAttendees will leave with a se
- t of questions or a framework they can use to place their own CV projects 
- into the right tier.\n\n*About the Speaker*\n\n[Ajaykumaar Sivacoumare](ht
- tps://www.linkedin.com/in/ajay-sa/) is an AI Software Engineer specializin
- g in computer vision and edge AI\, with production experience developing a
- nd deploying CV models across Nvidia\, Hailo\, Qualcomm and AWS-based plat
- forms.\n\n**From 2D Slices to 3D Tumors: Lightweight Volumetric Detection 
- Without Heavy 3D Networks**\n\nSlice-wise 2D detectors are fast and scalab
- le\, but they struggle to produce reliable 3D bounding boxes from volumetr
- ic medical data. This talk presents YOLO-PVC\, a lightweight post-processi
- ng framework that consolidates slice-wise YOLO detections into coherent 3D
-  bounding boxes using percentile-based geometric aggregation and a minimal
-  MLP calibration module.\n\nThis talk demonstrates consistent improvements
-  in volumetric IoU across three liver tumor categories i.e.\, HCC\, CCA\, 
- and Mixed\, without requiring dense 3D annotations or memory-intensive arc
- hitectures. The talk covers the clinical motivation\, the technical approa
- ch\, and practical lessons from deploying computer vision on real hospital
-  MRI data.\n\n*About the Speaker*\n\n[Talha Waqas](https://www.linkedin.co
- m/in/mtalha-waqas-255557144/) is a second-year PhD student at ESME Researc
- h Lab\, Paris and LISSI\, Université Paris-Est\, working on computer visi
- on applied to medical imaging\, with a focus on tumor classification\, det
- ection\, and segmentation in multi-phase liver MRI.\n\n**The Two-Loop Arch
- itecture for Voice AI**\n\nBuilding responsive voice AI requires balancing
-  latency with intelligence. This talk introduces a practical architecture 
- that separates real-time conversation from asynchronous reasoning\, enabli
- ng richer interactions without slowing the user experience. The session co
- vers reusable design patterns drawn from production-inspired conversationa
- l AI systems.\n\n*About the Speaker*\n\n[Abhinav Tushar](https://lepisma.x
- yz/wiki/about/) is an ML engineer and researcher specializing in Conversat
- ional AI and Speech Technology.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Claude Community|Boston  -  Claude Conversation|Online
 DTSTART:20261015T220000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/claude-communi
@@ -1447,6 +1379,17 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/landai\n\nHost
  ed by The AI Collective\, Knowledge Innovations & David Asante-Darko
 LOCATION:https://luma.com/event/evt-6TNMH9HpTBwcRwW
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-6TNMH9HpTBwcRwW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|Ugly Talk CDMX MXTW|México|
+DTSTART:20261026T200000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-923e0b47\
+ n\nAddress:\nAv. Álvaro Obregón 64\, Roma Nte.\, CDMX\n\nHosted by Mexic
+ o Tech Week & 4 others
+LOCATION:Av. Álvaro Obregón 64\, Roma Nte.\, CDMX
+X-CRONQUILES-ADDRESS:Av. Álvaro Obregón 64\, Roma Nte.\, CDMX
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|FinOps: la metodología de control de gasto que t
@@ -1695,22 +1638,6 @@ DESCRIPTION:Devfest 2026 es la cita ideal para desarrolladores que quieran
  ia!
 LOCATION:Online
 X-CRONQUILES-ADDRESS:Online
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GDG Tijuana|DevFest Tijuana 2026|México|
-DTSTART:20261113T130000
-CATEGORIES:AI - Gemini,Conference,DevFest,Flutter,Google Cloud,Workshop / 
- hands-on session
-DESCRIPTION:Join us for our inaugural GDG Tijuana event as we pave the way
-  to DevFest Tijuana 2026! Be part of the journey to the most exciting tech
-  event of the year by connecting with fellow developers and tech enthusias
- ts. Enjoy a day filled with engaging discussions\, networking opportunitie
- s\, and a sneak peek into what DevFest 2026 will offer. Don’t miss the c
- hance to contribute your ideas and shape the f
-LOCATION:TBD\, TBD\, Tijuana
-X-CRONQUILES-ADDRESS:TBD\, TBD\, Tijuana
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT

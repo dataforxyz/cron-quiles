@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 697,
-    "future_event_count": 187,
+    "event_count": 694,
+    "future_event_count": 185,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -54,6 +54,17 @@
     "emoji": "🇲🇽"
   },
   {
+    "code": "MX-BCN",
+    "name": "Baja California",
+    "slug": "mx-bcn",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-CAM",
     "name": "Campeche",
     "slug": "mx-cam",
@@ -68,8 +79,8 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 470,
-    "future_event_count": 152,
+    "event_count": 466,
+    "future_event_count": 148,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -133,10 +144,11 @@
     "code": "MX-MEX",
     "name": "México",
     "slug": "mx-mex",
-    "event_count": 2,
-    "future_event_count": 0,
+    "event_count": 3,
+    "future_event_count": 1,
     "active_months": [
-      "2024-10"
+      "2024-10",
+      "2026-10"
     ],
     "emoji": "🌵"
   },
@@ -169,7 +181,7 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 162,
+    "event_count": 161,
     "future_event_count": 24,
     "active_months": [
       "2023-02",

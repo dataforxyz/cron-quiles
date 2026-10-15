@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T17:20:23.360108+00:00",
-  "total_events": 162,
+  "generated_at": "2026-10-15T21:46:22.510876+00:00",
+  "total_events": 161,
   "city": "Online",
   "communities": [
     {
@@ -108,11 +108,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/e17fbtoo",
+          "url": "https://luma.com/sudo_fciencias_2026",
           "label": "Luma"
         }
       ]
@@ -189,17 +189,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-ipn/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Tijuana",
-      "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-tijuana/",
           "label": "Sitio web"
         }
       ]
@@ -2898,7 +2887,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3063,7 +3052,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3747,7 +3736,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3803,7 +3792,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3812,40 +3801,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-uceAKAQZmxAWrqQ",
       "hash_key": "la vida antes durante y despus de ibm_2026-10-15T02:00:00+00:00"
-    },
-    {
-      "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 15 - AI, ML, and Computer Vision Meetup|Online",
-      "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Place and Location**\n\nOct 15, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-october-15-2026)**\n\n**Testing AI Systems in Production: Data Quality, Drift, and Model Evaluation**\n\nAI systems can pass offline evaluation and still fail in production when real-world data changes, features become stale, labels or feedback signals are incomplete, or model behavior drifts away from expected outcomes. This talk shares practical patterns for testing and evaluating AI systems after deployment, including data quality checks, drift detection, online/offline metric comparison, model monitoring, and rollback analysis.\n\nUsing personalization and recommendation systems as examples, we will examine how teams can build evaluation workflows that catch quality issues before users do. Attendees will leave with a practical checklist for making AI-backed systems easier to evaluate, debug, and operate as data changes over time.\n\n*About the Speaker*\n\n[Jayakumar Ramalingam](https://www.linkedin.com/in/jayakumarramalingam) is a Staff Software Engineer and Cloud Architect at SiriusXM with over 16 years of experience building cloud-native platforms, real-time data pipelines, resilient APIs, and AI/ML-enabled applications at production scale.\n\n**Where Should Your Model Live? A Framework for Tiering Computer Vision Deployments**\n\nWhere should a computer vision model actually run - on-device, near the edge, or in the cloud? It's a decision that looks simple until requirements like latency, cost, connectivity, and update cadence start pulling in different directions, often revealing themselves only after deployment.\n\nDrawing on hands-on experience developing and deploying CV models across Hailo, Nvidia, Qualcomm and AWS platforms, this talk introduces a practical framework for tiering computer vision deployments based on real project requirements and constraints. Discussion will include what changes at each tier - from development to deployment to monitoring and update strategy - with relevant industry examples.\n\nAttendees will leave with a set of questions or a framework they can use to place their own CV projects into the right tier.\n\n*About the Speaker*\n\n[Ajaykumaar Sivacoumare](https://www.linkedin.com/in/ajay-sa/) is an AI Software Engineer specializing in computer vision and edge AI, with production experience developing and deploying CV models across Nvidia, Hailo, Qualcomm and AWS-based platforms.\n\n**From 2D Slices to 3D Tumors: Lightweight Volumetric Detection Without Heavy 3D Networks**\n\nSlice-wise 2D detectors are fast and scalable, but they struggle to produce reliable 3D bounding boxes from volumetric medical data. This talk presents YOLO-PVC, a lightweight post-processing framework that consolidates slice-wise YOLO detections into coherent 3D bounding boxes using percentile-based geometric aggregation and a minimal MLP calibration module.\n\nThis talk demonstrates consistent improvements in volumetric IoU across three liver tumor categories i.e., HCC, CCA, and Mixed, without requiring dense 3D annotations or memory-intensive architectures. The talk covers the clinical motivation, the technical approach, and practical lessons from deploying computer vision on real hospital MRI data.\n\n*About the Speaker*\n\n[Talha Waqas](https://www.linkedin.com/in/mtalha-waqas-255557144/) is a second-year PhD student at ESME Research Lab, Paris and LISSI, Université Paris-Est, working on computer vision applied to medical imaging, with a focus on tumor classification, detection, and segmentation in multi-phase liver MRI.\n\n**The Two-Loop Architecture for Voice AI**\n\nBuilding responsive voice AI requires balancing latency with intelligence. This talk introduces a practical architecture that separates real-time conversation from asynchronous reasoning, enabling richer interactions without slowing the user experience. The session covers reusable design patterns drawn from production-inspired conversational AI systems.\n\n*About the Speaker*\n\n[Abhinav Tushar](https://lepisma.xyz/wiki/about/) is an ML engineer and researcher specializing in Conversational AI and Speech Technology.",
-      "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316572359/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316572359/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Online event,",
-      "online": true,
-      "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
-      "dtstart": "2026-10-15T10:00:00-06:00",
-      "dtend": "2026-10-15T12:00:00-06:00",
-      "tags": [
-        "ai",
-        "backend",
-        "cloud",
-        "data",
-        "frontend",
-        "security"
-      ],
-      "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "",
-      "hash_key": "oct 15 ai ml and computer vision meetup_2026-10-15T16:00:00+00:00"
     },
     {
       "title": "Claude Community|Boston  -  Claude Conversation|Online",
@@ -4156,6 +4111,33 @@
       "hash_key": "land ai ai for smarter land decisions_2026-10-23T14:00:00+00:00"
     },
     {
+      "title": "Mexico Tech Week|Ugly Talk CDMX MXTW|México|",
+      "description": "Get up-to-date information at: https://luma.com/mxtw-923e0b47\n\nAddress:\nAv. Álvaro Obregón 64, Roma Nte., CDMX\n\nHosted by Mexico Tech Week & 4 others",
+      "url": "https://luma.com/mxtw-923e0b47",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mxtw-923e0b47",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Av. Álvaro Obregón 64, Roma Nte., CDMX",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2026-10-26T20:00:00+00:00",
+      "dtend": "2026-10-26T21:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Av. Álvaro Obregón 64, Roma Nte., CDMX",
+      "hash_key": "ugly talk cdmx mxtw_2026-10-26T20:00:00+00:00"
+    },
+    {
       "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
       "description": "Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\n\nHosted by Mexico Tech Week & Luis Regalado",
       "url": "https://luma.com/mxtw-d5be4f2b",
@@ -4378,40 +4360,6 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "devfest 2026 sureste de mxico virtual_2026-11-13T14:00:00+00:00"
-    },
-    {
-      "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
-      "description": "Join us for our inaugural GDG Tijuana event as we pave the way to DevFest Tijuana 2026! Be part of the journey to the most exciting tech event of the year by connecting with fellow developers and tech enthusiasts. Enjoy a day filled with engaging discussions, networking opportunities, and a sneak peek into what DevFest 2026 will offer. Don’t miss the chance to contribute your ideas and shape the f",
-      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "TBD, TBD, Tijuana",
-      "online": false,
-      "organizer": "GDG Tijuana",
-      "dtstart": "2026-11-13T13:00:00-08:00",
-      "dtend": "2026-11-13T18:00:00-08:00",
-      "tags": [
-        "AI - Gemini",
-        "Conference",
-        "DevFest",
-        "Flutter",
-        "Google Cloud",
-        "Workshop / hands-on session"
-      ],
-      "source": "https://gdg.community.dev/gdg-tijuana/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "TBD, TBD, Tijuana",
-      "hash_key": "devfest tijuana 2026_2026-11-13T20:00:00+00:00"
     },
     {
       "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracruz",
@@ -4915,7 +4863,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/e17fbtoo",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
