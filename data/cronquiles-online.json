@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:44:12.006848+00:00",
+  "generated_at": "2026-10-16T17:03:21.204302+00:00",
   "total_events": 159,
   "city": "Online",
   "communities": [
@@ -43,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -167,6 +167,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cancun/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Cloud Mexico City",
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
           "label": "Sitio web"
         }
       ]
@@ -3593,7 +3604,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3620,7 +3631,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3763,7 +3774,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4062,8 +4073,8 @@
       "location": "Av. Álvaro Obregón 64, Roma Nte., CDMX",
       "online": false,
       "organizer": "Mexico Tech Week",
-      "dtstart": "2026-10-26T20:00:00+00:00",
-      "dtend": "2026-10-26T21:30:00+00:00",
+      "dtstart": "2026-10-26T19:00:00+00:00",
+      "dtend": "2026-10-26T22:00:00+00:00",
       "tags": [],
       "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
       "country": "México",
@@ -4073,7 +4084,7 @@
       "city": "",
       "city_code": "",
       "address": "Av. Álvaro Obregón 64, Roma Nte., CDMX",
-      "hash_key": "ugly talk cdmx mxtw_2026-10-26T20:00:00+00:00"
+      "hash_key": "ugly talk cdmx mxtw_2026-10-26T18:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
@@ -4346,7 +4357,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
+      "address": "Puente Morelos, Puerto de Veracruz, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4480,9 +4491,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
