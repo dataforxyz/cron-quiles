@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T16:18:57.925706+00:00",
-  "total_events": 163,
+  "generated_at": "2026-10-18T21:02:21.859358+00:00",
+  "total_events": 168,
   "city": "Online",
   "communities": [
     {
@@ -194,12 +194,45 @@
       ]
     },
     {
+      "name": "GDG Monterrey",
+      "description": "Disclaimer: GDG Monterrey is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-monterrey/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG San Francisco de Campeche",
       "description": "El Grupo de Desarrolladores de Google (GDG) en San Francisco de Campeche es un colectivo de entusiastas de la tecnología dedicado a fomentar el aprendizaje, la colaboración y la productividad entre los desarrolladores en Campeche y sus alrededores. Fundado en mayo de 2019, nuestra comunidad es un hervidero de innovación y creatividad tecnológica.",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Tepic",
+      "description": "GDG Tepic is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-tepic/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Tijuana",
+      "description": "Buscamos impulsar el desarrollo tecnológico en Tijuana, a través de la conformación de una comunidad de programadores y perfiles afines al uso de la Tecnología. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-tijuana/",
           "label": "Sitio web"
         }
       ]
@@ -3856,7 +3889,7 @@
       "location": "https://luma.com/event/evt-XOi3TkPk846Zxka",
       "online": true,
       "organizer": "Rust-AICollective",
-      "dtstart": "2026-10-19T16:00:00+00:00",
+      "dtstart": "2026-10-19T16:45:00+00:00",
       "dtend": "2026-10-19T18:00:00+00:00",
       "tags": [
         "ai"
@@ -3993,6 +4026,46 @@
       "hash_key": "planning your strategic ai governance ro_2026-10-22T14:00:00+00:00"
     },
     {
+      "title": "GDG Monterrey|DevFest 2026 Monterrey: Innovación con IA|México|",
+      "description": "Únete a nosotros en el DevFest 2026 Monterrey: Innovación con IA, donde exploraremos las últimas tendencias en inteligencia artificial y tecnologías de Google. Podrás participar en talleres interactivos que te ayudarán a sacar el máximo provecho a las herramientas de Inteligencia Artificial que brinda Google; aprenderás de expertos en la industria y tendrás la oportunidad de conectar con expertos.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "FCFM - Facultad de Ciencias Físico Matemáticas, Pedro de Alba, San Nicolás de los Garza",
+      "online": false,
+      "organizer": "GDG Monterrey",
+      "dtstart": "2026-10-22T09:00:00-06:00",
+      "dtend": "2026-10-22T18:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Angular",
+        "Career Development",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Hackathon",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-monterrey/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "FCFM - Facultad de Ciencias Físico Matemáticas, Pedro de Alba, San Nicolás de los Garza",
+      "hash_key": "devfest 2026 monterrey innovacin con ia_2026-10-22T14:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Oct 22 - Advances in AI at Virginia Tech|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from AI researchers at Virginia Tech!\n\n**Date, Time and Location**\n\nOct 22, 2026\n9:00 AM - 11:00 AM PST\n**[Online. Register for the Zoom!](https://voxel51.com/events/advances-in-ai-at-virginia-tech-october-22-2026)**\n\n**Multi-Agent Communication: A framework, diagnostic and mechanistic perspective**\n\nMulti-agent LLM systems are increasingly used for collaborative reasoning, debate, and consensus, yet their communication dynamics remain poorly understood. This talk presents a framework for studying multi-agent communication through diagnostic and mechanistic perspectives.\n\nI will discuss CONSENSAGENT, which improves consensus by mitigating sycophancy, alongside our diagnostic work on communication patterns and failure modes in real-world multi-agent debates. I will then present ongoing work that moves toward a mechanistic understanding of how these interaction patterns arise internally, with the broader goal of making multi-agent systems more interpretable, reliable, and controllable.\n\n*About the Speaker*\n\n[Priya Pitre](https://www.linkedin.com/in/priya-p-a31360117/) I am an Ph.D student in the Computer Science Department at Virginia Tech (VT), co-advised by Dr. Xuan Wang and Dr. Naren Ramakrishnan.\n\n**Exposing and Improving Fine-Grained Visual Grounding Abilities of Lightweight Multimodal LLMs**\n\nLightweight multimodal LLMs can localize whole objects effectively, yet often struggle when a query targets a small object part or fine-grained visual detail. This talk presents a reasoning-guided framework that teaches compact models to ground parts through an explicit coarse-to-fine process: first locating the parent object, then identifying the requested part.\n\nA part-aware reinforcement-learning objective provides stage-wise rewards for object accuracy, part containment, and the consistency of the model’s self-critique. Using these techniques, a compact 4B-parameter model achieves state-of-the-art zero-shot part grounding while preserving its object-level performance.\n\nThese advances can be used to enable lightweight MLLMs to support detail-oriented tasks in biology and robotics.\n\n*About the Speaker*\n\n[Kazi Mehrab ](https://www.linkedin.com/in/ksmehrab/)I a CS PhD candidate at Virginia Tech, where I currently focus on multimodal LLMs and computer vision tasks, including visual perception, reasoning and grounding.\n\n**Understanding Visual Generative Models for Precise Control**\n\nDespite remarkable progress in image and video generation, translating user intent into precise and consistent visual outputs remains a challenge. This talk explores how understanding the representations within generative models can enable finer control over what they create.\n\nIt connects semantic image editing with compositional generation, examining how visual concepts can be isolated, manipulated, and combined while preserving their identity and surrounding content. Building on these insights, structured visual inputs provide a way to express complex intent through subject references, poses, and spatial layouts.\n\nThe discussion then extends from images to video, where representations must evolve to preserve scene continuity while accommodating motion and change. Together, these directions establish a unified perspective on how visual representations can support controllable editing, composition, and coherent generation across space and time.\n\n*About the Speaker*\n\n[Yusuf Dalva](https://www.linkedin.com/in/yusuf-dalva/) is a Ph.D. candidate at Virginia Tech, advised by Pinar Yanardag and affiliated with the Sanghani Center for Artificial Intelligence and Data Analytics.",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316667062/",
@@ -4078,6 +4151,33 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-6TNMH9HpTBwcRwW",
       "hash_key": "land ai ai for smarter land decisions_2026-10-23T14:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Virtual  -  Claude Caribbean AMA|Online",
+      "description": "Get up-to-date information at: https://luma.com/claude-idk4\n\nHosted by Justin Elliott",
+      "url": "https://luma.com/claude-idk4",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-idk4",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
+      "online": true,
+      "organizer": "Claude Community",
+      "dtstart": "2026-10-23T22:00:00+00:00",
+      "dtend": "2026-10-23T23:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
+      "hash_key": "virtual claude caribbean ama_2026-10-23T22:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|Online",
@@ -4229,6 +4329,42 @@
       "hash_key": "modernizacin arquitectural de cdigo lega_2026-11-06T00:00:00+00:00"
     },
     {
+      "title": "GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|México|",
+      "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias",
+      "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-ujat-dacyti/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-ujat-dacyti/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Universidad Juárez Autónoma de Tabasco, s/n Avenida Universidad, Villahermosa",
+      "online": false,
+      "organizer": "GDG Villahermosa",
+      "dtstart": "2026-11-11T09:00:00-06:00",
+      "dtend": "2026-11-11T11:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Conference",
+        "DevFest",
+        "Google Cloud",
+        "Web",
+        "Workshop / hands-on session",
+        "backend"
+      ],
+      "source": "https://gdg.community.dev/gdg-villahermosa/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Universidad Juárez Autónoma de Tabasco, s/n Avenida Universidad, Villahermosa",
+      "hash_key": "devfest 2026 sureste de mxico ujat dacyt_2026-11-11T14:00:00+00:00"
+    },
+    {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Nov 11 - AI, ML and Computer Vision Meetup|Online",
       "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nNov 11, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-november-11-2026)**\n\n**Agentic RAG: Beyond Retrieve-and-Generate**\n\nRetrieval-Augmented Generation (RAG) has become the default pattern for grounding large language models in external knowledge, but most implementations still follow a rigid retrieve-once, generate-once pipeline — one that struggles with multi-hop questions, ambiguous queries, and knowing when its own retrieved context is insufficient. This talk introduces Agentic RAG, where retrieval is treated as an action within an agent's reasoning loop rather than a fixed upstream step.\n\nWe'll examine query decomposition and routing for breaking complex questions into targeted sub-queries, self-reflective and corrective retrieval loops that let an agent judge and re-query its own results, and tool-orchestration patterns (via MCP) that let retrieval sit alongside other agent actions like database lookups and API calls. Using a live architecture — evolving a standard RAG chatbot into an agentic, MCP-connected system — we'll walk through what changes in design, and where these systems introduce new failure modes: grounding drift, latency and cost from repeated retrieval loops, and cases where a simpler RAG pipeline still wins.\n\nAttendees will leave with a practical framework for deciding when the added complexity of agentic RAG is worth it, and a set of design patterns for building it correctly.\n\n*About the Speaker*\n\n[Balaji Venkatasubramaniyar](https://www.linkedin.com/in/balaji-venkatasubramaniyar/) is a Technical Lead at Wisdom Infotech, leading a 15+ person engineering team delivering enterprise solutions. With 13+ years of experience in enterprise software and insurance technology, he specializes in agentic AI systems, RAG architectures, and vector databases.\n\n**GeoAI for the Physical World: Earth Observation, Foundation Models, and Urban Digital Twins**\n\nEarth observation provides a unique form of computer vision for understanding the physical world at city to continental scales. In this talk, I will show how satellite imagery, geospatial data, machine learning, and foundation-model representations can be combined to characterize urban environments and environmental conditions.\n\nI will present UrbanScope Open, an open GeoAI digital-twin prototype integrating Earth observation with 3D buildings, vegetation, land-surface temperature, air quality, noise, population, and other urban data. I will also share lessons from my research using geospatial foundation-model embeddings for environmental prediction across Europe.\n\nThe talk will discuss how these approaches can contribute to increasingly multimodal AI systems capable of reasoning about real-world environments.\n\n*About the Speaker*\n\n[Cesar Alvarez](https://voxel51.com/events/cesar.alvarez@uni-a.de) is a researcher at the University of Augsburg working at the intersection of GeoAI, Earth observation, remote sensing, and environmental intelligence. His research applies machine learning, computer vision, and geospatial foundation models to problems including urban environments, climate risk, air quality, and agriculture.\n\n**Can agents get curious?**\n\nMost AI agents are good at answering a question once we tell them exactly what to look for. The harder problem is building agents that can explore a complex dataset autonomously: generating hypotheses, deciding which analyses are worth running, allocating additional compute when evidence is ambiguous, and knowing when they have enough evidence to stop.\n\nIn this talk, I’ll show an architecture for autonomous research agents that combines structured knowledge, iterative tool use, and explicit evidence tracking to turn open-ended questions into a sequence of testable investigations. I’ll discuss practical lessons from building and evaluating these systems, including why more test-time compute does not automatically produce better research and how provenance and evaluation can make long-running agents more reliable.\n\nI’ll close with a live example of an agent exploring a dataset, revising its hypotheses, and choosing what to investigate next.\n\n*About the Speaker*\n\n[Srivatsa P](https://www.linkedin.com/in/srivatsa-p) is a member of technical staff at Sigma Computing, where he works on AI agents that reason over complex enterprise data. Previously, he worked on machine learning at Apple and conducted research at the MIT Media Lab; outside of traditional ML, he has also worked on mapping coral reefs through underwater imaging, which sparked an enduring interest in how intelligent systems make sense of messy real-world data.\n\n**Does Cross-Validation Work in Deep Learning?**\n\nCross-validation is a standard in hyperparameter optimization in classical ML, but is generally considered computationally prohibitive and unnecessary in deep learning. We investigated whether CV produces 1. better DL models 2. better estimates of future performance of said models. We focused on medical image classification as an important deep learning application domain.\n\nOur results show that cross-validation consistently and materially reduces the gap between development and independent testing error for relatively small training datasets (up to about 1000 images). The test performance improvement was generally modest. We discuss the implications for deep-learning practitioners, including whether the increased computational cost of cross-validation is justified.\n\n*About the Speaker*\n\n[Ljubomir Buturovic](https://www.linkedin.com/in/ljubomir-buturovic-798156/) is an AI scientist and biotech executive with extensive experience in clinical diagnostics, including work at Inflammatix and Pathwork Diagnostics. His current research focuses on deep-learning image classification, infectious disease adjudication using LLMs, and development of AI models for helping critically ill patients.",
       "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316572587/",
@@ -4365,6 +4501,40 @@
       "city_code": "",
       "address": "Online",
       "hash_key": "devfest 2026 sureste de mxico virtual_2026-11-13T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
+      "description": "Join us for our inaugural GDG Tijuana event as we pave the way to DevFest Tijuana 2026! Be part of the journey to the most exciting tech event of the year by connecting with fellow developers and tech enthusiasts. Enjoy a day filled with engaging discussions, networking opportunities, and a sneak peek into what DevFest 2026 will offer. Don’t miss the chance to contribute your ideas and shape the f",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Terraza Badabun, Calle 11 8296, Tijuana",
+      "online": false,
+      "organizer": "GDG Tijuana",
+      "dtstart": "2026-11-13T15:00:00-08:00",
+      "dtend": "2026-11-13T21:00:00-08:00",
+      "tags": [
+        "AI - Gemini",
+        "Conference",
+        "DevFest",
+        "Flutter",
+        "Google Cloud",
+        "Workshop / hands-on session"
+      ],
+      "source": "https://gdg.community.dev/gdg-tijuana/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Terraza Badabun, Calle 11 8296, Tijuana",
+      "hash_key": "devfest tijuana 2026_2026-11-13T22:00:00+00:00"
     },
     {
       "title": "GDG Cloud Mexico City|Road to DevFest Tamaulipas 2026|México|",
@@ -4594,6 +4764,40 @@
       "city_code": "",
       "address": "TecNM - Campus Villahermosa, Villahermosa - Frontera, Villahermosa",
       "hash_key": "devfest 2026 tecnm villahermosa_2026-11-25T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
+      "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
+      "online": false,
+      "organizer": "GDG Tepic",
+      "dtstart": "2026-11-26T12:30:00-07:00",
+      "dtend": "2026-11-28T16:30:00-07:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "DevFest",
+        "Google Cloud",
+        "Workshop / hands-on session",
+        "security"
+      ],
+      "source": "https://gdg.community.dev/gdg-tepic/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
+      "hash_key": "dev fest 2026 collaborative innovation_2026-11-26T18:00:00+00:00"
     },
     {
       "title": "GDG CDMX|Devfest 2026: Ciudad de México|México|",

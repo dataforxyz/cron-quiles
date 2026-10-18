@@ -72,7 +72,7 @@
     "hash_key": "devfest 2026 ciudad de mxico_2026-12-07T14:00:00+00:00"
   },
   {
-    "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|Nayarit",
+    "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
     "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
     "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
     "sources": [
@@ -98,11 +98,11 @@
     "source": "https://gdg.community.dev/gdg-tepic/",
     "country": "México",
     "country_code": "MX",
-    "state": "Nayarit",
-    "state_code": "MX-NAY",
-    "city": "Tepic",
-    "city_code": "tepic",
-    "address": "Avenida de las Torres, Ciudad del Conocimiento, Tepic, Nayarit, 63509, México",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
     "hash_key": "dev fest 2026 collaborative innovation_2026-11-26T18:00:00+00:00"
   },
   {
@@ -407,7 +407,7 @@
     "hash_key": "devfest campeche 2026_2026-11-14T14:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|DevFest Tijuana 2026|México|Baja California",
+    "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
     "description": "Join us for our inaugural GDG Tijuana event as we pave the way to DevFest Tijuana 2026! Be part of the journey to the most exciting tech event of the year by connecting with fellow developers and tech enthusiasts. Enjoy a day filled with engaging discussions, networking opportunities, and a sneak peek into what DevFest 2026 will offer. Don’t miss the chance to contribute your ideas and shape the f",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
     "sources": [
@@ -433,11 +433,11 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "Baja California",
-    "state_code": "MX-BCN",
-    "city": "Tijuana",
-    "city_code": "tijuana",
-    "address": "Calle 11, Tijuana, Municipio de Tijuana, Baja California, 22234, México",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Terraza Badabun, Calle 11 8296, Tijuana",
     "hash_key": "devfest tijuana 2026_2026-11-13T22:00:00+00:00"
   },
   {
@@ -608,7 +608,7 @@
     "hash_key": "nov 11 ai ml and computer vision meetup_2026-11-11T16:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|México|Tabasco",
+    "title": "GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|México|",
     "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-ujat-dacyti/",
     "sources": [
@@ -636,11 +636,11 @@
     "source": "https://gdg.community.dev/gdg-villahermosa/",
     "country": "México",
     "country_code": "MX",
-    "state": "Tabasco",
-    "state_code": "MX-TAB",
-    "city": "Villahermosa",
-    "city_code": "villahermosa",
-    "address": "Hospital Nuestra Señora de Guadalupe, Avenida Universidad, Fraccionamiento Valle Marino, Villahermosa, Centro, Tabasco, 86029, México",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Universidad Juárez Autónoma de Tabasco, s/n Avenida Universidad, Villahermosa",
     "hash_key": "devfest 2026 sureste de mxico ujat dacyt_2026-11-11T14:00:00+00:00"
   },
   {
@@ -1051,6 +1051,35 @@
     "city_code": "cdmx",
     "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "fast track week 04 opera con ia_2026-10-28T16:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Tu próximo dev es una IA: Rediseñando el SDLC con Clouxter|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-62d0f4f6\n\nAddress:\nC. Lucerna 34\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Herlyn Hurtado & Daniel",
+    "url": "https://luma.com/mxtw-62d0f4f6",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-62d0f4f6",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "C. Lucerna 34, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T16:00:00+00:00",
+    "dtend": "2026-10-28T17:00:00+00:00",
+    "tags": [
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Luc 34, 34, Calle Lucerna, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "tu prximo dev es una ia rediseando el sd_2026-10-28T16:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Tired but Wired — Cómo recuperar tu sueño, energía y rendimiento en un mundo hiperconectado|México|Ciudad de México",
@@ -5229,6 +5258,33 @@
     "hash_key": "mundialito tech weeks world cup chill ch_2026-10-25T20:00:00+00:00"
   },
   {
+    "title": "Claude Community|Virtual  -  Claude Caribbean AMA|Online",
+    "description": "Get up-to-date information at: https://luma.com/claude-idk4\n\nHosted by Justin Elliott",
+    "url": "https://luma.com/claude-idk4",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/claude-idk4",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
+    "online": true,
+    "organizer": "Claude Community",
+    "dtstart": "2026-10-23T22:00:00+00:00",
+    "dtend": "2026-10-23T23:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
+    "hash_key": "virtual claude caribbean ama_2026-10-23T22:00:00+00:00"
+  },
+  {
     "title": "Rust-AICollective|Land AI — AI for Smarter Land Decisions|Online",
     "description": "Get up-to-date information at: https://luma.com/landai\n\nHosted by The AI Collective, Knowledge Innovations & David Asante-Darko",
     "url": "https://luma.com/landai",
@@ -5438,7 +5494,7 @@
     "hash_key": "planning your strategic ai governance ro_2026-10-22T14:00:00+00:00"
   },
   {
-    "title": "GDG Monterrey|DevFest 2026 Monterrey: Innovación con IA|México|Nuevo León",
+    "title": "GDG Monterrey|DevFest 2026 Monterrey: Innovación con IA|México|",
     "description": "Únete a nosotros en el DevFest 2026 Monterrey: Innovación con IA, donde exploraremos las últimas tendencias en inteligencia artificial y tecnologías de Google. Podrás participar en talleres interactivos que te ayudarán a sacar el máximo provecho a las herramientas de Inteligencia Artificial que brinda Google; aprenderás de expertos en la industria y tendrás la oportunidad de conectar con expertos.",
     "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/",
     "sources": [
@@ -5470,11 +5526,11 @@
     "source": "https://gdg.community.dev/gdg-monterrey/",
     "country": "México",
     "country_code": "MX",
-    "state": "Nuevo León",
-    "state_code": "MX-NLE",
-    "city": "San Nicolás de los Garza",
-    "city_code": "sannicolasdelosgarza",
-    "address": "Pedro de Alba, San Nicolás de los Garza, Nuevo León, 66455, México",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "FCFM - Facultad de Ciencias Físico Matemáticas, Pedro de Alba, San Nicolás de los Garza",
     "hash_key": "devfest 2026 monterrey innovacin con ia_2026-10-22T14:00:00+00:00"
   },
   {
@@ -5697,7 +5753,7 @@
     "location": "https://luma.com/event/evt-XOi3TkPk846Zxka",
     "online": true,
     "organizer": "Rust-AICollective",
-    "dtstart": "2026-10-19T16:00:00+00:00",
+    "dtstart": "2026-10-19T16:45:00+00:00",
     "dtend": "2026-10-19T18:00:00+00:00",
     "tags": [
       "ai"
@@ -7902,7 +7958,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -8386,7 +8442,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "address": "Avenida Paseo de la Reforma, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "vc fintech session by adn vc zeta gain s_2026-02-25T20:00:00+00:00"
   },
   {
@@ -8906,7 +8962,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -16477,7 +16533,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
