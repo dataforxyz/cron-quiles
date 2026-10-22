@@ -11,7 +11,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | Comunidad | Descripción | Estados |
 | :--- | :--- | :--- |
 | 🔴 [**330ohms**](https://www.meetup.com/330ohms) | Comunidad enfocada en hardware, electrónica e Internet de las Cosas (IoT). | Online |
-| 🟢 [**Agility Talks**](https://www.meetup.com/agilility-talks) | Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital. | Online |
+| 🔴 [**Agility Talks**](https://www.meetup.com/agilility-talks) | Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital. | Online |
 | 🟢 [**AI/IA CDMX**](https://www.meetup.com/ai-cdmx) | Canal de Meetup de la comunidad de IA en Ciudad de México. | Ciudad de México |
 | 🟢 [**Ajolotes en la Nube**](https://www.meetup.com/ajolotesenlanube) | Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube. | Ciudad de México |
 | 🔴 [**Apache Spark Mexico City**](https://www.meetup.com/apache-spark-mexicocity) | Grupo dedicado a Apache Spark y el ecosistema de procesamiento de Big Data. | Online |
@@ -34,7 +34,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🟢 [**Founder Friends Mexico**](https://luma.com/FFMexico2026) | Comunidad de founders en México por Hustle Fund. | Ciudad de México |
 | 🔴 [**Fvckup Nights**](https://luma.com/user/usr-OqGmWs21jbaz5fK) | Gestión del Fracaso para la productividad e innovación. | Online |
 | 🟢 [**GDG CDMX**](https://gdg.community.dev/gdg-cdmx/) | Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general. | Online |
-| 🟢 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Jalisco |
+| 🟢 [**GDG Guadalajara**](https://gdg.community.dev/gdg-guadalajara/) | Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo. | Online |
 | 🔴 [**GitTogether CDMX**](https://www.meetup.com/gittogether-cdmx) | GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source. | Online |
 | 🔴 [**GitTogether LATAM**](https://www.meetup.com/gittogether-latam) | Comunidad latinoamericana de GitHub. Open Source y colaboración. | Online |
 | 🔴 [**Global AI CDMX**](https://www.meetup.com/globalaicdmx) | Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure. | Online |
@@ -69,7 +69,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Rust MX**](https://www.meetup.com/rust-mx) | Comunidad dedicada al lenguaje Rust. Enfoque en seguridad, velocidad y concurrencia. | Online |
 | 🔴 [**Scala & FP CDMX**](https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote) | Programación funcional y lenguaje Scala. | Online |
 | 🔴 [**Sysarmy México**](https://www.meetup.com/sysarmy-mexico) | Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector. | Online |
-| 🟢 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Ciudad de México |
+| 🔴 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Online |
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
 | 🔴 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Online |
 | 🔴 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
