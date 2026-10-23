@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T22:00:02.770110+00:00",
-  "total_events": 161,
+  "generated_at": "2026-10-23T05:00:40.407566+00:00",
+  "total_events": 162,
   "city": "Online",
   "communities": [
     {
@@ -42,12 +42,23 @@
       ]
     },
     {
+      "name": "Embajadoras Cloud",
+      "description": "Comunidad dedicada a impulsar a mujeres hispanohablantes en cloud computing. Enfocada en AWS, aprendizaje colaborativo y desarrollo profesional.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/embajadoras-cloud",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -86,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -2905,7 +2916,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3070,7 +3081,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3611,7 +3622,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3638,7 +3649,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3754,7 +3765,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3781,7 +3792,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3810,7 +3821,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3819,33 +3830,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-uceAKAQZmxAWrqQ",
       "hash_key": "la vida antes durante y despus de ibm_2026-10-15T02:00:00+00:00"
-    },
-    {
-      "title": "Claude Community|Claude for Islanders at Ishigaki|Online",
-      "description": "Get up-to-date information at: https://luma.com/claude-enam\n\nHosted by Kenichi Watanabe & 6 others",
-      "url": "https://luma.com/claude-enam",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/claude-enam",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-aAgeUBiJfTKp6PY",
-      "online": true,
-      "organizer": "Claude Community",
-      "dtstart": "2026-10-23T04:00:00+00:00",
-      "dtend": "2026-10-23T08:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-aAgeUBiJfTKp6PY",
-      "hash_key": "claude for islanders at ishigaki_2026-10-23T04:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Land AI — AI for Smarter Land Decisions|Online",
@@ -3877,6 +3861,35 @@
       "hash_key": "land ai ai for smarter land decisions_2026-10-23T14:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|The AI Collective Podcast with AJ & Catherine: Friday, Oct 23|Online",
+      "description": "Get up-to-date information at: https://luma.com/genai-q5f8\n\nHosted by The AI Collective, AJ Green & Catherine McMillan",
+      "url": "https://luma.com/genai-q5f8",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/genai-q5f8",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-QUFB5NFT2BnCBCJ",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-10-23T16:00:00+00:00",
+      "dtend": "2026-10-23T17:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-QUFB5NFT2BnCBCJ",
+      "hash_key": "the ai collective podcast with aj cather_2026-10-23T16:00:00+00:00"
+    },
+    {
       "title": "Sudo FCiencias|Acelera tu carrera con IBM SkillsBuild y IBM Bob|Online",
       "description": "Get up-to-date information at: https://luma.com/x2rh0jbx\n\nHosted by Luis Daniel Paredes Zamudio & 6 others",
       "url": "https://luma.com/x2rh0jbx",
@@ -3895,7 +3908,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3931,6 +3944,36 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
       "hash_key": "virtual claude caribbean ama_2026-10-23T22:00:00+00:00"
+    },
+    {
+      "title": "Embajadoras Cloud|Historias de Terror en Tech|Online",
+      "description": "Embajadoras Cloud\n¡Prepárate para una tarde espeluznante y llena de aprendizaje! 🎃👻\n¿Alguna vez tiraste producción en viernes o borraste una base de datos sin respaldo? 💀 Todos tenemos nuestra propia pesadilla en la nube. Por eso, te invitamos a nuestra sesión especial de **Historias de Terror Tech**.\nSerá un espacio para compartir esas anécdotas que nos quitaron el sueño, reírnos un rato y, sobre todo, **¡divertirnos y aprender de los errores juntos!** Porque de las peores caídas salen los mejores aprendizajes en comunidad. 👩‍💻✨\n🗓️ **¿Cuándo?** Miércoles 28 de octubre ⏰ **¿Hora?** De 17:00 a 19:00 hrs 📍 **¿Dónde?** ¡En vivo simultáneamente por **YouTube y LinkedIn**!\n\n🎁 **¡TRUCO O TRATO!** Para que el susto valga la pena, durante la transmisión estaremos regalando **códigos con créditos de AWS** para que sigas construyendo (y experimentando) sin miedo en la nube. ☁️🚀\n\n¡Nos encantará que nos acompañes!\n\nPrepara tus botanas, ponte cómod@ y ven a pasar un rato increíble con la comunidad.\n👇 **¡Guarda la fecha y conéctate aquí!**",
+      "url": "https://www.meetup.com/embajadoras-cloud/events/317097667/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/embajadoras-cloud/events/317097667/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "Embajadoras Cloud",
+      "dtstart": "2026-10-23T17:00:00-06:00",
+      "dtend": "2026-10-23T20:00:00-06:00",
+      "tags": [
+        "cloud",
+        "frontend"
+      ],
+      "source": "https://www.meetup.com/embajadoras-cloud/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "historias de terror en tech_2026-10-23T22:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|IA que conecta Lengua de Señas Mexicana, personas y empresas.|Online",
@@ -4844,7 +4887,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
