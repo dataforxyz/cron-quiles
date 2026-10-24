@@ -58,9 +58,10 @@
       "Google Cloud",
       "Google Workspace",
       "Web",
-      "Workshop / hands-on session"
+      "Workshop / hands-on session",
+      "cloud"
     ],
-    "source": "https://gdg.community.dev/gdg-cdmx/",
+    "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -449,7 +450,7 @@
     "state_code": "",
     "city": "Veracruz",
     "city_code": "veracruz",
-    "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
+    "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
     "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
   },
   {
@@ -517,7 +518,7 @@
     "state_code": "MX-BCN",
     "city": "Tijuana",
     "city_code": "tijuana",
-    "address": "Calle 11, Del. La Presa, Tijuana, Municipio de Tijuana, Baja California, 22206, México",
+    "address": "Calle 11, Tijuana, Municipio de Tijuana, Baja California, 22234, México",
     "hash_key": "devfest tijuana 2026_2026-11-13T22:00:00+00:00"
   },
   {
@@ -1054,7 +1055,7 @@
   },
   {
     "title": "Claude Community|Mexico City  -  Claude Code for Developers|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudemexico\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Claude Community & 4 others",
+    "description": "Get up-to-date information at: https://luma.com/claudemexico\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Claude Community & 5 others",
     "url": "https://luma.com/claudemexico",
     "sources": [
       {
@@ -1112,7 +1113,7 @@
   },
   {
     "title": "Java Mexico|Casa de las Comunidades: Grabación Podcast javaMéxico en Vivo [MexicoTechWeek]|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-b294912a\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Clara Community",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-b294912a\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week, Clara Community & Javier Benek",
     "url": "https://luma.com/mxtw-b294912a",
     "sources": [
       {
@@ -1171,7 +1172,7 @@
   },
   {
     "title": "Mexico Tech Week|El futuro del trabajo, el emprendimiento y la integración del e-commerce como motor comercial e independencia.|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-db931684\n\nAddress:\nAv Sonora 46\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Georgina",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-db931684\n\nAddress:\nAv Sonora 46\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Georgina Guerrero",
     "url": "https://luma.com/mxtw-db931684",
     "sources": [
       {
@@ -1195,6 +1196,33 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "el futuro del trabajo el emprendimiento _2026-10-28T16:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Tired but Wired — Cómo recuperar tu sueño, energía y rendimiento en un mundo hiperconectado|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-d7772887\n\nAddress:\nÁmsterdam 55\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & María del Rocío Ruvalcaba Rincón",
+    "url": "https://luma.com/mxtw-d7772887",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-d7772887",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Ámsterdam 55, Hipódromo Condesa, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T16:00:00+00:00",
+    "dtend": "2026-10-28T17:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "55, Avenida Amsterdam, Hipódromo, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06100, México",
+    "hash_key": "tired but wired cmo recuperar tu sueo en_2026-10-28T16:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Legal hour para founders  -  Powered by WeInvest Latam & Angel Ventures|México|Ciudad de México",
@@ -1363,36 +1391,6 @@
     "hash_key": "vambe lab prueba vambe ai con tu propia _2026-10-28T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|De-Risking LATAM Wealth: Cross-Sector Allocation vs. Concentration Risk|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-51c64c83\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week, Mireya Nieto & pedro novo",
-    "url": "https://luma.com/mxtw-51c64c83",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-51c64c83",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Cuauhtémoc, Ciudad de México, México",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-28T15:00:00+00:00",
-    "dtend": "2026-10-28T17:00:00+00:00",
-    "tags": [
-      "ai",
-      "security"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
-    "hash_key": "de risking latam wealth cross sector all_2026-10-28T14:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|A Practical Framework for Evaluating AI Investments In VC - AWS startups|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-3d10ec14\n\nAddress:\nC. Marsella 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX\n\nHosted by Mexico Tech Week & Alexander Santana Gracia",
     "url": "https://luma.com/mxtw-3d10ec14",
@@ -1421,6 +1419,65 @@
     "city_code": "cdmx",
     "address": "Orfeón Catalán de México, 45, Calle Marsella, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "a practical framework for evaluating ai _2026-10-28T14:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|AI como compañero de desarrollo y no una simple herramienta - AI-DLC by Clouxter|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-62d0f4f6\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 3 others",
+    "url": "https://luma.com/mxtw-62d0f4f6",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-62d0f4f6",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Juárez, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T15:00:00+00:00",
+    "dtend": "2026-10-28T16:00:00+00:00",
+    "tags": [
+      "ai",
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
+    "hash_key": "ai como compaero de desarrollo y no una _2026-10-28T14:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|🤖 ¿Realmente la IA ayuda a los equipos a resolver problemas difíciles y complejos?|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-92659d5f\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Alejandro Chavez & Liliana Montoya",
+    "url": "https://luma.com/mxtw-92659d5f",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-92659d5f",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-28T15:00:00+00:00",
+    "dtend": "2026-10-28T17:00:00+00:00",
+    "tags": [
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "realmente la ia ayuda a los equipos a re_2026-10-28T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Corporate venturing: la relación startup-corporativo|México|Ciudad de México",
@@ -3148,6 +3205,33 @@
     "hash_key": "google talks_2026-10-27T20:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Crea tu agente de IA para ventas en 3 preguntas: WhatsApp, cotizaciones y CRM sin saber programar|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-ae12be24\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Jonathan Olvera",
+    "url": "https://luma.com/mxtw-ae12be24",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-ae12be24",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T21:30:00+00:00",
+    "dtend": "2026-10-27T22:30:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "hash_key": "crea tu agente de ia para ventas en 3 pr_2026-10-27T20:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|AWS Startups - The Happiest Hour|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/awsstartupshh\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 4 others",
     "url": "https://luma.com/awsstartupshh",
@@ -3348,33 +3432,6 @@
     "hash_key": "distribution is the new moat presentacin_2026-10-27T20:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Crea tu agente de IA para ventas en 3 preguntas: WhatsApp, cotizaciones y CRM sin saber programar|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-ae12be24\n\nAddress:\nBarcelona 26\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & Jonathan Olvera",
-    "url": "https://luma.com/mxtw-ae12be24",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-ae12be24",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Barcelona 26, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-27T21:00:00+00:00",
-    "dtend": "2026-10-27T23:00:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
-    "hash_key": "crea tu agente de ia para ventas en 3 pr_2026-10-27T20:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|Hacktoberfest @ México Tech Week · Día 1: Kickoff|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-a575614f\n\nAddress:\nC. Lucerna 34\nCiudad de México, Mexico\n\nHosted by Mobil3 & Mexico Tech Week",
     "url": "https://luma.com/mxtw-a575614f",
@@ -3403,7 +3460,7 @@
   },
   {
     "title": "Mexico Tech Week|Fast Track Week · 02 · Valida con clientes reales usando AI|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-a6ec731e\n\nAddress:\nC. Marsella 45\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & ISDI Mexico",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-a6ec731e\n\nAddress:\nC. Marsella 45\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, ISDI Mexico & Orlando Osorio @ Meaningful",
     "url": "https://luma.com/mxtw-a6ec731e",
     "sources": [
       {
@@ -3855,6 +3912,35 @@
     "hash_key": "semiconductores oportunidades reales en _2026-10-27T18:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Wim Hof Breathing, Cold Plunge & Sauna - Martes by Breathwolf|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-9cc472d0\n\nAddress:\nKoti Casa Condesa - Contrast Therapy | Sauna & Cold Plunge | Masajes\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Laura Jaramillo & Daniel Lobo",
+    "url": "https://luma.com/mxtw-9cc472d0",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-9cc472d0",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Koti Casa Condesa - Contrast Therapy | Sauna & Cold Plunge | Masajes, Av. Veracruz 73, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T18:00:00+00:00",
+    "dtend": "2026-10-27T19:00:00+00:00",
+    "tags": [
+      "python"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "wim hof breathing cold plunge sauna mart_2026-10-27T18:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Arquitectas de lo Utópico|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-a3c6eae1\n\nAddress:\nCASA LUMA CDMX\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & 5 others",
     "url": "https://luma.com/mxtw-a3c6eae1",
@@ -4257,36 +4343,6 @@
     "hash_key": "aura desafiando tus miedos cold plunge_2026-10-27T16:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Luis Regalado",
-    "url": "https://luma.com/mxtw-d5be4f2b",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-d5be4f2b",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Cuauhtémoc, Ciudad de México, México",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-27T16:00:00+00:00",
-    "dtend": "2026-10-27T18:00:00+00:00",
-    "tags": [
-      "ai",
-      "frontend"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
-    "hash_key": "finops la metodologa de control de gasto_2026-10-27T16:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|Fast Forward LATAM: The Future of Transport and Logistics|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-e30f1334\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 10 others",
     "url": "https://luma.com/mxtw-e30f1334",
@@ -4398,6 +4454,36 @@
     "city_code": "cdmx",
     "address": "Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
     "hash_key": "stress release dance_2026-10-27T14:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|FinOps: la metodología de control de gasto que todas las empresas tienen que aplicar|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-d5be4f2b\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Luis Regalado",
+    "url": "https://luma.com/mxtw-d5be4f2b",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-d5be4f2b",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Cuauhtémoc, Ciudad de México, México",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T15:30:00+00:00",
+    "dtend": "2026-10-27T16:30:00+00:00",
+    "tags": [
+      "ai",
+      "frontend"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
+    "hash_key": "finops la metodologa de control de gasto_2026-10-27T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Dev House Sessions: Arquitectura, escala y liderazgo técnico|México|Ciudad de México",
@@ -4710,7 +4796,7 @@
     "hash_key": "el breakfast club del riesgo_2026-10-27T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Breakfast - Mobility Founders|México|Ciudad de México",
+    "title": "Mexico Tech Week|Breakfast - Founders in Automotive|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/mxtw-38390a99\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/mxtw-38390a99",
     "sources": [
@@ -4736,7 +4822,7 @@
     "city": "Ciudad de México",
     "city_code": "cdmx",
     "address": "Juárez, Avenida Balderas, Centro, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06050, México",
-    "hash_key": "breakfast mobility founders_2026-10-27T14:00:00+00:00"
+    "hash_key": "breakfast founders in automotive_2026-10-27T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|🇲🇽 The Tech Mexican Table · Desayuno + Coffee  -  (Fintech + Proptech + MX Community)|México|Ciudad de México",
@@ -4749,7 +4835,7 @@
         "label": "Ver en Luma"
       }
     ],
-    "location": "Roma Sur, CDMX, Ciudad de México, México",
+    "location": "San Miguel Chapultepec I Sección, Ciudad de México, México",
     "online": false,
     "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-27T14:30:00+00:00",
@@ -4765,7 +4851,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Roma Sur, La Piedad, Ciudad de México, Cuauhtémoc, Ciudad de México, 06760, México",
+    "address": "Calzada San Juan de Aragón, Colonia FOVISSSTE Río de Guadalupe, San Juan de Aragón, Ciudad de México, Gustavo A. Madero, Ciudad de México, 07950, México",
     "hash_key": "the tech mexican table desayuno coffee f_2026-10-27T14:00:00+00:00"
   },
   {
@@ -5027,6 +5113,33 @@
     "city_code": "cdmx",
     "address": "Roma Norte, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06700, México",
     "hash_key": "the call mxico 2026_2026-10-27T02:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|FemTech México · Cóctel VIP «Del pitch al portafolio»|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-99013cf4\n\nAddress:\nAv. San Antonio 256\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week & FemTech Mexico",
+    "url": "https://luma.com/mxtw-99013cf4",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-99013cf4",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Av. San Antonio 256, Nápoles, Benito Juárez, 03849 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-27T01:15:00+00:00",
+    "dtend": "2026-10-27T03:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Avenida San Antonio, Colonia Insurgentes San Borja, Mixcoac, Ciudad de México, Benito Juárez, Ciudad de México, 03710, México",
+    "hash_key": "femtech mxico cctel vip del pitch al por_2026-10-27T00:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|MEXICO AI MARKETING NIGHT|México|Ciudad de México",
@@ -5452,7 +5565,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Privada Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "building fintech in latam the playbook n_2026-10-26T22:00:00+00:00"
   },
   {
@@ -5891,8 +6004,35 @@
     "hash_key": "building your own tools with lovable ige_2026-10-26T14:00:00+00:00"
   },
   {
+    "title": "Mexico Tech Week|Legado México: Inteligencia Artificial, Inclusión y el Futuro del B2B|México|Estado de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-b5c07915\n\nAddress:\nFiesta Americana Mexico Toreo\nNaucalpan de Juárez, Mexico\n\nHosted by Mexico Tech Week & Bolder Group",
+    "url": "https://luma.com/mxtw-b5c07915",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-b5c07915",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Fiesta Americana Mexico Toreo, Perif. Blvd. Manuel Ávila Camacho 5, Residencial Lomas de Sotelo, 53390 Naucalpan de Juárez, Méx., Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T14:30:00+00:00",
+    "dtend": "2026-10-26T20:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Estado de México",
+    "state_code": "MX-MEX",
+    "city": "",
+    "city_code": "",
+    "address": "Estado de México, México",
+    "hash_key": "legado mxico inteligencia artificial inc_2026-10-26T14:00:00+00:00"
+  },
+  {
     "title": "Mexico Tech Week|Mexico City  -  Claude Impact Lab en la Cámara de Diputados de México|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/claudeimpactlabmexico\n\nAddress:\nCongress of the Union: Chamber of Deputies\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega, KINARI SABINA & Axel Vega",
+    "description": "Get up-to-date information at: https://luma.com/claudeimpactlabmexico\n\nAddress:\nCongress of the Union: Chamber of Deputies\nCiudad de México, Mexico\n\nHosted by Ricardo Lira de la Vega & 3 others",
     "url": "https://luma.com/claudeimpactlabmexico",
     "sources": [
       {
@@ -5919,7 +6059,7 @@
   },
   {
     "title": "Mexico Tech Week|Investors & Founders Coffee Mixer|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-d5569cb3\n\nAddress:\nLibertario Coffee Roasters - Roma Norte\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Andrés Cano & Enrique Pons",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-d5569cb3\n\nAddress:\nLibertario Coffee Roasters Puebla 280\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Andrés Cano & Enrique Pons",
     "url": "https://luma.com/mxtw-d5569cb3",
     "sources": [
       {
@@ -5928,7 +6068,7 @@
         "label": "Ver en Luma"
       }
     ],
-    "location": "Libertario Coffee Roasters - Roma Norte, C. Orizaba 16, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "location": "Libertario Coffee Roasters Puebla 280, Puebla 280, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
     "online": false,
     "organizer": "Mexico Tech Week",
     "dtstart": "2026-10-26T14:00:00+00:00",
@@ -5943,6 +6083,33 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "investors founders coffee mixer_2026-10-26T14:00:00+00:00"
+  },
+  {
+    "title": "Mexico Tech Week|Chilangatón 2026|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/mxtw-4ba87736\n\nAddress:\nAv Miguel Hidalgo 128\nCiudad de México, Mexico\n\nHosted by Isabel Robles, Mexico Tech Week & Daniela Roman",
+    "url": "https://luma.com/mxtw-4ba87736",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/mxtw-4ba87736",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Av Miguel Hidalgo 128, San Lucas, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+    "online": false,
+    "organizer": "Mexico Tech Week",
+    "dtstart": "2026-10-26T14:00:00+00:00",
+    "dtend": "2026-10-26T23:30:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Calle Real de San Lucas, Colonia América 143, San Diego Churubusco, Ciudad de México, Coyoacán, Ciudad de México, 04030, México",
+    "hash_key": "chilangatn 2026_2026-10-26T14:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Amela's Morning Club: connect with female founders 🇲🇽  -  Mexico City|México|Ciudad de México",
@@ -6057,33 +6224,6 @@
     "hash_key": "mundialito tech weeks world cup chill ch_2026-10-25T20:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Chilangatón 2026|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/mxtw-4ba87736\n\nAddress:\nAv Miguel Hidalgo 128, San Lucas, Coyoacán, 04100 Ciudad de México, CDMX\n\nHosted by Isabel Robles, Mexico Tech Week & Daniela Roman",
-    "url": "https://luma.com/mxtw-4ba87736",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/mxtw-4ba87736",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Av Miguel Hidalgo 128, San Lucas, Coyoacán, 04100 Ciudad de México, CDMX",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2026-10-25T14:00:00+00:00",
-    "dtend": "2026-10-25T23:30:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Calle Real de San Lucas, Colonia América 143, San Diego Churubusco, Ciudad de México, Coyoacán, Ciudad de México, 04030, México",
-    "hash_key": "chilangatn 2026_2026-10-25T14:00:00+00:00"
-  },
-  {
     "title": "Sudo FCiencias|Acelera tu carrera con IBM SkillsBuild y IBM Bob|Online",
     "description": "Get up-to-date information at: https://luma.com/x2rh0jbx\n\nHosted by Luis Daniel Paredes Zamudio & 6 others",
     "url": "https://luma.com/x2rh0jbx",
@@ -6102,7 +6242,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6111,33 +6251,6 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-vKCl8r9oNYPPPgR",
     "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
-  },
-  {
-    "title": "Claude Community|Virtual  -  Claude Caribbean AMA|Online",
-    "description": "Get up-to-date information at: https://luma.com/claude-idk4\n\nHosted by Justin Elliott",
-    "url": "https://luma.com/claude-idk4",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/claude-idk4",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
-    "online": true,
-    "organizer": "Claude Community",
-    "dtstart": "2026-10-23T22:00:00+00:00",
-    "dtend": "2026-10-23T23:00:00+00:00",
-    "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
-    "hash_key": "virtual claude caribbean ama_2026-10-23T22:00:00+00:00"
   },
   {
     "title": "Sudo FCiencias|La vida antes, durante y después de IBM|Online",
@@ -6158,7 +6271,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6654,7 +6767,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -7431,7 +7544,7 @@
     "dtstart": "2026-04-24T15:00:00+00:00",
     "dtend": "2026-04-24T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7812,9 +7925,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Coquimatlán",
-    "city_code": "coquimatlan",
-    "address": "Centro, Coquimatlán, Colima, 28400, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -8322,7 +8435,7 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8813,7 +8926,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Juárez, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+    "address": "Avenida Paseo de la Reforma, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "vc fintech session by adn vc zeta gain s_2026-02-25T20:00:00+00:00"
   },
   {
@@ -9924,7 +10037,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -10859,7 +10972,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -12484,7 +12597,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "",
     "country_code": "",
     "state": "",
@@ -12736,7 +12849,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
+    "source": "https://luma.com/e17fbtoo",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -20553,6 +20666,33 @@
     "hash_key": "pre registro mobil3 hackathon_no_date"
   },
   {
+    "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
+    "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
+    "url": "https://luma.com/jov35dwo",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/jov35dwo",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+    "online": true,
+    "organizer": "Sudo FCiencias",
+    "dtstart": null,
+    "dtend": null,
+    "tags": [],
+    "source": "https://luma.com/e17fbtoo",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
+    "hash_key": "tics aprende a hackear con agentes de ia_no_date"
+  },
+  {
     "title": "Mexico Tech Week|Wellness House - General Access  -  MXTW 2026|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/q24rb575\n\nAddress:\nKoti Casa Condesa - Contrast Therapy | Sauna & Cold Plunge | Masajes\nCiudad de México, Mexico\n\nHosted by Mexico Tech Week, Pablo Díaz & Roxana Antohi",
     "url": "https://luma.com/q24rb575",
@@ -20663,33 +20803,6 @@
     "city_code": "cdmx",
     "address": "26, Calle Barcelona, Juárez, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
     "hash_key": "ai house general access mxtw 2026_no_date"
-  },
-  {
-    "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
-    "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
-    "url": "https://luma.com/jov35dwo",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/jov35dwo",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-    "online": true,
-    "organizer": "Sudo FCiencias",
-    "dtstart": null,
-    "dtend": null,
-    "tags": [],
-    "source": "https://luma.com/sudo_fciencias_2026",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-ZXwz0O5pF5DLIB9",
-    "hash_key": "tics aprende a hackear con agentes de ia_no_date"
   },
   {
     "title": "Frutero Club|$XOC en Ethereum México - Dinámica Sep 11 a Sep 16|México|Yucatán",

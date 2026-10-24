@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T21:51:18.304977+00:00",
-  "total_events": 160,
+  "generated_at": "2026-10-24T04:51:35.769790+00:00",
+  "total_events": 159,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -118,11 +118,6 @@
       ]
     },
     {
-      "name": "Claude Community",
-      "description": "Eventos de la comunidad de Claude AI.",
-      "links": []
-    },
-    {
       "name": "Frutero Club",
       "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
       "links": []
@@ -135,17 +130,6 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
-        }
-      ]
-    },
-    {
-      "name": "GDG CDMX",
-      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
         }
       ]
     },
@@ -2916,7 +2900,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3081,7 +3065,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3765,7 +3749,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3821,7 +3805,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3850,7 +3834,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3859,33 +3843,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vKCl8r9oNYPPPgR",
       "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
-    },
-    {
-      "title": "Claude Community|Virtual  -  Claude Caribbean AMA|Online",
-      "description": "Get up-to-date information at: https://luma.com/claude-idk4\n\nHosted by Justin Elliott",
-      "url": "https://luma.com/claude-idk4",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/claude-idk4",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
-      "online": true,
-      "organizer": "Claude Community",
-      "dtstart": "2026-10-23T22:00:00+00:00",
-      "dtend": "2026-10-23T23:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-ysuLnOH0CjaAJTW",
-      "hash_key": "virtual claude caribbean ama_2026-10-23T22:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|IA que conecta Lengua de Señas Mexicana, personas y empresas.|Online",
@@ -4345,7 +4302,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4508,9 +4465,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4829,7 +4787,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
