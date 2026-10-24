@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-10-24T11:17:54.527205+00:00",
-  "total_events": 31,
+  "generated_at": "2026-10-24T16:21:10.048773+00:00",
+  "total_events": 32,
   "city": "Jalisco",
   "communities": [
+    {
+      "name": "AWS User Group Jalisco",
+      "description": "Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/amazon-web-services-jalisco",
+          "label": "Meetup"
+        }
+      ]
+    },
     {
       "name": "Claude Users Group",
       "description": "",
@@ -904,6 +915,37 @@
       "city_code": "",
       "address": "Jalisco, México",
       "hash_key": "vibe coding caf_2026-10-30T22:00:00+00:00"
+    },
+    {
+      "title": "AWS User Group Jalisco|Construyendo agentes de IA con Strands SDK: de loops simples a multi-agentes|México|Jalisco",
+      "description": "AWS User Group Jalisco\nEste noviembre nos ponemos manos a la obra con un workshop práctico de agentes de IA... ¡y edición especial de Halloween! 🤖🎃\n\nConstruiremos paso a paso un agente de IA para servicio al cliente, listo para producción, usando Strands Agents, el SDK de código abierto. Después lo pondremos en producción en Amazon Bedrock AgentCore. El workshop tiene módulos prácticos y en cada uno le sumas una nueva funcionalidad a tu agente.\n\n🎤 Workshop impartido por: Axel Espinosa, Associate Developer Advocate en AWS\n🏢 Además, abriremos con una charla breve de SoftServe relacionada con el tema del taller.\n🎃 Concurso de disfraces: ¡ven disfrazado! Habrá votación y premios para los mejores disfraces. La participación es opcional, pero muy recomendada 😉\n🍕 Habrá pizza, bebidas y snacks de Halloween.\n\n🗓️ Agenda\n\n* 7:00 PM: Bienvenida\n* 7:05 PM: “Crear un agente de IA es solo el principio: conoce Amazon Bedrock AgentCore”, con Guillermo Galván (SoftServe)\n* 7:35 PM: Workshop Strands Agents con Axel Espinosa, primera parte\n* 8:20 PM: Pausa para comer 🍕\n* 8:35 PM: Workshop, segunda parte\n* 9:20 PM: Concurso de disfraces, votación y premios 🎃\n* 9:30 PM: Cierre\n\n💻 Trae tu laptop con batería cargada, ¡vamos a construir en vivo!\n⚠️ Cupo limitado a 50 personas.\n📍 SoftServe, Av. Adolfo López Mateos Nte. 2405, Piso 21, Guadalajara\n🗓️ Jueves 5 de noviembre\n🕖 7:00 PM\n\n💜 **Código de conducta**\nEn AWS User Group Jalisco todos son bienvenidos, sin importar su experiencia, origen o identidad. Venimos a aprender, compartir y pasarla bien, así que tratemos a todos con respeto. No hay espacio para el acoso ni la discriminación. Si algo no se siente bien, búscanos a cualquiera de los organizadores y lo vemos juntos.\n\nGracias a SoftServe por recibirnos y a AWS por seguir impulsando a la comunidad. Como siempre, gracias por ser parte de la comunidad y por seguir construyendo juntos 🚀",
+      "url": "https://www.meetup.com/amazon-web-services-jalisco/events/316729535/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/amazon-web-services-jalisco/events/316729535/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "SoftServe Mexico, Av Adolfo López Mateos Nte 2405-Piso 21 int. 2102, Italia Providencia, 44648 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "AWS User Group Jalisco",
+      "dtstart": "2026-11-05T19:00:00-06:00",
+      "dtend": "2026-11-05T22:00:00-06:00",
+      "tags": [
+        "cloud",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/amazon-web-services-jalisco/events/ical",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "construyendo agentes de ia con strands s_2026-11-06T00:00:00+00:00"
     },
     {
       "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
