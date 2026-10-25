@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:08:21.028448+00:00",
+  "generated_at": "2026-10-25T04:54:26.840775+00:00",
   "total_events": 159,
   "city": "Online",
   "communities": [
@@ -130,6 +130,17 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
         }
       ]
     },
@@ -4275,7 +4286,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Puente Morelos, Puerto de Veracruz, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4467,10 +4478,9 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session",
-        "cloud"
+        "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
