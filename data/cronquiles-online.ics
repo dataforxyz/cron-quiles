@@ -1195,6 +1195,16 @@ LOCATION:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|From Data to Decisions : Amazon Quick in Action.|
+ Online
+DTSTART:20261027T170000Z
+CATEGORIES:data,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-518abc4e\
+ n\nHosted by Mexico Tech Week & 3 others
+LOCATION:https://luma.com/event/evt-gTPJhB7B1AjpYFE
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-gTPJhB7B1AjpYFE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Autopista Inteligente: Tesla SI + Grok Take Over 
  Tech Week @TESLA Bosques|México|
 DTSTART:20261027T200000Z
@@ -1207,18 +1217,6 @@ LOCATION:Paseo de los Tamarindos 90\, Bosques de las Lomas\, Cuajimalpa de
 X-CRONQUILES-ADDRESS:Paseo de los Tamarindos 90\, Bosques de las Lomas\, C
  uajimalpa de Morelos\, 05110 Ciudad de México\, CDMX (inside Paseo Arcos 
  Bosques).
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Claude Community|Mexico City  -  Claude Workshop|México|
-DTSTART:20261028T220000Z
-CATEGORIES:backend
-DESCRIPTION:Get up-to-date information at: https://luma.com/claude-hlfq\n\
- nAddress:\nMexico City\, Mexico (venue TBD)\n\nHosted by Jésica Tapia\, E
- xperta Talks & Experta talks
-LOCATION:Mexico City\, Mexico (venue TBD)
-X-CRONQUILES-ADDRESS:Mexico City\, Mexico (venue TBD)
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
@@ -1304,6 +1302,16 @@ DESCRIPTION:Data\, Cloud and AI in Mexico City\nJoin us for the third epis
  /1778678/content/bcc46111dcd862aa529fb2d57d0f81cb3076048a/common/image198.
  png)\n\n**Rynne Whitnah\,** Technical Lead\, AI Ecosystem\, IBM
 LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|AIC Education: From AI Tools to AI Teammates (w/
+  The AI Collective)|Online
+DTSTART:20261104T190000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-11-4\n\
+ nHosted by The AI Collective\, Abraham & Lena Shakurova
+LOCATION:https://luma.com/event/evt-UIXrplPWppKOxzG
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-UIXrplPWppKOxzG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
@@ -1549,31 +1557,6 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracru
- z
-DTSTART:20261114T090000
-CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemini Enterprise Agent Plat
- form,AI - Gemma,Angular,Build with AI,Career Development,Community Buildin
- g,DevFest,Google Cloud,Google Workspace,Hackathon,Networking,Tech Talk / M
- eetup,UX / UI Design,Web,Workshop / hands-on session,ai,mobile,security,we
- b
-DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
- he latest in AI and Google technologies. Engage in hands-on workshops and 
- learn from industry experts on topics like Angular\, Flutter\, and Android
- . Network with passionate developers and enhance your skills. Register now
-  and secure your spot for this dynamic tech experience in Veracruz. Don't 
- miss out!
-LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
- da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Avenida Ignacio Zaragoza\, Poligono\, Veracruz\, Muni
- cipio de Veracruz\, Veracruz\, 91701\, México
-X-CRONQUILES-CITY:Veracruz
-X-CRONQUILES-CITY-CODE:veracruz
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Veracruz
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG Cloud Mexico City|Road to DevFest Tamaulipas 2026|México|
 DTSTART:20261114T090000
 CATEGORIES:AI,AI - Gemini,Community Building,Conference,DevFest,Google Clo
@@ -1590,6 +1573,31 @@ X-CRONQUILES-ADDRESS:Aula Magna Herman Harris Fleishman\, Centro Universit
  ario Tampico-Madero (Campus Sur UAT)\, Tampico
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracru
+ z
+DTSTART:20261114T090000
+CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemini Enterprise Agent Plat
+ form,AI - Gemma,Angular,Build with AI,Career Development,Community Buildin
+ g,DevFest,Google Cloud,Google Workspace,Hackathon,Networking,Tech Talk / M
+ eetup,UX / UI Design,Web,Workshop / hands-on session,ai,mobile,security,we
+ b
+DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
+ he latest in AI and Google technologies. Engage in hands-on workshops and 
+ learn from industry experts on topics like Angular\, Flutter\, and Android
+ . Network with passionate developers and enhance your skills. Register now
+  and secure your spot for this dynamic tech experience in Veracruz. Don't 
+ miss out!
+LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
+ da Ignacio Zaragoza\, Veracruz
+X-CRONQUILES-ADDRESS:Puente Morelos\, Puerto de Veracruz\, Veracruz\, Muni
+ cipio de Veracruz\, Veracruz\, 91701\, México
+X-CRONQUILES-CITY:Veracruz
+X-CRONQUILES-CITY-CODE:veracruz
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Veracruz
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
@@ -1675,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:GDG CDMX|Devfest 2026: Ciudad de México|México|
 DTSTART:20261209T080000
 CATEGORIES:AI,AI - Gemini,Android,Community Building,Conference,DevFest,Go
- ogle Cloud,Google Workspace,Web,Workshop / hands-on session
+ ogle Cloud,Google Workspace,Web,Workshop / hands-on session,cloud
 DESCRIPTION:Devfest 2026 en la Ciudad de México es el evento imperdible p
  ara desarrolladores\, entusiastas de la tecnología e innovadores. Explora
   nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a 
