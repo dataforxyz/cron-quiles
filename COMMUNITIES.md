@@ -20,7 +20,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🟢 [**AWS User Group Jalisco**](https://www.meetup.com/amazon-web-services-jalisco) | Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon. | Jalisco |
 | 🔴 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**CHIDAS TECH**](https://luma.com/nc2fac44) | Comunidad tech. Eventos sobre redes, infraestructura y desarrollo. | Online |
-| 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México, Colima, Jalisco, Nuevo León, Quintana Roo, Sonora, Tabasco, Yucatán |
+| 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México, Colima, Nuevo León, Quintana Roo, Sonora, Tabasco, Yucatán |
 | 🟢 [**Data, Cloud and AI in Mexico City**](https://www.meetup.com/big-data-developers-in-mexico-city) | IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts. | Online |
 | 🔴 [**Desarrollo de Aplicaciones Móviles México**](https://www.meetup.com/mobile-development-mexico) | Bienvenidos a la comunidad de desarrolladores móviles en iOS y Android, un espacio donde la innovación, la colaboración y el aprendizaje son clave. | Online |
 | 🔴 [**DevOps Workshop**](https://www.meetup.com/devops-workshop) | Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos. | Online |
@@ -45,7 +45,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**HackrobotsMX**](https://www.meetup.com/hackrobotsmx) | HackrobotsMX es la primera y única comunidad en América sin fines de lucro dedicada a la formación y capacitación en robótica. | Online |
 | 🔴 [**HTML5 CDMX**](https://www.meetup.com/html5-ciudad-de-mexico) | Desarrollo web, estándares W3C y tecnologías de frontend. | Online |
 | 🔴 [**j4Guanatos**](https://www.meetup.com/j4guanatos) | Comunidad de Java en Guadalajara. Eventos sobre Java y tecnologías relacionadas. | Online |
-| 🔴 [**Kong Mexico City**](https://www.meetup.com/kong-mexico-city) | Eventos sobre APIs, Microservicios, Service Mesh e Insomnia. | Online |
+| 🟢 [**Kong Mexico City**](https://www.meetup.com/kong-mexico-city) | Eventos sobre APIs, Microservicios, Service Mesh e Insomnia. | Online |
 | 🟢 [**Management In Tech**](https://luma.com/qhszdqs3) | Conversaciones sobre liderazgo y gestión de equipos en tech. | Ciudad de México |
 | 🔴 [**Meetup de Network Orquestrators, Creating Unicorns**](https://www.meetup.com/meetup-de-network-orquestrators-creating-unicorns) | En este grupo estamos intentando construir empresas Unicornio. Queremos contactar con startuperos interesados en intercambiar ideas y contactos. | Online |
 | 🔴 [**Meetup México**](https://www.meetup.com/meetup-mexico) | Comunidad general de usuarios y organizadores de Meetup en México. | Online |
@@ -54,7 +54,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🟢 [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, Estado de México, Jalisco, Online |
 | 🔴 [**Microsoft Fabric CDMX**](https://www.meetup.com/mexico-city-microsoft-fabric-group) | Grupo de usuarios de Microsoft Fabric y análisis de datos empresarial. | Online |
 | 🔴 [**México City Docker friends**](https://www.meetup.com/mexico-city-docker-friends) | Learn, Collaborate & Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker. | Online |
-| 🟢 [**NoTrustSec**](https://www.meetup.com/notrustsec) | Ciberseguridad, hacking ético y seguridad ofensiva/defensiva. | Ciudad de México |
+| 🔴 [**NoTrustSec**](https://www.meetup.com/notrustsec) | Ciberseguridad, hacking ético y seguridad ofensiva/defensiva. | Online |
 | 🔴 [**Odoo Latinoamérica**](https://www.meetup.com/odoo-community-days-america-latina) | Comunidad del ERP Open Source Odoo en América Latina. | Online |
 | 🔴 [**Open Infra CDMX**](https://www.meetup.com/openinfrastructurecdmx) | Infraestructura abierta, OpenStack y tecnologías de cloud open source. | Online |
 | 🔴 [**PHP Mexico**](https://www.meetup.com/php-the-right-way) | ¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP. | Online |
