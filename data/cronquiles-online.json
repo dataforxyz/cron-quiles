@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T06:01:57.296215+00:00",
-  "total_events": 164,
+  "generated_at": "2026-10-29T13:20:04.372210+00:00",
+  "total_events": 165,
   "city": "Online",
   "communities": [
     {
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -118,6 +118,17 @@
       ]
     },
     {
+      "name": "AWS User Group Mixtli",
+      "description": "Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
       "name": "Frutero Club",
       "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
       "links": []
@@ -130,17 +141,6 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
-        }
-      ]
-    },
-    {
-      "name": "GDG CDMX",
-      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
         }
       ]
     },
@@ -2911,7 +2911,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3076,7 +3076,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3760,7 +3760,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3816,7 +3816,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3845,7 +3845,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3939,6 +3939,38 @@
       "city_code": "",
       "address": "",
       "hash_key": "oct 29 how to build vision data agents w_2026-10-29T16:00:00+00:00"
+    },
+    {
+      "title": "AWS User Group Mixtli|Conceptos de la nube:  fundamentos|Online",
+      "description": "AWS User Group Mixtli\n¿Quieres dar tus primeros pasos en AWS o certificarte como **Cloud Practitioner**? Arrancamos la serie de sesiones de preparación para la certificación y en esta primera sesión vamos a construir las bases.\n\n**Dominio 1: Conceptos de la nube (24% del examen)**\nEs uno de los dominios con mayor peso, y entenderlo bien te facilita todo lo que viene después. Veremos:\n🔹 **Propuesta de valor de AWS:** infraestructura global, alta disponibilidad, elasticidad y agilidad.\n🔹 **Marco Well-Architected** y sus pilares.\n🔹 **Migración a la nube:** AWS Cloud Adoption Framework (CAF), estrategias de migración y herramientas como AWS Snowball.\n🔹 **Economía de la nube:** costos fijos vs. variables, costos on-premises, BYOL vs. licencia incluida, right sizing, automatización y economías de escala.\n\n**¿Qué te llevarás?**\n\n* Una base sólida de los conceptos clave que se evalúan en el examen.\n* Claridad sobre cómo estudiar y qué priorizar.\n* Un espacio para resolver dudas y aprender en comunidad.\n\n**¿Para quién es?**\nPara cualquier persona que quiera iniciar en la nube o certificarse, sin importar su perfil: estudiantes, desarrolladores, administradores de sistemas, personas de negocio o gente en transición a TI. **No se requiere experiencia previa.**\n\n**🔗 Enlaces importantes:**\n\n1. [Guía oficial de AWS](https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)\n2. [Learning Path en AWS Skill Builder](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-espaol-latam/RX7XZB6CTM)",
+      "url": "https://www.meetup.com/awsugmixtli/events/317186478/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli/events/317186478/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "AWS User Group Mixtli",
+      "dtstart": "2026-10-30T18:30:00-06:00",
+      "dtend": "2026-10-30T20:30:00-06:00",
+      "tags": [
+        "ai",
+        "cloud",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/awsugmixtli/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "conceptos de la nube fundamentos_2026-10-31T00:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|💥 StartHaus Day Pass! (Online)|Online",
@@ -4388,7 +4420,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
     },
     {
@@ -4622,7 +4654,7 @@
         "Web",
         "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-ipn/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4941,7 +4973,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
