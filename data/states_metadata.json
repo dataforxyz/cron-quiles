@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 634,
-    "future_event_count": 116,
+    "event_count": 586,
+    "future_event_count": 79,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -54,11 +54,33 @@
     "emoji": "🇲🇽"
   },
   {
+    "code": "MX-BCN",
+    "name": "Baja California",
+    "slug": "mx-bcn",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
+    "code": "MX-CAM",
+    "name": "Campeche",
+    "slug": "mx-cam",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 405,
-    "future_event_count": 80,
+    "event_count": 357,
+    "future_event_count": 44,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -100,7 +122,7 @@
     "name": "Jalisco",
     "slug": "mx-jal",
     "event_count": 31,
-    "future_event_count": 5,
+    "future_event_count": 4,
     "active_months": [
       "2025-09",
       "2025-10",
@@ -149,8 +171,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 167,
-    "future_event_count": 28,
+    "event_count": 164,
+    "future_event_count": 25,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -251,10 +273,11 @@
     "code": "MX-TAB",
     "name": "Tabasco",
     "slug": "mx-tab",
-    "event_count": 1,
-    "future_event_count": 0,
+    "event_count": 2,
+    "future_event_count": 1,
     "active_months": [
-      "2026-04"
+      "2026-04",
+      "2026-11"
     ],
     "emoji": "🌵"
   },
