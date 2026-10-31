@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T22:41:18.987458+00:00",
-  "total_events": 31,
+  "generated_at": "2026-10-31T05:43:37.684942+00:00",
+  "total_events": 30,
   "city": "Jalisco",
   "communities": [
     {
@@ -18,17 +18,6 @@
       "name": "Claude Users Group",
       "description": "",
       "links": []
-    },
-    {
-      "name": "Eventloop",
-      "description": "La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad.",
-      "links": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/eventloop",
-          "label": "Meetup"
-        }
-      ]
     },
     {
       "name": "Pythonistas GDL",
@@ -58,6 +47,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-guadalajara/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Heroica Veracruz",
+      "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
           "label": "Sitio web"
         }
       ]
@@ -823,39 +823,6 @@
       "hash_key": "septiembre lingstica computacional y age_2026-09-26T00:00:00+00:00"
     },
     {
-      "title": "Eventloop|JSConf México 2026|México|Jalisco",
-      "description": "Eventloop\n**JSConf México** regresa: dos días de Js en Guadalajara, el 29 y 30 de octubre.\n\nImportante: confirmar asistencia aquí en Meetup no es tu boleto. El boleto se compra en https://tickets.jsconf.mx/\n\nQUÉ VAS A ENCONTRAR\n\n* keynotes: Daniel Roe (líder de Nuxt), Estefany Aguilar (Teffcode, NodeSource) y Mark Thompson (Google)\n* Más de 20 charlas en dos escenarios, con gente de Netflix, GitHub, The New York Times, Sentry, AWS, Google y Vercel\n* Talleres: contribuir a Node.js junto a sus maintainers, agentes en tiempo real con Gemini Live, y de desarrollador a arquitecto usando AI\n* Temas: React Server Components, WebAssembly, agentes de IA, microfrontends, seguridad en npm, accesibilidad y performance\n\nAgenda completa: https://www.jsconf.mx/agenda\n\nBoletos: https://tickets.jsconf.mx/",
-      "url": "https://www.meetup.com/eventloop/events/316903420/",
-      "sources": [
-        {
-          "platform": "meetup",
-          "url": "https://www.meetup.com/eventloop/events/316903420/",
-          "label": "Ver en Meetup"
-        }
-      ],
-      "location": "Jardín Americana, Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., Mexico",
-      "online": false,
-      "organizer": "Eventloop",
-      "dtstart": "2026-10-29T21:00:00-06:00",
-      "dtend": "2026-10-30T21:00:00-06:00",
-      "tags": [
-        "ai",
-        "cloud",
-        "frontend",
-        "mobile",
-        "web"
-      ],
-      "source": "https://www.meetup.com/eventloop/events/ical",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Jalisco",
-      "state_code": "MX-JAL",
-      "city": "",
-      "city_code": "",
-      "address": "Jalisco, México",
-      "hash_key": "jsconf mxico 2026_2026-10-30T02:00:00+00:00"
-    },
-    {
       "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
       "description": "Get up-to-date information at: https://luma.com/4xyyeuy0\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy",
       "url": "https://luma.com/4xyyeuy0",
@@ -1000,7 +967,7 @@
         "mobile",
         "web"
       ],
-      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
       "country": "México",
       "country_code": "MX",
       "state": "Jalisco",
