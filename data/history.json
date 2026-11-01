@@ -58,9 +58,10 @@
       "Google Cloud",
       "Google Workspace",
       "Web",
-      "Workshop / hands-on session"
+      "Workshop / hands-on session",
+      "cloud"
     ],
-    "source": "https://gdg.community.dev/gdg-cdmx/",
+    "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -170,7 +171,7 @@
       "mobile",
       "web"
     ],
-    "source": "https://gdg.community.dev/gdg-guadalajara/",
+    "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
     "country": "México",
     "country_code": "MX",
     "state": "Jalisco",
@@ -210,7 +211,7 @@
     "hash_key": "lunch with a side of ai w ai collective _2026-11-30T22:00:00+00:00"
   },
   {
-    "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
+    "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|Nayarit",
     "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
     "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
     "sources": [
@@ -236,11 +237,11 @@
     "source": "https://gdg.community.dev/gdg-tepic/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
+    "state": "Nayarit",
+    "state_code": "MX-NAY",
+    "city": "Tepic",
+    "city_code": "tepic",
+    "address": "Avenida de las Torres, Ciudad del Conocimiento, Tepic, Nayarit, 63509, México",
     "hash_key": "dev fest 2026 collaborative innovation_2026-11-26T18:00:00+00:00"
   },
   {
@@ -480,7 +481,7 @@
     "hash_key": "barcelona workshop cowork claude for lin_2026-11-19T08:00:00+00:00"
   },
   {
-    "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|",
+    "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracruz",
     "description": "Join DevFest 2026 Heroica Veracruz on November 14 to explore the latest in AI and Google technologies. Engage in hands-on workshops and learn from industry experts on topics like Angular, Flutter, and Android. Network with passionate developers and enhance your skills. Register now and secure your spot for this dynamic tech experience in Veracruz. Don't miss out!",
     "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-heroica-veracruz/",
     "sources": [
@@ -522,46 +523,12 @@
     "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
+    "state": "Veracruz",
     "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Museo de la Ciudad \"Coronel Manuel Gutiérrez Zamora\", 397 Avenida Ignacio Zaragoza, Veracruz",
+    "city": "Veracruz",
+    "city_code": "veracruz",
+    "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
     "hash_key": "devfest 2026 heroica veracruz_2026-11-14T14:00:00+00:00"
-  },
-  {
-    "title": "GDG San Francisco de Campeche|DevFest Campeche 2026|México|",
-    "description": "¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nosotros este 14 de noviembre en el Centro Internacional de Con...",
-    "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/",
-    "sources": [
-      {
-        "platform": "website",
-        "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/",
-        "label": "Ver sitio web"
-      }
-    ],
-    "location": "Centro Internacional de Convenciones y Exposiciones Campeche XXI, 219 Pedro Sainz de Baranda, San Francisco de Campeche",
-    "online": false,
-    "organizer": "GDG San Francisco de Campeche",
-    "dtstart": "2026-11-14T09:00:00-06:00",
-    "dtend": "2026-11-14T19:00:00-06:00",
-    "tags": [
-      "AI",
-      "AI - Gemini",
-      "Conference",
-      "DevFest",
-      "Google Cloud",
-      "Workshop / hands-on session"
-    ],
-    "source": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Centro Internacional de Convenciones y Exposiciones Campeche XXI, 219 Pedro Sainz de Baranda, San Francisco de Campeche",
-    "hash_key": "devfest campeche 2026_2026-11-14T14:00:00+00:00"
   },
   {
     "title": "GDG Cloud Mexico City|Road to DevFest Tamaulipas 2026|México|",
@@ -604,7 +571,41 @@
     "hash_key": "road to devfest tamaulipas 2026_2026-11-14T14:00:00+00:00"
   },
   {
-    "title": "GDG Tijuana|DevFest Tijuana 2026|México|",
+    "title": "GDG San Francisco de Campeche|DevFest Campeche 2026|México|Campeche",
+    "description": "¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nosotros este 14 de noviembre en el Centro Internacional de Con...",
+    "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Centro Internacional de Convenciones y Exposiciones Campeche XXI, 219 Pedro Sainz de Baranda, San Francisco de Campeche",
+    "online": false,
+    "organizer": "GDG San Francisco de Campeche",
+    "dtstart": "2026-11-14T09:00:00-06:00",
+    "dtend": "2026-11-14T19:00:00-06:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "Conference",
+      "DevFest",
+      "Google Cloud",
+      "Workshop / hands-on session"
+    ],
+    "source": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Campeche",
+    "state_code": "MX-CAM",
+    "city": "San Francisco de Campeche",
+    "city_code": "sanfranciscodecampeche",
+    "address": "Centro Internacional de Convenciones y Exposiciones Campeche XXI, 219, Avenida Pedro Sáinz de Baranda, AH KIM PECH, San Francisco de Campeche, Municipio de Campeche, Campeche, 24014, México",
+    "hash_key": "devfest campeche 2026_2026-11-14T14:00:00+00:00"
+  },
+  {
+    "title": "GDG Tijuana|DevFest Tijuana 2026|México|Baja California",
     "description": "Join us for our inaugural GDG Tijuana event as we pave the way to DevFest Tijuana 2026! Be part of the journey to the most exciting tech event of the year by connecting with fellow developers and tech enthusiasts. Enjoy a day filled with engaging discussions, networking opportunities, and a sneak peek into what DevFest 2026 will offer. Don’t miss the chance to contribute your ideas and shape the f",
     "url": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/",
     "sources": [
@@ -630,11 +631,11 @@
     "source": "https://gdg.community.dev/gdg-tijuana/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Terraza Badabun, Calle 11 8296, Tijuana",
+    "state": "Baja California",
+    "state_code": "MX-BCN",
+    "city": "Tijuana",
+    "city_code": "tijuana",
+    "address": "Calle 11, Del. La Presa, Tijuana, Municipio de Tijuana, Baja California, 22205, México",
     "hash_key": "devfest tijuana 2026_2026-11-13T22:00:00+00:00"
   },
   {
@@ -706,7 +707,7 @@
     "hash_key": "lunch hack the browser is becoming an ai_2026-11-12T18:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|",
+    "title": "GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|Tabasco",
     "description": "Únete al Devfest 2026, el evento clave para explorar las últimas tendencias en desarrollo de software, desde aplicaciones móviles hasta inteligencia artificial. Asiste a charlas de expertos y talleres prácticos, y conéctate con otros desarrolladores apasionados. Descubre cómo puedes influir en el futuro tecnológico. Se lleva a cabo en el auditorio principal del Congreso. ¡Confirma tu asistencia!",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-comalcalco/",
     "sources": [
@@ -734,11 +735,11 @@
     "source": "https://gdg.community.dev/gdg-villahermosa/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Instituto Tecnológico Superior de Comalcalco, KM 2 Paraiso - Comalcalco, Comalcalco",
+    "state": "Tabasco",
+    "state_code": "MX-TAB",
+    "city": "Comalcalco",
+    "city_code": "comalcalco",
+    "address": "Paraíso - Comalcalco, Comalcalco, Tabasco, 86300, México",
     "hash_key": "devfest 2026 tecnm comalcalco_2026-11-12T14:00:00+00:00"
   },
   {
@@ -863,7 +864,7 @@
     "hash_key": "nov 11 ai ml and computer vision meetup_2026-11-11T16:00:00+00:00"
   },
   {
-    "title": "GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|México|",
+    "title": "GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|México|Tabasco",
     "description": "Únete a nosotros en el Devfest 2026. Este evento emblemático es una oportunidad única para sumergirse en las tendencias",
     "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-ujat-dacyti/",
     "sources": [
@@ -891,11 +892,11 @@
     "source": "https://gdg.community.dev/gdg-villahermosa/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Universidad Juárez Autónoma de Tabasco, s/n Avenida Universidad, Villahermosa",
+    "state": "Tabasco",
+    "state_code": "MX-TAB",
+    "city": "Villahermosa",
+    "city_code": "villahermosa",
+    "address": "Hospital Nuestra Señora de Guadalupe, Avenida Universidad, Fraccionamiento Valle Marino, Villahermosa, Centro, Tabasco, 86029, México",
     "hash_key": "devfest 2026 sureste de mxico ujat dacyt_2026-11-11T14:00:00+00:00"
   },
   {
@@ -1791,7 +1792,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1849,7 +1850,7 @@
     "dtstart": "2026-08-26T22:00:00+00:00",
     "dtend": "2026-08-26T23:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1936,7 +1937,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -2542,7 +2543,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2627,7 +2628,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3182,9 +3183,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Coquimatlán",
-    "city_code": "coquimatlan",
-    "address": "Centro, Coquimatlán, Colima, 28400, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -3699,7 +3700,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -3777,7 +3778,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3838,7 +3839,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3869,7 +3870,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3923,7 +3924,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3952,7 +3953,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4008,7 +4009,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4037,7 +4038,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4064,7 +4065,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4120,7 +4121,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4147,7 +4148,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4176,7 +4177,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4205,7 +4206,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4234,7 +4235,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4264,7 +4265,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4318,7 +4319,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4347,7 +4348,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4376,7 +4377,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4405,7 +4406,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4463,7 +4464,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4492,7 +4493,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4521,7 +4522,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4551,7 +4552,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4580,7 +4581,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4610,7 +4611,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4640,7 +4641,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4669,7 +4670,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4696,7 +4697,7 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4725,7 +4726,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4752,7 +4753,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4781,7 +4782,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4811,7 +4812,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4841,7 +4842,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4868,7 +4869,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4895,7 +4896,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4922,7 +4923,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4952,7 +4953,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -6367,7 +6368,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8023,7 +8024,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
