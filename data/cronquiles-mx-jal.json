@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T14:32:29.374548+00:00",
-  "total_events": 30,
+  "generated_at": "2026-11-03T23:39:13.753551+00:00",
+  "total_events": 32,
   "city": "Jalisco",
   "communities": [
     {
@@ -33,6 +33,11 @@
     {
       "name": "Vive Codding Cafe",
       "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA.",
+      "links": []
+    },
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
       "links": []
     },
     {
@@ -870,6 +875,35 @@
       "hash_key": "construyendo agentes de ia con strands s_2026-11-06T00:00:00+00:00"
     },
     {
+      "title": "Claude Community|Guadalajara  -  Claude Community x Wizeline: Conversation|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/claude-o94n\n\nAddress:\nCheck event page for more details.\n\nHosted by Miguel Oceguera, Said Montiel & Eduardo Salazar Carrilo",
+      "url": "https://luma.com/claude-o94n",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-o94n",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Jardines del Sol, Zapopan, Jalisco, México",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-11-20T01:00:00+00:00",
+      "dtend": "2026-11-20T03:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Zapopan",
+      "city_code": "zapopan",
+      "address": "Jardines del Sol, Zapopan, Región Centro, Jalisco, 45050, México",
+      "hash_key": "guadalajara claude community x wizeline _2026-11-20T00:00:00+00:00"
+    },
+    {
       "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
       "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
       "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
@@ -911,7 +945,7 @@
       "state_code": "MX-JAL",
       "city": "Guadalajara",
       "city_code": "guadalajara",
-      "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44260, México",
+      "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
       "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
     },
     {
@@ -965,6 +999,36 @@
       "city_code": "zapopan",
       "address": "Bitspot BTM Andares, 4965, Boulevard Puerta de Hierro, Puerta de Hierro, Zapopan, Región Centro, Jalisco, 45116, México",
       "hash_key": "devfest 2026 health_2026-12-02T14:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Guadalajara  -  Claude Community x Improving: Build Day|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/claude-akw5\n\nAddress:\nCheck event page for more details.\n\nHosted by Miguel Oceguera",
+      "url": "https://luma.com/claude-akw5",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-akw5",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Loma Real, Zapopan, Jalisco, México",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2027-01-30T16:00:00+00:00",
+      "dtend": "2027-01-30T20:00:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Zapopan",
+      "city_code": "zapopan",
+      "address": "Loma Real, Zapopan, Región Centro, Jalisco, 45110, México",
+      "hash_key": "guadalajara claude community x improving_2027-01-30T16:00:00+00:00"
     }
   ]
 }
