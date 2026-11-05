@@ -5857,8 +5857,8 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/31qel456\n\nAd
   by Nico Di Pace & 6 others
 LOCATION:Torre BBVA Bancomer\, Av. P.º de la Reforma 506\, Cuauhtémoc\, 
  06600 Juárez\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Juárez\, Condesa\, Ciu
- dad de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
+X-CRONQUILES-ADDRESS:Avenida Paseo de la Reforma\, Juárez\, Roma\, Ciudad
+  de México\, Cuauhtémoc\, Ciudad de México\, 06600\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6166,9 +6166,10 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/64grz37k\n\nAd
  an Eduardo Vega Ortega & AWS Cloud Club UNAM
 LOCATION:Universidad Nacional Autónoma de México\, Ciudad de México\, M
  éxico
-X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Circuito 
- Zona Deportiva\, Jardines del Pedregal\, Ciudad de México\, Coyoacán\, C
- iudad Universitaria\, Ciudad de México\, 04360\, México
+X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Avenida C
+ iudad Universitaria\, Jardines del Pedregal\, San Ángel\, Ciudad de Méxi
+ co\, Álvaro Obregón\, Ciudad Universitaria\, Ciudad de México\, 04360\,
+  México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -7475,37 +7476,6 @@ X-CRONQUILES-STATE:Jalisco
 X-CRONQUILES-STATE-CODE:MX-JAL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Claude Community|Mexico City  -  Claude Build Day at AWS Student C
- ommunity Day|México|Ciudad de México
-DTSTART:20261104T170000Z
-CATEGORIES:cloud,frontend,mobile
-DESCRIPTION:Get up-to-date information at: https://luma.com/claude-aws-scd
- \n\nAddress:\nCentro Histórico y Cultural "Juan de Dios Bátiz" IPN\nCiud
- ad de México\, Mexico\n\nHosted by Cesar Méndez & 3 others
-LOCATION:Centro Histórico y Cultural "Juan de Dios Bátiz" IPN\, Manuel C
- arpio\, Agricultura\, Miguel Hidalgo\, 11360 Ciudad de México\, CDMX\, Me
- xico
-X-CRONQUILES-ADDRESS:Calle Manuel Carpio\, Agricultura\, San Salvador Xoch
- imanca\, Ciudad de México\, Miguel Hidalgo\, Ciudad de México\, 11360\, 
- México
-X-CRONQUILES-CITY:Ciudad de México
-X-CRONQUILES-CITY-CODE:cdmx
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Ciudad de México
-X-CRONQUILES-STATE-CODE:MX-CMX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|AIC Education: From AI Tools to AI Teammates (w/
-  The AI Collective)|Online
-DTSTART:20261104T190000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-11-4\n\
- nHosted by The AI Collective\, Abraham & Lena Shakurova
-LOCATION:https://luma.com/event/evt-UIXrplPWppKOxzG
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-UIXrplPWppKOxzG
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG CDMX|Larga Language Models de dominio específico|Online
 DTSTART:20261104T193000
 CATEGORIES:AI,AI - Gemini,Build with AI,Career Development,Workshop / hand
@@ -7770,7 +7740,7 @@ X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vhCjwyfSfOgFRQP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Villahermosa|DevFest 2026: Sureste de México UJAT-DACYTI|Méx
- ico|Tabasco
+ ico|
 DTSTART:20261111T090000
 CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Web,Workshop / h
  ands-on session,backend
@@ -7778,15 +7748,10 @@ DESCRIPTION:Únete a nosotros en el Devfest 2026. Este evento emblemático
   es una oportunidad única para sumergirse en las tendencias
 LOCATION:Universidad Juárez Autónoma de Tabasco\, s/n Avenida Universida
  d\, Villahermosa
-X-CRONQUILES-ADDRESS:Hospital Nuestra Señora de Guadalupe\, Avenida Unive
- rsidad\, Fraccionamiento Valle Marino\, Villahermosa\, Centro\, Tabasco\, 
- 86029\, México
-X-CRONQUILES-CITY:Villahermosa
-X-CRONQUILES-CITY-CODE:villahermosa
+X-CRONQUILES-ADDRESS:Universidad Juárez Autónoma de Tabasco\, s/n Avenid
+ a Universidad\, Villahermosa
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Tabasco
-X-CRONQUILES-STATE-CODE:MX-TAB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
@@ -7901,7 +7866,8 @@ SUMMARY:FinTech México|FTMX Talk by Meta|México|Ciudad de México
 DTSTART:20261111T213000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/gjh4umuc\n\nAd
- dress:\nCheck event page for more details.\n\nHosted by FinTech México
+ dress:\nCheck event page for more details.\n\nHosted by FinTech México & 
+ Alejandra Camacho
 LOCATION:Lomas - Virreyes\, Ciudad de México\, México
 X-CRONQUILES-ADDRESS:Ciudad de México\, México
 X-CRONQUILES-CITY-CODE:cdmx
@@ -7930,7 +7896,7 @@ LOCATION:https://luma.com/event/evt-fvlLOXjYocCJY49
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-fvlLOXjYocCJY49
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|Tabasco
+SUMMARY:GDG Villahermosa|DevFest 2026: TecNM Comalcalco|México|
 DTSTART:20261112T090000
 CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Web,Workshop / h
  ands-on session,frontend
@@ -7942,14 +7908,10 @@ DESCRIPTION:Únete al Devfest 2026\, el evento clave para explorar las úl
  o principal del Congreso. ¡Confirma tu asistencia!
 LOCATION:Instituto Tecnológico Superior de Comalcalco\, KM 2 Paraiso - Co
  malcalco\, Comalcalco
-X-CRONQUILES-ADDRESS:Paraíso - Comalcalco\, Comalcalco\, Tabasco\, 86300\
- , México
-X-CRONQUILES-CITY:Comalcalco
-X-CRONQUILES-CITY-CODE:comalcalco
+X-CRONQUILES-ADDRESS:Instituto Tecnológico Superior de Comalcalco\, KM 2 
+ Paraiso - Comalcalco\, Comalcalco
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Tabasco
-X-CRONQUILES-STATE-CODE:MX-TAB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Lunch & Hack: The Browser Is Becoming an AI Runt
@@ -7978,7 +7940,7 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Tijuana|DevFest Tijuana 2026|México|Baja California
+SUMMARY:GDG Tijuana|DevFest Tijuana 2026|México|
 DTSTART:20261113T150000
 CATEGORIES:AI - Gemini,Conference,DevFest,Flutter,Google Cloud,Workshop / 
  hands-on session
@@ -7989,14 +7951,9 @@ DESCRIPTION:Join us for our inaugural GDG Tijuana event as we pave the way
  s\, and a sneak peek into what DevFest 2026 will offer. Don’t miss the c
  hance to contribute your ideas and shape the f
 LOCATION:Terraza Badabun\, Calle 11 8296\, Tijuana
-X-CRONQUILES-ADDRESS:Calle 11\, Del. La Presa\, Tijuana\, Municipio de Tij
- uana\, Baja California\, 22205\, México
-X-CRONQUILES-CITY:Tijuana
-X-CRONQUILES-CITY-CODE:tijuana
+X-CRONQUILES-ADDRESS:Terraza Badabun\, Calle 11 8296\, Tijuana
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Baja California
-X-CRONQUILES-STATE-CODE:MX-BCN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracru
@@ -8015,8 +7972,8 @@ DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
  miss out!
 LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
  da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Puente Morelos\, Puerto de Veracruz\, Veracruz\, Muni
- cipio de Veracruz\, Veracruz\, 91701\, México
+X-CRONQUILES-ADDRESS:Avenida Ignacio Zaragoza\, Poligono\, Veracruz\, Muni
+ cipio de Veracruz\, Veracruz\, 91700\, México
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México
@@ -8024,8 +7981,7 @@ X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Veracruz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG San Francisco de Campeche|DevFest Campeche 2026|México|Campec
- he
+SUMMARY:GDG San Francisco de Campeche|DevFest Campeche 2026|México|
 DTSTART:20261114T090000
 CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Workshop / hands
  -on session
@@ -8034,14 +7990,9 @@ DESCRIPTION:¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nos
 LOCATION:Centro Internacional de Convenciones y Exposiciones Campeche XXI\
  , 219 Pedro Sainz de Baranda\, San Francisco de Campeche
 X-CRONQUILES-ADDRESS:Centro Internacional de Convenciones y Exposiciones C
- ampeche XXI\, 219\, Avenida Pedro Sáinz de Baranda\, AH KIM PECH\, San Fr
- ancisco de Campeche\, Municipio de Campeche\, Campeche\, 24014\, México
-X-CRONQUILES-CITY:San Francisco de Campeche
-X-CRONQUILES-CITY-CODE:sanfranciscodecampeche
+ ampeche XXI\, 219 Pedro Sainz de Baranda\, San Francisco de Campeche
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Campeche
-X-CRONQUILES-STATE-CODE:MX-CAM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI & Beyond - Navigating Opportunities in an AI-
@@ -8052,6 +8003,16 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sw-ws-seri
  es-2\n\nHosted by The AI Collective\, Neelima Misra & Nithya Narayanan
 LOCATION:https://luma.com/event/evt-AObtrZzp5pBxvqV
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-AObtrZzp5pBxvqV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|AI Collective Connect: Madrid × Barcelona (w/ T
+ he AI Collective)|Online
+DTSTART:20261118T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/AICollective_M
+ adrid_Barcelona\n\nHosted by The AI Collective & 6 others
+LOCATION:https://luma.com/event/evt-6YqNoKFO4uJK5W0
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-6YqNoKFO4uJK5W0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Claude Community|Barcelona  -  Workshop & Cowork - Claude for Link
@@ -8196,8 +8157,8 @@ DESCRIPTION:Únete a nuestra segunda edición de DevFest en Guadalajara\,
  aprender juntos.
 LOCATION:Centro Universitario de Guadalajara (CUGDL)\, 1045 Calle Guanajua
  to\, Guadalajara
-X-CRONQUILES-ADDRESS:Calle Guanajuato\, Mezquitán\, Guadalajara\, Región
-  Centro\, Jalisco\, 44260\, México
+X-CRONQUILES-ADDRESS:Calle Guanajuato\, La Normal\, Guadalajara\, Región 
+ Centro\, Jalisco\, 44260\, México
 X-CRONQUILES-CITY:Guadalajara
 X-CRONQUILES-CITY-CODE:guadalajara
 X-CRONQUILES-COUNTRY:México
@@ -8257,7 +8218,7 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|Nayarit
+SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|
 DTSTART:20261126T123000
 CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,Workshop / hands-on session
  ,security
@@ -8268,14 +8229,10 @@ DESCRIPTION:Dev Fest 2026 brings together GDG Tepic and Instituto Tecnoló
  ring your spot today.
 LOCATION:Museo interactivo de ciencias e innovación de Nayarit\, s/n Aven
  ida de la Salud\, Tepic
-X-CRONQUILES-ADDRESS:Avenida de las Torres\, Ciudad del Conocimiento\, Tep
- ic\, Nayarit\, 63509\, México
-X-CRONQUILES-CITY:Tepic
-X-CRONQUILES-CITY-CODE:tepic
+X-CRONQUILES-ADDRESS:Museo interactivo de ciencias e innovación de Nayari
+ t\, s/n Avenida de la Salud\, Tepic
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Nayarit
-X-CRONQUILES-STATE-CODE:MX-NAY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pythonistas GDL|Viernes 27 de Noviembre en el HackerGarage|México
