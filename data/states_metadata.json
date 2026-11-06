@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 551,
-    "future_event_count": 44,
+    "event_count": 547,
+    "future_event_count": 40,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -55,6 +55,28 @@
     "emoji": "🇲🇽"
   },
   {
+    "code": "MX-BCN",
+    "name": "Baja California",
+    "slug": "mx-bcn",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
+    "code": "MX-CAM",
+    "name": "Campeche",
+    "slug": "mx-cam",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
@@ -100,8 +122,8 @@
     "code": "MX-JAL",
     "name": "Jalisco",
     "slug": "mx-jal",
-    "event_count": 33,
-    "future_event_count": 6,
+    "event_count": 32,
+    "future_event_count": 5,
     "active_months": [
       "2025-09",
       "2025-10",
@@ -134,6 +156,17 @@
     "emoji": "🌵"
   },
   {
+    "code": "MX-NAY",
+    "name": "Nayarit",
+    "slug": "mx-nay",
+    "event_count": 1,
+    "future_event_count": 1,
+    "active_months": [
+      "2026-11"
+    ],
+    "emoji": "🌵"
+  },
+  {
     "code": "MX-NLE",
     "name": "Nuevo León",
     "slug": "mx-nle",
@@ -150,8 +183,8 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 171,
-    "future_event_count": 32,
+    "event_count": 163,
+    "future_event_count": 24,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -253,10 +286,11 @@
     "code": "MX-TAB",
     "name": "Tabasco",
     "slug": "mx-tab",
-    "event_count": 1,
-    "future_event_count": 0,
+    "event_count": 3,
+    "future_event_count": 2,
     "active_months": [
-      "2026-04"
+      "2026-04",
+      "2026-11"
     ],
     "emoji": "🌵"
   },
