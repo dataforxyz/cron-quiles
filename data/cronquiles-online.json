@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T06:43:13.391791+00:00",
-  "total_events": 163,
+  "generated_at": "2026-11-06T19:43:43.457030+00:00",
+  "total_events": 162,
   "city": "Online",
   "communities": [
     {
@@ -113,6 +113,17 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
         }
       ]
     },
@@ -3817,36 +3828,6 @@
       "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|Building Together: Master Mentor Programme (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-du-11-5\n\nHosted by The AI Collective",
-      "url": "https://luma.com/aic-du-11-5",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-du-11-5",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-UScN9TtaoEvRwK3",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-11-06T11:00:00+00:00",
-      "dtend": "2026-11-06T12:00:00+00:00",
-      "tags": [
-        "ai",
-        "frontend"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-UScN9TtaoEvRwK3",
-      "hash_key": "building together master mentor programm_2026-11-06T10:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|Inside Vercel's Agent Desktop, Plus Decision Models: AI Collective Webinar (w/ The AI Collective)|Online",
       "description": "Get up-to-date information at: https://luma.com/genai-7cik\n\nHosted by AJ Green & Catherine McMillan",
       "url": "https://luma.com/genai-7cik",
@@ -4184,7 +4165,7 @@
     },
     {
       "title": "Rust-AICollective|AI Collective Connect: Madrid × Barcelona (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/AICollective_Madrid_Barcelona\n\nHosted by The AI Collective & 6 others",
+      "description": "Get up-to-date information at: https://luma.com/AICollective_Madrid_Barcelona\n\nHosted by The AI Collective & 7 others",
       "url": "https://luma.com/AICollective_Madrid_Barcelona",
       "sources": [
         {
@@ -4546,10 +4527,9 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session",
-        "cloud"
+        "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
