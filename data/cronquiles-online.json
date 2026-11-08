@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:39:24.556135+00:00",
+  "generated_at": "2026-11-08T22:25:34.439061+00:00",
   "total_events": 166,
   "city": "Online",
   "communities": [
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -117,6 +117,17 @@
       ]
     },
     {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Cancún",
       "description": "Disclaimer: GDG Cancún is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
       "links": [
@@ -134,6 +145,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Guadalajara",
+      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-guadalajara/",
           "label": "Sitio web"
         }
       ]
@@ -3611,7 +3633,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3638,7 +3660,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3781,7 +3803,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3848,33 +3870,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vKCl8r9oNYPPPgR",
       "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|THE PSYCLE SYSTEM: 2-DAY ONLINE WORKSHOP|Online",
-      "description": "Get up-to-date information at: https://luma.com/mxtw-70c6b01c\n\nHosted by Mexico Tech Week & Frida Ayala",
-      "url": "https://luma.com/mxtw-70c6b01c",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/mxtw-70c6b01c",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-H8Txqn36tqf0bmM",
-      "online": true,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2026-11-08T18:00:00+00:00",
-      "dtend": "2026-11-08T19:30:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-H8Txqn36tqf0bmM",
-      "hash_key": "the psycle system 2 day online workshop_2026-11-08T18:00:00+00:00"
     },
     {
       "title": "México City AI, Machine Learning and Computer Vision Meetup|Nov 9 - Agentic Labeling for Specialized Visual Data|Online",
@@ -4460,6 +4455,51 @@
       "hash_key": "road to devfest tamaulipas 2026_2026-11-21T14:00:00+00:00"
     },
     {
+      "title": "GDG Guadalajara|DevFest 2026|México|",
+      "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-11-21T09:00:00-06:00",
+      "dtend": "2026-11-21T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Android",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session",
+        "cloud",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
+    },
+    {
       "title": "GDG Villahermosa|DevFest 2026: TecNM Villahermosa|México|",
       "description": "Devfest 2026 es una oportunidad clave para explorar las tecnologías emergentes en desarrollo de software, incluyendo aplicaciones móviles, web, cloud computing e inteligencia artificial. Con charlas de expertos y talleres interactivos, es ideal para desarrolladores interesados en moldear el futuro tecnológico. Conéctate con otros profesionales en el auditorio del Congreso y sé parte del cambio.",
       "url": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-villahermosa/",
@@ -4635,7 +4675,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Puente Morelos, Puerto de Veracruz, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
     },
     {
@@ -4693,10 +4733,9 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session",
-        "cloud"
+        "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
