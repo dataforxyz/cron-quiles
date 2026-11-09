@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T22:25:34.549818+00:00",
-  "total_events": 31,
+  "generated_at": "2026-11-09T06:23:28.942285+00:00",
+  "total_events": 32,
   "city": "Jalisco",
   "communities": [
     {
@@ -35,12 +35,12 @@
       "links": []
     },
     {
-      "name": "GDG Heroica Veracruz",
-      "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "name": "GDG Guadalajara",
+      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
       "links": [
         {
           "platform": "website",
-          "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
+          "url": "https://gdg.community.dev/gdg-guadalajara/",
           "label": "Sitio web"
         }
       ]
@@ -862,6 +862,51 @@
       "hash_key": "guadalajara claude community x wizeline _2026-11-20T00:00:00+00:00"
     },
     {
+      "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
+      "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-11-21T09:00:00-06:00",
+      "dtend": "2026-11-21T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Android",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session",
+        "cloud",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44260, México",
+      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
+    },
+    {
       "title": "Pythonistas GDL|Viernes 27 de Noviembre en el HackerGarage|México|Jalisco",
       "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Por definir</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Por definir </p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking</p></li></ul>",
       "url": "https://reuniones.pythonistas-gdl.org/event/11/viernes-27-de-noviembre-en-el-hackergarage",
@@ -931,7 +976,7 @@
         "mobile",
         "web"
       ],
-      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
       "country": "México",
       "country_code": "MX",
       "state": "Jalisco",
