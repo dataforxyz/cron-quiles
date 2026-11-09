@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T06:23:28.813413+00:00",
-  "total_events": 160,
+  "generated_at": "2026-11-09T16:27:08.175355+00:00",
+  "total_events": 161,
   "city": "Online",
   "communities": [
     {
@@ -31,12 +31,23 @@
       ]
     },
     {
+      "name": "DevOps Workshop",
+      "description": "Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/devops-workshop",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
+      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/02t893pf",
+          "url": "https://luma.com/eofagheq",
           "label": "Luma"
         }
       ]
@@ -75,11 +86,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -117,6 +128,17 @@
       ]
     },
     {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Cancún",
       "description": "Disclaimer: GDG Cancún is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
       "links": [
@@ -145,17 +167,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG IPN",
-      "description": "Disclaimer: GDG IPN is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-ipn/",
           "label": "Sitio web"
         }
       ]
@@ -2883,7 +2894,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3048,7 +3059,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3589,7 +3600,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3616,7 +3627,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3732,7 +3743,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3759,7 +3770,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/02t893pf",
+      "source": "https://luma.com/eofagheq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3788,7 +3799,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3817,7 +3828,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4037,6 +4048,37 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-wCBOSEv9Wur0ZMC",
       "hash_key": "lunch hack the browser is becoming an ai_2026-11-12T18:00:00+00:00"
+    },
+    {
+      "title": "DevOps Workshop|Construir, Simular y Desplegar con Kiro, Terraform, LocalStack y AWS|Online",
+      "description": "DevOps Workshop\n**De la Idea al Deploy: Construir, Simular y Desplegar con Kiro, Terraform , LocalStack y AWS (online en español).**\n\n¿Alguna vez has usado IA para generar código y luego te has enfrentado al dolor de desplegarlo? En este meetup, vamos a mostrar un flujo de trabajo moderno que integra **Kiro** (el nuevo IDE de AWS con IA), **Terraform** para infraestructura como código y **LocalStack** para pruebas locales y la entrega final en AWS.\n\nAprenderás a generar infraestructura con prompts, validarla en un entorno local antes de tocar la nube y desplegarla con confianza. Ideal para devs y arquitectos que quieren acelerar sus proyectos con IA sin sacrificar la calidad.\n\nNos vemos pronto.\n\nLa URL será publicada a la brevedad.",
+      "url": "https://www.meetup.com/devops-workshop/events/317355481/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/devops-workshop/events/317355481/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "DevOps Workshop",
+      "dtstart": "2026-11-12T20:30:00-06:00",
+      "dtend": "2026-11-12T22:00:00-06:00",
+      "tags": [
+        "cloud",
+        "devops",
+        "frontend"
+      ],
+      "source": "https://www.meetup.com/devops-workshop/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "construir simular y desplegar con kiro t_2026-11-13T02:00:00+00:00"
     },
     {
       "title": "GDG Villahermosa|DevFest 2026: Sureste de México Virtual|Online",
@@ -4412,7 +4454,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
     },
     {
@@ -4472,7 +4514,7 @@
         "Web",
         "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-ipn/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4514,6 +4556,33 @@
       "city_code": "",
       "address": "",
       "hash_key": "dec 10 ai ml and computer vision meetup_2026-12-10T16:00:00+00:00"
+    },
+    {
+      "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
+      "description": "Get up-to-date information at: https://luma.com/nc2fac44\n\nHosted by CHIDAS TECH",
+      "url": "https://luma.com/nc2fac44",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nc2fac44",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
+      "online": true,
+      "organizer": "CHIDAS TECH",
+      "dtstart": null,
+      "dtend": null,
+      "tags": [],
+      "source": "https://luma.com/nc2fac44",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
+      "hash_key": "networking 101 fundamentos de redes_no_date"
     },
     {
       "title": "Founder Friends Mexico|Singapore: Claim your 30 day Angel Squad Guest Pass|Online",
@@ -4748,33 +4817,6 @@
       "hash_key": "hustle fund angel squad claim your 30 da_no_date"
     },
     {
-      "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
-      "description": "Get up-to-date information at: https://luma.com/nc2fac44\n\nHosted by CHIDAS TECH",
-      "url": "https://luma.com/nc2fac44",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/nc2fac44",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
-      "online": true,
-      "organizer": "CHIDAS TECH",
-      "dtstart": null,
-      "dtend": null,
-      "tags": [],
-      "source": "https://luma.com/nc2fac44",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
-      "hash_key": "networking 101 fundamentos de redes_no_date"
-    },
-    {
       "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
       "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
       "url": "https://luma.com/jov35dwo",
@@ -4791,7 +4833,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
