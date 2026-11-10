@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:20:37.205620+00:00",
+  "generated_at": "2026-11-10T23:36:15.576998+00:00",
   "total_events": 32,
   "city": "Jalisco",
   "communities": [
@@ -41,17 +41,6 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-guadalajara/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Heroica Veracruz",
-      "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
           "label": "Sitio web"
         }
       ]
@@ -914,12 +903,12 @@
       "state_code": "MX-JAL",
       "city": "Guadalajara",
       "city_code": "guadalajara",
-      "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44266, México",
+      "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44260, México",
       "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
     },
     {
       "title": "Pythonistas GDL|Viernes 27 de Noviembre en el HackerGarage|México|Jalisco",
-      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Por definir</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Por definir </p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking</p></li></ul>",
+      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Una guía para romper el mito del \"Fin de la innovación\" con creatividad, una arquitectura exótica y problemas reales.<br /><strong>Daniel De La Cruz</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ git commit -m \"Quiero ser Rockstar\"<br /><em>De una guitarra y unas líneas de Python a crear mi propio videojuego musical.</em><br /><strong>Nietsnie Alberto Pérez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
       "url": "https://reuniones.pythonistas-gdl.org/event/11/viernes-27-de-noviembre-en-el-hackergarage",
       "sources": [
         {
@@ -934,6 +923,7 @@
       "dtstart": "2026-11-28T00:30:00+00:00",
       "dtend": "2026-11-28T04:00:00+00:00",
       "tags": [
+        "frontend",
         "python"
       ],
       "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
@@ -987,7 +977,7 @@
         "mobile",
         "web"
       ],
-      "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
       "country": "México",
       "country_code": "MX",
       "state": "Jalisco",
