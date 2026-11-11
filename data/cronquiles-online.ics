@@ -1501,6 +1501,23 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|
+DTSTART:20261126T123000
+CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,Workshop / hands-on session
+ ,security
+DESCRIPTION:Dev Fest 2026 brings together GDG Tepic and Instituto Tecnoló
+ gico de Tepic's Computer Systems Engineering department for a day of innov
+ ation and collaboration. Engage in workshops and networking with developer
+ s and tech enthusiasts. Be at the forefront of technology in Tepic by secu
+ ring your spot today.
+LOCATION:Museo interactivo de ciencias e innovación de Nayarit\, s/n Aven
+ ida de la Salud\, Tepic
+X-CRONQUILES-ADDRESS:Museo interactivo de ciencias e innovación de Nayari
+ t\, s/n Avenida de la Salud\, Tepic
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Lunch with a Side of AI (w/ AI Collective NZ)|On
  line
 DTSTART:20261130T233000Z
@@ -1521,8 +1538,7 @@ LOCATION:https://luma.com/event/evt-pBKW8j8QhoYmrfT
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-pBKW8j8QhoYmrfT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracru
- z
+SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|
 DTSTART:20261205T090000
 CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemini Enterprise Agent Plat
  form,AI - Gemma,Angular,Career Development,Community Building,DevFest,Goog
@@ -1536,13 +1552,10 @@ DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
  miss out!
 LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
  da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Avenida Ignacio Zaragoza\, Poligono\, Veracruz\, Muni
- cipio de Veracruz\, Veracruz\, 91701\, México
-X-CRONQUILES-CITY:Veracruz
-X-CRONQUILES-CITY-CODE:veracruz
+X-CRONQUILES-ADDRESS:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"
+ \, 397 Avenida Ignacio Zaragoza\, Veracruz
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Veracruz
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|From Vibe to Live\, Lovable Virtual Prompathon K
@@ -1558,7 +1571,7 @@ BEGIN:VEVENT
 SUMMARY:GDG CDMX|Devfest 2026: Ciudad de México|México|
 DTSTART:20261209T080000
 CATEGORIES:AI,AI - Gemini,Android,Community Building,Conference,DevFest,Go
- ogle Cloud,Google Workspace,Web,Workshop / hands-on session
+ ogle Cloud,Google Workspace,Web,Workshop / hands-on session,cloud
 DESCRIPTION:Devfest 2026 en la Ciudad de México es el evento imperdible p
  ara desarrolladores\, entusiastas de la tecnología e innovadores. Explora
   nuevas fronteras tecnológicas y conecta con otros apasionados. Únete a 
@@ -1647,14 +1660,6 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  Peloton and Samsung TV Plus\, and holds an MS in Computer Graphics Technol
  ogy from Purdue.
 LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Claude Community|Sydney  -  Claude Meetup|Online
-DTSTART:20270225T063000Z
-DESCRIPTION:Get up-to-date information at: https://luma.com/claude-b1lq\n\
- nHosted by Dominik Fretz
-LOCATION:https://luma.com/event/evt-BBB8MxHxFp0hwAz
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-BBB8MxHxFp0hwAz
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online
