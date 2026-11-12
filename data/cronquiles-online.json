@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:55:44.555760+00:00",
+  "generated_at": "2026-11-12T15:38:22.201414+00:00",
   "total_events": 160,
   "city": "Online",
   "communities": [
@@ -114,6 +114,17 @@
           "platform": "luma",
           "url": "https://luma.com/fdg8riz2",
           "label": "Luma"
+        }
+      ]
+    },
+    {
+      "name": "AWS User Group Mixtli",
+      "description": "Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli",
+          "label": "Meetup"
         }
       ]
     },
@@ -3850,35 +3861,6 @@
       "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|Put AI to Work with ChatGPT Dots|Online",
-      "description": "Get up-to-date information at: https://luma.com/e9q4tcbr\n\nHosted by Bill Raymond & 3 others",
-      "url": "https://luma.com/e9q4tcbr",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/e9q4tcbr",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-fvlLOXjYocCJY49",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-11-12T02:00:00+00:00",
-      "dtend": "2026-11-12T03:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-fvlLOXjYocCJY49",
-      "hash_key": "put ai to work with chatgpt dots_2026-11-12T02:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|Build an AI Search Agent in Claude Cowork, No Code (Free Live Lesson)|Online",
       "description": "Get up-to-date information at: https://luma.com/9lqxm8i0\n\nHosted by Anna, The AI Collective & AJ Green",
       "url": "https://luma.com/9lqxm8i0",
@@ -3936,6 +3918,38 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-wCBOSEv9Wur0ZMC",
       "hash_key": "lunch hack the browser is becoming an ai_2026-11-12T18:00:00+00:00"
+    },
+    {
+      "title": "AWS User Group Mixtli|Tecnología y servicios  de la nube|Online",
+      "description": "AWS User Group Mixtli\nContinuamos la serie de sesiones de preparación para la certificación AWS Certified Cloud Practitioner (CLF-C02), y en esta tercera sesión abordamos el dominio más grande del examen.\n**Dominio 3: Tecnología y servicios de la nube (34 % del examen)**\nEs el dominio de mayor peso de toda la certificación: casi una de cada tres preguntas sale de aquí, y casi todas piden identificar qué servicio resuelve un problema. Veremos:\n\n* Métodos de despliegue y operación: consola, CLI, SDK e infraestructura como código con CloudFormation, modelos de nube, híbrido y local, y conectividad con VPN y Direct Connect.\n* Infraestructura global: Regiones, zonas de disponibilidad y ubicaciones perimetrales, y cuándo usar varias zonas o varias Regiones.\n* Cómputo y bases de datos: familias de EC2, contenedores con ECS, EKS y Fargate, Lambda, Auto Scaling y balanceo de carga. RDS, Aurora, DynamoDB, ElastiCache y migración con DMS.\n* Redes y almacenamiento: VPC, Route 53 y CloudFront. S3 con sus clases y plazos mínimos, EBS, EFS, FSx y AWS Backup.\n* IA, analítica y otros servicios: SageMaker, Rekognition, Athena, Kinesis y Glue. SQS, SNS, EventBridge y herramientas para desarrolladores.\n\n**¿Qué te llevarás?**\n\n* Un mapa de problema a servicio para identificar la respuesta correcta a partir de las palabras clave de cada pregunta.\n* Claridad sobre servicios que se confunden, como SQS y SNS, o Multi-AZ y réplicas de lectura.\n* Los datos que más se preguntan, como las clases de S3 y su costo según la frecuencia de acceso.\n* Claridad sobre cómo estudiar y qué priorizar.\n* Un espacio para resolver dudas y aprender en comunidad.\n\n**¿Para quién es?**\nPara cualquier persona que quiera iniciar en la nube o certificarse, sin importar su perfil: estudiantes, desarrolladores, administradores de sistemas, personas de negocio o gente en transición a TI. No se requiere experiencia previa. Si no pudiste asistir a las sesiones anteriores, no te preocupes: puedes unirte igual.\n🔗 Enlaces importantes:\n\n1. [Guía oficial de AWS](https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)\n2. [Learning Path en AWS Skill Builder](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-espaol-latam/RX7XZB6CTM)",
+      "url": "https://www.meetup.com/awsugmixtli/events/317392623/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli/events/317392623/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Online event,",
+      "online": true,
+      "organizer": "AWS User Group Mixtli",
+      "dtstart": "2026-11-12T18:30:00-06:00",
+      "dtend": "2026-11-12T20:30:00-06:00",
+      "tags": [
+        "ai",
+        "cloud",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/awsugmixtli/events/ical",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "",
+      "hash_key": "tecnologa y servicios de la nube_2026-11-13T00:00:00+00:00"
     },
     {
       "title": "DevOps Workshop|Construir, Simular y Desplegar con Kiro, Terraform, LocalStack y AWS|Online",
@@ -4093,33 +4107,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-6YqNoKFO4uJK5W0",
       "hash_key": "ai collective connect madrid barcelona w_2026-11-18T18:00:00+00:00"
-    },
-    {
-      "title": "Claude Community|Barcelona  -  Workshop & Cowork - Claude for LinkedIn|Online",
-      "description": "Get up-to-date information at: https://luma.com/claude-2ugt\n\nHosted by Fernanda Grace Lins",
-      "url": "https://luma.com/claude-2ugt",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/claude-2ugt",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-nG1EG2qpitkFpwu",
-      "online": true,
-      "organizer": "Claude Community",
-      "dtstart": "2026-11-19T09:00:00+00:00",
-      "dtend": "2026-11-19T12:00:00+00:00",
-      "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-nG1EG2qpitkFpwu",
-      "hash_key": "barcelona workshop cowork claude for lin_2026-11-19T08:00:00+00:00"
     },
     {
       "title": "Kong Mexico City|AI ROI by Business Unit: FinOps for AI Platforms|Online",
@@ -4534,6 +4521,35 @@
       "city_code": "",
       "address": "",
       "hash_key": "dec 10 ai ml and computer vision meetup_2026-12-10T16:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|AI Roundtable #30: What Actually Worked: The Most Useful AI Use Cases of 2026 (w/ The AI Collective Kansas City & Voyage Consulting Group)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-kc-roundtable30\n\nHosted by The AI Collective & 4 others",
+      "url": "https://luma.com/aic-kc-roundtable30",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-kc-roundtable30",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-gTbeprq8kAXNmCx",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-12-14T18:00:00+00:00",
+      "dtend": "2026-12-14T19:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-gTbeprq8kAXNmCx",
+      "hash_key": "ai roundtable 30 what actually worked th_2026-12-14T18:00:00+00:00"
     },
     {
       "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",

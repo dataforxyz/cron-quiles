@@ -1195,15 +1195,6 @@ LOCATION:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Put AI to Work with ChatGPT Dots|Online
-DTSTART:20261112T020000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/e9q4tcbr\n\nHo
- sted by Bill Raymond & 3 others
-LOCATION:https://luma.com/event/evt-fvlLOXjYocCJY49
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-fvlLOXjYocCJY49
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Build an AI Search Agent in Claude Cowork\, No C
  ode (Free Live Lesson)|Online
 DTSTART:20261112T150000Z
@@ -1222,6 +1213,45 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-gl-11-12\n
  \nHosted by The AI Collective & Adelina Martiniuc
 LOCATION:https://luma.com/event/evt-wCBOSEv9Wur0ZMC
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-wCBOSEv9Wur0ZMC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AWS User Group Mixtli|Tecnología y servicios  de la nube|Online
+DTSTART:20261112T183000
+CATEGORIES:ai,cloud,frontend,mobile
+DESCRIPTION:AWS User Group Mixtli\nContinuamos la serie de sesiones de pre
+ paración para la certificación AWS Certified Cloud Practitioner (CLF-C02
+ )\, y en esta tercera sesión abordamos el dominio más grande del examen.
+ \n**Dominio 3: Tecnología y servicios de la nube (34 % del examen)**\nEs 
+ el dominio de mayor peso de toda la certificación: casi una de cada tres 
+ preguntas sale de aquí\, y casi todas piden identificar qué servicio res
+ uelve un problema. Veremos:\n\n* Métodos de despliegue y operación: cons
+ ola\, CLI\, SDK e infraestructura como código con CloudFormation\, modelo
+ s de nube\, híbrido y local\, y conectividad con VPN y Direct Connect.\n*
+  Infraestructura global: Regiones\, zonas de disponibilidad y ubicaciones 
+ perimetrales\, y cuándo usar varias zonas o varias Regiones.\n* Cómputo 
+ y bases de datos: familias de EC2\, contenedores con ECS\, EKS y Fargate\,
+  Lambda\, Auto Scaling y balanceo de carga. RDS\, Aurora\, DynamoDB\, Elas
+ tiCache y migración con DMS.\n* Redes y almacenamiento: VPC\, Route 53 y 
+ CloudFront. S3 con sus clases y plazos mínimos\, EBS\, EFS\, FSx y AWS Ba
+ ckup.\n* IA\, analítica y otros servicios: SageMaker\, Rekognition\, Athe
+ na\, Kinesis y Glue. SQS\, SNS\, EventBridge y herramientas para desarroll
+ adores.\n\n**¿Qué te llevarás?**\n\n* Un mapa de problema a servicio pa
+ ra identificar la respuesta correcta a partir de las palabras clave de cad
+ a pregunta.\n* Claridad sobre servicios que se confunden\, como SQS y SNS\
+ , o Multi-AZ y réplicas de lectura.\n* Los datos que más se preguntan\, 
+ como las clases de S3 y su costo según la frecuencia de acceso.\n* Clarid
+ ad sobre cómo estudiar y qué priorizar.\n* Un espacio para resolver duda
+ s y aprender en comunidad.\n\n**¿Para quién es?**\nPara cualquier person
+ a que quiera iniciar en la nube o certificarse\, sin importar su perfil: e
+ studiantes\, desarrolladores\, administradores de sistemas\, personas de n
+ egocio o gente en transición a TI. No se requiere experiencia previa. Si 
+ no pudiste asistir a las sesiones anteriores\, no te preocupes: puedes uni
+ rte igual.\n🔗 Enlaces importantes:\n\n1. [Guía oficial de AWS](https:/
+ /d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner
+ /AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)\n2. [Learning Path en AW
+ S Skill Builder](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-pract
+ itioner-essentials-espaol-latam/RX7XZB6CTM)
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DevOps Workshop|Construir\, Simular y Desplegar con Kiro\, Terrafo
@@ -1286,15 +1316,6 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/AICollective_M
  adrid_Barcelona\n\nHosted by The AI Collective & 7 others
 LOCATION:https://luma.com/event/evt-6YqNoKFO4uJK5W0
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-6YqNoKFO4uJK5W0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Claude Community|Barcelona  -  Workshop & Cowork - Claude for Link
- edIn|Online
-DTSTART:20261119T090000Z
-DESCRIPTION:Get up-to-date information at: https://luma.com/claude-2ugt\n\
- nHosted by Fernanda Grace Lins
-LOCATION:https://luma.com/event/evt-nG1EG2qpitkFpwu
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-nG1EG2qpitkFpwu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kong Mexico City|AI ROI by Business Unit: FinOps for AI Platforms|
@@ -1554,6 +1575,17 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
  Peloton and Samsung TV Plus\, and holds an MS in Computer Graphics Technol
  ogy from Purdue.
 LOCATION:Online event\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|AI Roundtable #30: What Actually Worked: The Mos
+ t Useful AI Use Cases of 2026 (w/ The AI Collective Kansas City & Voyage C
+ onsulting Group)|Online
+DTSTART:20261214T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-kc-roundta
+ ble30\n\nHosted by The AI Collective & 4 others
+LOCATION:https://luma.com/event/evt-gTbeprq8kAXNmCx
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-gTbeprq8kAXNmCx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online

@@ -18,7 +18,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**AWS Ajolotes Ciudad de México**](https://www.meetup.com/aws-cdmx) | User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**AWS Cloud Club at Universidad Nacional Autonoma de México**](https://www.meetup.com/aws-cloud-club-at-unam) | El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube. | Online |
 | 🔴 [**AWS User Group Jalisco**](https://www.meetup.com/amazon-web-services-jalisco) | Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon. | Online |
-| 🔴 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Online |
+| 🟢 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Online |
 | 🔴 [**CHIDAS TECH**](https://luma.com/nc2fac44) | Comunidad tech. Eventos sobre redes, infraestructura y desarrollo. | Online |
 | 🟢 [**Claude Community**](https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu) | Events for the Claude AI community. | Ciudad de México, Colima, Jalisco, Nuevo León, Puebla, Querétaro, Quintana Roo, Sonora, Tabasco, Yucatán |
 | 🔴 [**Data, Cloud and AI in Mexico City**](https://www.meetup.com/big-data-developers-in-mexico-city) | IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts. | Online |
@@ -51,7 +51,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Meetup México**](https://www.meetup.com/meetup-mexico) | Comunidad general de usuarios y organizadores de Meetup en México. | Online |
 | 🔴 [**MexAI - Comunidad de IA**](https://eb-to-ical.daylightpirates.org/eventbrite-organizer-ical) | Comunidad de IA en Guadalajara. Eventos sobre Inteligencia Artificial. | Online |
 | 🔴 [**Mexico City Apache Kafka**](https://www.meetup.com/mexico-kafka) | Mexico City Apache Kafka Meetup. | Online |
-| ⏸️ [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, Estado de México, Online |
+| ⏸️ [**Mexico Tech Week**](https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu) | Calendario oficial de Mexico Tech Week 2025. | Ciudad de México, Estado de México, México, Online |
 | 🔴 [**Microsoft Fabric CDMX**](https://www.meetup.com/mexico-city-microsoft-fabric-group) | Grupo de usuarios de Microsoft Fabric y análisis de datos empresarial. | Online |
 | 🔴 [**México City Docker friends**](https://www.meetup.com/mexico-city-docker-friends) | Learn, Collaborate & Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker. | Online |
 | 🔴 [**NoTrustSec**](https://www.meetup.com/notrustsec) | Ciberseguridad, hacking ético y seguridad ofensiva/defensiva. | Online |
@@ -69,7 +69,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**Rust MX**](https://www.meetup.com/rust-mx) | Comunidad dedicada al lenguaje Rust. Enfoque en seguridad, velocidad y concurrencia. | Online |
 | 🔴 [**Scala & FP CDMX**](https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote) | Programación funcional y lenguaje Scala. | Online |
 | 🔴 [**Sysarmy México**](https://www.meetup.com/sysarmy-mexico) | Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector. | Online |
-| 🔴 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Online |
+| 🟢 [**The Data Pub**](https://www.meetup.com/thedatapub) | Punto de encuentro para amantes de los datos, ciencia de datos y visualización. | Ciudad de México |
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
 | 🔴 [**This Week in Fintech**](https://luma.com/lkn7cfxz) | AI x Fintech Talks, Mexico Fintech Week 2026. | Online |
 | 🔴 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Online |
