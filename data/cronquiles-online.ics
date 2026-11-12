@@ -1195,118 +1195,6 @@ LOCATION:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Building Together: Share Your Work\, Find Your P
- eople (w/ The AI Collective)|Online
-DTSTART:20261111T150000Z
-CATEGORIES:ai,frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-du-11-4\n\
- nHosted by The AI Collective
-LOCATION:https://luma.com/event/evt-vhCjwyfSfOgFRQP
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vhCjwyfSfOgFRQP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Nov 
- 11 - AI\, ML and Computer Vision Meetup|Online
-DTSTART:20261111T110000
-CATEGORIES:ai,backend,data,frontend,security
-DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
- nJoin our virtual meetup to hear talks from experts on cutting-edge topics
-  across AI\, ML\, and computer vision.\n\n**Time\, Date and Location**\n\n
- Nov 11\, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](
- https://voxel51.com/events/ai-ml-and-computer-vision-meetup-november-11-20
- 26)**\n\n**Agentic RAG: Beyond Retrieve-and-Generate**\n\nRetrieval-Augmen
- ted Generation (RAG) has become the default pattern for grounding large la
- nguage models in external knowledge\, but most implementations still follo
- w a rigid retrieve-once\, generate-once pipeline — one that struggles wi
- th multi-hop questions\, ambiguous queries\, and knowing when its own retr
- ieved context is insufficient. This talk introduces Agentic RAG\, where re
- trieval is treated as an action within an agent's reasoning loop rather th
- an a fixed upstream step.\n\nWe'll examine query decomposition and routing
-  for breaking complex questions into targeted sub-queries\, self-reflectiv
- e and corrective retrieval loops that let an agent judge and re-query its 
- own results\, and tool-orchestration patterns (via MCP) that let retrieval
-  sit alongside other agent actions like database lookups and API calls. Us
- ing a live architecture — evolving a standard RAG chatbot into an agenti
- c\, MCP-connected system — we'll walk through what changes in design\, a
- nd where these systems introduce new failure modes: grounding drift\, late
- ncy and cost from repeated retrieval loops\, and cases where a simpler RAG
-  pipeline still wins.\n\nAttendees will leave with a practical framework f
- or deciding when the added complexity of agentic RAG is worth it\, and a s
- et of design patterns for building it correctly.\n\n*About the Speaker*\n\
- n[Balaji Venkatasubramaniyar](https://www.linkedin.com/in/balaji-venkatasu
- bramaniyar/) is a Technical Lead at Wisdom Infotech\, leading a 15+ person
-  engineering team delivering enterprise solutions. With 13+ years of exper
- ience in enterprise software and insurance technology\, he specializes in 
- agentic AI systems\, RAG architectures\, and vector databases.\n\n**GeoAI 
- for the Physical World: Earth Observation\, Foundation Models\, and Urban 
- Digital Twins**\n\nEarth observation provides a unique form of computer vi
- sion for understanding the physical world at city to continental scales. I
- n this talk\, I will show how satellite imagery\, geospatial data\, machin
- e learning\, and foundation-model representations can be combined to chara
- cterize urban environments and environmental conditions.\n\nI will present
-  UrbanScope Open\, an open GeoAI digital-twin prototype integrating Earth 
- observation with 3D buildings\, vegetation\, land-surface temperature\, ai
- r quality\, noise\, population\, and other urban data. I will also share l
- essons from my research using geospatial foundation-model embeddings for e
- nvironmental prediction across Europe.\n\nThe talk will discuss how these 
- approaches can contribute to increasingly multimodal AI systems capable of
-  reasoning about real-world environments.\n\n*About the Speaker*\n\n[Cesar
-  Alvarez](https://voxel51.com/events/cesar.alvarez@uni-a.de) is a research
- er at the University of Augsburg working at the intersection of GeoAI\, Ea
- rth observation\, remote sensing\, and environmental intelligence. His res
- earch applies machine learning\, computer vision\, and geospatial foundati
- on models to problems including urban environments\, climate risk\, air qu
- ality\, and agriculture.\n\n**Can agents get curious?**\n\nMost AI agents 
- are good at answering a question once we tell them exactly what to look fo
- r. The harder problem is building agents that can explore a complex datase
- t autonomously: generating hypotheses\, deciding which analyses are worth 
- running\, allocating additional compute when evidence is ambiguous\, and k
- nowing when they have enough evidence to stop.\n\nIn this talk\, I’ll sh
- ow an architecture for autonomous research agents that combines structured
-  knowledge\, iterative tool use\, and explicit evidence tracking to turn o
- pen-ended questions into a sequence of testable investigations. I’ll dis
- cuss practical lessons from building and evaluating these systems\, includ
- ing why more test-time compute does not automatically produce better resea
- rch and how provenance and evaluation can make long-running agents more re
- liable.\n\nI’ll close with a live example of an agent exploring a datase
- t\, revising its hypotheses\, and choosing what to investigate next.\n\n*A
- bout the Speaker*\n\n[Srivatsa P](https://www.linkedin.com/in/srivatsa-p) 
- is a member of technical staff at Sigma Computing\, where he works on AI a
- gents that reason over complex enterprise data. Previously\, he worked on 
- machine learning at Apple and conducted research at the MIT Media Lab\; ou
- tside of traditional ML\, he has also worked on mapping coral reefs throug
- h underwater imaging\, which sparked an enduring interest in how intellige
- nt systems make sense of messy real-world data.\n\n**Does Cross-Validation
-  Work in Deep Learning?**\n\nCross-validation is a standard in hyperparame
- ter optimization in classical ML\, but is generally considered computation
- ally prohibitive and unnecessary in deep learning. We investigated whether
-  CV produces 1. better DL models 2. better estimates of future performance
-  of said models. We focused on medical image classification as an importan
- t deep learning application domain.\n\nOur results show that cross-validat
- ion consistently and materially reduces the gap between development and in
- dependent testing error for relatively small training datasets (up to abou
- t 1000 images). The test performance improvement was generally modest. We 
- discuss the implications for deep-learning practitioners\, including wheth
- er the increased computational cost of cross-validation is justified.\n\n*
- About the Speaker*\n\n[Ljubomir Buturovic](https://www.linkedin.com/in/lju
- bomir-buturovic-798156/) is an AI scientist and biotech executive with ext
- ensive experience in clinical diagnostics\, including work at Inflammatix 
- and Pathwork Diagnostics. His current research focuses on deep-learning im
- age classification\, infectious disease adjudication using LLMs\, and deve
- lopment of AI models for helping critically ill patients.
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|AI Collective Detroit x Codalio : Building apps 
- with Codalio|Online
-DTSTART:20261111T233000Z
-CATEGORIES:ai,frontend
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-de-11-11\n
- \nHosted by The AI Collective & 9 others
-LOCATION:https://luma.com/event/evt-5RAbNSf2zNssESZ
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-5RAbNSf2zNssESZ
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Put AI to Work with ChatGPT Dots|Online
 DTSTART:20261112T020000Z
 CATEGORIES:ai
@@ -1314,6 +1202,16 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/e9q4tcbr\n\nHo
  sted by Bill Raymond & 3 others
 LOCATION:https://luma.com/event/evt-fvlLOXjYocCJY49
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-fvlLOXjYocCJY49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|Build an AI Search Agent in Claude Cowork\, No C
+ ode (Free Live Lesson)|Online
+DTSTART:20261112T150000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/9lqxm8i0\n\nHo
+ sted by Anna\, The AI Collective & AJ Green
+LOCATION:https://luma.com/event/evt-wTYo2LTwam9A61L
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-wTYo2LTwam9A61L
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Lunch & Hack: The Browser Is Becoming an AI Runt
@@ -1369,6 +1267,15 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sw-ws-seri
  es-2\n\nHosted by The AI Collective\, Neelima Misra & Nithya Narayanan
 LOCATION:https://luma.com/event/evt-AObtrZzp5pBxvqV
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-AObtrZzp5pBxvqV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|PROMPT: New York|Online
+DTSTART:20261116T190000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/d49b833j\n\nHo
+ sted by Emrah Kurtulmus & 3 others
+LOCATION:https://luma.com/event/evt-SPw2EENLbIPAMB1
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-SPw2EENLbIPAMB1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI Collective Connect: Madrid × Barcelona (w/ T
@@ -1536,7 +1443,7 @@ DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
  miss out!
 LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
  da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Puente Morelos\, Puerto de Veracruz\, Veracruz\, Muni
+X-CRONQUILES-ADDRESS:Avenida Ignacio Zaragoza\, Poligono\, Veracruz\, Muni
  cipio de Veracruz\, Veracruz\, 91701\, México
 X-CRONQUILES-CITY:Veracruz
 X-CRONQUILES-CITY-CODE:veracruz
