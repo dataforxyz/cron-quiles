@@ -1195,64 +1195,6 @@ LOCATION:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vKCl8r9oNYPPPgR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AWS User Group Mixtli|Tecnología y servicios  de la nube|Online
-DTSTART:20261112T183000
-CATEGORIES:ai,cloud,frontend,mobile
-DESCRIPTION:AWS User Group Mixtli\nContinuamos la serie de sesiones de pre
- paración para la certificación AWS Certified Cloud Practitioner (CLF-C02
- )\, y en esta tercera sesión abordamos el dominio más grande del examen.
- \n**Dominio 3: Tecnología y servicios de la nube (34 % del examen)**\nEs 
- el dominio de mayor peso de toda la certificación: casi una de cada tres 
- preguntas sale de aquí\, y casi todas piden identificar qué servicio res
- uelve un problema. Veremos:\n\n* Métodos de despliegue y operación: cons
- ola\, CLI\, SDK e infraestructura como código con CloudFormation\, modelo
- s de nube\, híbrido y local\, y conectividad con VPN y Direct Connect.\n*
-  Infraestructura global: Regiones\, zonas de disponibilidad y ubicaciones 
- perimetrales\, y cuándo usar varias zonas o varias Regiones.\n* Cómputo 
- y bases de datos: familias de EC2\, contenedores con ECS\, EKS y Fargate\,
-  Lambda\, Auto Scaling y balanceo de carga. RDS\, Aurora\, DynamoDB\, Elas
- tiCache y migración con DMS.\n* Redes y almacenamiento: VPC\, Route 53 y 
- CloudFront. S3 con sus clases y plazos mínimos\, EBS\, EFS\, FSx y AWS Ba
- ckup.\n* IA\, analítica y otros servicios: SageMaker\, Rekognition\, Athe
- na\, Kinesis y Glue. SQS\, SNS\, EventBridge y herramientas para desarroll
- adores.\n\n**¿Qué te llevarás?**\n\n* Un mapa de problema a servicio pa
- ra identificar la respuesta correcta a partir de las palabras clave de cad
- a pregunta.\n* Claridad sobre servicios que se confunden\, como SQS y SNS\
- , o Multi-AZ y réplicas de lectura.\n* Los datos que más se preguntan\, 
- como las clases de S3 y su costo según la frecuencia de acceso.\n* Clarid
- ad sobre cómo estudiar y qué priorizar.\n* Un espacio para resolver duda
- s y aprender en comunidad.\n\n**¿Para quién es?**\nPara cualquier person
- a que quiera iniciar en la nube o certificarse\, sin importar su perfil: e
- studiantes\, desarrolladores\, administradores de sistemas\, personas de n
- egocio o gente en transición a TI. No se requiere experiencia previa. Si 
- no pudiste asistir a las sesiones anteriores\, no te preocupes: puedes uni
- rte igual.\n🔗 Enlaces importantes:\n\n1. [Guía oficial de AWS](https:/
- /d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner
- /AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)\n2. [Learning Path en AW
- S Skill Builder](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-pract
- itioner-essentials-espaol-latam/RX7XZB6CTM)
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DevOps Workshop|Construir\, Simular y Desplegar con Kiro\, Terrafo
- rm\, LocalStack y AWS|Online
-DTSTART:20261112T203000
-CATEGORIES:cloud,devops,frontend
-DESCRIPTION:DevOps Workshop\n**De la Idea al Deploy: Construir\, Simular y
-  Desplegar con Kiro\, Terraform \, LocalStack y AWS (online en español).*
- *\n\n¿Alguna vez has usado IA para generar código y luego te has enfrent
- ado al dolor de desplegarlo? En este meetup\, vamos a mostrar un flujo de 
- trabajo moderno que integra **Kiro** (el nuevo IDE de AWS con IA)\, **Terr
- aform** para infraestructura como código y **LocalStack** para pruebas lo
- cales y la entrega final en AWS.\n\nAprenderás a generar infraestructura 
- con prompts\, validarla en un entorno local antes de tocar la nube y despl
- egarla con confianza. Ideal para devs y arquitectos que quieren acelerar s
- us proyectos con IA sin sacrificar la calidad.\n\nNos vemos pronto.\n\n[ht
- tps://www.youtube.com/watch?v=tX9djgm7pwM](https://www.youtube.com/watch?v
- =tX9djgm7pwM)
-LOCATION:Online event\,
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDG Villahermosa|DevFest 2026: Sureste de México Virtual|Online
 DTSTART:20261113T080000
 CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Web,Workshop / h
@@ -1265,6 +1207,36 @@ DESCRIPTION:Devfest 2026 es la cita ideal para desarrolladores que quieran
  ia!
 LOCATION:Online
 X-CRONQUILES-ADDRESS:Online
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Tijuana|DevFest Tijuana 2026|México|
+DTSTART:20261113T150000
+CATEGORIES:AI - Gemini,Conference,DevFest,Flutter,Google Cloud,Workshop / 
+ hands-on session
+DESCRIPTION:Join us for our inaugural GDG Tijuana event as we pave the way
+  to DevFest Tijuana 2026! Be part of the journey to the most exciting tech
+  event of the year by connecting with fellow developers and tech enthusias
+ ts. Enjoy a day filled with engaging discussions\, networking opportunitie
+ s\, and a sneak peek into what DevFest 2026 will offer. Don’t miss the c
+ hance to contribute your ideas and shape the f
+LOCATION:Terraza Badabun\, Calle 11 8296\, Tijuana
+X-CRONQUILES-ADDRESS:Terraza Badabun\, Calle 11 8296\, Tijuana
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG San Francisco de Campeche|DevFest Campeche 2026|México|
+DTSTART:20261114T090000
+CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Workshop / hands
+ -on session
+DESCRIPTION:¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nos
+ otros este 14 de noviembre en el Centro Internacional de Con...
+LOCATION:Centro Internacional de Convenciones y Exposiciones Campeche XXI\
+ , 219 Pedro Sainz de Baranda\, San Francisco de Campeche
+X-CRONQUILES-ADDRESS:Centro Internacional de Convenciones y Exposiciones C
+ ampeche XXI\, 219 Pedro Sainz de Baranda\, San Francisco de Campeche
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
@@ -1296,6 +1268,16 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/AICollective_M
  adrid_Barcelona\n\nHosted by The AI Collective & 7 others
 LOCATION:https://luma.com/event/evt-6YqNoKFO4uJK5W0
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-6YqNoKFO4uJK5W0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rust-AICollective|Ship Happens 🚀 Turn Your Idea Into an AI Busi
+ ness in 4 Weeks: Launch & Week 1 (w/ The AI Collective)|Online
+DTSTART:20261119T000000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-ny-11-18\n
+ \nHosted by The AI Collective & Kirsten Co
+LOCATION:https://luma.com/event/evt-ef1ewezdW777hbC
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-ef1ewezdW777hbC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kong Mexico City|AI ROI by Business Unit: FinOps for AI Platforms|
@@ -1409,6 +1391,23 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|
+DTSTART:20261126T123000
+CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,Workshop / hands-on session
+ ,security
+DESCRIPTION:Dev Fest 2026 brings together GDG Tepic and Instituto Tecnoló
+ gico de Tepic's Computer Systems Engineering department for a day of innov
+ ation and collaboration. Engage in workshops and networking with developer
+ s and tech enthusiasts. Be at the forefront of technology in Tepic by secu
+ ring your spot today.
+LOCATION:Museo interactivo de ciencias e innovación de Nayarit\, s/n Aven
+ ida de la Salud\, Tepic
+X-CRONQUILES-ADDRESS:Museo interactivo de ciencias e innovación de Nayari
+ t\, s/n Avenida de la Salud\, Tepic
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Lunch with a Side of AI (w/ AI Collective NZ)|On
  line
 DTSTART:20261130T233000Z
@@ -1417,6 +1416,26 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-nz-12-1\n\
  nHosted by The AI Collective & Nadia Ellis
 LOCATION:https://luma.com/event/evt-vjP1GzbAMNW01HM
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vjP1GzbAMNW01HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Heroica Veracruz|DevFest 2026 Health|México|
+DTSTART:20261202T090000
+CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemma,Accessibility,Angular,
+ Career Development,Community Building,Conference,DevFest,Firebase,Flutter,
+ Google Cloud,Google Maps Platform,Google Workspace,Hackathon,Networking,Te
+ ch Talk / Meetup,UX / UI Design,Web,Workshop / hands-on session,mobile,web
+DESCRIPTION:El 02 de diciembre de 2026\, DevFest Health 2026 se lleva a ca
+ bo en las oficinas de AstraZeneca en Guadalajara. Los asistentes explorar
+ án tendencias en inteligencia artificial y tecnologías de Google mediant
+ e talleres interactivos y charlas de expertos sobre Angular\, Flutter y m
+ ás. Es una oportunidad para desarrolladores apasionados de conectar y apr
+ ender juntos. ¡Regístrate ahora!
+LOCATION:AstraZeneca GITC Guadalajara\, 4965 Boulevard Puerta de Hierro\, 
+ Zapopan
+X-CRONQUILES-ADDRESS:AstraZeneca GITC Guadalajara\, 4965 Boulevard Puerta 
+ de Hierro\, Zapopan
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Beyond AI Readiness: Architecting the Intelligen
@@ -1429,8 +1448,7 @@ LOCATION:https://luma.com/event/evt-pBKW8j8QhoYmrfT
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-pBKW8j8QhoYmrfT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracru
- z
+SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|
 DTSTART:20261205T090000
 CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemini Enterprise Agent Plat
  form,AI - Gemma,Angular,Career Development,Community Building,DevFest,Goog
@@ -1444,20 +1462,17 @@ DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
  miss out!
 LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
  da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Puente Morelos\, Puerto de Veracruz\, Veracruz\, Muni
- cipio de Veracruz\, Veracruz\, 91701\, México
-X-CRONQUILES-CITY:Veracruz
-X-CRONQUILES-CITY-CODE:veracruz
+X-CRONQUILES-ADDRESS:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"
+ \, 397 Avenida Ignacio Zaragoza\, Veracruz
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
-X-CRONQUILES-STATE:Veracruz
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|From Vibe to Live\, Lovable Virtual Prompathon K
  ickoff｜Lovable 線上黑客松交流會 + Office Hour|Online
 DTSTART:20261207T110000Z
 CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-ta-12-6_ma
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-ta-12-7_ma
  in\n\nHosted by The AI Collective & Grace Pan
 LOCATION:https://luma.com/event/evt-n9ogEMxck80yIPh
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-n9ogEMxck80yIPh
@@ -1566,6 +1581,92 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/aic-kc-roundta
  ble30\n\nHosted by The AI Collective & 4 others
 LOCATION:https://luma.com/event/evt-gTbeprq8kAXNmCx
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-gTbeprq8kAXNmCx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Jan 
+ 14 - MCP\, Agents and Skills Meetup|Online
+DTSTART:20270114T110000
+CATEGORIES:ai,data,devops,frontend,security,web
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup to hear talks from experts on cutting-edge topics
+  across AI\, ML\, and computer vision.\n\n**Date\, Time and Location**\n\n
+ Jan 14\, 2027\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](
+ https://voxel51.com/events/mcp-agents-skills-meetup-january-14-2027)**\n\n
+ **From Demo to Production: Testing\, Scaling and Securing AI Agents with S
+ pring AI**\n\nYour agent works perfectly in the demo. Then in production i
+ t gives a wrong answer and nobody can tell why\, token costs spike\, it sl
+ ows to a crawl under load\, and it calls a tool the user was never allowed
+  to use. Building an agent is the easy part\; the real work is running it 
+ like any other production service: tested\, observable\, scalable and secu
+ re.\n\nSpring AI lets you do that with the Spring idioms and tooling you a
+ lready know. This code-first session grows one example step by step. We st
+ art with a simple ChatClient\, add advisors\, memory and RAG\, comparing t
+ he options Spring AI offers for each\, and then let the agent act through 
+ tool calling and MCP.\n\nThen come the production questions:\n\n* Testing:
+  we catch regressions with LLM-as-judge evaluators and typed decision mode
+ ls like Jev for fast\, cheap verdicts.\n* Observability: we add Micrometer
+  traces\, logs and token usage across model and tool calls.\n* Scaling: we
+  compare options for handling more concurrent users\, from self-hosting to
+  a managed runtime such as Amazon Bedrock AgentCore.\n* Security: we use S
+ pring Security to authenticate users and make sure only the MCP tools they
+ 're allowed to use ever get called. You'll leave with reusable Spring patt
+ erns for agents that reason and act\, and the discipline to test\, observe
+ \, scale and secure them in production.\n\n*About the Speaker*\n\n[Andrei 
+ Shakirin](https://www.linkedin.com/in/andrei-shakirin/) is a Solutions Arc
+ hitect at Amazon Web Services and a former Pivotal Labs engineer\, special
+ izing in the design of highly scalable systems and generative AI applicati
+ ons. He is an active committer to several Spring and Apache open-source pr
+ ojects\, contributor into MCP java SDK and a regular speaker at technical 
+ conferences.\n\n**From Model Evals to System Evals: Evaluating Agents\, Ha
+ rnesses\, and the Evaluators Themselves**\n\nEvery team shipping agents is
+  quietly standing up two systems: the agent harness that plans\, retrieves
+ \, calls tools\, and edits code — and the evaluation harness that decide
+ s whether any of it can be trusted. Most teams only evaluate the first one
+ 's final output.\n\nThat is not enough. An agent can produce a correct ans
+ wer through an unreliable\, wasteful\, or out-of-policy execution path\, a
+ nd outcome-only checks will pass it. This talk argues for evaluating the w
+ hole agent system: execution trajectories — tool correctness\, evidence 
+ and grounding\, state handling\, policy compliance\, and efficiency — al
+ ongside final outcomes\, using deterministic specification checks an agent
+  cannot game\, model-based judges\, and human-calibrated benchmarks.\n\nWe
+  separate capability evaluations from regression evaluations so harness or
+  model changes can be gated in CI. Then we turn the lens around: the evalu
+ ators themselves need evaluating — LLM judge calibration\, disagreement 
+ analysis\, and where human review still belongs.\n\nAttendees leave with a
+  production checklist for gating agent\, model\, and harness changes on sy
+ stem-level evidence instead of final answers.\n\n*About the Speaker*\n\n[D
+ ipen Chawla](https://www.linkedin.com/in/dipen-chawla-bb4a49bb/) is an AI 
+ engineer and researcher working on agentic AI systems and their evaluation
+ \, including agent memory and clinical diagnostic reasoning work at Micros
+ oft\, and data platform engineering at Walmart and S&P Global.\n\n**Leadin
+ g an Army of AI Agents**\n\nOur AI coding agents now pick up tasks\, follo
+ w team playbooks\, open pull requests and wait for review. This firsthand 
+ engineering case study follows more than ten agents running in parallel an
+ d shows how briefs\, shared context and verification loops keep their work
+  reviewable.\nIt covers the failure modes too: confident wrong turns\, inc
+ omplete verification\, review bottlenecks and the attention required from 
+ human leaders.\nAttendees will learn a practical task-to-PR workflow\, how
+  to make trust conditional on evidence\, and which measures expose the cos
+ ts hidden by faster output. The focus is on agent workflow and operating d
+ iscipline\, with concrete engineering examples rather than a product pitch
+ .\n\n*About the Speaker*\n\n[John Adib](https://www.linkedin.com/in/MrAdib
+ ) is a London-based engineering manager at Zapp\, a former CTO and two-tim
+ e founder with 18+ years of software experience.\n\nAgents in Action: Putt
+ ing AI Agents to Work on Visual AI Data\n\nWhat should an AI agent remembe
+ r\, and what should it forget? In this talk\, we’ll explore the Voxel51 
+ agent through the lens of memory\, examining how retaining the right conte
+ xt and incorporating feedback can help agents improve over time. Through e
+ xamples from visual AI workflows\, we’ll discuss what’s worth remember
+ ing\, from dataset context and user preferences to corrections and success
+ ful approaches\, and when to update or discard information that becomes ou
+ tdated. We’ll also explore how feedback and evaluation can help us deter
+ mine whether an agent is making better decisions\, offering practical insi
+ ghts for building agents that become more useful with experience.\n\n*Abou
+ t the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) 
+ is a Machine Learning Engineer and DevRel at Voxel51 with over 7 years of 
+ experience building computer vision and machine learning models using Tens
+ orFlow\, Docker\, and OpenCV.
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIDAS TECH|Networking 101: Fundamentos de Redes|Online
