@@ -1211,36 +1211,6 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Tijuana|DevFest Tijuana 2026|México|
-DTSTART:20261113T150000
-CATEGORIES:AI - Gemini,Conference,DevFest,Flutter,Google Cloud,Workshop / 
- hands-on session
-DESCRIPTION:Join us for our inaugural GDG Tijuana event as we pave the way
-  to DevFest Tijuana 2026! Be part of the journey to the most exciting tech
-  event of the year by connecting with fellow developers and tech enthusias
- ts. Enjoy a day filled with engaging discussions\, networking opportunitie
- s\, and a sneak peek into what DevFest 2026 will offer. Don’t miss the c
- hance to contribute your ideas and shape the f
-LOCATION:Terraza Badabun\, Calle 11 8296\, Tijuana
-X-CRONQUILES-ADDRESS:Terraza Badabun\, Calle 11 8296\, Tijuana
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GDG San Francisco de Campeche|DevFest Campeche 2026|México|
-DTSTART:20261114T090000
-CATEGORIES:AI,AI - Gemini,Conference,DevFest,Google Cloud,Workshop / hands
- -on session
-DESCRIPTION:¡Te damos la bienvenida al DevFest Campeche 2026!Únete a nos
- otros este 14 de noviembre en el Centro Internacional de Con...
-LOCATION:Centro Internacional de Convenciones y Exposiciones Campeche XXI\
- , 219 Pedro Sainz de Baranda\, San Francisco de Campeche
-X-CRONQUILES-ADDRESS:Centro Internacional de Convenciones y Exposiciones C
- ampeche XXI\, 219 Pedro Sainz de Baranda\, San Francisco de Campeche
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI & Beyond - Navigating Opportunities in an AI-
  Driven World (w/ The AI Collective)|Online
 DTSTART:20261116T160000Z
@@ -1364,6 +1334,16 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rust-AICollective|Marketing Agents: How AI Agents Are Taking On Ma
+ rketing Work|Online
+DTSTART:20261124T160000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sw-11-24\n
+ \nHosted by The AI Collective & 4 others
+LOCATION:https://luma.com/event/evt-AugGgSt8JozkbRV
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-AugGgSt8JozkbRV
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Claude Community|La Ceja  -  Claude Workshop|Online
 DTSTART:20261124T230000Z
 CATEGORIES:frontend
@@ -1391,23 +1371,6 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|
-DTSTART:20261126T123000
-CATEGORIES:AI,AI - Gemini,DevFest,Google Cloud,Workshop / hands-on session
- ,security
-DESCRIPTION:Dev Fest 2026 brings together GDG Tepic and Instituto Tecnoló
- gico de Tepic's Computer Systems Engineering department for a day of innov
- ation and collaboration. Engage in workshops and networking with developer
- s and tech enthusiasts. Be at the forefront of technology in Tepic by secu
- ring your spot today.
-LOCATION:Museo interactivo de ciencias e innovación de Nayarit\, s/n Aven
- ida de la Salud\, Tepic
-X-CRONQUILES-ADDRESS:Museo interactivo de ciencias e innovación de Nayari
- t\, s/n Avenida de la Salud\, Tepic
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Lunch with a Side of AI (w/ AI Collective NZ)|On
  line
 DTSTART:20261130T233000Z
@@ -1418,24 +1381,14 @@ LOCATION:https://luma.com/event/evt-vjP1GzbAMNW01HM
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vjP1GzbAMNW01HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Heroica Veracruz|DevFest 2026 Health|México|
-DTSTART:20261202T090000
-CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemma,Accessibility,Angular,
- Career Development,Community Building,Conference,DevFest,Firebase,Flutter,
- Google Cloud,Google Maps Platform,Google Workspace,Hackathon,Networking,Te
- ch Talk / Meetup,UX / UI Design,Web,Workshop / hands-on session,mobile,web
-DESCRIPTION:El 02 de diciembre de 2026\, DevFest Health 2026 se lleva a ca
- bo en las oficinas de AstraZeneca en Guadalajara. Los asistentes explorar
- án tendencias en inteligencia artificial y tecnologías de Google mediant
- e talleres interactivos y charlas de expertos sobre Angular\, Flutter y m
- ás. Es una oportunidad para desarrolladores apasionados de conectar y apr
- ender juntos. ¡Regístrate ahora!
-LOCATION:AstraZeneca GITC Guadalajara\, 4965 Boulevard Puerta de Hierro\, 
- Zapopan
-X-CRONQUILES-ADDRESS:AstraZeneca GITC Guadalajara\, 4965 Boulevard Puerta 
- de Hierro\, Zapopan
-X-CRONQUILES-COUNTRY:México
-X-CRONQUILES-COUNTRY-CODE:MX
+SUMMARY:Rust-AICollective|Building a Startup 101 (w/ The AI Collective)|On
+ line
+DTSTART:20261203T130000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/aic-la-12-3\n\
+ nHosted by The AI Collective & Harmony Abayomi
+LOCATION:https://luma.com/event/evt-vq68NeVmLEQdg6R
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vq68NeVmLEQdg6R
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|Beyond AI Readiness: Architecting the Intelligen
@@ -1448,7 +1401,8 @@ LOCATION:https://luma.com/event/evt-pBKW8j8QhoYmrfT
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-pBKW8j8QhoYmrfT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|
+SUMMARY:GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracru
+ z
 DTSTART:20261205T090000
 CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemini Enterprise Agent Plat
  form,AI - Gemma,Angular,Career Development,Community Building,DevFest,Goog
@@ -1462,14 +1416,17 @@ DESCRIPTION:Join DevFest 2026 Heroica Veracruz on November 14 to explore t
  miss out!
 LOCATION:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"\, 397 Aveni
  da Ignacio Zaragoza\, Veracruz
-X-CRONQUILES-ADDRESS:Museo de la Ciudad "Coronel Manuel Gutiérrez Zamora"
- \, 397 Avenida Ignacio Zaragoza\, Veracruz
+X-CRONQUILES-ADDRESS:Avenida Ignacio Zaragoza\, Poligono\, Veracruz\, Muni
+ cipio de Veracruz\, Veracruz\, 91701\, México
+X-CRONQUILES-CITY:Veracruz
+X-CRONQUILES-CITY-CODE:veracruz
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Veracruz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rust-AICollective|From Vibe to Live\, Lovable Virtual Prompathon K
- ickoff｜Lovable 線上黑客松交流會 + Office Hour|Online
+SUMMARY:Rust-AICollective|From Vibe to Live\, Lovable Virtual Office Hours
+ ｜Lovable 線上 Office Hour|Online
 DTSTART:20261207T110000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/aic-ta-12-7_ma
