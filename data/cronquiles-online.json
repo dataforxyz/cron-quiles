@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T06:30:02.215227+00:00",
-  "total_events": 160,
+  "generated_at": "2026-11-16T22:22:43.659947+00:00",
+  "total_events": 159,
   "city": "Online",
   "communities": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -124,17 +124,6 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
           "label": "Meetup"
-        }
-      ]
-    },
-    {
-      "name": "GDG CDMX",
-      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
         }
       ]
     },
@@ -3600,7 +3589,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3627,7 +3616,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3770,7 +3759,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3839,23 +3828,24 @@
       "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
     },
     {
-      "title": "Rust-AICollective|AI & Beyond - Navigating Opportunities in an AI-Driven World (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-sw-ws-series-2\n\nHosted by The AI Collective, Neelima Misra & Nithya Narayanan",
-      "url": "https://luma.com/aic-sw-ws-series-2",
+      "title": "Rust-AICollective|Building Trust Together: The AI Governance Dialogue (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-du-11-17\n\nHosted by The AI Collective & AI Governance Corridor",
+      "url": "https://luma.com/aic-du-11-17",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/aic-sw-ws-series-2",
+          "url": "https://luma.com/aic-du-11-17",
           "label": "Ver en Luma"
         }
       ],
-      "location": "https://luma.com/event/evt-AObtrZzp5pBxvqV",
+      "location": "https://luma.com/event/evt-SLnRxJaSc3APfiT",
       "online": true,
       "organizer": "Rust-AICollective",
-      "dtstart": "2026-11-16T16:00:00+00:00",
-      "dtend": "2026-11-16T17:00:00+00:00",
+      "dtstart": "2026-11-17T15:00:00+00:00",
+      "dtend": "2026-11-17T17:30:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
       "source": "https://luma.com/rust-ios-ai",
       "country": "",
@@ -3864,37 +3854,8 @@
       "state_code": "",
       "city": "",
       "city_code": "",
-      "address": "https://luma.com/event/evt-AObtrZzp5pBxvqV",
-      "hash_key": "ai beyond navigating opportunities in an_2026-11-16T16:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|PROMPT: New York|Online",
-      "description": "Get up-to-date information at: https://luma.com/d49b833j\n\nHosted by Emrah Kurtulmus & CT Turanli",
-      "url": "https://luma.com/d49b833j",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/d49b833j",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-SPw2EENLbIPAMB1",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-11-16T19:00:00+00:00",
-      "dtend": "2026-11-17T23:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-SPw2EENLbIPAMB1",
-      "hash_key": "prompt new york_2026-11-16T18:00:00+00:00"
+      "address": "https://luma.com/event/evt-SLnRxJaSc3APfiT",
+      "hash_key": "building trust together the ai governanc_2026-11-17T14:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Collective Connect: Madrid × Barcelona (w/ The AI Collective)|Online",
@@ -4414,9 +4375,10 @@
         "Google Cloud",
         "Google Workspace",
         "Web",
-        "Workshop / hands-on session"
+        "Workshop / hands-on session",
+        "cloud"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
       "country": "México",
       "country_code": "MX",
       "state": "",
