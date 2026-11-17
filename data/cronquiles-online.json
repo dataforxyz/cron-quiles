@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T08:09:02.533076+00:00",
-  "total_events": 162,
+  "generated_at": "2026-11-17T21:17:16.558707+00:00",
+  "total_events": 159,
   "city": "Online",
   "communities": [
     {
@@ -31,12 +31,23 @@
       ]
     },
     {
+      "name": "Data, Cloud and AI in Mexico City",
+      "description": "IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/big-data-developers-in-mexico-city",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -96,19 +107,13 @@
       ]
     },
     {
-      "name": "v0 Prompt to Production Mexico City",
-      "description": "Evento oficial de v0 (Vercel) en México. AI builders, hackathon global. Hosted by aibuilders.mx (Ciudad de México).",
-      "links": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/fdg8riz2",
-          "label": "Luma"
-        }
-      ]
-    },
-    {
       "name": "Claude Community",
       "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
+    },
+    {
+      "name": "AI Builders MX",
+      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
       "links": []
     },
     {
@@ -161,34 +166,12 @@
       ]
     },
     {
-      "name": "GDG Guadalajara",
-      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-guadalajara/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
       "name": "GDG Heroica Veracruz",
       "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG Tepic",
-      "description": "GDG Tepic is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-tepic/",
           "label": "Sitio web"
         }
       ]
@@ -2869,7 +2852,7 @@
       "hash_key": "batter up regional pitch competition 202_2025-10-06T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online",
+      "title": "AI Builders MX|How I Use AI – Vol 1|Online",
       "description": "Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHosted by Javier Rivero",
       "url": "https://luma.com/pi3ebsn2",
       "sources": [
@@ -2881,13 +2864,14 @@
       ],
       "location": "https://luma.com/event/evt-gCpfBqRDQhEOJf9",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2025-10-07T22:00:00+00:00",
       "dtend": "2025-10-07T23:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3254,7 +3238,7 @@
       "hash_key": "coworking frutal 28 fin de ao gather edi_2025-12-31T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
+      "title": "AI Builders MX|Diseña usando AI|Online",
       "description": "Get up-to-date information at: https://luma.com/ubxd600w\n\nHosted by Javier Rivero",
       "url": "https://luma.com/ubxd600w",
       "sources": [
@@ -3266,13 +3250,14 @@
       ],
       "location": "https://luma.com/event/evt-IWVh1A0cdphlpRP",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-01-27T23:00:00+00:00",
       "dtend": "2026-01-28T02:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3316,7 +3301,7 @@
       "hash_key": "primer meetup retos de la posada de cdig_2026-01-28T00:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|Diseña usando AI|Online",
+      "title": "AI Builders MX|Diseña usando AI|Online",
       "description": "Get up-to-date information at: https://luma.com/5nq96pxw\n\nHosted by Javier Rivero",
       "url": "https://luma.com/5nq96pxw",
       "sources": [
@@ -3328,13 +3313,14 @@
       ],
       "location": "https://luma.com/event/evt-H4WPxCoPFcne2bC",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-01-28T23:00:00+00:00",
       "dtend": "2026-01-29T02:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3345,7 +3331,7 @@
       "hash_key": "disea usando ai_2026-01-28T22:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
+      "title": "AI Builders MX|How I Use AI – Vol 2|Online",
       "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero & 3 others",
       "url": "https://luma.com/lgd37763",
       "sources": [
@@ -3357,13 +3343,14 @@
       ],
       "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-02-13T00:00:00+00:00",
       "dtend": "2026-02-13T00:30:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3374,7 +3361,7 @@
       "hash_key": "how i use ai vol 2_2026-02-13T00:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #3: Midjourney|Online",
+      "title": "AI Builders MX|How I Use AI #3: Midjourney|Online",
       "description": "Get up-to-date information at: https://luma.com/d342anny\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/d342anny",
       "sources": [
@@ -3386,13 +3373,14 @@
       ],
       "location": "https://luma.com/event/evt-WUg9IsqZP5MKL4B",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-02-19T23:30:00+00:00",
       "dtend": "2026-02-20T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3461,7 +3449,7 @@
       "hash_key": "venture bites understanding advisory sha_2026-02-26T18:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #4: OpenClaw|Online",
+      "title": "AI Builders MX|How I Use AI #4: OpenClaw|Online",
       "description": "Get up-to-date information at: https://luma.com/5ivardas\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/5ivardas",
       "sources": [
@@ -3473,13 +3461,14 @@
       ],
       "location": "https://luma.com/event/evt-utuQiZ6tlVbHWXw",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-03-06T00:00:00+00:00",
       "dtend": "2026-03-06T01:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3517,7 +3506,7 @@
       "hash_key": "small bets live angel investing 101 boot_2026-03-19T16:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #5: Image Manipulation|Online",
+      "title": "AI Builders MX|How I Use AI #5: Image Manipulation|Online",
       "description": "Get up-to-date information at: https://luma.com/wsj293yt\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/wsj293yt",
       "sources": [
@@ -3529,13 +3518,14 @@
       ],
       "location": "https://luma.com/event/evt-3QmmiVDsImuKFFB",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-04-01T23:00:00+00:00",
       "dtend": "2026-04-02T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3575,7 +3565,7 @@
       "hash_key": "how bolt new went from failure to 40 mil_2026-04-16T18:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #6: Scaling to 1M users|Online",
+      "title": "AI Builders MX|How I Use AI #6: Scaling to 1M users|Online",
       "description": "Get up-to-date information at: https://luma.com/11fz6ef5\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/11fz6ef5",
       "sources": [
@@ -3587,13 +3577,14 @@
       ],
       "location": "https://luma.com/event/evt-SBK5c7p9LXcCYFE",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-04-16T23:00:00+00:00",
       "dtend": "2026-04-17T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3622,7 +3613,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3649,7 +3640,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3660,7 +3651,7 @@
       "hash_key": "frameiq hacia una banca impulsada por in_2026-05-15T00:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI #7: WhatsApp Voicebots|Online",
+      "title": "AI Builders MX|How I Use AI #7: WhatsApp Voicebots|Online",
       "description": "Get up-to-date information at: https://luma.com/vhwcyvjr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/vhwcyvjr",
       "sources": [
@@ -3672,13 +3663,14 @@
       ],
       "location": "https://luma.com/event/evt-PwXKYGUxITnF5Ku",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-06-24T23:00:00+00:00",
       "dtend": "2026-06-25T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3689,7 +3681,7 @@
       "hash_key": "how i use ai 7 whatsapp voicebots_2026-06-24T22:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI: Juan Martínez|Online",
+      "title": "AI Builders MX|How I Use AI: Juan Martínez|Online",
       "description": "Get up-to-date information at: https://luma.com/3iyi3bsr\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/3iyi3bsr",
       "sources": [
@@ -3701,13 +3693,14 @@
       ],
       "location": "https://luma.com/event/evt-MVGGctuBiHzWfUZ",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-07-09T23:30:00+00:00",
       "dtend": "2026-07-10T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3718,7 +3711,7 @@
       "hash_key": "how i use ai juan martnez_2026-07-09T22:00:00+00:00"
     },
     {
-      "title": "v0 Prompt to Production Mexico City|How I Use AI: Andres Matte, Kapso.ai|Online",
+      "title": "AI Builders MX|How I Use AI: Andres Matte, Kapso.ai|Online",
       "description": "Get up-to-date information at: https://luma.com/6liqe957\n\nHosted by Javier Rivero, Ben Kim & Ricardo García",
       "url": "https://luma.com/6liqe957",
       "sources": [
@@ -3730,13 +3723,14 @@
       ],
       "location": "https://luma.com/event/evt-OfU4EZmg85DhiSI",
       "online": true,
-      "organizer": "v0 Prompt to Production Mexico City",
+      "organizer": "AI Builders MX",
       "dtstart": "2026-07-23T23:30:00+00:00",
       "dtend": "2026-07-24T00:00:00+00:00",
       "tags": [
-        "ai"
+        "ai",
+        "frontend"
       ],
-      "source": "https://luma.com/fdg8riz2",
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-dXKY5yt0FSICFuq",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3792,7 +3786,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3859,36 +3853,6 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-vKCl8r9oNYPPPgR",
       "hash_key": "acelera tu carrera con ibm skillsbuild y_2026-10-23T22:00:00+00:00"
-    },
-    {
-      "title": "Rust-AICollective|Building Trust Together: The AI Governance Dialogue (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-du-11-17\n\nHosted by The AI Collective & AI Governance Corridor",
-      "url": "https://luma.com/aic-du-11-17",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/aic-du-11-17",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-SLnRxJaSc3APfiT",
-      "online": true,
-      "organizer": "Rust-AICollective",
-      "dtstart": "2026-11-17T15:00:00+00:00",
-      "dtend": "2026-11-17T17:30:00+00:00",
-      "tags": [
-        "ai",
-        "frontend"
-      ],
-      "source": "https://luma.com/rust-ios-ai",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-SLnRxJaSc3APfiT",
-      "hash_key": "building trust together the ai governanc_2026-11-17T14:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Collective Connect: Madrid × Barcelona (w/ The AI Collective)|Online",
@@ -4089,51 +4053,6 @@
       "hash_key": "road to devfest tamaulipas 2026_2026-11-21T14:00:00+00:00"
     },
     {
-      "title": "GDG Guadalajara|DevFest 2026|México|",
-      "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
-      "online": false,
-      "organizer": "GDG Guadalajara",
-      "dtstart": "2026-11-21T09:00:00-06:00",
-      "dtend": "2026-11-21T16:00:00-06:00",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Android",
-        "Career Development",
-        "Community Building",
-        "Conference",
-        "DevFest",
-        "Firebase",
-        "Flutter",
-        "Google Cloud",
-        "Networking",
-        "Tech Talk / Meetup",
-        "UX / UI Design",
-        "Web",
-        "Workshop / hands-on session",
-        "cloud",
-        "web"
-      ],
-      "source": "https://gdg.community.dev/gdg-guadalajara/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
-      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|Marketing Agents: How AI Agents Are Taking On Marketing Work|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-sw-11-24\n\nHosted by The AI Collective & 4 others",
       "url": "https://luma.com/aic-sw-11-24",
@@ -4229,40 +4148,6 @@
       "hash_key": "devfest 2026 tecnm villahermosa_2026-11-25T14:00:00+00:00"
     },
     {
-      "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
-      "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
-      "sources": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
-          "label": "Ver sitio web"
-        }
-      ],
-      "location": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
-      "online": false,
-      "organizer": "GDG Tepic",
-      "dtstart": "2026-11-26T12:30:00-07:00",
-      "dtend": "2026-11-28T16:30:00-07:00",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "DevFest",
-        "Google Cloud",
-        "Workshop / hands-on session",
-        "security"
-      ],
-      "source": "https://gdg.community.dev/gdg-tepic/",
-      "country": "México",
-      "country_code": "MX",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
-      "hash_key": "dev fest 2026 collaborative innovation_2026-11-26T18:00:00+00:00"
-    },
-    {
       "title": "Rust-AICollective|Lunch with a Side of AI (w/ AI Collective NZ)|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-nz-12-1\n\nHosted by The AI Collective & Nadia Ellis",
       "url": "https://luma.com/aic-nz-12-1",
@@ -4292,55 +4177,36 @@
       "hash_key": "lunch with a side of ai w ai collective _2026-11-30T22:00:00+00:00"
     },
     {
-      "title": "GDG Heroica Veracruz|DevFest 2026 Health|México|",
-      "description": "El 02 de diciembre de 2026, DevFest Health 2026 se lleva a cabo en las oficinas de AstraZeneca en Guadalajara. Los asistentes explorarán tendencias en inteligencia artificial y tecnologías de Google mediante talleres interactivos y charlas de expertos sobre Angular, Flutter y más. Es una oportunidad para desarrolladores apasionados de conectar y aprender juntos. ¡Regístrate ahora!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-health/",
+      "title": "Data, Cloud and AI in Mexico City|Bob TV Episode 4: Why generic AI fails at mainframe scale - and what works|Online",
+      "description": "Data, Cloud and AI in Mexico City\nJoin us for the fourth episode of Bob TV, the monthly digital event series hosted by Max Jesch, IBM Bob’s outbound product manager. Each month, Max sits down with a technical guest to explore real examples of your trusted AI assistant in action—showing how Bob accelerates enterprise software development across the entire lifecycle.\nFeaturing Special Guest: Ethan Mendel, Development Lead, IBM Z premium package for Bob\nEthan will discuss why mainframe modernization is hard — and why AI alone is not enough.\n\n* The real scope of the challenge: 10-year modernization timelines, skill shortages, and technical debt that runs so deep some clients haven't touched certain programs in decades\n* Why generic AI falls short: LLMs achieve only \\~30% accuracy on non-trivial impact analysis questions for large mainframe applications — hallucination gets worse as scale increases\n* The Premium Package for Z approach: static code analytics + metadata-enriched model intelligence as the foundation, not a replacement for AI but a way to make AI reliable at enterprise scale\n\nBob TV is your monthly window into Bob capabilities:\n\n* AI assisted development workflows\n* Enterprise modernization patterns\n* Agent based software engineering\n\n**Host:**\n**![](https://cache.webcasts.com/content/ibmx001/1771850/content/8605de84345dc42143086f23cfcb2d55984805ea/common/Screenshot20260803at1.28.53PM.png)Maximilian Jesch**, Outbound Product Manager, IBM Bob\n\n![](https://cache.webcasts.com/content/ibmx001/1781965/content/757422b7d448e30f3b8159a77a44b5cfcd8c0f05/common/EthanMendel1.png)**Ethan Mendel**, Development Lead, IBM Z premium package for IBM Bob",
+      "url": "https://www.meetup.com/big-data-developers-in-mexico-city/events/317470651/",
       "sources": [
         {
-          "platform": "website",
-          "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-health/",
-          "label": "Ver sitio web"
+          "platform": "meetup",
+          "url": "https://www.meetup.com/big-data-developers-in-mexico-city/events/317470651/",
+          "label": "Ver en Meetup"
         }
       ],
-      "location": "AstraZeneca GITC Guadalajara, 4965 Boulevard Puerta de Hierro, Zapopan",
-      "online": false,
-      "organizer": "GDG Heroica Veracruz",
-      "dtstart": "2026-12-02T09:00:00-06:00",
-      "dtend": "2026-12-02T16:00:00-06:00",
+      "location": "Online event,",
+      "online": true,
+      "organizer": "Data, Cloud and AI in Mexico City",
+      "dtstart": "2026-12-01T10:00:00-06:00",
+      "dtend": "2026-12-01T11:00:00-06:00",
       "tags": [
-        "AI",
-        "AI - AI Studio",
-        "AI - Gemini",
-        "AI - Gemma",
-        "Accessibility",
-        "Angular",
-        "Career Development",
-        "Community Building",
-        "Conference",
-        "DevFest",
-        "Firebase",
-        "Flutter",
-        "Google Cloud",
-        "Google Maps Platform",
-        "Google Workspace",
-        "Hackathon",
-        "Networking",
-        "Tech Talk / Meetup",
-        "UX / UI Design",
-        "Web",
-        "Workshop / hands-on session",
-        "mobile",
+        "ai",
+        "cloud",
+        "data",
         "web"
       ],
-      "source": "https://gdg.community.dev/gdg-guadalajara/",
-      "country": "México",
-      "country_code": "MX",
+      "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/ical",
+      "country": "",
+      "country_code": "",
       "state": "",
       "state_code": "",
       "city": "",
       "city_code": "",
-      "address": "AstraZeneca GITC Guadalajara, 4965 Boulevard Puerta de Hierro, Zapopan",
-      "hash_key": "devfest 2026 health_2026-12-02T14:00:00+00:00"
+      "address": "",
+      "hash_key": "bob tv episode 4 why generic ai fails at_2026-12-01T16:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Building a Startup 101 (w/ The AI Collective)|Online",
@@ -4403,7 +4269,7 @@
       "hash_key": "beyond ai readiness architecting the int_2026-12-04T08:00:00+00:00"
     },
     {
-      "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|",
+      "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracruz",
       "description": "Join DevFest 2026 Heroica Veracruz on November 14 to explore the latest in AI and Google technologies. Engage in hands-on workshops and learn from industry experts on topics like Angular, Flutter, and Android. Network with passionate developers and enhance your skills. Register now and secure your spot for this dynamic tech experience in Veracruz. Don't miss out!",
       "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-heroica-veracruz/",
       "sources": [
@@ -4444,11 +4310,11 @@
       "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
       "country": "México",
       "country_code": "MX",
-      "state": "",
+      "state": "Veracruz",
       "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "Museo de la Ciudad \"Coronel Manuel Gutiérrez Zamora\", 397 Avenida Ignacio Zaragoza, Veracruz",
+      "city": "Veracruz",
+      "city_code": "veracruz",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
     },
     {
