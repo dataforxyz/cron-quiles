@@ -93,6 +93,35 @@
     "hash_key": "ai roundtable 30 what actually worked th_2026-12-14T18:00:00+00:00"
   },
   {
+    "title": "Rust-AICollective|From AI Hype to Actual Impact (w/ The AI Collective)|Online",
+    "description": "Get up-to-date information at: https://luma.com/aic-gl-12\n\nHosted by The AI Collective, Adelina Martiniuc & Adelina Martiniuc",
+    "url": "https://luma.com/aic-gl-12",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/aic-gl-12",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-w5kL9z7mEreKiYc",
+    "online": true,
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-12-10T19:00:00+00:00",
+    "dtend": "2026-12-10T20:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-w5kL9z7mEreKiYc",
+    "hash_key": "from ai hype to actual impact w the ai c_2026-12-10T18:00:00+00:00"
+  },
+  {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|Dec 10 - AI, ML and Computer Vision Meetup|Online",
     "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nDec 10, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-december-10-2026)**\n\n**Your mAP is fine. Your slices are not. Finding the images that actually matter**\n\nA single mAP can look acceptable while one slice is unusable, small objects, occlusion, or a confused class. I will run a pretrained detector on a few hundred public images (COCO-style, not a production crawl), report the headline metric, then break the same run by slice and walk through the worst samples.\n\nThe claim is modest: you do not need a million images or a trained-from-scratch model to see what the mean is hiding, and you cannot relabel everything, so the next labeling budget should follow those slices. No employer data and no confidential dashboards.\n\n*About the Speaker*\n\n[Amandeep Jiddewar](https://www.linkedin.com/in/amanfj/) is a Machine Learning Engineer at Pinterest, with prior work in U.S. manufacturing analytics (CertainTeed / Saint-Gobain) and marketplace allocation (QuinStreet). Emory Goizueta MSBA (2019), Kaggle Expert. This talk is in his personal capacity and does not represent his current or prior employers.\n\n**Production AI Agents: Tool Use, Evaluation, Guardrails and Observability**\n\nBuilding an AI agent is easy. Knowing whether it is behaving reliably in production is much harder. This session explores how to evaluate agents that use tools and external systems, including tool-call validation, tracing, observability, failure analysis, guardrails, permissions, and human review.\n\nAttendees will learn practical patterns for understanding not just what an agent answered, but why it acted and whether the action was safe.\n\n*About the Speaker*\n\n[Akshay Talathi](https://www.linkedin.com/in/akshaytalathi/) is a Vice President at Goldman Sachs with over 10 years of experience building large-scale, cloud-native, and distributed systems across financial services and technology. His current focus is GenAI and agentic AI, including production AI agents, MCP, enterprise integrations, guardrails, observability, and reliable AI-driven workflows.\n\n**From Virtual Worlds to Physical AI: Building Simulation Pipelines That Survive the Real World**\n\nRobots are moving beyond perception systems that only detect and classify objects toward systems that must understand a scene, learn behaviors, and act in the physical world. In this talk, I’ll show a practical Physical AI workflow using OpenUSD, BowerBot, NVIDIA Isaac Sim and Isaac Lab to build a robot’s virtual world, including its body, cameras, sensors, and environment.\n\nWe’ll explore how demonstrations and reinforcement learning can teach behaviors in simulation, how vision and sensor data become observations for a robot policy, and what needs to match when transferring that behavior to real hardware. The demo follows a small robot from a simulated environment toward a real-world task, exposing both the power and the limitations of sim-to-real.\n\nThe goal is to make the path from pixels to actions concrete for computer vision and machine learning practitioners.\n\n*About the Speaker*\n\n[Arturo Morales Rangel](https://www.linkedin.com/in/arturo-morales-rangel) is the founder of Binary Core LLC, a Physical AI engineering company working across simulation, perception, robot learning, and deployment.\n\n**Prompting Video-Language Models in Production: Lessons from Enterprise Video Tagging and Evaluation**\n\nVideo-language models can now describe, tag and answer questions about long-form video, but production results depend heavily on prompt design and evaluation. This talk shares field lessons from deploying such models for media, news, streaming and sports organizations, including how to structure prompts for consistent, schema-bound outputs across hours of footage.\n\nOn one sports video-tagging project, consolidating the prompt definitions cut estimated processing cost about 3x, and about 90% of the originally reported issues were later resolved through prompting alone. I'll also walk through building evaluation frameworks for video outputs, including for hard domains like egocentric video, and what changes when migrating between model versions.\n\nAttendees will leave with reusable prompt patterns and an evaluation checklist they can apply to their own video pipelines.\n\n*About the Speaker*\n\n[Yash Gugale](https://www.linkedin.com/in/yashgugale/) is a Senior Forward Deployed Engineer at TwelveLabs in New York, integrating video foundation models (Marengo for embeddings and search, Pegasus for video-language understanding) for media, news, streaming and sports customers. He previously spent about six years in video streaming engineering at Peloton and Samsung TV Plus, and holds an MS in Computer Graphics Technology from Purdue.",
     "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/316757843/",
@@ -270,7 +299,7 @@
     "state_code": "",
     "city": "Veracruz",
     "city_code": "veracruz",
-    "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+    "address": "Puente Morelos, Puerto de Veracruz, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
     "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
   },
   {
@@ -302,6 +331,35 @@
     "city_code": "",
     "address": "https://luma.com/event/evt-pBKW8j8QhoYmrfT",
     "hash_key": "beyond ai readiness architecting the int_2026-12-04T08:00:00+00:00"
+  },
+  {
+    "title": "FinTech México|Fiesta de Fin de Año FinTech México|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/9ltpa56m\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México",
+    "url": "https://luma.com/9ltpa56m",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/9ltpa56m",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Bosque de Chapultepec II Sección, Ciudad de México, México",
+    "online": false,
+    "organizer": "FinTech México",
+    "dtstart": "2026-12-04T01:00:00+00:00",
+    "dtend": "2026-12-04T07:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/eofagheq",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "fiesta de fin de ao fintech mxico_2026-12-04T00:00:00+00:00"
   },
   {
     "title": "Rust-AICollective|Building a Startup 101 (w/ The AI Collective)|Online",
@@ -621,7 +679,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Colonia Insurgentes Mixcoac, San Juan Malinaltongo, Ciudad de México, Benito Juárez, Ciudad de México, 03920, México",
+    "address": "Plaza México, Calle Maximino Ávila Camacho, Insurgentes San Borja, San Juan Malinaltongo, Ciudad de México, Benito Juárez, Ciudad de México, 03100, México",
     "hash_key": "from exceptions to signatures you can tr_2026-11-26T00:00:00+00:00"
   },
   {
@@ -809,6 +867,46 @@
     "hash_key": "claude community x secretara de economa _2026-11-23T14:00:00+00:00"
   },
   {
+    "title": "GDG Cloud Mexico City|Road to DevFest Tamaulipas 2026|México|",
+    "description": "DevFest 2026 invita a quienes desean explorar las tendencias en Inteligencia Artificial y su impacto en la sociedad. Conoce cómo los modelos de IA transforman industrias mediante proyectos innovadores. Es una oportunidad única para aprender, conectar y crecer en comunidad. Participa y forma parte del futuro de la tecnología. ¡Reserva tu lugar hoy!",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Aula Magna Herman Harris Fleishman, Centro Universitario Tampico-Madero (Campus Sur UAT), Tampico",
+    "online": false,
+    "organizer": "GDG Cloud Mexico City",
+    "dtstart": "2026-11-21T09:00:00-06:00",
+    "dtend": "2026-11-23T17:00:00-06:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "Community Building",
+      "Conference",
+      "DevFest",
+      "Google Cloud",
+      "Google Workspace",
+      "Networking",
+      "Tech Talk / Meetup",
+      "Workshop / hands-on session",
+      "cloud",
+      "frontend"
+    ],
+    "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "Aula Magna Herman Harris Fleishman, Centro Universitario Tampico-Madero (Campus Sur UAT), Tampico",
+    "hash_key": "road to devfest tamaulipas 2026_2026-11-21T14:00:00+00:00"
+  },
+  {
     "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
     "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
     "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
@@ -852,46 +950,6 @@
     "city_code": "guadalajara",
     "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44260, México",
     "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
-  },
-  {
-    "title": "GDG Cloud Mexico City|Road to DevFest Tamaulipas 2026|México|",
-    "description": "DevFest 2026 invita a quienes desean explorar las tendencias en Inteligencia Artificial y su impacto en la sociedad. Conoce cómo los modelos de IA transforman industrias mediante proyectos innovadores. Es una oportunidad única para aprender, conectar y crecer en comunidad. Participa y forma parte del futuro de la tecnología. ¡Reserva tu lugar hoy!",
-    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/",
-    "sources": [
-      {
-        "platform": "website",
-        "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/",
-        "label": "Ver sitio web"
-      }
-    ],
-    "location": "Aula Magna Herman Harris Fleishman, Centro Universitario Tampico-Madero (Campus Sur UAT), Tampico",
-    "online": false,
-    "organizer": "GDG Cloud Mexico City",
-    "dtstart": "2026-11-21T09:00:00-06:00",
-    "dtend": "2026-11-23T17:00:00-06:00",
-    "tags": [
-      "AI",
-      "AI - Gemini",
-      "Community Building",
-      "Conference",
-      "DevFest",
-      "Google Cloud",
-      "Google Workspace",
-      "Networking",
-      "Tech Talk / Meetup",
-      "Workshop / hands-on session",
-      "cloud",
-      "frontend"
-    ],
-    "source": "https://gdg.community.dev/gdg-cloud-mexico-city/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Aula Magna Herman Harris Fleishman, Centro Universitario Tampico-Madero (Campus Sur UAT), Tampico",
-    "hash_key": "road to devfest tamaulipas 2026_2026-11-21T14:00:00+00:00"
   },
   {
     "title": "Claude Community|Puebla  -  Claude Build Day|México|Puebla",
@@ -1174,35 +1232,6 @@
     "hash_key": "ship happens turn your idea into an ai b_2026-11-19T00:00:00+00:00"
   },
   {
-    "title": "Rust-AICollective|AI Collective Connect: Madrid × Barcelona (w/ The AI Collective)|Online",
-    "description": "Get up-to-date information at: https://luma.com/AICollective_Madrid_Barcelona\n\nHosted by The AI Collective & 7 others",
-    "url": "https://luma.com/AICollective_Madrid_Barcelona",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/AICollective_Madrid_Barcelona",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-6YqNoKFO4uJK5W0",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-11-18T18:00:00+00:00",
-    "dtend": "2026-11-18T19:30:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-6YqNoKFO4uJK5W0",
-    "hash_key": "ai collective connect madrid barcelona w_2026-11-18T18:00:00+00:00"
-  },
-  {
     "title": "AI/IA CDMX|¿A dónde se fue mi quincena? - Where Did My Paycheck Go?|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/pmgwuq93\n\nAddress:\nCasa Rafael Galvan\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Ben AI CDMX",
     "url": "https://luma.com/pmgwuq93",
@@ -1251,7 +1280,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1657,7 +1686,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1715,7 +1744,7 @@
     "dtstart": "2026-08-26T22:00:00+00:00",
     "dtend": "2026-08-26T23:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1802,7 +1831,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Nuevo León",
@@ -2408,7 +2437,7 @@
     "dtstart": "2026-05-15T00:00:00+00:00",
     "dtend": "2026-05-15T00:50:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -2493,7 +2522,7 @@
     "tags": [
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3048,9 +3077,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Coquimatlán",
-    "city_code": "coquimatlan",
-    "address": "Centro, Coquimatlán, Colima, 28400, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -3565,7 +3594,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Circuito Zona Deportiva, Jardines del Pedregal, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -3643,7 +3672,7 @@
     "dtstart": "2026-03-01T17:00:00+00:00",
     "dtend": "2026-03-01T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3704,7 +3733,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3735,7 +3764,7 @@
       "backend",
       "frontend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3789,7 +3818,7 @@
     "dtstart": "2026-02-27T15:00:00+00:00",
     "dtend": "2026-02-27T17:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3818,7 +3847,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3874,7 +3903,7 @@
     "dtstart": "2026-02-26T01:00:00+00:00",
     "dtend": "2026-02-26T04:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3903,7 +3932,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3930,7 +3959,7 @@
     "dtstart": "2026-02-26T00:00:00+00:00",
     "dtend": "2026-02-26T03:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3986,7 +4015,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4013,7 +4042,7 @@
     "dtstart": "2026-02-25T22:00:00+00:00",
     "dtend": "2026-02-25T23:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4042,7 +4071,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4071,7 +4100,7 @@
     "tags": [
       "mobile"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4100,7 +4129,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4130,7 +4159,7 @@
       "ai",
       "data"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4184,7 +4213,7 @@
     "dtstart": "2026-02-25T15:00:00+00:00",
     "dtend": "2026-02-25T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4213,7 +4242,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4242,7 +4271,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4271,7 +4300,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4311,6 +4340,35 @@
     "hash_key": "meetup febrero 2026 clara pythoncdmx_2026-02-25T00:00:00+00:00"
   },
   {
+    "title": "FinTech México|Crédito + IA en México by Gail&Truora|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/6k4mvgpi\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México & 3 others",
+    "url": "https://luma.com/6k4mvgpi",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/6k4mvgpi",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Hipódromo, Ciudad de México, México",
+    "online": false,
+    "organizer": "FinTech México",
+    "dtstart": "2026-02-25T00:00:00+00:00",
+    "dtend": "2026-02-25T02:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://luma.com/eofagheq",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Hipódromo, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06100, México",
+    "hash_key": "crdito ia en mxico by gail truora_2026-02-25T00:00:00+00:00"
+  },
+  {
     "title": "FinTech México|El crédito rentable no se predice: se diseña by Círculo de Credito|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/9vvggyjp\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México & 3 others",
     "url": "https://luma.com/9vvggyjp",
@@ -4329,7 +4387,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4358,7 +4416,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4388,7 +4446,7 @@
       "ai",
       "security"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4417,7 +4475,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4447,7 +4505,7 @@
       "ai",
       "backend"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4477,7 +4535,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4506,7 +4564,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4533,7 +4591,7 @@
     "dtstart": "2026-02-24T14:30:00+00:00",
     "dtend": "2026-02-24T16:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4562,7 +4620,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4589,7 +4647,7 @@
     "dtstart": "2026-02-24T00:00:00+00:00",
     "dtend": "2026-02-24T02:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4618,7 +4676,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4648,7 +4706,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4678,7 +4736,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4705,7 +4763,7 @@
     "dtstart": "2026-02-23T19:00:00+00:00",
     "dtend": "2026-02-23T20:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4732,7 +4790,7 @@
     "dtstart": "2026-02-23T18:00:00+00:00",
     "dtend": "2026-02-23T19:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4759,7 +4817,7 @@
     "dtstart": "2026-02-23T17:00:00+00:00",
     "dtend": "2026-02-23T18:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -4789,7 +4847,7 @@
       "ai",
       "python"
     ],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -6204,7 +6262,7 @@
     "dtstart": "2025-11-18T23:00:00+00:00",
     "dtend": "2025-11-19T01:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7860,7 +7918,7 @@
     "dtstart": "2025-09-29T18:00:00+00:00",
     "dtend": "2025-09-29T19:30:00+00:00",
     "tags": [],
-    "source": "https://luma.com/02t893pf",
+    "source": "https://luma.com/eofagheq",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8201,7 +8259,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "shefi x mobil3 she leads finance_2025-08-21T16:00:00+00:00"
   },
   {
@@ -10641,7 +10699,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "the future of automotive aftermarket ind_2024-10-25T22:00:00+00:00"
   },
   {
@@ -11418,7 +11476,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "crossing the chasm unlocking proptech op_2024-10-24T22:00:00+00:00"
   },
   {
@@ -12023,7 +12081,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
@@ -15668,7 +15726,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Condesa, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
+    "address": "Avenida Paseo de la Reforma, Cuauhtémoc, Roma, Ciudad de México, Cuauhtémoc, Ciudad de México, 06500, México",
     "hash_key": "pre registro mobil3 hackathon_no_date"
   },
   {
