@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T07:24:01.072099+00:00",
-  "total_events": 321,
+  "generated_at": "2026-11-20T20:24:25.765979+00:00",
+  "total_events": 319,
   "city": "Ciudad de México",
   "communities": [
     {
@@ -136,6 +136,17 @@
       "name": "Frutero Club",
       "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
       "links": []
+    },
+    {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
     },
     {
       "name": "PayJoy",
@@ -2362,7 +2373,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+      "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
       "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
     },
     {
@@ -4060,35 +4071,6 @@
       "hash_key": "gran torneo clara startups age of empire_2024-10-26T16:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Brunch for Stanford Alumni during Mexico Tech Week|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/eq09o19z\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Ali Jamal",
-      "url": "https://luma.com/eq09o19z",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/eq09o19z",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Cuauhtémoc, Ciudad de México, Mexico",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2024-10-26T17:00:00+00:00",
-      "dtend": "2024-10-26T19:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Ciudad de México",
-      "state_code": "MX-CMX",
-      "city": "Ciudad de México",
-      "city_code": "cdmx",
-      "address": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
-      "hash_key": "brunch for stanford alumni during mexico_2024-10-26T16:00:00+00:00"
-    },
-    {
       "title": "Mexico Tech Week|Latinos in Mexico Closing Rooftop Party #MexicoTechWeek|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/or2e93ua\n\nAddress:\nFiesta Inn Insurgentes Viaducto\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week, Guillermo Vizcaino & Gerardo Ramírez Morales",
       "url": "https://luma.com/or2e93ua",
@@ -4826,64 +4808,6 @@
       "hash_key": "mega clase gratuita de inteligencia arti_2025-10-19T16:00:00+00:00"
     },
     {
-      "title": "Mexico Tech Week|Parrilla con Amigos by Lazo & Cathay|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/u73z5qmi\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 6 others",
-      "url": "https://luma.com/u73z5qmi",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/u73z5qmi",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Ciudad de México, Mexico",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2025-10-19T18:30:00+00:00",
-      "dtend": "2025-10-19T23:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Ciudad de México",
-      "state_code": "MX-CMX",
-      "city": "",
-      "city_code": "cdmx",
-      "address": "Ciudad de México, México",
-      "hash_key": "parrilla con amigos by lazo cathay_2025-10-19T18:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|Startup Grind x Google: Pitch and Run|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/x5ricxbs\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 8 others",
-      "url": "https://luma.com/x5ricxbs",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/x5ricxbs",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Ciudad de México, Mexico",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2025-10-20T12:00:00+00:00",
-      "dtend": "2025-10-20T14:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Ciudad de México",
-      "state_code": "MX-CMX",
-      "city": "",
-      "city_code": "cdmx",
-      "address": "Ciudad de México, México",
-      "hash_key": "startup grind x google pitch and run_2025-10-20T12:00:00+00:00"
-    },
-    {
       "title": "Mexico Tech Week|HYROX - HYBRID CLASS @CARPE|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAddress:\nCalz. Gral. Mariano Escobedo 726\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
       "url": "https://luma.com/lq1rnyo7",
@@ -4939,37 +4863,6 @@
       "city_code": "cdmx",
       "address": "Ciudad de México, México",
       "hash_key": "breakfast and bike ride at sunrise with _2025-10-20T12:00:00+00:00"
-    },
-    {
-      "title": "Mexico Tech Week|Investors & Founders Coffee Mixer by AWS + PYGMA + NXTP + Adamant|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/ixkvvsmy\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 5 others",
-      "url": "https://luma.com/ixkvvsmy",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/ixkvvsmy",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "Ciudad de México, Mexico",
-      "online": false,
-      "organizer": "Mexico Tech Week",
-      "dtstart": "2025-10-20T14:00:00+00:00",
-      "dtend": "2025-10-20T16:00:00+00:00",
-      "tags": [
-        "ai",
-        "cloud",
-        "python"
-      ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-      "country": "México",
-      "country_code": "MX",
-      "state": "Ciudad de México",
-      "state_code": "MX-CMX",
-      "city": "",
-      "city_code": "cdmx",
-      "address": "Ciudad de México, México",
-      "hash_key": "investors founders coffee mixer by aws p_2025-10-20T14:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Frontiers of Reasoning: AI & Science|México|Ciudad de México",
@@ -7100,7 +6993,7 @@
       "state_code": "MX-CMX",
       "city": "Ciudad de México",
       "city_code": "cdmx",
-      "address": "Privada Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+      "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
       "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
     },
     {
@@ -9271,6 +9164,40 @@
       "hash_key": "claude community x aws claude code for f_2026-11-26T22:00:00+00:00"
     },
     {
+      "title": "GDG CDMX|Lanzamiento de Devin CDMX ft GDG CDMX|México|Ciudad de México",
+      "description": "Google Developer Group CDMX presenta el Lanzamiento de Devin Community CDMX, invitando a desarrolladores, creadores y estudiantes a dominar el paso del vibe-coding a sistemas reales. Construye apps con Google Maps Platform y Gemini, aprende arquitectura de IA a gran escala y conecta con la comunidad.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "CAMPUS WORTEV, 187 Zamora, Ciudad de México",
+      "online": false,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-11-27T18:00:00-06:00",
+      "dtend": "2026-11-27T21:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Centraal, 187, Calle Zamora, Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
+      "hash_key": "lanzamiento de devin cdmx ft gdg cdmx_2026-11-28T00:00:00+00:00"
+    },
+    {
       "title": "Claude Community|Mexico City  -  Claude Build Day At UniconHub Hack|México|Ciudad de México",
       "description": "Get up-to-date information at: https://luma.com/claude-unicon-hack\n\nAddress:\nSandbox Hub\nCiudad de México, Mexico\n\nHosted by Cesar Méndez & 3 others",
       "url": "https://luma.com/claude-unicon-hack",
@@ -9327,6 +9254,33 @@
       "city_code": "cdmx",
       "address": "Ciudad de México, México",
       "hash_key": "fiesta de fin de ao fintech mxico_2026-12-04T00:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Mexico City  -  Claude for Enterprise Governance|México|Ciudad de México",
+      "description": "Get up-to-date information at: https://luma.com/claude-enterprise\n\nAddress:\nMexico City, Mexico\n\nHosted by Cesar Méndez & 4 others",
+      "url": "https://luma.com/claude-enterprise",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-enterprise",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Mexico City, Mexico",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2027-02-13T00:00:00+00:00",
+      "dtend": "2027-02-13T04:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "",
+      "city_code": "cdmx",
+      "address": "Ciudad de México, México",
+      "hash_key": "mexico city claude for enterprise govern_2027-02-13T00:00:00+00:00"
     },
     {
       "title": "Mobil3|Pre-Registro: Mobil3 Hackathon|México|Ciudad de México",

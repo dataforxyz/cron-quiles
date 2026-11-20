@@ -1,5 +1,32 @@
 [
   {
+    "title": "Claude Community|Mexico City  -  Claude for Enterprise Governance|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/claude-enterprise\n\nAddress:\nMexico City, Mexico\n\nHosted by Cesar Méndez & 4 others",
+    "url": "https://luma.com/claude-enterprise",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/claude-enterprise",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Mexico City, Mexico",
+    "online": false,
+    "organizer": "Claude Community",
+    "dtstart": "2027-02-13T00:00:00+00:00",
+    "dtend": "2027-02-13T04:00:00+00:00",
+    "tags": [],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "mexico city claude for enterprise govern_2027-02-13T00:00:00+00:00"
+  },
+  {
     "title": "Claude Community|Guadalajara  -  Claude Community x Improving: Build Day|México|Jalisco",
     "description": "Get up-to-date information at: https://luma.com/claude-akw5\n\nAddress:\nCheck event page for more details.\n\nHosted by Miguel Oceguera",
     "url": "https://luma.com/claude-akw5",
@@ -28,6 +55,41 @@
     "city_code": "zapopan",
     "address": "Loma Real, Zapopan, Región Centro, Jalisco, 45110, México",
     "hash_key": "guadalajara claude community x improving_2027-01-30T16:00:00+00:00"
+  },
+  {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Jan 21 - AI, ML and Computer Vision Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nJan 21, 2027\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-january-21-2027)**\n\n**Verifier-Gated Generative Tutoring: When the LLM Writes Lessons but Never Decides Mastery**\n\nAdaptive tutors increasingly let LLMs both generate content and decide mastery — a risky coupling. dino.study separates those roles: models draft interactive lessons under verifier gates, while deterministic Python BKT + FSRS tracks mastery and review timing. I'll show the production architecture (Expo app + Bun API + Postgres prerequisite graphs), cost (\\~$0.04/lesson), and an honest LLM-simulated N=30/arm dry-run that is not a human peer-reviewed study.\n\nThe talk is code-forward with a live demo. Aimed at ML/CV practitioners curious about evaluation, mastery modeling, and shipping educational AI.\n\n*About the Speaker*\n\n[Animesh Alang](https://www.linkedin.com/in/animesh-alang-232713132) is a UCSC Computer Engineering junior building dino.study. He founded SlugAI, serves as President of CruzHacks, and was Cloud Track winner at NVIDIA Hack-a-Claw.\n\n**Building CAD for Machine Intelligence: The Future of AI-Driven Engineering**\n\nWhat does it take to build AI systems that can reason about geometry, design mechanical parts, and automate engineering workflows? In this talk, we introduce Quartz, a CAD system built for machine intelligence, and explore how high-performance geometry execution, reinforcement learning, and massively parallel environments enable AI agents to learn engineering through design and iteration.\n\nWe demonstrate how AI can create and modify complex assemblies while preserving editable CAD histories, and share our vision for the future of AI-driven engineering.\n\n*About the Speaker*\n\n[Debao Huang](https://www.linkedin.com/in/debao-huang/) is currently a Research Scientist at Spectral Labs, where he develops AI-native CAD systems and foundation models for automating engineering design. He obtained his Ph.D. in Electrical and Computer Engineering from The Ohio State University.\n\n**Does 70% Mean 70%? Building an Honest Tennis Win-Probability Engine**\n\nWhen a model says a tennis player has a 70% chance to win, does that player win 70% of the time? I built Tiebreak, a win-probability engine trained on about 900,000 ATP matches that layers surface-adjusted Elo, a point-by-point Markov chain and gradient boosting, updating live as a match unfolds.\n\nEarly versions looked better than they were because the same match leaked into both training and test data, and I show exactly how I caught it with a chronological, match-level split. Reliability diagrams then show where the model is calibrated and where it is overconfident.\n\nAttendees leave with a practical checklist for building and honestly evaluating any ML model that outputs probabilities.\n\n*About the Speaker*\n\n[Krrish Ghindani](https://www.linkedin.com/in/krrishghindani/) is a Data Science junior at the University of San Francisco on a full merit scholarship and leads USF's Data Science team at national competitions (1st place).\n\n**Can an Open-Weight Model Power a Physical AI Agent? Serving Gemma 4 on Google TPUs with Voxel51**\n\nIn this session, we'll deploy Google's Gemma 4 on Cloud TPUs using vLLM-TorchTPU and connect it to the Voxel51 Agent. Through a live demo and inference benchmarks, we'll explore how open-weight models can support Physical AI workflows, examining latency, throughput, and the infrastructure tradeoffs behind building reliable AI agents.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) is a Machine Learning Engineer and DevRel at Voxel51 with over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/317517597/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/317517597/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2027-01-21T11:00:00-06:00",
+    "dtend": "2027-01-21T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "devops",
+      "frontend",
+      "python"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "jan 21 ai ml and computer vision meetup_2027-01-21T16:00:00+00:00"
   },
   {
     "title": "México City AI, Machine Learning and Computer Vision Meetup|Jan 14 - MCP, Agents and Skills Meetup|Online",
@@ -211,7 +273,7 @@
       "Web",
       "Workshop / hands-on session"
     ],
-    "source": "https://gdg.community.dev/gdg-ipn/",
+    "source": "https://gdg.community.dev/gdg-cdmx/",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -461,7 +523,7 @@
       "mobile",
       "web"
     ],
-    "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
+    "source": "https://gdg.community.dev/gdg-guadalajara/",
     "country": "México",
     "country_code": "MX",
     "state": "Jalisco",
@@ -619,6 +681,40 @@
     "hash_key": "claude community x distritoqro claude fo_2026-11-27T22:00:00+00:00"
   },
   {
+    "title": "GDG CDMX|Lanzamiento de Devin CDMX ft GDG CDMX|México|Ciudad de México",
+    "description": "Google Developer Group CDMX presenta el Lanzamiento de Devin Community CDMX, invitando a desarrolladores, creadores y estudiantes a dominar el paso del vibe-coding a sistemas reales. Construye apps con Google Maps Platform y Gemini, aprende arquitectura de IA a gran escala y conecta con la comunidad.",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "CAMPUS WORTEV, 187 Zamora, Ciudad de México",
+    "online": false,
+    "organizer": "GDG CDMX",
+    "dtstart": "2026-11-27T18:00:00-06:00",
+    "dtend": "2026-11-27T21:00:00-06:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "Build with AI",
+      "Career Development",
+      "Workshop / hands-on session",
+      "frontend"
+    ],
+    "source": "https://gdg.community.dev/gdg-cdmx/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "Ciudad de México",
+    "city_code": "cdmx",
+    "address": "Centraal, 187, Calle Zamora, Condesa, San Miguel Chapultepec, Ciudad de México, Cuauhtémoc, Ciudad de México, 06140, México",
+    "hash_key": "lanzamiento de devin cdmx ft gdg cdmx_2026-11-28T00:00:00+00:00"
+  },
+  {
     "title": "Claude Community|Claude Community x AWS  -  Claude Code For Frontier AI|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claudeaws\n\nAddress:\nAmazon México Oficinas\nCiudad de México, Mexico\n\nHosted by Claude Community, Ricardo Lira de la Vega & Edmundo Mudeci",
     "url": "https://luma.com/claudeaws",
@@ -649,7 +745,7 @@
     "hash_key": "claude community x aws claude code for f_2026-11-26T22:00:00+00:00"
   },
   {
-    "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
+    "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|Nayarit",
     "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
     "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
     "sources": [
@@ -675,11 +771,11 @@
     "source": "https://gdg.community.dev/gdg-tepic/",
     "country": "México",
     "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
+    "state": "Nayarit",
+    "state_code": "MX-NAY",
+    "city": "Tepic",
+    "city_code": "tepic",
+    "address": "Avenida de las Torres, Ciudad del Conocimiento, Tepic, Nayarit, 63509, México",
     "hash_key": "dev fest 2026 collaborative innovation_2026-11-26T18:00:00+00:00"
   },
   {
@@ -925,6 +1021,51 @@
     "hash_key": "claude community x secretara de economa _2026-11-23T14:00:00+00:00"
   },
   {
+    "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
+    "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
+    "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+    "sources": [
+      {
+        "platform": "website",
+        "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+        "label": "Ver sitio web"
+      }
+    ],
+    "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+    "online": false,
+    "organizer": "GDG Guadalajara",
+    "dtstart": "2026-11-21T09:00:00-06:00",
+    "dtend": "2026-11-21T16:00:00-06:00",
+    "tags": [
+      "AI",
+      "AI - Gemini",
+      "Android",
+      "Career Development",
+      "Community Building",
+      "Conference",
+      "DevFest",
+      "Firebase",
+      "Flutter",
+      "Google Cloud",
+      "Networking",
+      "Tech Talk / Meetup",
+      "UX / UI Design",
+      "Web",
+      "Workshop / hands-on session",
+      "cloud",
+      "web"
+    ],
+    "source": "https://gdg.community.dev/gdg-guadalajara/",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
+    "city": "Guadalajara",
+    "city_code": "guadalajara",
+    "address": "Calle Guanajuato, Mezquitán, Guadalajara, Región Centro, Jalisco, 44260, México",
+    "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
+  },
+  {
     "title": "GDG Cloud Mexico City|Road to DevFest Tamaulipas 2026|México|",
     "description": "DevFest 2026 invita a quienes desean explorar las tendencias en Inteligencia Artificial y su impacto en la sociedad. Conoce cómo los modelos de IA transforman industrias mediante proyectos innovadores. Es una oportunidad única para aprender, conectar y crecer en comunidad. Participa y forma parte del futuro de la tecnología. ¡Reserva tu lugar hoy!",
     "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/",
@@ -965,51 +1106,6 @@
     "hash_key": "road to devfest tamaulipas 2026_2026-11-21T14:00:00+00:00"
   },
   {
-    "title": "GDG Guadalajara|DevFest 2026|México|",
-    "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
-    "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
-    "sources": [
-      {
-        "platform": "website",
-        "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
-        "label": "Ver sitio web"
-      }
-    ],
-    "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
-    "online": false,
-    "organizer": "GDG Guadalajara",
-    "dtstart": "2026-11-21T09:00:00-06:00",
-    "dtend": "2026-11-21T16:00:00-06:00",
-    "tags": [
-      "AI",
-      "AI - Gemini",
-      "Android",
-      "Career Development",
-      "Community Building",
-      "Conference",
-      "DevFest",
-      "Firebase",
-      "Flutter",
-      "Google Cloud",
-      "Networking",
-      "Tech Talk / Meetup",
-      "UX / UI Design",
-      "Web",
-      "Workshop / hands-on session",
-      "cloud",
-      "web"
-    ],
-    "source": "https://gdg.community.dev/gdg-guadalajara/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
-    "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
-  },
-  {
     "title": "Claude Community|Puebla  -  Claude Build Day|México|Puebla",
     "description": "Get up-to-date information at: https://luma.com/claude-puebla\n\nAddress:\nWorkbliss HUB - Café, Cowork, Estudio\nSan Andrés Cholula, Mexico\n\nHosted by Cesar Méndez & 5 others",
     "url": "https://luma.com/claude-puebla",
@@ -1037,40 +1133,6 @@
     "city_code": "",
     "address": "Puebla, México",
     "hash_key": "puebla claude build day_2026-11-20T22:00:00+00:00"
-  },
-  {
-    "title": "GDG CDMX|Lanzamiento de Devin CDMX ft GDG CDMX|México|",
-    "description": "Google Developer Group CDMX presenta el Lanzamiento de Devin Community CDMX, invitando a desarrolladores, creadores y estudiantes a dominar el paso del vibe-coding a sistemas reales. Construye apps con Google Maps Platform y Gemini, aprende arquitectura de IA a gran escala y conecta con la comunidad.",
-    "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
-    "sources": [
-      {
-        "platform": "website",
-        "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
-        "label": "Ver sitio web"
-      }
-    ],
-    "location": "CAMPUS WORTEV, 187 Zamora, Ciudad de México",
-    "online": false,
-    "organizer": "GDG CDMX",
-    "dtstart": "2026-11-20T18:00:00-06:00",
-    "dtend": "2026-11-20T21:00:00-06:00",
-    "tags": [
-      "AI",
-      "AI - Gemini",
-      "Build with AI",
-      "Career Development",
-      "Workshop / hands-on session",
-      "frontend"
-    ],
-    "source": "https://gdg.community.dev/gdg-cdmx/",
-    "country": "México",
-    "country_code": "MX",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "CAMPUS WORTEV, 187 Zamora, Ciudad de México",
-    "hash_key": "lanzamiento de devin cdmx ft gdg cdmx_2026-11-21T00:00:00+00:00"
   },
   {
     "title": "GDG Cancún|DevFest Cancún 2026|México|",
@@ -4477,7 +4539,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Privada Monte Líbano, Lomas de Chapultepec 6ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
+    "address": "Calle Monte Líbano, Lomas de Chapultepec 2ª Sección, Lomas de Chapultepec, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11000, México",
     "hash_key": "evoluciona tu relacin con el dinero by p_2026-02-24T14:00:00+00:00"
   },
   {
@@ -7265,37 +7327,6 @@
     "hash_key": "femtech mexico cumbre 2025 mexico techwe_2025-10-20T14:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Investors & Founders Coffee Mixer by AWS + PYGMA + NXTP + Adamant|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/ixkvvsmy\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 5 others",
-    "url": "https://luma.com/ixkvvsmy",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/ixkvvsmy",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2025-10-20T14:00:00+00:00",
-    "dtend": "2025-10-20T16:00:00+00:00",
-    "tags": [
-      "ai",
-      "cloud",
-      "python"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "investors founders coffee mixer by aws p_2025-10-20T14:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|Frontiers of Reasoning: AI & Science|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/xqvjg8eb\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 6 others",
     "url": "https://luma.com/xqvjg8eb",
@@ -7355,35 +7386,6 @@
     "hash_key": "breakfast and bike ride at sunrise with _2025-10-20T12:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Startup Grind x Google: Pitch and Run|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/x5ricxbs\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 8 others",
-    "url": "https://luma.com/x5ricxbs",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/x5ricxbs",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2025-10-20T12:00:00+00:00",
-    "dtend": "2025-10-20T14:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "startup grind x google pitch and run_2025-10-20T12:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|HYROX - HYBRID CLASS @CARPE|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAddress:\nCalz. Gral. Mariano Escobedo 726\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/lq1rnyo7",
@@ -7409,35 +7411,6 @@
     "city_code": "cdmx",
     "address": "Torre Polanco, 476, Calzada General Mariano Escobedo, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
-  },
-  {
-    "title": "Mexico Tech Week|Parrilla con Amigos by Lazo & Cathay|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/u73z5qmi\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & 6 others",
-    "url": "https://luma.com/u73z5qmi",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/u73z5qmi",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2025-10-19T18:30:00+00:00",
-    "dtend": "2025-10-19T23:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, México",
-    "hash_key": "parrilla con amigos by lazo cathay_2025-10-19T18:00:00+00:00"
   },
   {
     "title": "Mexico Tech Week|Mega Clase Gratuita de Inteligencia  Artifical|México|Ciudad de México",
@@ -10099,35 +10072,6 @@
     "hash_key": "gran torneo clara startups age of empire_2024-10-26T16:00:00+00:00"
   },
   {
-    "title": "Mexico Tech Week|Brunch for Stanford Alumni during Mexico Tech Week|México|Ciudad de México",
-    "description": "Get up-to-date information at: https://luma.com/eq09o19z\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Ali Jamal",
-    "url": "https://luma.com/eq09o19z",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/eq09o19z",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "Cuauhtémoc, Ciudad de México, Mexico",
-    "online": false,
-    "organizer": "Mexico Tech Week",
-    "dtstart": "2024-10-26T17:00:00+00:00",
-    "dtend": "2024-10-26T19:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
-    "country": "México",
-    "country_code": "MX",
-    "state": "Ciudad de México",
-    "state_code": "MX-CMX",
-    "city": "Ciudad de México",
-    "city_code": "cdmx",
-    "address": "Ciudad de México, Cuauhtémoc, Ciudad de México, México",
-    "hash_key": "brunch for stanford alumni during mexico_2024-10-26T16:00:00+00:00"
-  },
-  {
     "title": "Mexico Tech Week|Wellness + Tech  -  Pilates Class & Brunch|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/0oyqw53a\n\nAddress:\nNápoles 47\nCiudad de México, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 3 others",
     "url": "https://luma.com/0oyqw53a",
@@ -11960,7 +11904,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Privada Primera Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
+    "address": "Calle Lago Ladoga, Modelo Pensil, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11450, México",
     "hash_key": "padel club x fintual_2024-10-24T14:00:00+00:00"
   },
   {
