@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T07:17:32.329712+00:00",
-  "total_events": 160,
+  "generated_at": "2026-11-21T19:29:04.543749+00:00",
+  "total_events": 163,
   "city": "Online",
   "communities": [
     {
@@ -122,6 +122,17 @@
       ]
     },
     {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Cancún",
       "description": "Disclaimer: GDG Cancún is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
       "links": [
@@ -150,6 +161,17 @@
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG Tepic",
+      "description": "GDG Tepic is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-tepic/",
           "label": "Sitio web"
         }
       ]
@@ -3940,6 +3962,35 @@
       "hash_key": "be part of the collective transformation_2026-11-24T10:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|Governing Together: AI Governance in Pakistan: Policies, Progress and Global Relevance (w/ The AI Collective) (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-du-11-24\n\nHosted by The AI Collective & AI Governance Corridor",
+      "url": "https://luma.com/aic-du-11-24",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-du-11-24",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-JUcqkT7kGgvIS7Y",
+      "online": true,
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-11-24T15:00:00+00:00",
+      "dtend": "2026-11-24T16:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-JUcqkT7kGgvIS7Y",
+      "hash_key": "governing together ai governance in paki_2026-11-24T14:00:00+00:00"
+    },
+    {
       "title": "Rust-AICollective|Marketing Agents: How AI Agents Are Taking On Marketing Work|Online",
       "description": "Get up-to-date information at: https://luma.com/aic-sw-11-24\n\nHosted by The AI Collective & 4 others",
       "url": "https://luma.com/aic-sw-11-24",
@@ -3969,33 +4020,34 @@
       "hash_key": "marketing agents how ai agents are takin_2026-11-24T16:00:00+00:00"
     },
     {
-      "title": "Claude Community|La Ceja  -  Claude Workshop|Online",
-      "description": "Get up-to-date information at: https://luma.com/claude-1ryz\n\nHosted by Felipe Aguirre Martinez, José Villegas & Hola Skipea",
-      "url": "https://luma.com/claude-1ryz",
+      "title": "Rust-AICollective|Building Together: Share Your Work, Find Your People (w/ The AI Collective)|Online",
+      "description": "Get up-to-date information at: https://luma.com/aic-du-11-25\n\nHosted by The AI Collective",
+      "url": "https://luma.com/aic-du-11-25",
       "sources": [
         {
           "platform": "luma",
-          "url": "https://luma.com/claude-1ryz",
+          "url": "https://luma.com/aic-du-11-25",
           "label": "Ver en Luma"
         }
       ],
-      "location": "https://luma.com/event/evt-BokU6ZWxoMCmica",
+      "location": "https://luma.com/event/evt-XULaC5zGCiNGkWG",
       "online": true,
-      "organizer": "Claude Community",
-      "dtstart": "2026-11-24T23:00:00+00:00",
-      "dtend": "2026-11-25T02:00:00+00:00",
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-11-25T15:00:00+00:00",
+      "dtend": "2026-11-25T16:00:00+00:00",
       "tags": [
+        "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "source": "https://luma.com/rust-ios-ai",
       "country": "",
       "country_code": "",
       "state": "",
       "state_code": "",
       "city": "",
       "city_code": "",
-      "address": "https://luma.com/event/evt-BokU6ZWxoMCmica",
-      "hash_key": "la ceja claude workshop_2026-11-24T22:00:00+00:00"
+      "address": "https://luma.com/event/evt-XULaC5zGCiNGkWG",
+      "hash_key": "building together share your work find y_2026-11-25T14:00:00+00:00"
     },
     {
       "title": "GDG Villahermosa|DevFest 2026: TecNM Villahermosa|México|",
@@ -4033,6 +4085,74 @@
       "city_code": "",
       "address": "TecNM - Campus Villahermosa, Villahermosa - Frontera, Villahermosa",
       "hash_key": "devfest 2026 tecnm villahermosa_2026-11-25T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Tepic|Dev Fest 2026: Collaborative Innovation|México|",
+      "description": "Dev Fest 2026 brings together GDG Tepic and Instituto Tecnológico de Tepic's Computer Systems Engineering department for a day of innovation and collaboration. Engage in workshops and networking with developers and tech enthusiasts. Be at the forefront of technology in Tepic by securing your spot today.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
+      "online": false,
+      "organizer": "GDG Tepic",
+      "dtstart": "2026-11-26T12:30:00-07:00",
+      "dtend": "2026-11-28T16:30:00-07:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "DevFest",
+        "Google Cloud",
+        "Workshop / hands-on session",
+        "security"
+      ],
+      "source": "https://gdg.community.dev/gdg-tepic/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Museo interactivo de ciencias e innovación de Nayarit, s/n Avenida de la Salud, Tepic",
+      "hash_key": "dev fest 2026 collaborative innovation_2026-11-26T18:00:00+00:00"
+    },
+    {
+      "title": "GDG CDMX|Lanzamiento de Devin CDMX ft GDG CDMX|México|",
+      "description": "Google Developer Group CDMX presenta el Lanzamiento de Devin Community CDMX, invitando a desarrolladores, creadores y estudiantes a dominar el paso del vibe-coding a sistemas reales. Construye apps con Google Maps Platform y Gemini, aprende arquitectura de IA a gran escala y conecta con la comunidad.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-lanzamiento-de-devin-cdmx-ft-gdg-cdmx/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "CAMPUS WORTEV, 187 Zamora, Ciudad de México",
+      "online": false,
+      "organizer": "GDG CDMX",
+      "dtstart": "2026-11-27T18:00:00-06:00",
+      "dtend": "2026-11-27T21:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session",
+        "frontend"
+      ],
+      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "CAMPUS WORTEV, 187 Zamora, Ciudad de México",
+      "hash_key": "lanzamiento de devin cdmx ft gdg cdmx_2026-11-28T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|Lunch with a Side of AI (w/ AI Collective NZ)|Online",
@@ -4156,7 +4276,7 @@
       "hash_key": "beyond ai readiness architecting the int_2026-12-04T08:00:00+00:00"
     },
     {
-      "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|Veracruz",
+      "title": "GDG Heroica Veracruz|DevFest 2026 Heroica Veracruz|México|",
       "description": "Join DevFest 2026 Heroica Veracruz on November 14 to explore the latest in AI and Google technologies. Engage in hands-on workshops and learn from industry experts on topics like Angular, Flutter, and Android. Network with passionate developers and enhance your skills. Register now and secure your spot for this dynamic tech experience in Veracruz. Don't miss out!",
       "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-heroica-veracruz/",
       "sources": [
@@ -4197,11 +4317,11 @@
       "source": "https://gdg.community.dev/gdg-heroica-veracruz/",
       "country": "México",
       "country_code": "MX",
-      "state": "Veracruz",
+      "state": "",
       "state_code": "",
-      "city": "Veracruz",
-      "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "city": "",
+      "city_code": "",
+      "address": "Museo de la Ciudad \"Coronel Manuel Gutiérrez Zamora\", 397 Avenida Ignacio Zaragoza, Veracruz",
       "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
     },
     {
