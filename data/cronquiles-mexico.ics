@@ -3930,9 +3930,9 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAd
  éxico\nMexico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Calz. Gral. Mariano Escobedo 726\, Polanco\, Anzures\, Miguel Hid
  algo\, 11590 Ciudad de México\, CDMX\, Mexico
-X-CRONQUILES-ADDRESS:Vape Monkey Mexico\, 68\, Calle Darwin\, Anzures\, Po
- lanco\, Ciudad de México\, Miguel Hidalgo\, Ciudad de México\, 11590\, M
- éxico
+X-CRONQUILES-ADDRESS:Warner Music Mexico City\, 32\, Calle Leibnitz\, Anzu
+ res\, Polanco\, Ciudad de México\, Miguel Hidalgo\, Ciudad de México\, 1
+ 1590\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6164,10 +6164,10 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/64grz37k\n\nAd
  an Eduardo Vega Ortega & AWS Cloud Club UNAM
 LOCATION:Universidad Nacional Autónoma de México\, Ciudad de México\, M
  éxico
-X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Avenida C
- iudad Universitaria\, Jardines del Pedregal\, San Ángel\, Ciudad de Méxi
- co\, Álvaro Obregón\, Ciudad Universitaria\, Ciudad de México\, 04360\,
-  México
+X-CRONQUILES-ADDRESS:Universidad Nacional Autónoma de México\, Avenida P
+ edro Henríquez Ureña\, Fraccionamiento Copilco Universidad\, Copilco\, C
+ iudad de México\, Coyoacán\, Ciudad Universitaria\, Ciudad de México\, 
+ 04360\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -6477,9 +6477,10 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/claudecolima\n
  \nAddress:\nCheck event page for more details.\n\nHosted by Ricardo Lira d
  e la Vega\, Miguel Oceguera & WDT Colima
 LOCATION:Centro\, Colima\, México
-X-CRONQUILES-ADDRESS:Centro\, Coquimatlán\, Colima\, 28400\, México
-X-CRONQUILES-CITY:Coquimatlán
-X-CRONQUILES-CITY-CODE:coquimatlan
+X-CRONQUILES-ADDRESS:Centro\, Colima\, Municipio de Colima\, Colima\, 2800
+ 0\, México
+X-CRONQUILES-CITY:Colima
+X-CRONQUILES-CITY-CODE:colima
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Colima
@@ -7505,37 +7506,6 @@ X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Be Part of the Collective Transformation (w/ The
-  AI Collective Nordics)|Online
-DTSTART:20261124T110000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sw-ws-seri
- es-3\n\nHosted by The AI Collective & Neelima Misra
-LOCATION:https://luma.com/event/evt-IEXavRs9KvsZTJ0
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-IEXavRs9KvsZTJ0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Governing Together: AI Governance in Pakistan: P
- olicies\, Progress and Global Relevance (w/ The AI Collective) (w/ The AI 
- Collective)|Online
-DTSTART:20261124T150000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-du-11-24\n
- \nHosted by The AI Collective & AI Governance Corridor
-LOCATION:https://luma.com/event/evt-JUcqkT7kGgvIS7Y
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-JUcqkT7kGgvIS7Y
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rust-AICollective|Marketing Agents: How AI Agents Are Taking On Ma
- rketing Work|Online
-DTSTART:20261124T160000Z
-CATEGORIES:ai
-DESCRIPTION:Get up-to-date information at: https://luma.com/aic-sw-11-24\n
- \nHosted by The AI Collective & 4 others
-LOCATION:https://luma.com/event/evt-AugGgSt8JozkbRV
-X-CRONQUILES-ADDRESS:https://luma.com/event/evt-AugGgSt8JozkbRV
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Python CDMX|Meetup Noviembre 2026  -  PythonCDMX|México|Ciudad de
   México
 DTSTART:20261125T000000Z
@@ -8296,6 +8266,54 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 X-CRONQUILES-STATE:Ciudad de México
 X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Feb 
+ 25 - MCP\, Agents and Skills Meetup|Online
+DTSTART:20270225T110000
+CATEGORIES:ai,backend,cloud,data,devops,frontend,python,security
+DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
+ nJoin our virtual meetup to hear talks from experts on cutting-edge topics
+  across MCP\, agents and skills.\n\n**Date\, Time and Location**\n\nFeb 25
+ \, 2027\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https:
+ //voxel51.com/events/mcp-agents-skills-meetup-february-25-2027)**\n\n**You
+ r Agent Crashed After a Tool Call. Now What?**\n\nAgent demos rarely show 
+ what happens when the worker dies halfway through a tool workflow. I’ll 
+ demonstrate crash recovery with LangGraph and Pydantic AI using Azure Dura
+ ble Task Scheduler. I’ll show persisted progress\, retries\, and a human
+  approval step. I’ll distinguish workflow recovery from external effects
+ : preventing duplicate effects requires idempotency enforced by the extern
+ al API.\n\n*About the Speaker*\n\n[Tamir Dresher](https://www.linkedin.com
+ /in/tamirdresher/) is a Principal Engineer on Microsoft's Azure Serverless
+  team. Tamir built the official Azure Durable Task Scheduler integrations 
+ for LangGraph and Pydantic AI.\n\n**Before You Connect That MCP Server: Wh
+ at It Can Reach\, What It Can Do**\n\nConnect an agent to an MCP server an
+ d that server gets access to your credentials and a standing invitation to
+  act for you. Independent researcher Syed Anas Mohiuddin is credited on 16
+  GitHub security advisories for MCP servers\, covering server-side request
+  forgery\, command injection\, missing authentication\, session hijack\, a
+ nd credential leaks.\n\nThis talk goes through the checks to run before yo
+ u connect a server: what it can reach on the network\, what it stores and 
+ logs\, and which of its tools can change real systems. It then covers the 
+ check that has to sit at run time\, between the agent and the action\, so 
+ a poisoned tool description or a forged request meets a person before it r
+ eaches production.\n\nAttendees get a short list of questions to put to an
+ y MCP server they already run.\n\n*About the Speaker*\n\n[Michael Kantor](
+ https://www.linkedin.com/in/kantorcodes) is President of HOL\, a nonprofit
+  consortium that builds open standards for AI agent infrastructure. HOL's 
+ product is HOL Guard\, a firewall for any AI agent\, which checks risky ac
+ tions before they run. On 10 November 2026 he spoke online at [re]aligned\
+ , a CanSecWest extension\, on testing runtime controls for agents: "Did th
+ e Agent Guard Stop the Action\, or Only the Words?"\n\n**Flash Demo: Agent
+ s in Action with Voxel51**\n\nIn this flash demo\, Adonai will show some o
+ f the agent workflows the Voxel51 team has been building\, and how you can
+  put agents to work on your own visual AI data with Voxel51. Expect a quic
+ k\, hands-on look at what's possible today and how to try it yourself.\n\n
+ *About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-ve
+ ra/) is a Machine Learning Engineer and DevRel at Voxel51 with over 7 year
+ s of experience building computer vision and machine learning models using
+  TensorFlow\, Docker\, and OpenCV.
+LOCATION:Online event\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México City AI\, Machine Learning and Computer Vision Meetup|Marc

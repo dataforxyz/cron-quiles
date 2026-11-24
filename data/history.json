@@ -31,6 +31,42 @@
     "hash_key": "march 10 physical ai meetup robotic data_2027-03-10T16:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Feb 25 - MCP, Agents and Skills Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across MCP, agents and skills.\n\n**Date, Time and Location**\n\nFeb 25, 2027\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/mcp-agents-skills-meetup-february-25-2027)**\n\n**Your Agent Crashed After a Tool Call. Now What?**\n\nAgent demos rarely show what happens when the worker dies halfway through a tool workflow. I’ll demonstrate crash recovery with LangGraph and Pydantic AI using Azure Durable Task Scheduler. I’ll show persisted progress, retries, and a human approval step. I’ll distinguish workflow recovery from external effects: preventing duplicate effects requires idempotency enforced by the external API.\n\n*About the Speaker*\n\n[Tamir Dresher](https://www.linkedin.com/in/tamirdresher/) is a Principal Engineer on Microsoft's Azure Serverless team. Tamir built the official Azure Durable Task Scheduler integrations for LangGraph and Pydantic AI.\n\n**Before You Connect That MCP Server: What It Can Reach, What It Can Do**\n\nConnect an agent to an MCP server and that server gets access to your credentials and a standing invitation to act for you. Independent researcher Syed Anas Mohiuddin is credited on 16 GitHub security advisories for MCP servers, covering server-side request forgery, command injection, missing authentication, session hijack, and credential leaks.\n\nThis talk goes through the checks to run before you connect a server: what it can reach on the network, what it stores and logs, and which of its tools can change real systems. It then covers the check that has to sit at run time, between the agent and the action, so a poisoned tool description or a forged request meets a person before it reaches production.\n\nAttendees get a short list of questions to put to any MCP server they already run.\n\n*About the Speaker*\n\n[Michael Kantor](https://www.linkedin.com/in/kantorcodes) is President of HOL, a nonprofit consortium that builds open standards for AI agent infrastructure. HOL's product is HOL Guard, a firewall for any AI agent, which checks risky actions before they run. On 10 November 2026 he spoke online at [re]aligned, a CanSecWest extension, on testing runtime controls for agents: \"Did the Agent Guard Stop the Action, or Only the Words?\"\n\n**Flash Demo: Agents in Action with Voxel51**\n\nIn this flash demo, Adonai will show some of the agent workflows the Voxel51 team has been building, and how you can put agents to work on your own visual AI data with Voxel51. Expect a quick, hands-on look at what's possible today and how to try it yourself.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) is a Machine Learning Engineer and DevRel at Voxel51 with over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/317571137/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/317571137/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "online": true,
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2027-02-25T11:00:00-06:00",
+    "dtend": "2027-02-25T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "devops",
+      "frontend",
+      "python",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "feb 25 mcp agents and skills meetup_2027-02-25T16:00:00+00:00"
+  },
+  {
     "title": "Claude Community|Mexico City  -  Claude for Enterprise Governance|México|Ciudad de México",
     "description": "Get up-to-date information at: https://luma.com/claude-enterprise\n\nAddress:\nMexico City, Mexico\n\nHosted by Cesar Méndez & 4 others",
     "url": "https://luma.com/claude-enterprise",
@@ -1029,93 +1065,6 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "meetup noviembre 2026 pythoncdmx_2026-11-25T00:00:00+00:00"
-  },
-  {
-    "title": "Rust-AICollective|Marketing Agents: How AI Agents Are Taking On Marketing Work|Online",
-    "description": "Get up-to-date information at: https://luma.com/aic-sw-11-24\n\nHosted by The AI Collective & 4 others",
-    "url": "https://luma.com/aic-sw-11-24",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/aic-sw-11-24",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-AugGgSt8JozkbRV",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-11-24T16:00:00+00:00",
-    "dtend": "2026-11-24T17:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-AugGgSt8JozkbRV",
-    "hash_key": "marketing agents how ai agents are takin_2026-11-24T16:00:00+00:00"
-  },
-  {
-    "title": "Rust-AICollective|Governing Together: AI Governance in Pakistan: Policies, Progress and Global Relevance (w/ The AI Collective) (w/ The AI Collective)|Online",
-    "description": "Get up-to-date information at: https://luma.com/aic-du-11-24\n\nHosted by The AI Collective & AI Governance Corridor",
-    "url": "https://luma.com/aic-du-11-24",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/aic-du-11-24",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-JUcqkT7kGgvIS7Y",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-11-24T15:00:00+00:00",
-    "dtend": "2026-11-24T16:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-JUcqkT7kGgvIS7Y",
-    "hash_key": "governing together ai governance in paki_2026-11-24T14:00:00+00:00"
-  },
-  {
-    "title": "Rust-AICollective|Be Part of the Collective Transformation (w/ The AI Collective Nordics)|Online",
-    "description": "Get up-to-date information at: https://luma.com/aic-sw-ws-series-3\n\nHosted by The AI Collective & Neelima Misra",
-    "url": "https://luma.com/aic-sw-ws-series-3",
-    "sources": [
-      {
-        "platform": "luma",
-        "url": "https://luma.com/aic-sw-ws-series-3",
-        "label": "Ver en Luma"
-      }
-    ],
-    "location": "https://luma.com/event/evt-IEXavRs9KvsZTJ0",
-    "online": true,
-    "organizer": "Rust-AICollective",
-    "dtstart": "2026-11-24T11:00:00+00:00",
-    "dtend": "2026-11-24T12:00:00+00:00",
-    "tags": [
-      "ai"
-    ],
-    "source": "https://luma.com/rust-ios-ai",
-    "country": "",
-    "country_code": "",
-    "state": "",
-    "state_code": "",
-    "city": "",
-    "city_code": "",
-    "address": "https://luma.com/event/evt-IEXavRs9KvsZTJ0",
-    "hash_key": "be part of the collective transformation_2026-11-24T10:00:00+00:00"
   },
   {
     "title": "AI/IA CDMX|¿A dónde se fue mi quincena? - Where Did My Paycheck Go?|México|Ciudad de México",
@@ -2963,9 +2912,9 @@
     "country_code": "MX",
     "state": "Colima",
     "state_code": "MX-COL",
-    "city": "Coquimatlán",
-    "city_code": "coquimatlan",
-    "address": "Centro, Coquimatlán, Colima, 28400, México",
+    "city": "Colima",
+    "city_code": "colima",
+    "address": "Centro, Colima, Municipio de Colima, Colima, 28000, México",
     "hash_key": "colima claude code for everyone_2026-04-10T00:00:00+00:00"
   },
   {
@@ -3480,7 +3429,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Universidad Nacional Autónoma de México, Avenida Ciudad Universitaria, Jardines del Pedregal, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad Universitaria, Ciudad de México, 04360, México",
+    "address": "Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México",
     "hash_key": "pytonotion serpientes nubes y guas de es_2026-03-06T22:00:00+00:00"
   },
   {
@@ -7414,7 +7363,7 @@
     "state_code": "MX-CMX",
     "city": "Ciudad de México",
     "city_code": "cdmx",
-    "address": "Vape Monkey Mexico, 68, Calle Darwin, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
+    "address": "Warner Music Mexico City, 32, Calle Leibnitz, Anzures, Polanco, Ciudad de México, Miguel Hidalgo, Ciudad de México, 11590, México",
     "hash_key": "hyrox hybrid class carpe_2025-10-20T12:00:00+00:00"
   },
   {
