@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:12:49.122718+00:00",
+  "generated_at": "2026-11-24T10:05:05.335747+00:00",
   "total_events": 161,
   "city": "Online",
   "communities": [
@@ -139,23 +139,23 @@
       ]
     },
     {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Heroica Veracruz",
       "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG IPN",
-      "description": "Disclaimer: GDG IPN is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-ipn/",
           "label": "Sitio web"
         }
       ]
@@ -4044,7 +4044,7 @@
     },
     {
       "title": "Rust-AICollective|Building a Startup 101 (w/ The AI Collective)|Online",
-      "description": "Get up-to-date information at: https://luma.com/aic-la-12-3\n\nHosted by The AI Collective & Harmony Abayomi",
+      "description": "Get up-to-date information at: https://luma.com/aic-la-12-3\n\nHosted by The AI Collective, Harmony Abayomi & Pablo Naicker",
       "url": "https://luma.com/aic-la-12-3",
       "sources": [
         {
@@ -4178,7 +4178,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91700, México",
+      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
     },
     {
@@ -4270,7 +4270,7 @@
         "Web",
         "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-ipn/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
