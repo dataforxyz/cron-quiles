@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:25:33.652287+00:00",
+  "generated_at": "2026-11-26T21:47:58.129720+00:00",
   "total_events": 158,
   "city": "Online",
   "communities": [
@@ -139,23 +139,23 @@
       ]
     },
     {
-      "name": "GDG CDMX",
-      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-cdmx/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
       "name": "GDG Heroica Veracruz",
       "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "GDG IPN",
+      "description": "Disclaimer: GDG IPN is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-ipn/",
           "label": "Sitio web"
         }
       ]
@@ -4134,7 +4134,7 @@
         "Web",
         "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-cdmx/",
+      "source": "https://gdg.community.dev/gdg-ipn/",
       "country": "México",
       "country_code": "MX",
       "state": "",
