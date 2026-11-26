@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cron-Quiles//ICS Aggregator//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Campeche\, México
+X-WR-CALNAME:Eventos Tech Campeche - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:GDG San Francisco de Campeche|De una API de música a un agente co
+ n ADK y Gemini|México|Campeche
+DTSTART:20261210T190000
+CATEGORIES:AI,AI - Gemini,Google Cloud,Workshop / hands-on session,ai,back
+ end
+DESCRIPTION:Participa en un taller práctico para transformar una API de m
+ úsica en un agente inteligente con ADK y Gemini. Ideal para principiantes
+  y desarrolladores interesados en las tecnologías de Google. Necesitarás
+  una laptop\, cuenta de Gmail\, Git\, y acceso a GitHub. Aprende a crear a
+ plicaciones innovadoras y conecta con otros entusiastas. Regístrate envia
+ ndo un correo a gdgcampeche@gmail.com.
+LOCATION:UNID Campus Campeche\, 611 Avenida Resurgimiento\, San Francisco 
+ de Campeche
+X-CRONQUILES-ADDRESS:Avenida Resurgimiento\, MONTECRISTO\, San Francisco d
+ e Campeche\, Municipio de Campeche\, Campeche\, 24044\, México
+X-CRONQUILES-CITY:San Francisco de Campeche
+X-CRONQUILES-CITY-CODE:sanfranciscodecampeche
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Campeche
+X-CRONQUILES-STATE-CODE:MX-CAM
+END:VEVENT
+END:VCALENDAR
