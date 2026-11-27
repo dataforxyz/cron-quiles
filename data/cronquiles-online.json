@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:47:58.129720+00:00",
+  "generated_at": "2026-11-27T08:26:15.469823+00:00",
   "total_events": 158,
   "city": "Online",
   "communities": [
@@ -43,11 +43,11 @@
     },
     {
       "name": "FinTech México",
-      "description": "Comunidad FinTech México. Eventos sobre fintech, sistemas transaccionales y escalamiento (Ciudad de México).",
+      "description": "Comunidad FinTech México. FinTech México Week, Fuckup Nights y eventos de la comunidad (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/eofagheq",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -97,11 +97,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -139,23 +139,23 @@
       ]
     },
     {
+      "name": "GDG CDMX",
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-cdmx/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
       "name": "GDG Heroica Veracruz",
       "description": "GDG Veracruz is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg",
       "links": [
         {
           "platform": "website",
           "url": "https://gdg.community.dev/gdg-heroica-veracruz/",
-          "label": "Sitio web"
-        }
-      ]
-    },
-    {
-      "name": "GDG IPN",
-      "description": "Disclaimer: GDG IPN is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/",
-      "links": [
-        {
-          "platform": "website",
-          "url": "https://gdg.community.dev/gdg-ipn/",
           "label": "Sitio web"
         }
       ]
@@ -2872,7 +2872,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3037,7 +3037,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3578,7 +3578,7 @@
       "tags": [
         "security"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3605,7 +3605,7 @@
       "dtstart": "2026-05-15T00:00:00+00:00",
       "dtend": "2026-05-15T00:50:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3721,7 +3721,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3748,7 +3748,7 @@
       "dtstart": "2026-08-26T22:00:00+00:00",
       "dtend": "2026-08-26T23:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3777,7 +3777,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3806,7 +3806,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4042,7 +4042,7 @@
       "state_code": "",
       "city": "Veracruz",
       "city_code": "veracruz",
-      "address": "Avenida Ignacio Zaragoza, Poligono, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
+      "address": "Puente Morelos, Puerto de Veracruz, Veracruz, Municipio de Veracruz, Veracruz, 91701, México",
       "hash_key": "devfest 2026 heroica veracruz_2026-12-05T14:00:00+00:00"
     },
     {
@@ -4134,7 +4134,7 @@
         "Web",
         "Workshop / hands-on session"
       ],
-      "source": "https://gdg.community.dev/gdg-ipn/",
+      "source": "https://gdg.community.dev/gdg-cdmx/",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -4436,33 +4436,6 @@
       "hash_key": "march 10 physical ai meetup robotic data_2027-03-10T16:00:00+00:00"
     },
     {
-      "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
-      "description": "Get up-to-date information at: https://luma.com/nc2fac44\n\nHosted by CHIDAS TECH",
-      "url": "https://luma.com/nc2fac44",
-      "sources": [
-        {
-          "platform": "luma",
-          "url": "https://luma.com/nc2fac44",
-          "label": "Ver en Luma"
-        }
-      ],
-      "location": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
-      "online": true,
-      "organizer": "CHIDAS TECH",
-      "dtstart": null,
-      "dtend": null,
-      "tags": [],
-      "source": "https://luma.com/nc2fac44",
-      "country": "",
-      "country_code": "",
-      "state": "",
-      "state_code": "",
-      "city": "",
-      "city_code": "",
-      "address": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
-      "hash_key": "networking 101 fundamentos de redes_no_date"
-    },
-    {
       "title": "Founder Friends Mexico|Singapore: Claim your 30 day Angel Squad Guest Pass|Online",
       "description": "Get up-to-date information at: https://luma.com/jba3nyqn\n\nHosted by Hustle Fund & Wael Jabir",
       "url": "https://luma.com/jba3nyqn",
@@ -4695,6 +4668,33 @@
       "hash_key": "hustle fund angel squad claim your 30 da_no_date"
     },
     {
+      "title": "CHIDAS TECH|Networking 101: Fundamentos de Redes|Online",
+      "description": "Get up-to-date information at: https://luma.com/nc2fac44\n\nHosted by CHIDAS TECH",
+      "url": "https://luma.com/nc2fac44",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/nc2fac44",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
+      "online": true,
+      "organizer": "CHIDAS TECH",
+      "dtstart": null,
+      "dtend": null,
+      "tags": [],
+      "source": "https://luma.com/nc2fac44",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-cegDtZZOBpe2Ah4",
+      "hash_key": "networking 101 fundamentos de redes_no_date"
+    },
+    {
       "title": "Sudo FCiencias|TICs: Aprende a Hackear con Agentes de IA|Online",
       "description": "Get up-to-date information at: https://luma.com/jov35dwo\n\nHosted by Sudo FCiencias",
       "url": "https://luma.com/jov35dwo",
@@ -4711,7 +4711,7 @@
       "dtstart": null,
       "dtend": null,
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
